@@ -4,8 +4,8 @@
     "nbib_sha256": "52278e47d5b6ab1654c7a71bd6ae7db6c3c3dfcfdb2a10b1626b3f4e19746659"
   },
   "openalex": {
-    "total_pages": 15,
-    "unique_works": 347,
+    "total_pages": 12,
+    "unique_works": 275,
     "first_meta_count": 347
   },
   "citation_chasing": [
@@ -776,20 +776,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W7152028441",
-      "title": "From COVID-19 to Nipah virus preparedness in low- and middle-income countries: Re-centering points of decision and responsible AI",
-      "doi": "https://doi.org/10.4103/apjtm.apjtm_118_26",
-      "year": 2026,
-      "authors": [
-        "Giao Huỳnh",
-        "Han Thi Ngoc Nguyen",
-        "Ly Trieu Vo",
-        "E. G. V. Evans",
-        "Nhut Minh Vuong",
-        "Pham Le An"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4211123459",
       "title": "Digital Health Policy and Programs for Hospital Care in Vietnam: Scoping Review (Preprint)",
       "doi": "https://doi.org/10.2196/preprints.32392",
@@ -801,6 +787,20 @@
         "Jacob McKnight",
         "An Phuoc Luu",
         "Chris Paton"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7152028441",
+      "title": "From COVID-19 to Nipah virus preparedness in low- and middle-income countries: Re-centering points of decision and responsible AI",
+      "doi": "https://doi.org/10.4103/apjtm.apjtm_118_26",
+      "year": 2026,
+      "authors": [
+        "Giao Huỳnh",
+        "Han Thi Ngoc Nguyen",
+        "Ly Trieu Vo",
+        "E. G. V. Evans",
+        "Nhut Minh Vuong",
+        "Pham Le An"
       ]
     },
     {
@@ -1879,399 +1879,9 @@
       "authors": [
         "Hien-Huu Tran"
       ]
-    },
-    {
-      "id": "https://openalex.org/W7160442136",
-      "title": "AI for Sustainable Development in Middle-Income Southeast Asia",
-      "doi": "https://doi.org/10.4324/9781003715689-3",
-      "year": 2026,
-      "authors": [
-        "Masatoshi Hara"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7151608334",
-      "title": "Worker Well‐Being, Human Factors and the Gig Economy: Interdisciplinary Perspectives",
-      "doi": "https://doi.org/10.1111/bjir.70059",
-      "year": 2026,
-      "authors": [
-        "Xiaoning Ma",
-        "Guodong Zhao"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7133528178",
-      "title": "Bibliometric Analysis of Human‑Centered AI Research in Southeast Asia (2015–2025)",
-      "doi": "https://doi.org/10.58812/esiscs.v3i02.799",
-      "year": 2025,
-      "authors": [
-        "Loso  Judijanto",
-        "Ni Desak Made Santi Diwyarthi"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7116674418",
-      "title": "Editorial",
-      "doi": "https://doi.org/10.3897/jucs.183050",
-      "year": 2025,
-      "authors": [
-        "Christian Gütl"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7171557032",
-      "title": "Editorial",
-      "doi": "https://doi.org/10.1108/jedt-09-2026-758",
-      "year": 2026,
-      "authors": [
-        "Nicholas Chileshe"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4283799763",
-      "title": "Index",
-      "doi": "https://doi.org/10.1108/978-1-80262-637-720221018",
-      "year": 2022,
-      "authors": []
-    },
-    {
-      "id": "https://openalex.org/W2943496630",
-      "title": "Data as a Substitute for Judgment",
-      "doi": "https://doi.org/10.1097/opx.0000000000001391",
-      "year": 2019,
-      "authors": [
-        "Michael D. Twa"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3160639093",
-      "title": "Déjà Vu – A New Coronavirus Challenge",
-      "doi": "https://doi.org/10.17849/insm-49-1-5-10.1",
-      "year": 2021,
-      "authors": [
-        "Ross MacKenzie"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7162791292",
-      "title": "Fluid-sparing hyperoncotic albumin in severe dengue: A retrospective case series",
-      "doi": "https://doi.org/10.4103/apjtm.apjtm_142_26",
-      "year": 2026,
-      "authors": [
-        "Quan Le",
-        "Hang Trinh",
-        "Nhan Van Vu"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4416598650",
-      "title": "An overview of digital twin applications in the construction and management of bridge and road infrastructure",
-      "doi": "https://doi.org/10.64588/jc.04.11.2025",
-      "year": 2025,
-      "authors": [
-        "TS Hà Trung Hiếu"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4404049520",
-      "title": "Editors’ Selections from Relevant Scientific Publications",
-      "doi": "https://doi.org/10.1158/1940-6207.capr-17-11-hfl",
-      "year": 2024,
-      "authors": []
-    },
-    {
-      "id": "https://openalex.org/W7154413480",
-      "title": "Growing A Greener Future: Sustainable Practices in Agriculture",
-      "doi": "https://doi.org/10.70593/978-93-7185-755-0",
-      "year": 2026,
-      "authors": [
-        "Jatinderpal Singh",
-        "P. C. Pathania",
-        "M. Saini"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7169562234",
-      "title": "Kiến thức, thái độ và thực hành ứng dụng trí tuệ nhân tạo trong học tập của sinh viên Điều dưỡng tại Đại học Y Dược Thành phố Hồ Chí Minh",
-      "doi": "https://doi.org/10.32895/hcjm.m.2026.09.04",
-      "year": 2026,
-      "authors": [
-        "Ngọc Hoa Phạm",
-        "Thị Như Quỳnh Nguyễn",
-        "Đặng Tường Vy Hồ"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4383961821",
-      "title": "Index",
-      "doi": "https://doi.org/10.1108/978-1-80455-588-020231017",
-      "year": 2023,
-      "authors": []
-    },
-    {
-      "id": "https://openalex.org/W4319994231",
-      "title": "New year greetings from the Editor-in-Chief of the Asia–Pacific Journal of Oncology Nursing",
-      "doi": "https://doi.org/10.1016/j.apjon.2023.100185",
-      "year": 2023,
-      "authors": [
-        "Winnie K.W. So"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4200419339",
-      "title": "Preface",
-      "doi": "https://doi.org/10.1088/1742-6596/2089/1/011001",
-      "year": 2021,
-      "authors": []
-    },
-    {
-      "id": "https://openalex.org/W7161490122",
-      "title": "PREreview of \"SARS-CoV-2 Introductions into Lao PDR Revealed by Genomic Surveillance, 2021–2024\"",
-      "doi": "https://doi.org/10.5281/zenodo.20257241",
-      "year": 2026,
-      "authors": [
-        "Syed Adnan Haider"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7161495963",
-      "title": "PREreview of \"SARS-CoV-2 Introductions into Lao PDR Revealed by Genomic Surveillance, 2021–2024\"",
-      "doi": "https://doi.org/10.5281/zenodo.20257242",
-      "year": 2026,
-      "authors": [
-        "Syed Adnan Haider"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4408807516",
-      "title": "Editorial: Bridging tradition and innovation: from maintaining masonry bridges to using AI for better understanding bridge behaviour",
-      "doi": "https://doi.org/10.1680/jbren.2025.178.2.95",
-      "year": 2025,
-      "authors": [
-        "Stergios-Aristoteles Mitoulis",
-        "Nadiia Kopiika"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4412472540",
-      "title": "Prediction of corroded reinforced concrete beam deflection using a metaheuristic optimized least squares support vector regression",
-      "doi": "https://doi.org/10.24200/sci.2025.65252.9382",
-      "year": 2025,
-      "authors": [
-        "Duc-Hoc Tran",
-        "Thi-Cam Tien Ngo"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4233838670",
-      "title": "Index",
-      "doi": "https://doi.org/10.1108/978-1-80071-348-220211013",
-      "year": 2021,
-      "authors": []
-    },
-    {
-      "id": "https://openalex.org/W4417290975",
-      "title": "Children and Families: Everyday Digital Media Culture",
-      "doi": "https://doi.org/10.1111/chso.70003",
-      "year": 2025,
-      "authors": [
-        "Ylva Ågren",
-        "Philippa Amery",
-        "Susan Danby"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4413232052",
-      "title": "Karasteristik Sistem Pelayanan Angkutan Perkotaan Di Kota Makassar",
-      "doi": "https://doi.org/10.35965/jups.v5i3.633",
-      "year": 2025,
-      "authors": [
-        "Nisa Rusdin",
-        "Kamran Aksa",
-        "Nur Syam"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4253666347",
-      "title": "Index",
-      "doi": "https://doi.org/10.1108/978-1-78756-911-920191001",
-      "year": 2019,
-      "authors": []
-    },
-    {
-      "id": "https://openalex.org/W7154719521",
-      "title": "Guest editorial: Defining new frontiers of business research across Asian countries",
-      "doi": "https://doi.org/10.1108/jabs-04-2026-702",
-      "year": 2026,
-      "authors": [
-        "Zafar U. Ahmed"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4412117279",
-      "title": "Perspectives on year 1 of <i>Alzheimer's &amp; Dementia: Behavior and Socioeconomics of Aging (BSEA)</i>",
-      "doi": "https://doi.org/10.1002/bsa3.70026",
-      "year": 2025,
-      "authors": [
-        "Jennifer H. Lingler"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4410608473",
-      "title": "Editorial: ICYMARE – early career researchers in marine science",
-      "doi": "https://doi.org/10.3389/fmars.2025.1618554",
-      "year": 2025,
-      "authors": [
-        "Simon Jungblut",
-        "Lena Rölfer",
-        "Carolin Müller",
-        "Yvonne Schadewell",
-        "Lena Christin Heel",
-        "Viola Liebich"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7153144856",
-      "title": "Editorial: Multiparametric stress echocardiography in stable CAD patients. How technological advances may transform diagnosis and prognosis",
-      "doi": "https://doi.org/10.3389/fcvm.2026.1811863",
-      "year": 2026,
-      "authors": [
-        "Nicola Gaibazzi",
-        "Attila Kardos"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4416914743",
-      "title": "Guest editorial: Sustainability management from a behavioral perspective in hospitality and tourism",
-      "doi": "https://doi.org/10.1108/jhti-09-2025-995",
-      "year": 2025,
-      "authors": [
-        "Osman M. Karatepe",
-        "Muhammad Farrukh",
-        "Elisa Rescalvo‐Martin"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4413786197",
-      "title": "Fighter Pilot Meets Match With Lymphoma &amp; CAR T-Cell Therapy Battles Back",
-      "doi": "https://doi.org/10.1097/01.cot.0000000000000164",
-      "year": 2025,
-      "authors": [
-        "Valerie Neff Newitt"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4406814715",
-      "title": "Editorial: “Redefining impact: digital libraries and their communities”",
-      "doi": "https://doi.org/10.1108/dlp-02-2025-153",
-      "year": 2025,
-      "authors": [
-        "Anna Maria Tammaro"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4416456850",
-      "title": "Characterizing global dermatologic engagement and needs: A cross‐sectional study from 83 countries",
-      "doi": "https://doi.org/10.1111/jdv.70142",
-      "year": 2025,
-      "authors": [
-        "Alexis G. Strahan",
-        "Christine Li",
-        "Maud Guérin",
-        "Tom Allison",
-        "Gene Colón",
-        "Jehireh Peraza‐Williams",
-        "Olyvia Zarchin",
-        "M J Zehtab",
-        "Ann Pacheco",
-        "Jadesola Akinwuntan",
-        "Shivani Jain",
-        "Marlous L. Grijsen",
-        "Wendemagegn Enbiale",
-        "Wingfield Rehmus",
-        "L. Claire Fuller",
-        "Karolyn A. Wanat",
-        "Esther E. Freeman"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4392706664",
-      "title": "Research activities at Hanoi National University of Education ‐ 70 years of development",
-      "doi": "https://doi.org/10.1002/vjch.202200133",
-      "year": 2022,
-      "authors": [
-        "Nguyễn Văn Minh",
-        "Hoang Hai Ha",
-        "Dương Minh Lam",
-        "Nguyen Van Trao"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4251098518",
-      "title": "Regular Issue",
-      "doi": "https://doi.org/10.35940/ijitee.10.4",
-      "year": 2021,
-      "authors": []
-    },
-    {
-      "id": "https://openalex.org/W4292958755",
-      "title": "Index",
-      "doi": "https://doi.org/10.1108/978-1-80117-226-420221017",
-      "year": 2022,
-      "authors": []
-    },
-    {
-      "id": "https://openalex.org/W7167895805",
-      "title": "Guest editorial: Beyond Industry 4.0: humancentricity, resilience and sustainability in the age of digital transformation",
-      "doi": "https://doi.org/10.1108/jsma-08-2026-526",
-      "year": 2026,
-      "authors": [
-        "Oluwaseun Kolade",
-        "David Sarpong"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4414865966",
-      "title": "Editorial: Promoting innovative learning-oriented feedback practice: engagement, challenges, and solutions",
-      "doi": "https://doi.org/10.3389/fpsyg.2025.1707902",
-      "year": 2025,
-      "authors": [
-        "Wei Wei"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3173761619",
-      "title": "A (Not Very) Distant Mirror",
-      "doi": "https://doi.org/10.1093/dh/dhab001",
-      "year": 2021,
-      "authors": [
-        "A. R. H. Preston"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W7123507647",
-      "title": "Correction: Deep learning neural networks-based traffic predictors for V2X communication networks",
-      "doi": "https://doi.org/10.3389/frai.2025.1768205",
-      "year": 2026,
-      "authors": [
-        "Marina Magdy Saady",
-        "Hatim Ghazi Zaini",
-        "Mohamed H. Essai",
-        "Sahar A. El Rahman",
-        "Osama A. Omer",
-        "Ali R. Abdellah",
-        "Shaima Elnazer"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4205253758",
-      "title": "Index",
-      "doi": "https://doi.org/10.1108/978-1-83982-900-020211035",
-      "year": 2022,
-      "authors": []
     }
   ],
-  "indirect_sources_count": 106,
+  "indirect_sources_count": 86,
   "indirect_sources_sample": [
     {
       "id": "https://openalex.org/W3109983083",

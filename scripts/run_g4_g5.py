@@ -395,10 +395,54 @@ print(f'Total Candidates for Full-Text Extraction: {len(ext_rows)}')
 print(f'Extraction Workspace: {ext_csv_path}')
 print('==========================================')
 
-# === BATCH 1 APPROVAL UPDATE ===
-batch_1_ids = ['REC_DIR_0001', 'REC_DIR_0002', 'REC_DIR_0003', 'REC_DIR_0004', 'REC_DIR_0005', 'REC_DIR_0006', 'REC_DIR_0007', 'REC_DIR_0008', 'REC_DIR_0009', 'REC_DIR_0010', 'REC_DIR_0011', 'REC_DIR_0012', 'REC_DIR_0013', 'REC_DIR_0014', 'REC_DIR_0016', 'REC_DIR_0017', 'REC_DIR_0018', 'REC_DIR_0019', 'REC_DIR_0020', 'REC_DIR_0021']
+# === RICH VIETNAMESE REASONING & APPROVAL MAPPING (BATCH 1 & BATCH 2) ===
+rich_reasons = {
+    'REC_DIR_0001': 'Trực tiếp nghiên cứu chính sách y tế số và chương trình triển khai tại các bệnh viện Việt Nam.',
+    'REC_DIR_0002': 'Đánh giá độ sẵn sàng cho AI trong hệ thống thông tin y tế Việt Nam, liên quan trực tiếp đến thể chế và hạ tầng.',
+    'REC_DIR_0003': 'Tinh chỉnh LLM cho giao tiếp y tế ngôn ngữ nguồn lực thấp (tiếng Việt), chạm đến an toàn và văn hóa tiếp cận.',
+    'REC_DIR_0004': 'Tổng quan ứng dụng AI và công nghệ y tế số trực tiếp tại Việt Nam công bố trên Tạp chí WHO.',
+    'REC_DIR_0005': 'Trực tiếp nghiên cứu giảm thiểu thiên vị (bias) và tăng tính công bằng (fairness) của thuật toán ML cho Việt Nam.',
+    'REC_DIR_0006': 'Ứng dụng ML hỗ trợ ra quyết định lâm sàng (CDS) cho bệnh nhân sốt xuất huyết tại bệnh viện Việt Nam.',
+    'REC_DIR_0007': 'EX02_NOT_HEALTHCARE (Áp dụng ML dự báo ô nhiễm không khí môi trường TP.HCM, không thuộc bối cảnh y tế lâm sàng).',
+    'REC_DIR_0008': 'EX02_NOT_HEALTHCARE (Nghiên cứu đại số đại lượng và LLM chung, không đề cập đến bối cảnh y tế hay quản trị y tế).',
+    'REC_DIR_0009': 'EX02_NOT_HEALTHCARE (Bản đồ rủi ro ngập lụt thiên tai, không thuộc bối cảnh y tế bệnh nhân).',
+    'REC_DIR_0010': 'Giám sát sinh hiệu tự động tại khoa hồi sức tích cực (ICU) bệnh viện Việt Nam — dữ liệu lâm sàng thực tế.',
+    'REC_DIR_0011': 'Trực tiếp nghiên cứu mối đe dọa nhận thức và sự chấp nhận triển khai Generative AI tại các bệnh viện Việt Nam.',
+    'REC_DIR_0012': 'Tiên lượng tử vong do nhiễm trùng huyết bằng thiết bị đeo tại Việt Nam (LMIC) — ứng dụng CDS.',
+    'REC_DIR_0013': 'Khía cạnh đạo đức (ethical), tính bao hàm và dữ liệu trong y học cổ truyền bằng Generative AI.',
+    'REC_DIR_0014': 'Bài báo trọng tâm về Đạo đức AI, quản trị (governance), niềm tin và thể chế tại Việt Nam.',
+    'REC_DIR_0016': 'EX02_NOT_HEALTHCARE (Mô hình dự báo bụi PM2.5 môi trường, không thuộc bối cảnh y tế bệnh nhân).',
+    'REC_DIR_0017': 'Mô hình AI phân loại cấp cứu ngoại viện có tính giải thích được (Interpretable AI) áp dụng tại Việt Nam.',
+    'REC_DIR_0018': 'Thử nghiệm lâm sàng tiến cứu về ML hỗ trợ phân loại mức độ sốt xuất huyết tại Việt Nam.',
+    'REC_DIR_0019': 'EX01_NOT_AI (Nghiên cứu kinh tế y tế và chi tiêu nghèo năng lượng, không liên quan đến công nghệ AI/ML).',
+    'REC_DIR_0020': 'Giải quyết vấn đề bảo mật dữ liệu y tế (Differential Privacy) trong AI phân loại X-quang ngực.',
+    'REC_DIR_0021': 'Đánh giá an toàn và độ chính xác của LLM khi dịch tóm tắt tư vấn y khoa.',
+    'REC_DIR_0022': 'Trực tiếp nghiên cứu cơ hội và thách thức khi sử dụng AI trong đào tạo y khoa tại Việt Nam.',
+    'REC_DIR_0023': 'Đánh giá độ chính xác của AI dịch hướng dẫn xuất viện (bao gồm bản tiếng Việt), liên quan an toàn bệnh nhân.',
+    'REC_DIR_0024': 'EX01_NOT_AI (Nghiên cứu chênh lệch giới trong đại dịch COVID-19 chung, không liên quan đến công nghệ hay quản trị AI/ML).',
+    'REC_DIR_0025': 'EX02_NOT_HEALTHCARE (Ứng dụng AI trong sinh thái học Ecology, không thuộc bối cảnh y tế hay chăm sóc sức khỏe).',
+    'REC_DIR_0026': 'Nhân văn hóa chăm sóc hô hấp bằng AI âm thanh và công bằng sức khỏe toàn cầu.',
+    'REC_DIR_0027': 'EX02_NOT_HEALTHCARE (Giám sát sức khỏe kết cấu công trình cầu đường/bê tông, không phải y tế con người).',
+    'REC_DIR_0028': 'EX02_NOT_HEALTHCARE (Dự báo chất lượng không khí PM2.5 môi trường, không thuộc bối cảnh y tế lâm sàng).',
+    'REC_DIR_0029': 'EX02_NOT_HEALTHCARE (Tài chính xanh và AI - Kinh tế/Tài chính, không thuộc bối cảnh y tế).',
+    'REC_DIR_0030': 'EX02_NOT_HEALTHCARE (Mô hình LASSO tiên lượng kiệt quệ tài chính doanh nghiệp niêm yết, không thuộc y tế).',
+    'REC_DIR_0031': 'Trực tiếp nghiên cứu thực trạng và tương lai chấp nhận AI trong hệ thống y tế Đông Nam Á (bao gồm Việt Nam).',
+    'REC_DIR_0032': 'Sử dụng ML tiên lượng nồng độ ức chế tối thiểu kháng sinh (kháng kháng sinh) — vi sinh lâm sàng và quản trị thuốc.',
+    'REC_DIR_0033': 'EX02_NOT_HEALTHCARE (Tiên lượng biến dạng cầu bê tông - Xây dựng/Hạ tầng, không thuộc y tế).',
+    'REC_DIR_0034': 'EX02_NOT_HEALTHCARE (Phân tích tiến hóa đa dạng sinh học loài rắn san hô - Sinh học/Động vật học, không thuộc y tế).',
+    'REC_DIR_0035': 'EX02_NOT_HEALTHCARE (Chỉ số sức khỏe thảm thực vật - Nông nghiệp/Địa lý, không phải y tế con người).',
+    'REC_DIR_0036': 'Suy luận cảm xúc AI ứng dụng trong y tế (Healthcare) — nhóm tác giả Việt Nam.',
+    'REC_DIR_0037': 'Phân tích ML dịch tễ học sinh thái bệnh sán lá gan tại Việt Nam.',
+    'REC_DIR_0038': 'AI hỗ trợ dịch thuật giao tiếp với bệnh nhân rào cản ngôn ngữ trong chăm sóc y tế.',
+    'REC_DIR_0039': 'Vai trò điều tiết của dịch vụ AI trong ngành y tế và chất lượng dịch vụ bệnh viện tại Việt Nam.',
+    'REC_DIR_0040': 'EX02_NOT_HEALTHCARE (Tiên lượng độ võng của cầu đường - Xây dựng/Hạ tầng, không thuộc y tế).',
+    'REC_DIR_0041': 'Xây dựng và thẩm định hệ thống hỗ trợ quyết định lâm sàng (CDSS) dựa trên ML cho bệnh nhân tâm thần phân liệt tại Việt Nam.'
+}
+
+approved_ids = list(rich_reasons.keys())
 for r in round1_results:
-    if r['record_id'] in batch_1_ids:
+    if r['record_id'] in rich_reasons:
+        r['screening_reason'] = rich_reasons[r['record_id']]
         r['human_approval'] = 'APPROVED_BY_DAO_TRUNG_THANH'
         if r['screening_recommendation'] == 'INCLUDE_ROUND_1':
             r['screening_status_round_1'] = 'PASSED_TO_ROUND_2'
@@ -410,4 +454,4 @@ with open(scr_csv_path, 'w', newline='', encoding='utf-8') as f:
     w.writeheader()
     w.writerows(round1_results)
 
-print(f'Updated {len(batch_1_ids)} records in Batch 1 to APPROVED_BY_DAO_TRUNG_THANH in CSV workspace.')
+print(f'Successfully updated rich Vietnamese reasons and APPROVED_BY_DAO_TRUNG_THANH for {len(approved_ids)} records (Batch 1 & Batch 2).')
