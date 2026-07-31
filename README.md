@@ -39,6 +39,10 @@ The project follows a rigorous two-stage Open Science architecture aligned with 
 - **Lead Investigator:** Đào Trung Thành (*AI Ethics Author & Research Lead*).
 - **Independent Reviewer:** Lộc Đặng (*Dual Screening & Inductive Coding*).
 
+### OSF Immutability & Audit Trail Policy
+- **Fidelity to OSF Registration:** The file [`protocol.md`](protocol.md) and all files in [`artifacts/protocol-registration-lock-2026-07-31/`](artifacts/protocol-registration-lock-2026-07-31/) represent the frozen snapshot pre-registered on OSF. To maintain complete scientific integrity for peer review, these files are immutable and must match the OSF snapshot 100% byte-for-byte.
+- **Post-Registration Logging:** All post-registration gate evaluations, pilot execution logs, search logs, and amendments are documented exclusively in separate, transparent log files (such as [`g4-g5-feasibility-pilot-2026-07-31.md`](g4-g5-feasibility-pilot-2026-07-31.md) and [`search-log.csv`](search-log.csv)).
+
 ---
 
 ## Tóm tắt Tiếng Việt
@@ -69,6 +73,10 @@ Dự án áp dụng kiến trúc Khoa học mở (Open Science) hai tầng tuân
 ### Nhóm nghiên cứu & Vai trò
 - **Chủ trì nghiên cứu:** Đào Trung Thành (*Tác giả Đạo đức AI & Chủ trì đề tài*).
 - **Người rà soát độc lập:** Lộc Đặng (*Sàng lọc kép & Mã hóa quy nạp*).
+
+### Quy định bảo vệ tính bất biến của tệp đăng ký OSF
+- **Bảo toàn tính khớp 100% với OSF:** Tệp [`protocol.md`](protocol.md) và toàn bộ các tệp tại [`artifacts/protocol-registration-lock-2026-07-31/`](artifacts/protocol-registration-lock-2026-07-31/) đại diện cho bản snapshot đóng băng đã đăng ký công khai trên OSF. Để duy trì tính minh bạch khoa học tuyệt đối phục vụ thẩm định (peer-review), các tệp này **bất biến và phải giữ khớp chính xác từng từ** với bản snapshot OSF.
+- **Lưu vết hậu đăng ký độc lập:** Mọi cập nhật đánh giá cổng, nhật ký chạy thử nghiệm khả thi, log tìm kiếm và các sửa đổi sau đăng ký chỉ được ghi nhận tại các tệp nhật ký hậu đăng ký riêng biệt (như [`g4-g5-feasibility-pilot-2026-07-31.md`](g4-g5-feasibility-pilot-2026-07-31.md) và [`search-log.csv`](search-log.csv)).
 
 ---
 
