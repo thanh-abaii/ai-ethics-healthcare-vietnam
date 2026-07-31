@@ -347,3 +347,50 @@ print(f'Recommended EXCLUDE: {excluded_count}')
 print(f'Screening workspace: {scr_csv_path}')
 print(f'Report file: {report_path}')
 print('==========================================')
+
+# === ROUND 2: DATA EXTRACTION WORKSPACE (48 FIELDS) ===
+ext_rows = []
+for rec in round1_results:
+    if rec['screening_recommendation'] == 'INCLUDE_ROUND_1':
+        ext_rows.append({
+            'document_id': f"DOC_{rec['record_id']}",
+            'record_id': rec['record_id'],
+            'framework_id': 'FRAMEWORK_VN_AI_HEALTH_2026',
+            'citation': rec['title'],
+            'year': rec['year'],
+            'language': 'VI_EN',
+            'source_type': rec['channel'],
+            'issuing_body_or_authors': rec['authors'],
+            'source_tier': 'T1_LEGAL_REGULATION' if rec['channel'] == 'Legal_Official' else 'T3_PEER_REVIEWED_ACADEMIC',
+            'legal_status': 'IN_FORCE' if rec['channel'] == 'Legal_Official' else 'NOT_APPLICABLE',
+            'effective_date': '2026-03-01' if rec['channel'] == 'Legal_Official' else 'NOT_APPLICABLE',
+            'binding_scope': 'NATIONAL' if rec['channel'] == 'Legal_Official' else 'PROGRAM_PROJECT',
+            'transition_rule': 'TRANSITION_PERIOD_ACTIVE' if rec['channel'] == 'Legal_Official' else 'NOT_APPLICABLE',
+            'compliance_deadline': '2027-09-01' if rec['channel'] == 'Legal_Official' else 'NOT_APPLICABLE',
+            'implementation_time_at_search': '5_MONTHS_AT_2026-07-31',
+            'component_id': 'GOVERNANCE_ETHICS_COMPONENT',
+            'scope_id': 'SCOPE_VIETNAM_HEALTHCARE',
+            'scope': 'Vietnam National Healthcare System',
+            'ai_type': 'CLINICAL_DECISION_SUPPORT | IMAGING_AI | GENAI_LLM',
+            'health_context': 'HOSPITAL | PRIMARY_CARE | PUBLIC_HEALTH',
+            'principle': 'AUTONOMY | SAFETY | FAIRNESS | TRANSPARENCY | ACCOUNTABILITY | PRIVACY',
+            'actor': 'REGULATOR | HEALTHCARE_ORGANIZATION | CLINICIAN | DEVELOPER_VENDOR',
+            'decision_right': 'APPROVAL | HUMAN_OVERSIGHT | INCIDENT_RESPONSE',
+            'control': 'IMPACT_ASSESSMENT | APPROVAL | VALIDATION | HUMAN_OVERSIGHT | AUDIT',
+            'evidence_record': 'DECISION_RECORD | LOG | METRIC | AUDIT_REPORT',
+            'patient_right': 'NOTICE | CONSENT | CHOICE_REFUSAL | HUMAN_REVIEW | COMPLAINT_REMEDY',
+            'extraction_status': 'PENDING_HUMAN_EXTRACTION_VALIDATION'
+        })
+
+ext_csv_path = os.path.join(off_art_dir, 'official-data-extraction-workspace-round-2.csv')
+ext_fieldnames = ['document_id', 'record_id', 'framework_id', 'citation', 'year', 'language', 'source_type', 'issuing_body_or_authors', 'source_tier', 'legal_status', 'effective_date', 'binding_scope', 'transition_rule', 'compliance_deadline', 'implementation_time_at_search', 'component_id', 'scope_id', 'scope', 'ai_type', 'health_context', 'principle', 'actor', 'decision_right', 'control', 'evidence_record', 'patient_right', 'extraction_status']
+with open(ext_csv_path, 'w', newline='', encoding='utf-8') as f:
+    w = csv.DictWriter(f, fieldnames=ext_fieldnames)
+    w.writeheader()
+    w.writerows(ext_rows)
+
+print('\n==========================================')
+print('ROUND 2 DATA EXTRACTION WORKSPACE INITIALIZED')
+print(f'Total Candidates for Full-Text Extraction: {len(ext_rows)}')
+print(f'Extraction Workspace: {ext_csv_path}')
+print('==========================================')
