@@ -1,0 +1,14 @@
+{
+  "lock_id": "protocol-registration-lock-2026-07-31",
+  "created_local": "2026-07-31",
+  "timezone": "Asia/Saigon",
+  "protocol_version": "0.5-ready-for-registration",
+  "registration_status": "NOT_REGISTERED",
+  "readiness": "LOCKED_LOCALLY_READY_FOR_OSF",
+  "file_count": 53,
+  "checksum_algorithm": "SHA-256",
+  "checksum_scope": "files/ only; excludes generated snapshot-files.csv, checksums.sha256, and LOCK.json",
+  "osf_locator": null,
+  "g4_status": "NOT_RUN",
+  "g5_status": "NOT_RUN"
+}

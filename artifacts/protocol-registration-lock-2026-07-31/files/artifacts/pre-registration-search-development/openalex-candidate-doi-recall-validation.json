@@ -1,0 +1,22 @@
+{
+  "artifact_type": "SEARCH_DEVELOPMENT_RECALL_VALIDATION",
+  "stage": "PRE_REGISTRATION_SEARCH_DEVELOPMENT",
+  "run_datetime_utc_plus_7": "2026-07-31T10:18:00+07:00",
+  "scope": "Candidate-query DOI recall only; this artifact is not a corpus, screening set, eligibility decision, PRISMA count, or G4-G5 run.",
+  "endpoint": "https://api.openalex.org/works",
+  "request_url_template_percent_encoded": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial%20intelligence%22%20OR%20%22machine%20learning%22%20OR%20%22generative%20AI%22%20OR%20%22generative%20artificial%20intelligence%22%20OR%20%22large%20language%20model%22%20OR%20%22large%20language%20models%22%20OR%20LLM%20OR%20LLMs%29%20AND%20%28ethics%20OR%20ethical%20OR%20governance%20OR%20govern%20OR%20government%20OR%20governing%20OR%20accountability%20OR%20accountable%20OR%20responsibility%20OR%20responsible%20OR%20transparency%20OR%20transparent%20OR%20fairness%20OR%20fair%20OR%20bias%20OR%20biases%20OR%20policy%20OR%20policies%20OR%20regulation%20OR%20regulations%20OR%20regulatory%20OR%20legal%20OR%20law%20OR%20laws%20OR%20risk%20OR%20risks%20OR%20safety%20OR%20harm%20OR%20harms%20OR%20%22patient%20rights%22%20OR%20%22human%20rights%22%20OR%20consent%20OR%20autonomy%20OR%20explainability%20OR%20explainable%20OR%20interpretability%20OR%20interpretable%20OR%20audit%20OR%20auditing%20OR%20monitoring%20OR%20monitor%20OR%20incident%20OR%20incidents%20OR%20complaint%20OR%20complaints%20OR%20redress%20OR%20%22data%20protection%22%20OR%20confidentiality%20OR%20confidential%20OR%20equity%20OR%20justice%20OR%20discrimination%20OR%20discriminatory%20OR%20standard%20OR%20standards%20OR%20guideline%20OR%20guidelines%20OR%20oversight%20OR%20privacy%29%20AND%20%28%28Vietnam%20OR%20%22Viet%20Nam%22%20OR%20Vietnamese%29%20AND%20%28health%20OR%20healthcare%20OR%20%22health%20care%22%20OR%20medicine%20OR%20medical%20OR%20clinical%20OR%20hospital%20OR%20hospitals%29%29%2Cdoi%3Ahttps%3A%2F%2Fdoi.org%2F%7BDOI%7D&select=id%2Cdoi&per-page=25&cursor=%2A",
+  "authentication": "No key, mailto, token, or other secret is stored or printed. The endpoint returned HTTP 200 for this development check; that does not guarantee anonymous access for a full run.",
+  "candidate_query_sha256_utf8": "A768038673861E935581C5887CD9F2D7B7282143C6E7AFC85750842A9782B30A",
+  "candidate_filter_retained": "For every seed, the candidate date and title_and_abstract.search filter was retained unchanged and a doi:https://doi.org/{DOI} constraint was added.",
+  "select": ["id", "doi"],
+  "per_page": 25,
+  "results": [
+    {"seed_id": "TRAN-2022", "doi_requested": "10.2196/32392", "meta_count": 1, "openalex_id": "https://openalex.org/W4210885547", "doi_returned": "https://doi.org/10.2196/32392", "next_cursor_is_null": true, "status": "RECALLED"},
+    {"seed_id": "VUONG-2019", "doi_requested": "10.3390/jcm8020168", "meta_count": 1, "openalex_id": "https://openalex.org/W2911578273", "doi_returned": "https://doi.org/10.3390/jcm8020168", "next_cursor_is_null": true, "status": "RECALLED"},
+    {"seed_id": "YANG-2024", "doi_requested": "10.1038/s41598-024-64210-5", "meta_count": 1, "openalex_id": "https://openalex.org/W4399492816", "doi_returned": "https://doi.org/10.1038/s41598-024-64210-5", "next_cursor_is_null": true, "status": "RECALLED"},
+    {"seed_id": "VAN-2024", "doi_requested": "10.4103/tjo.TJO-D-23-00101", "meta_count": 1, "openalex_id": "https://openalex.org/W4402526630", "doi_returned": "https://doi.org/10.4103/tjo.tjo-d-23-00101", "next_cursor_is_null": true, "status": "RECALLED_CASE_NORMALIZED"},
+    {"seed_id": "CHANH-2023", "doi_requested": "10.2471/BLT.22.289423", "meta_count": 1, "openalex_id": "https://openalex.org/W4382919153", "doi_returned": "https://doi.org/10.2471/blt.22.289423", "next_cursor_is_null": true, "status": "RECALLED_CASE_NORMALIZED"},
+    {"seed_id": "NGUYEN-2025", "doi_requested": "10.2196/77817", "meta_count": 1, "openalex_id": "https://openalex.org/W4416928963", "doi_returned": "https://doi.org/10.2196/77817", "next_cursor_is_null": true, "status": "RECALLED"}
+  ],
+  "summary": {"seeds_pre_specified": 6, "seeds_recalled": 6, "status": "PASS_PRELIMINARY", "interpretation": "This checks recall of the candidate OpenAlex filter against known seeds only. There is no independent gold standard; monitoring/outcome evidence may have no known seed, so this is not a completeness claim."}
+}

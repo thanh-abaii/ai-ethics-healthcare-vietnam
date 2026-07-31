@@ -1,0 +1,2496 @@
+{
+  "pubmed": {
+    "count": 88,
+    "nbib_sha256": "52278e47d5b6ab1654c7a71bd6ae7db6c3c3dfcfdb2a10b1626b3f4e19746659"
+  },
+  "openalex": {
+    "total_pages": 15,
+    "unique_works": 347,
+    "first_meta_count": 347
+  },
+  "citation_chasing": [
+    {
+      "pmid": "35138264",
+      "wid": "https://openalex.org/W4210885547",
+      "title": "Digital Health Policy and Programs for Hospital Care in Vietnam: Scoping Review",
+      "backward_count": 31,
+      "forward_count": 39
+    },
+    {
+      "pmid": "30717268",
+      "wid": "https://openalex.org/W2911578273",
+      "title": "Artificial Intelligence vs. Natural Stupidity: Evaluating AI Readiness for the Vietnamese Medical Information System",
+      "backward_count": 95,
+      "forward_count": 50
+    },
+    {
+      "pmid": "38858466",
+      "wid": "https://openalex.org/W4399492816",
+      "title": "Mitigating machine learning bias between high income and low–middle income countries for enhanced model fairness and generalizability",
+      "backward_count": 28,
+      "forward_count": 22
+    },
+    {
+      "pmid": "39430352",
+      "wid": "https://openalex.org/W4402526630",
+      "title": "Effectiveness of artificial intelligence for diabetic retinopathy screening in community in Binh Dinh Province, Vietnam",
+      "backward_count": 26,
+      "forward_count": 6
+    },
+    {
+      "pmid": "37397176",
+      "wid": "https://openalex.org/W4382919153",
+      "title": "Applying artificial intelligence and digital health technologies, Viet Nam",
+      "backward_count": 12,
+      "forward_count": 10
+    },
+    {
+      "pmid": "41329943",
+      "wid": "https://openalex.org/W4416928963",
+      "title": "What Are the Opportunities and Challenges of Using AI in Medical Education in Vietnam?",
+      "backward_count": 53,
+      "forward_count": 8
+    }
+  ],
+  "direct_sources": [
+    {
+      "id": "https://openalex.org/W4210885547",
+      "title": "Digital Health Policy and Programs for Hospital Care in Vietnam: Scoping Review",
+      "doi": "https://doi.org/10.2196/32392",
+      "year": 2022,
+      "authors": [
+        "Duc Minh Tran",
+        "Louise Thwaites",
+        "Jennifer Ilo Van Nuil",
+        "Jacob McKnight",
+        "An Phuoc Luu",
+        "Chris Paton"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2911578273",
+      "title": "Artificial Intelligence vs. Natural Stupidity: Evaluating AI Readiness for the Vietnamese Medical Information System",
+      "doi": "https://doi.org/10.3390/jcm8020168",
+      "year": 2019,
+      "authors": [
+        "Quan‐Hoang Vuong",
+        "Tung Manh Ho",
+        "Thu‐Trang Vuong",
+        "Viet‐Phuong La",
+        "Manh‐Toan Ho",
+        "Kien-Cuong P. Nghiem",
+        "Bach Xuan Tran",
+        "Hai-Ha Giang",
+        "Thu-Vu Giang",
+        "Carl A. Latkin",
+        "Hong‐Kong T. Nguyen",
+        "Cyrus S. H. Ho",
+        "Roger Ho"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4407393353",
+      "title": "Fine-tuning large language models for improved health communication in low-resource languages",
+      "doi": "https://doi.org/10.1016/j.cmpb.2025.108655",
+      "year": 2025,
+      "authors": [
+        "Nhat Bui",
+        "Giang T. Nguyen",
+        "Nguyen Nguyen",
+        "Vo Nguyen Quoc Bao",
+        "Luan Nguyen Quang Vo",
+        "Tom Huynh",
+        "Arthur Tang",
+        "Van Nhiem Tran",
+        "Tuyen Huynh",
+        "Huy Q. Nguyen",
+        "Minh Dinh"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4382919153",
+      "title": "Applying artificial intelligence and digital health technologies, Viet Nam",
+      "doi": "https://doi.org/10.2471/blt.22.289423",
+      "year": 2023,
+      "authors": [
+        "Ho Quang Chanh",
+        "Damien Ming",
+        "Quang Huy Nguyen",
+        "Duc Minh Tran",
+        "An Phuoc Luu",
+        "Huynh Trung Trieu",
+        "Stefan Karolcik",
+        "Bernard Hernandez Perez",
+        "Jennifer Ilo Van Nuil",
+        "Ngan Nguyen Lyle",
+        "Evelyne Kestelyn",
+        "Louise Thwaites",
+        "Pantelis Georgiou",
+        "Chris Paton",
+        "Alison Holmes",
+        "Nguyễn Văn Vĩnh Châu",
+        "Sophie Yacoub"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4399492816",
+      "title": "Mitigating machine learning bias between high income and low–middle income countries for enhanced model fairness and generalizability",
+      "doi": "https://doi.org/10.1038/s41598-024-64210-5",
+      "year": 2024,
+      "authors": [
+        "Jenny Yang",
+        "Lei Clifton",
+        "Nguyen Thanh Dung",
+        "Nguyễn Thanh Phong",
+        "Lam Minh Yen",
+        "Doan Bui Xuan Thy",
+        "Andrew A. S. Soltan",
+        "Louise Thwaites",
+        "David A. Clifton"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4206827170",
+      "title": "Applied machine learning for the risk-stratification and clinical decision support of hospitalised patients with dengue in Vietnam",
+      "doi": "https://doi.org/10.1371/journal.pdig.0000005",
+      "year": 2022,
+      "authors": [
+        "Damien Ming",
+        "Bernard Hernandez",
+        "Sorawat Sangkaew",
+        "Nguyen Lam Vuong",
+        "Phung Khanh Lam",
+        "Nguyet Minh Nguyen",
+        "Dong Thi Hoai Tam",
+        "Dinh The Trung",
+        "Nguyen Le Bao Tien",
+        "Tuan M. Nguyen",
+        "Nguyễn Văn Vĩnh Châu",
+        "Cao Thi Tam",
+        "Ho Quang Chanh",
+        "Huynh Trung Trieu",
+        "Cameron P. Simmons",
+        "Bridget Wills",
+        "Pantelis Georgiou",
+        "Alison Holmes",
+        "Sophie Yacoub"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4321595697",
+      "title": "Multi-output machine learning model for regional air pollution forecasting in Ho Chi Minh City, Vietnam",
+      "doi": "https://doi.org/10.1016/j.envint.2023.107848",
+      "year": 2023,
+      "authors": [
+        "Rajnish Rakholia",
+        "Quan Le",
+        "Bang Quoc Ho",
+        "Hoang Ngoc Khue Vu",
+        "Ricardo Simón Carbajo"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4400199015",
+      "title": "Applied Hedge Algebra Approach with Multilingual Large Language Models to Extract Hidden Rules in Datasets for Improvement of Generative AI Applications",
+      "doi": "https://doi.org/10.3390/info15070381",
+      "year": 2024,
+      "authors": [
+        "Hai Van Pham",
+        "Philip Moore"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4295190198",
+      "title": "Flood risk mapping and analysis using an integrated framework of machine learning models and analytic hierarchy process",
+      "doi": "https://doi.org/10.1111/risa.14018",
+      "year": 2022,
+      "authors": [
+        "Quynh Duy Bui",
+        "Chinh Luu",
+        "Sy Hung",
+        "Hang Thi Ha",
+        "Huong Thu Ta",
+        "Binh Thai Pham"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3144156482",
+      "title": "Vital sign monitoring using wearable devices in a Vietnamese intensive care unit",
+      "doi": "https://doi.org/10.1136/bmjinnov-2021-000707",
+      "year": 2021,
+      "authors": [
+        "Hoang Minh Tu Van",
+        "Nguyễn Văn Hảo",
+        "Phan Nguyen Quoc Khanh",
+        "Ho Bich Hai",
+        "Le Dinh Van Khoa",
+        "Lam Minh Yen",
+        "Phung Tran Huy Nhat",
+        "Ha Thi Hai Duong",
+        "Duong Bich Thuy",
+        "Tingting Zhu",
+        "Heloise Greeff",
+        "David A. Clifton",
+        "Louise Thwaites"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413123648",
+      "title": "Moderating the AI Revolution: Perceived threat and generative AI implementation in Vietnamese hospitals",
+      "doi": "https://doi.org/10.1016/j.chbr.2025.100774",
+      "year": 2025,
+      "authors": [
+        "Ta Thi Nguỵet Trang",
+        "Phạm Chiến Thắng",
+        "Vo Minh Tuan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4280531286",
+      "title": "Sepsis Mortality Prediction Using Wearable Monitoring in Low–Middle Income Countries",
+      "doi": "https://doi.org/10.3390/s22103866",
+      "year": 2022,
+      "authors": [
+        "Shadi Ghiasi",
+        "Tingting Zhu",
+        "Ping Lü",
+        "Jannis Hagenah",
+        "Phan Nguyen Quoc Khanh",
+        "Nguyễn Văn Hảo",
+        "Louise Thwaites",
+        "David A. Clifton"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4415341843",
+      "title": "Reimagining ethnopharmacology with generative AI: Towards inclusive, ethical, and data-driven traditional medicine",
+      "doi": "https://doi.org/10.1016/j.phrs.2025.108002",
+      "year": 2025,
+      "authors": [
+        "Santanu Bhadra",
+        "Charu Pundir",
+        "Maria Mukherjee",
+        "Amit Kar",
+        "Subhadip Banerjee",
+        "Rawiwan Charoensup",
+        "Thidarat Duangyod",
+        "Pulok K. Mukherjee"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4412373819",
+      "title": "Artificial intelligence ethics in authoritarian Vietnam: governance, trust, and societal tensions",
+      "doi": "https://doi.org/10.1080/25741292.2025.2529625",
+      "year": 2025,
+      "authors": [
+        "Huong T. Tran",
+        "Bac H. Dang",
+        "Mai Thanh Thi Nguyen",
+        "Quynh T. T. Pham",
+        "Phuoc Van Nguyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4391515285",
+      "title": "Mitigating Machine Learning Bias Between High Income and Low-Middle Income Countries for Enhanced Model Fairness and Generalizability",
+      "doi": "https://doi.org/10.1101/2024.02.01.24302010",
+      "year": 2024,
+      "authors": [
+        "Jenny Yang",
+        "Lei Clifton",
+        "Nguyen Thanh Dung",
+        "Nguyễn Thanh Phong",
+        "Lam Minh Yen",
+        "Doan Bui Xuan Thy",
+        "Andrew A. S. Soltan",
+        "Louise Thwaites",
+        "David A. Clifton"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4402994963",
+      "title": "Development of Machine Learning and Deep Learning Prediction Models for PM2.5 in Ho Chi Minh City, Vietnam",
+      "doi": "https://doi.org/10.3390/atmos15101163",
+      "year": 2024,
+      "authors": [
+        "Phuc Hieu Nguyen",
+        "Đào Nguyên Khôi",
+        "Ly Sy Phu Nguyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4323074472",
+      "title": "Development and Asian-wide validation of the Grade for Interpretable Field Triage (GIFT) for predicting mortality in pre-hospital patients using the Pan-Asian Trauma Outcomes Study (PATOS)",
+      "doi": "https://doi.org/10.1016/j.lanwpc.2023.100733",
+      "year": 2023,
+      "authors": [
+        "Jae Yong Yu",
+        "Sejin Heo",
+        "Feng Xie",
+        "Nan Liu",
+        "Sun Yung Yoon",
+        "Han Sol Chang",
+        "Taerim Kim",
+        "Se Uk Lee",
+        "Marcus Eng Hock Ong",
+        "Yih Yng Ng",
+        "Sang Do Shin",
+        "Kentaro Kajino",
+        "Won Chul"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4399129797",
+      "title": "Towards a machine-learning assisted non-invasive classification of dengue severity using wearable PPG data: a prospective clinical study",
+      "doi": "https://doi.org/10.1016/j.ebiom.2024.105164",
+      "year": 2024,
+      "authors": [
+        "Stefan Karolcik",
+        "Vasileos Manginas",
+        "Ho Quang Chanh",
+        "John Daniels",
+        "Nguyen Thi Giang",
+        "Vu Ngo Thanh Huyen",
+        "Minh Tu Van Hoang",
+        "Phan Nguyen Quoc Khanh",
+        "Bernard Hernandez",
+        "Damien Ming",
+        "Hao Nguyen Van",
+        "Tu Qui Phan",
+        "Huynh Trung Trieu",
+        "Tai Luong Thi Hue",
+        "Alison Holmes",
+        "Louise Thwaites",
+        "Tho Phan Vinh",
+        "Sophie Yacoub",
+        "Pantelis Georgiou"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4396666524",
+      "title": "Energy Poverty and Health Expenditure: Empirical Evidence from Vietnam",
+      "doi": "https://doi.org/10.3390/socsci13050253",
+      "year": 2024,
+      "authors": [
+        "Hang Thu Nguyen-Phung",
+        "Hai Le"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4389379814",
+      "title": "Securing Collaborative Medical AI by Using Differential Privacy: Domain Transfer for Classification of Chest Radiographs",
+      "doi": "https://doi.org/10.1148/ryai.230212",
+      "year": 2023,
+      "authors": [
+        "Soroosh Tayebi Arasteh",
+        "Mahshad Lotfinia",
+        "Teresa Nolte",
+        "Marwin-Jonathan Sähn",
+        "Peter Isfort",
+        "Christiane Kühl",
+        "Sven Nebelung",
+        "Georgios Kaissis",
+        "Daniel Truhn"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7129043197",
+      "title": "Comparing Large Language Models and Traditional Machine Translation Tools for Translating Medical Consultation Summaries: Quantitative Pilot Feasibility Study",
+      "doi": "https://doi.org/10.2196/85169",
+      "year": 2026,
+      "authors": [
+        "Andy Li",
+        "Wei Zhou",
+        "Rashina Hoda",
+        "Chris Bain",
+        "Peter Poon"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416928963",
+      "title": "What Are the Opportunities and Challenges of Using AI in Medical Education in Vietnam?",
+      "doi": "https://doi.org/10.2196/77817",
+      "year": 2025,
+      "authors": [
+        "Trung Anh Nguyen",
+        "Thanh Binh Nguyen",
+        "Duy Cuong Nguyen",
+        "Anh Dung Vu",
+        "Khanh Linh Dang",
+        "Nhu Quynh Le",
+        "Duy Anh Ngo",
+        "Dang Kien Nguyen",
+        "Van Thuan Hoang",
+        "Thanh Binh Ngo"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4414280387",
+      "title": "Accuracy of Artificial Intelligence vs Professionally Translated Discharge Instructions",
+      "doi": "https://doi.org/10.1001/jamanetworkopen.2025.32312",
+      "year": 2025,
+      "authors": [
+        "M Martos Martos",
+        "Blanca Fields",
+        "Samuel G. Finlayson",
+        "Nigel Hartell",
+        "Theresa Y. Kim",
+        "Emily L. Larimer",
+        "Jason J. Lau",
+        "Yu-Hsiang Lin",
+        "Taylor Salaguinto",
+        "Nguyen Tran-Ngoc",
+        "K. Casey Lion"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3016560194",
+      "title": "Sex and Gender Disparities in the COVID-19 Pandemic",
+      "doi": "https://doi.org/10.1089/jwh.2020.8472",
+      "year": 2020,
+      "authors": [
+        "Jewel Gausman",
+        "Ana Langer"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4396722502",
+      "title": "Artificial intelligence helps drive new frontiers in ecology",
+      "doi": "https://doi.org/10.1093/biosci/biae016",
+      "year": 2024,
+      "authors": [
+        "Niki Wilson"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4415096802",
+      "title": "Humanizing pulmonary care in the era of acoustic artificial intelligence: toward global health equity",
+      "doi": "https://doi.org/10.3389/fmed.2025.1666820",
+      "year": 2025,
+      "authors": [
+        "Bilal Irfan",
+        "Habeebah Muhammad-Kamal",
+        "Allison Newsome",
+        "Roberto Daniel Sirvent"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4386636575",
+      "title": "Application of AI Tools in Creating Datasets from a Real Data Component for Structural Health Monitoring",
+      "doi": "https://doi.org/10.1201/9781003306924-9",
+      "year": 2023,
+      "authors": [
+        "Minh Q. Tran",
+        "Hélder S. Sousa",
+        "José C. Matos"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4304112139",
+      "title": "AI-based air quality PM2.5 forecasting models for developing countries: A case study of Ho Chi Minh City, Vietnam",
+      "doi": "https://doi.org/10.1016/j.uclim.2022.101315",
+      "year": 2022,
+      "authors": [
+        "Rajnish Rakholia",
+        "Quan Le",
+        "Hoang Ngoc Khue Vu",
+        "Bang Quoc Ho",
+        "Ricardo Simón Carbajo"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4412932118",
+      "title": "The Nexus Between Green Finance and Artificial Intelligence: A Systemic Bibliometric Analysis Based on Web of Science Database",
+      "doi": "https://doi.org/10.3390/jrfm18080420",
+      "year": 2025,
+      "authors": [
+        "Katerina Fotova Čiković",
+        "Violeta Cvetkoska",
+        "Dinko Primorac"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4382192984",
+      "title": "A LASSO-based model for financial distress of the Vietnamese listed firms: Does the covid-19 pandemic matter?",
+      "doi": "https://doi.org/10.1080/23322039.2023.2210361",
+      "year": 2023,
+      "authors": [
+        "Nam Thanh Vu",
+        "Ngoc Hong Nguyen",
+        "Thao Tran",
+        "Binh Thien Le",
+        "Duc Hong Vo"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4410252116",
+      "title": "Insights Into the Current and Future State of AI Adoption Within Health Systems in Southeast Asia: Cross-Sectional Qualitative Study",
+      "doi": "https://doi.org/10.2196/71591",
+      "year": 2025,
+      "authors": [
+        "Mochammad Fadjar Wibowo",
+        "Alexandra Pyle",
+        "E. F. H. Lim",
+        "Joshua W. Ohde",
+        "Nan Liu",
+        "Jonas Karlström"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2981063136",
+      "title": "Understanding and predicting ciprofloxacin minimum inhibitory concentration in <i>Escherichia coli</i> with machine learning",
+      "doi": "https://doi.org/10.1101/806760",
+      "year": 2019,
+      "authors": [
+        "Bálint Pataki",
+        "Sébastien Matamoros",
+        "Boas C.L. van der Putten",
+        "Daniel Remondini",
+        "Enrico Giampieri",
+        "Derya Aytan-Aktug",
+        "COMPARE ML-AMR group",
+        "René S. Hendriksen",
+        "Ole Lund",
+        "István Csabai",
+        "Constance Schultsz"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4390447031",
+      "title": "Predicting Load-Deflection of Composite Concrete Bridges Using Machine Learning Models",
+      "doi": "https://doi.org/10.58845/jstt.utt.2023.en.3.4.44-52",
+      "year": 2023,
+      "authors": [
+        "Manh Van Le",
+        "Indra Prakash",
+        "Dam Duc Nguyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3216738082",
+      "title": "A comprehensive appraisal of evolutionary diversity in venomous Asian coralsnakes of the genus<i>Sinomicrurus</i>(Serpentes: Elapidae) using Bayesian coalescent inference and supervised machine learning",
+      "doi": "https://doi.org/10.1111/jzs.12547",
+      "year": 2021,
+      "authors": [
+        "Utpal Smart",
+        "Matthew J. Ingrasci",
+        "Goutam C. Sarker",
+        "Hmartlawmte Lalremsanga",
+        "Robert W. Murphy",
+        "Hidetoshi Ota",
+        "Ming Tu",
+        "Yogesh S. Shouche",
+        "Nikolai L. Orlov",
+        "Eric N. Smith"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4393403311",
+      "title": "Evaluation of models and drought-wetness factors contributing to predicting the vegetation health index in Dak Nong Province, Vietnam",
+      "doi": "https://doi.org/10.1088/2515-7620/ad39a4",
+      "year": 2024,
+      "authors": [
+        "Luong Van Viet",
+        "Dang Hung Bui"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4401306284",
+      "title": "Sentiment Reasoning for Healthcare",
+      "doi": "https://doi.org/10.48550/arxiv.2407.21054",
+      "year": 2024,
+      "authors": [
+        "Khai-Nguyen Nguyen",
+        "Khai Le-Duc",
+        "Bach Phan Tat",
+        "Duy Hoang Le",
+        "Long Vo-Dang",
+        "Truong-Son Hy"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4412684559",
+      "title": "Ecological epidemiology insights into clonorchiosis endemicity in Guangxi, China and Vietnam: a comprehensive machine learning analysis",
+      "doi": "https://doi.org/10.1186/s12942-025-00404-y",
+      "year": 2025,
+      "authors": [
+        "Jinxin Zheng",
+        "Huihui Zhu",
+        "Shang Xia",
+        "Men‐Bao Qian",
+        "Robert Bergquist",
+        "Hung Manh Nguyen",
+        "Xiao‐Nong Zhou"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4410272205",
+      "title": "Artificial Intelligence-assisted Translation and Interpretation for Communication With Patients Who Have Language Barriers: A Systematic Review",
+      "doi": "https://doi.org/10.1164/ajrccm.2025.211.abstracts.a3643",
+      "year": 2025,
+      "authors": [
+        "Inna Strechen",
+        "Arjun Gupta",
+        "Sema Karakuş",
+        "Christine Chen",
+        "Keivan Nalaie",
+        "L. Hassett",
+        "Amelia Barwise"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7128434791",
+      "title": "How Healthqual drives willingness to pay a premium and revisit intention in health-care sector: the moderation role of AI-enabled service",
+      "doi": "https://doi.org/10.1108/ijqss-09-2025-0225",
+      "year": 2026,
+      "authors": [
+        "Thanh Tiep Le",
+        "Thoi Le Quan Chau",
+        "Ngan Nguyen Dang Kim"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4395081370",
+      "title": "Using machine learning algorithms for predicting bridge vertical deflection",
+      "doi": "https://doi.org/10.1680/jencm.23.00016",
+      "year": 2024,
+      "authors": [
+        "Ha Hoang",
+        "Dam Duc Nguyen",
+        "Le Van Manh",
+        "Le Van Hiep",
+        "Binh Thai Pham"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4403001276",
+      "title": "Development and validation of machine learning-based predictive clinical decision support system for olanzapine in patients with schizophrenia",
+      "doi": "https://doi.org/10.29090/psa.2024.04.24.ap0713",
+      "year": 2024,
+      "authors": [
+        "Anh Mai Kieu",
+        "Ha Nguyet Dang",
+        "Khanh Thi Cat Tran",
+        "Tuyen Thi Thanh Nguyen",
+        "Chien Huu Nguyen",
+        "Thanh Chi Nguyen",
+        "Huong Pham",
+        "Jennifer Lê",
+        "Hai Thanh Nguyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3091082229",
+      "title": "Toward Audio Beehive Monitoring Based on IoT-AI techniques: A Survey and Perspective",
+      "doi": "https://doi.org/10.31817/vjas.2020.3.1.06",
+      "year": 2020,
+      "authors": [
+        "Nguyen Huu Du",
+        "Nguyen Doan Dong",
+        "Vu Thi Luu",
+        "Nguyễn Văn Hoàng",
+        "Phạm Hồng Thái",
+        "Ngoc T. Phan",
+        "Nguyen Viet Long",
+        "Thi-Thu-Hong Phan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7159973139",
+      "title": "LEGAL CHALLENGES IN THE ERA OF ARTIFICIAL INTELLIGENCE REGARDING PATIENTS' RIGHTS: LESSON FOR VIETNAMESE MEDICAL STUDENTS",
+      "doi": "https://doi.org/10.5281/zenodo.20007941",
+      "year": 2026,
+      "authors": [
+        "Nguyen Thi Phuong Cham and Ho Anh Tuan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7159975701",
+      "title": "LEGAL CHALLENGES IN THE ERA OF ARTIFICIAL INTELLIGENCE REGARDING PATIENTS' RIGHTS: LESSON FOR VIETNAMESE MEDICAL STUDENTS",
+      "doi": "https://doi.org/10.5281/zenodo.20007942",
+      "year": 2026,
+      "authors": [
+        "Nguyen Thi Phuong Cham and Ho Anh Tuan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7127307595",
+      "title": "Agentic AI Framework for Adaptive Clinical Workflow Orchestration",
+      "doi": "https://doi.org/10.1109/rivf68649.2025.11365087",
+      "year": 2025,
+      "authors": [
+        "Quitt Le",
+        "Duc-Trong Le",
+        "Hoang D. Nguyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7164488307",
+      "title": "Artificial Intelligence Integration in Medical Education: A Landscape with HOT Dimensions in Viet Nam",
+      "doi": "https://doi.org/10.1596/45024",
+      "year": 2026,
+      "authors": [
+        "Sang Minh Le",
+        "Giang Bao Kim"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413740197",
+      "title": "Curious but Unprepared: Healthcare Students’ Perspectives on AI and Robotics in Care and the Need for Curriculum Reform",
+      "doi": "https://doi.org/10.3390/ime4030030",
+      "year": 2025,
+      "authors": [
+        "Ngoc Bao Dang",
+        "Quang Ngoc Phan",
+        "Nam Hoang Tran"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3004288447",
+      "title": "The United Nations Sustainable Development Goals",
+      "doi": "https://doi.org/10.1093/biosci/biz155",
+      "year": 2020,
+      "authors": [
+        "Myrna E. Watanabe"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416631582",
+      "title": "Application of Artificial Intelligence in the Healthcare Sector and Legal Challenges: A Study in Vietnam",
+      "doi": "https://doi.org/10.64753/jcasc.v10i2.1894",
+      "year": 2025,
+      "authors": [
+        "Nguyễn Thị Phương Châm"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7133557985",
+      "title": "Large language models for self-administered conversational vignette assessment of provider competencies: A pilot and validation study in Vietnam with automated LLM-powered transcript classification",
+      "doi": "https://doi.org/10.64898/2026.03.02.26347479",
+      "year": 2026,
+      "authors": [
+        "Benjamin Daniels",
+        "Wenjia(Stella) Zhang",
+        "Hoang Nguyen",
+        "David Duong"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7152028441",
+      "title": "From COVID-19 to Nipah virus preparedness in low- and middle-income countries: Re-centering points of decision and responsible AI",
+      "doi": "https://doi.org/10.4103/apjtm.apjtm_118_26",
+      "year": 2026,
+      "authors": [
+        "Giao Huỳnh",
+        "Han Thi Ngoc Nguyen",
+        "Ly Trieu Vo",
+        "E. G. V. Evans",
+        "Nhut Minh Vuong",
+        "Pham Le An"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4211123459",
+      "title": "Digital Health Policy and Programs for Hospital Care in Vietnam: Scoping Review (Preprint)",
+      "doi": "https://doi.org/10.2196/preprints.32392",
+      "year": 2021,
+      "authors": [
+        "Duc Minh Tran",
+        "Louise Thwaites",
+        "Jennifer Ilo Van Nuil",
+        "Jacob McKnight",
+        "An Phuoc Luu",
+        "Chris Paton"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4377043317",
+      "title": "A PROSPECTIVE CLINICAL STUDY ON THE USE OF A NON-INVASIVE WEARABLE DEVICE AND NEURAL NETWORK MODELS FOR PATIENTS WITH DENGUE",
+      "doi": "https://doi.org/10.1016/j.ijid.2023.04.017",
+      "year": 2023,
+      "authors": [
+        "Štefan Karolčík",
+        "Vasileios Manginas",
+        "Chu Po Ho",
+        "John Daniels",
+        "Giang T. Nguyen",
+        "Hai Vu",
+        "Van‐Phuc Hoang",
+        "Katelynn Nguyen",
+        "Bernard Hernandez",
+        "Damien Ming",
+        "Alison Holmes",
+        "Louise Thwaites",
+        "Sophie Yacoub",
+        "Pantelis Georgiou"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4290755880",
+      "title": "A Review of Earth Observation-Based Drought Studies in Southeast Asia",
+      "doi": "https://doi.org/10.3390/rs14153763",
+      "year": 2022,
+      "authors": [
+        "Tuyen V. Ha",
+        "Juliane Huth",
+        "Felix Bachofer",
+        "Claudia Kuenzer"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7167820862",
+      "title": "An integrated deep learning and large language model for automated knee osteoarthritis grading and reporting from the Vietnam Osteoporosis Study",
+      "doi": "https://doi.org/10.1016/j.afos.2026.05.003",
+      "year": 2026,
+      "authors": [
+        "Dinh Tan Nguyen",
+        "Duy K. Hoang",
+        "Linh N. Luu",
+        "An T. Truong",
+        "Quang Hien Kha",
+        "Huy T. Tran",
+        "Phu D. Ho",
+        "Thach Tran",
+        "Sai Ho Ling",
+        "David J. Hunter",
+        "Lan T. Ho‐Pham",
+        "Tuan V. Nguyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4221070098",
+      "title": "Quantifying mangrove leaf area index from Sentinel-2 imagery using hybrid models and active learning",
+      "doi": "https://doi.org/10.1080/01431161.2021.2024912",
+      "year": 2022,
+      "authors": [
+        "Nguyễn An Bình",
+        "Leon T. Hauser",
+        "Pham Viet Hoa",
+        "Giang Thị Phương Thảo",
+        "Nguyen Ngoc An",
+        "Huynh Song Nhut",
+        "Tran Anh Phuong",
+        "Jochem Verrelst"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4414753093",
+      "title": "Comparing Large Language Models and Traditional Machine Translation Tools for Translating Medical Consultation Summaries – A Pilot Feasibility Study (Preprint)",
+      "doi": "https://doi.org/10.2196/preprints.85169",
+      "year": 2025,
+      "authors": [
+        "Andy Li",
+        "Wei Zhou",
+        "Rashina Hoda",
+        "Chris Bain",
+        "Peter Poon"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4293715374",
+      "title": "Classification of Tetanus Severity in Intensive-Care Settings for Low-Income Countries Using Wearable Sensing",
+      "doi": "https://doi.org/10.3390/s22176554",
+      "year": 2022,
+      "authors": [
+        "Ping Lü",
+        "Shadi Ghiasi",
+        "Jannis Hagenah",
+        "Ho Bich Hai",
+        "Nguyễn Văn Hảo",
+        "Phan Nguyen Quoc Khanh",
+        "Le Dinh Van Khoa",
+        "Louise Thwaites",
+        "David A. Clifton",
+        "Tingting Zhu"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7166291405",
+      "title": "A data-driven governance framework for co-creation healthcare quality in public hospitals",
+      "doi": "https://doi.org/10.1186/s12982-026-02342-x",
+      "year": 2026,
+      "authors": [
+        "Huu Phuc Dang",
+        "Nguyen-Kim-Thao Vo"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7128506310",
+      "title": "ViHERMES: A Graph-Grounded Multihop Question Answering Benchmark and System for Vietnamese Healthcare Regulations",
+      "doi": "https://doi.org/10.48550/arxiv.2602.07361",
+      "year": 2026,
+      "authors": [
+        "Long Nguyen",
+        "Quan M. Bui",
+        "Tin Ngo",
+        "Quynh Vo",
+        "Dung N. H. Le",
+        "Tho Quan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7128555477",
+      "title": "ViHERMES: A Graph-Grounded Multihop Question Answering Benchmark and System for Vietnamese Healthcare Regulations",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Long Nguyen",
+        "Quan M. Bui",
+        "Tin Ngo",
+        "Quynh Vo",
+        "Dung N. H. Le",
+        "Tho Quan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3018428085",
+      "title": "Protecting the gains of malaria elimination in China",
+      "doi": "https://doi.org/10.1186/s40249-020-00661-y",
+      "year": 2020,
+      "authors": [
+        "Xinyu Feng",
+        "Joshua Levens",
+        "Xiao‐Nong Zhou"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4389329616",
+      "title": "Digital health technology adoption in five Vietnamese hospitals: a self-report assessment (Preprint)",
+      "doi": "https://doi.org/10.2196/preprints.53483",
+      "year": 2023,
+      "authors": [
+        "Duc Minh Tran",
+        "Nguyen Thanh Dung",
+        "Chau Minh Duc",
+        "Ngoc Huynh",
+        "Khoi M. Le",
+        "Nguyen Phuc Hau",
+        "Duong Thi Thu Huyen",
+        "Huynh Thi Le Thu",
+        "Tran Van Duc",
+        "Lam Minh Yen",
+        "Louise Thwaites",
+        "Chris Paton"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4417446932",
+      "title": "Applying Machine Learning in assessing the health of the private economy in Vietnamese localities",
+      "doi": "https://doi.org/10.59276/jelb.2025.12.3032",
+      "year": 2025,
+      "authors": [
+        "Bích Ngọc Nguyễn"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7144112101",
+      "title": "Contributions to Monitoring, Anomaly Detection and Classification Using Artificial Intelligence and Statistical Methods : Applications in Smart Manufacturing and Healthcare",
+      "doi": "https://doi.org/10.70675/96bb05faz4257z4660zb2f8z7e1ba70e98d0",
+      "year": 2025,
+      "authors": [
+        "Kim Duc Tran"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7165659512",
+      "title": "Validation of online clearance monitoring and machine learning-based prediction of dialysis adequacy in Vietnamese hemodialysis patients: a cross-sectional study",
+      "doi": "https://doi.org/10.1186/s12882-026-05114-6",
+      "year": 2026,
+      "authors": [
+        "Xuan Chanh Tran",
+        "Tuan Anh Pham",
+        "Thinh Chi Phan",
+        "Anh Thuy Tram Nguyen",
+        "Huy Quoc Tran",
+        "Thanh Kien Lam"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416166990",
+      "title": "AI-Driven Methane Emission Prediction in Rice Paddies: A Machine Learning and Explainability Framework",
+      "doi": "https://doi.org/10.3390/methane4040028",
+      "year": 2025,
+      "authors": [
+        "Abira Sengupta",
+        "Fathima Nuzla Ismail",
+        "Shanika Amarasoma"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4389489459",
+      "title": "IAB 16th World Congress",
+      "doi": "https://doi.org/10.1111/bioe.13252",
+      "year": 2023,
+      "authors": [
+        "Voo Teck Chuan",
+        "Tenzin Wangmo",
+        "Bernice S. Elger"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4414342758",
+      "title": "ADVANCING SUSTAINABLE AGRICULTURE IN VIETNAM THROUGH BIOTECHNOLOGY AND ARTIFICIAL INTELLIGENCE",
+      "doi": "https://doi.org/10.62985/j.huit_ojs.vol25.nos2_ica.214",
+      "year": 2025,
+      "authors": [
+        "Phan Thi Thanh Huyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7147014134",
+      "title": "Comprehensive Overview of Artificial Intelligence Applications in Biomedical Research and Precision Medicine (2024–2026)",
+      "doi": "https://doi.org/10.5281/zenodo.19372022",
+      "year": 2026,
+      "authors": [
+        "Fahim Halim Khan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7147191292",
+      "title": "Comprehensive Overview of Artificial Intelligence Applications in Biomedical Research and Precision Medicine (2024–2026)",
+      "doi": "https://doi.org/10.5281/zenodo.19372021",
+      "year": 2026,
+      "authors": [
+        "Fahim Halim Khan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4389366255",
+      "title": "Evaluating Audio Feature Extraction Methods for Identifying Bee Queen Presence",
+      "doi": "https://doi.org/10.1145/3628797.3628852",
+      "year": 2023,
+      "authors": [
+        "Huu-Tuong Ho",
+        "Minh-Tien Pham",
+        "Quang-Duong Tran",
+        "Quang-Huy Pham",
+        "Thi-Thu-Hong Phan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7165285162",
+      "title": "A Comparison of Machine Learning Methods for Alzheimer's Disease Classification in Vietnamese Patients",
+      "doi": null,
+      "year": 2025,
+      "authors": [
+        "Nguyen Vu Binh Duong",
+        "Duy-Thanh Vu",
+        "Duy-Cat Can",
+        "Hai Dac Nguyen",
+        "Binh T. Nguyen",
+        "Oliver Yibing Chen",
+        "Huong Ha"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7125699370",
+      "title": "Drought risk assessment in Quang Tri Province, Vietnam using Landsat multi-temporal remote sensing data and machine learning algorithm",
+      "doi": "https://doi.org/10.12775/bgeo-2026-0002",
+      "year": 2026,
+      "authors": [
+        "Thi Thu Trang Tran",
+        "Le Hung Trinh",
+        "Thi Phuong Thao Do",
+        "Van Phu Le"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404866984",
+      "title": "Risk Assessment Models for the Health Insurance Sector",
+      "doi": "https://doi.org/10.1108/978-1-83608-582-920241032",
+      "year": 2024,
+      "authors": [
+        "Reepu Reepu",
+        "Pawan Kumar",
+        "Mandeep Singh"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4414706958",
+      "title": "AI-Powered Cardiovascular Risk Prediction: Integrating Wearable Biosensors and Machine Learning Algorithms",
+      "doi": "https://doi.org/10.47191/jefms/v8-i9-57",
+      "year": 2025,
+      "authors": [
+        "Hoang Minh Quan",
+        "N. Minh",
+        "Doan Dao Tu Uyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416057229",
+      "title": "The Impact of AI-induced Ethical Conflict and the Moderating Role of Psychological Safety on the Mental Health of Accountants in Financial Technology Enterprises in Vietnam",
+      "doi": "https://doi.org/10.56294/saludcyt20252468",
+      "year": 2025,
+      "authors": [
+        "Huu Vinh Tran"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4412649646",
+      "title": "A Systematic Framework for Investigating Algorithmic Bias as a Social Determinant of Health in Low- and Middle-Income Countries: A Research Protocol",
+      "doi": "https://doi.org/10.20944/preprints202507.1698.v1",
+      "year": 2025,
+      "authors": [
+        "Anthony Iyore Anaweokhai"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4405214383",
+      "title": "Prediction of building subsidence in Vietnam using machine learning techniques based on leveling results",
+      "doi": "https://doi.org/10.3846/gac.2024.20237",
+      "year": 2024,
+      "authors": [
+        "D. T. Tran",
+        "Ngoc Dung Luong",
+        "Dinh Huy Nguyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4414528596",
+      "title": "VMHQA: A Vietnamese Multi-choice Dataset for Mental Health Domain Question Answering",
+      "doi": "https://doi.org/10.4108/eetsis.7678",
+      "year": 2025,
+      "authors": [
+        "Tu Anh Hoang Nguyen",
+        "Quang-Dieu Nguyen",
+        "Harius M. Nguyen",
+        "Ann Nguyen",
+        "Loan T. T. Nguyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7133961658",
+      "title": "Overview of AI Agent Applications in Hospital Pharmacy Operations",
+      "doi": "https://doi.org/10.25073/2588-1132/vnumps.4922",
+      "year": 2026,
+      "authors": [
+        "Pham Quoc Anh",
+        "Ngô Thị Kim Cúc",
+        "Do Thuy Linh",
+        "Nguyen Thanh Hai",
+        "Nguyen Duc Long",
+        "Nguyen Thi Dua",
+        "Nguyen Huyen Thu",
+        "Vu Thu Ha",
+        "Nguyen Dang Phuong Anh"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4410481295",
+      "title": "Employment Opportunities Created By Artificial Intelligence (Ai)",
+      "doi": "https://doi.org/10.35629/5252-0704757761",
+      "year": 2025,
+      "authors": [
+        "Truong Vu Long Truong Vu Long",
+        "Tong Thi Phuong Thao Tong Thi Phuong Thao"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4225707844",
+      "title": "An efficient human activity recognition model based on deep learning approaches",
+      "doi": "https://doi.org/10.52549/ijeei.v10i1.3438",
+      "year": 2022,
+      "authors": [
+        "Aymen Jalil Abdulelah",
+        "Mohannad Al-Kubaisi",
+        "Ahmed Muhi Shentaf"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7115021865",
+      "title": "Remote sensing for yield estimation and climate risk management for coffee in Central Highlands, Vietnam",
+      "doi": "https://doi.org/10.26192/100wx8",
+      "year": 2025,
+      "authors": [
+        "Nguyen, Thuy"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3205697285",
+      "title": "Genomics and big data: Research, development and applications",
+      "doi": "https://doi.org/10.15625/1811-4989/16158",
+      "year": 2021,
+      "authors": [
+        "Lê Thị Thu Hiền",
+        "Nguyễn Tường Vân",
+        "Kim Thị Phương Oanh",
+        "Nguyễn Đăng Tôn",
+        "Huỳnh Thị Thu Huệ",
+        "Nguyễn Thùy Dương",
+        "Phạm Lê Bích Hằng",
+        "Nguyễn Hải Hà"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7167919040",
+      "title": "Knowledge, attitudes, and practices regarding artificial intelligence among health professions students: Implications for AI readiness",
+      "doi": "https://doi.org/10.62685/tbjmp.2026.22.05",
+      "year": 2026,
+      "authors": [
+        "Pham Hong Quang"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7152560976",
+      "title": "Application of IoT and AI in Monitoring structural Load-bearing capacity of Buildings",
+      "doi": "https://doi.org/10.1109/eee-am66675.2025.11473802",
+      "year": 2025,
+      "authors": [
+        "Nguyen Minh Quang",
+        "Nguyen Hoanh",
+        "Ngo Sy Dong"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4409928699",
+      "title": "DEVELOPMENT OF AN INTEGRATED NURSING COMPETENCY FRAMEWORK: SYNTHESIZING VIETNAM’S NATIONAL STANDARDS, COMPETENCY MODELS, AND ASSESSMENT INSTRUMENTS",
+      "doi": "https://doi.org/10.51298/vmj.v550i1.13913",
+      "year": 2025,
+      "authors": [
+        "Thi Ha",
+        "Tran Ngoc Thanh Dang",
+        "Thi Thu Tam Lam",
+        "Thi Thanh Tinh Nguyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7151807628",
+      "title": "Assessment of Artificial Intelligence-based Translation Tools for Emergency Department Discharge Instructions",
+      "doi": "https://doi.org/10.5811/westjem.48825",
+      "year": 2026,
+      "authors": [
+        "Estee Wu",
+        "Cassandra Mackey",
+        "Simi Jandu",
+        "Jennifer Carey"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7127120959",
+      "title": "Artificial Intelligence in In Vitro Diagnostics (IVD): A Comprehensive Review of the New Frontier",
+      "doi": "https://doi.org/10.1109/access.2026.3660065",
+      "year": 2026,
+      "authors": [
+        "Hieu Le Ngoc"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3163884986",
+      "title": "Lecture No. 3 Current status and future outlook for collection of cancer-related data in Asia",
+      "doi": "https://doi.org/10.1093/jjco/hyaa269",
+      "year": 2020,
+      "authors": [
+        "Tomohiro Matsuda"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7171671313",
+      "title": "Neurai-VN Benchmark: Standardized Machine Learning Models for Multimodal Digital Phenotyping in Mental Health Classification",
+      "doi": "https://doi.org/10.48550/arxiv.2607.25232",
+      "year": 2026,
+      "authors": [
+        "Quoc-Cuong Pham",
+        "Hoang-Thuy-Duong Vu",
+        "Thi-Thanh-Huong Ha",
+        "Huy‐Hieu Pham"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7166875773",
+      "title": "TLAS-YHCT VN: Development and Evaluation of a Socratic AI Teaching Assistant for Traditional Vietnamese Medicine Education — A Two-Phase Mixed-Methods Study (Preprint)",
+      "doi": "https://doi.org/10.2196/preprints.105820",
+      "year": 2026,
+      "authors": [
+        "Tạ Hồng"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4410527718",
+      "title": "ChatGPT Usage for Academic Purposes and Influencing Factors Among Students at Hanoi Medical University, Vietnam",
+      "doi": "https://doi.org/10.33846/hd20502",
+      "year": 2025,
+      "authors": [
+        "Luu Thi Thu Kieu",
+        "Phan Huu Vinh",
+        "Nguyen Thi",
+        "Trinh Khanh Linh",
+        "Tran Xuan Dai",
+        "Tran Ngan Hanh",
+        "Nguyễn Ngọc Linh",
+        "Le Thanh Hang",
+        "Hy Minh Giang",
+        "Vo Anh",
+        "Thanh Pham",
+        "Dang Cong Son",
+        "Lê Minh Đạt"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7127417295",
+      "title": "Artificial Intelligence (AI) Applications in Construction Industry: A Big Data-driven Bibliometric Analysis",
+      "doi": "https://doi.org/10.1109/rivf68649.2025.11365231",
+      "year": 2025,
+      "authors": [
+        "Ngan Nguyen Le",
+        "Huy Thanh Phung",
+        "Hien Phuoc Phan",
+        "Chuong Duy Nguyen",
+        "Buu Quoc Mai"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7167283633",
+      "title": "Knowledge, Attitudes, and Practices Related to AI in Learning and Research Among Medical Students in Vietnam: Cross-Sectional Study",
+      "doi": "https://doi.org/10.2196/95867",
+      "year": 2026,
+      "authors": [
+        "Minh Tien Bui",
+        "Ha My Le",
+        "T P Luong",
+        "Hoang Anh Vu",
+        "Thế Anh Trần",
+        "Ngo Td",
+        "Dieu Linh Bui",
+        "Thi Han Bui",
+        "Duy Cuong Nguyen",
+        "Thanh Binh Ngo",
+        "Kien Trung Nguyen",
+        "Thi Loi Dao"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7154607232",
+      "title": "Integrating Diverse Voices and Data Science: Advancing Equity in the Public Opinion Data Cycle for Health Emergencies",
+      "doi": "https://doi.org/10.26190/unsworks/32205",
+      "year": 2026,
+      "authors": [
+        "Dani Hutchinson"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4388328349",
+      "title": "Real-Time Magnetic Tracking and Diagnosis of COVID-19 via Machine Learning",
+      "doi": "https://doi.org/10.48550/arxiv.2311.00737",
+      "year": 2023,
+      "authors": [
+        "Dang Tuan Nguyen",
+        "Phat K. Huynh",
+        "Vinh Duc An Bui",
+        "Kee Young Hwang",
+        "Nityanand Jain",
+        "Chau H. Nguyen",
+        "Le Huu Nhat Minh",
+        "Lê Văn Trường",
+        "Xuân Thanh Nguyễn",
+        "Nguyễn Hoàng Định",
+        "Lê Tiến Dũng",
+        "Trung Le",
+        "Manh‐Huong Phan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3115853236",
+      "title": "2020 Global Pediatric Pulmonology Alliance (GPPA) Forum on COVID‐19",
+      "doi": "https://doi.org/10.1002/ped4.12229",
+      "year": 2020,
+      "authors": [
+        "Kunling Shen",
+        "Spencer Li",
+        "Yu Guan",
+        "Yonghong Yang"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7163877191",
+      "title": "Editorial",
+      "doi": "https://doi.org/10.1108/jedt-07-2026-756",
+      "year": 2026,
+      "authors": [
+        "Nicholas Chileshe"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7155372537",
+      "title": "Which Works Best for Vietnamese? A Practical Study of Information Retrieval Methods across Domains",
+      "doi": "https://doi.org/10.48448/2a35-ph29",
+      "year": 2026,
+      "authors": [
+        "Association for Computational Linguistics 2026",
+        "Long Nguyen",
+        "tho Quan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4405977942",
+      "title": "Enhancing English Language Acquisition through ChatGPT: Use of Technology Acceptance Model in Linguistics",
+      "doi": "https://doi.org/10.54692/jelle.2024.0604262",
+      "year": 2024,
+      "authors": [
+        "Hayat Ullah",
+        "Sajid Anwar",
+        "Shah Nawaz Khan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4411389127",
+      "title": "UET175: EEG dataset of motor imagery tasks in Vietnamese stroke patients",
+      "doi": "https://doi.org/10.3389/fnins.2025.1580931",
+      "year": 2025,
+      "authors": [
+        "Chau Ma Thi",
+        "Hoang-Anh Nguyen The",
+        "Kien Nguyen Minh",
+        "Long Vu Thanh",
+        "Hieu Nguyen Dinh",
+        "Nhu-Y Huynh Thi",
+        "Thanh-Huong Ha Thi",
+        "Trong-Nghia Hoang Tien",
+        "Doan-Truc Au Dao",
+        "Kim-Long Nguyen Hoang",
+        "Vy Huynh Kha",
+        "T. Hoang"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4401317771",
+      "title": "Guest editorial: Transnationalization of higher education: challenges and opportunities",
+      "doi": "https://doi.org/10.1108/aeds-06-2024-294",
+      "year": 2024,
+      "authors": [
+        "Ka Ho Mok",
+        "Kun Dai"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7138931663",
+      "title": "Developing an AI-Enhanced Individualized Prediction Tool for Psychopathological Symptoms in Vietnam: A Study Protocol",
+      "doi": "https://doi.org/10.1109/ichst66555.2025.11428741",
+      "year": 2025,
+      "authors": [
+        "Hung T. Nguyen",
+        "Minh Khau",
+        "Huyen Nguyen",
+        "Hieu Pham"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413009419",
+      "title": "Developing an AI-Enhanced Individualized Prediction Tool for Psychopathological Symptoms in Vietnam: A Study Protocol",
+      "doi": "https://doi.org/10.1101/2025.08.03.25332928",
+      "year": 2025,
+      "authors": [
+        "Hung Khoa Nguyen",
+        "Hung Nguyen",
+        "Minh Khau",
+        "Huyen Nguyen",
+        "Huyen Nguyen",
+        "Hieu Pham"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4409804271",
+      "title": "Dynamic weighting and genetic algorithm-based hybrid SVR-Ridge model for improving PM <sub>2.5</sub> forecasting in open-pit copper mines",
+      "doi": "https://doi.org/10.1080/17480930.2025.2492086",
+      "year": 2025,
+      "authors": [
+        "L. T. K. Ngoc",
+        "Hoang Nguyen",
+        "Xuan-Nam Bui",
+        "Trung-Tin Tran"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4397032867",
+      "title": "The evidence for evidence-based medicine",
+      "doi": "https://doi.org/10.4103/amsr.amsr_19_23",
+      "year": 2023,
+      "authors": [
+        "Subhankar Chowdhury"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7118783085",
+      "title": "A Hybrid Architecture for Multi-Stage Claim Document Understanding: Combining Vision-Language Models and Machine Learning for Real-Time Processing",
+      "doi": "https://doi.org/10.48550/arxiv.2601.01897",
+      "year": 2026,
+      "authors": [
+        "Lilu Cheng",
+        "Jingjun Lu",
+        "Yi Xuan Chan",
+        "Quốc Khải Nguyễn",
+        "John Bi",
+        "Sean Ho"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7119234883",
+      "title": "A Hybrid Architecture for Multi-Stage Claim Document Understanding: Combining Vision-Language Models and Machine Learning for Real-Time Processing",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Lilu Cheng",
+        "Jingjun Lu",
+        "Yi Xuan Chan",
+        "Quốc Khải Nguyễn",
+        "John Bi",
+        "Sean Ho"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7134819485",
+      "title": "Improving accuracy, stability, and practicability of poverty-targeting tools in the context of vietnamese ethnic minorities",
+      "doi": "https://doi.org/10.60848/13816",
+      "year": 2025,
+      "authors": [
+        "Be Thanh Duong"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7131858720",
+      "title": "Adaptive Modeling for Air Quality: A Continual Learning Framework for PM₂.₅ Estimation in Vietnam",
+      "doi": "https://doi.org/10.1109/tgrs.2026.3668935",
+      "year": 2026,
+      "authors": [
+        "Phuong D.M. Nguyen",
+        "Duy A. Nguyen",
+        "Thanh T.N. Nguyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4206998084",
+      "title": "Decision letter: Development, validation, and application of a machine learning model to estimate salt consumption in 54 countries",
+      "doi": "https://doi.org/10.7554/elife.72930.sa1",
+      "year": 2021,
+      "authors": [
+        "Gian Paolo Rossi"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4206989740",
+      "title": "Author response: Development, validation, and application of a machine learning model to estimate salt consumption in 54 countries",
+      "doi": "https://doi.org/10.7554/elife.72930.sa2",
+      "year": 2021,
+      "authors": [
+        "Wilmer Cristobal Guzman‐Vilca",
+        "Manuel Castillo‐Cara",
+        "Rodrigo M. Carrillo‐Larco"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7163583691",
+      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "doi": "https://doi.org/10.48550/arxiv.2606.04037",
+      "year": 2026,
+      "authors": [
+        "Thanh Luong Tuan",
+        "Abhijit Sanyal"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7163777289",
+      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Thanh Luong Tuan",
+        "Abhijit Sanyal"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7159928339",
+      "title": "Trustworthy RF/Microwave Biomedical AI: Information Fusion and Evaluation Design for Clinical Translation",
+      "doi": "https://doi.org/10.5281/zenodo.19990364",
+      "year": 2026,
+      "authors": [
+        "Ahmad Aldelemy"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7159954887",
+      "title": "Trustworthy RF/Microwave Biomedical AI: Information Fusion and Evaluation Design for Clinical Translation",
+      "doi": "https://doi.org/10.5281/zenodo.19990844",
+      "year": 2026,
+      "authors": [
+        "Ahmad Aldelemy"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4410459385",
+      "title": "The Impact Of Digital Diplomacy On International Politics In The Early Decades Of The 21st Century And Its Implications For Vietnam",
+      "doi": "https://doi.org/10.56734/ijahss.v6n5a6",
+      "year": 2025,
+      "authors": [
+        "Nguyen Ngoc Cuong",
+        "Bui Thanh Nam",
+        "Nguyen Van Dap"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7159931699",
+      "title": "Trustworthy RF/Microwave Biomedical AI: Information Fusion and Evaluation Design for Clinical Translation",
+      "doi": "https://doi.org/10.5281/zenodo.19990363",
+      "year": 2026,
+      "authors": [
+        "Ahmad Aldelemy"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7160391157",
+      "title": "Trustworthy RF/Microwave Biomedical AI: Information Fusion and Evaluation Design for Clinical Translation",
+      "doi": "https://doi.org/10.5281/zenodo.20045135",
+      "year": 2026,
+      "authors": [
+        "Ahmad Aldelemy"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2987436579",
+      "title": "Parent’s Perception and Willingness for Using Internet Based Mental Health Application for Children",
+      "doi": "https://doi.org/10.25073/2588-1159/vnuer.4325",
+      "year": 2019,
+      "authors": [
+        "Trần Thành Nam",
+        "Hien Hoang"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4401780098",
+      "title": "Opening Dialogue",
+      "doi": "https://doi.org/10.1162/daed_a_02085",
+      "year": 2024,
+      "authors": [
+        "Lee C. Bollinger",
+        "Geoffrey R. Stone"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4403740419",
+      "title": "The i-CanManage program to improve exercise and symptom management for Vietnamese women after cancer: A pilot randomized controlled trial protocol",
+      "doi": "https://doi.org/10.1177/20552076241293974",
+      "year": 2024,
+      "authors": [
+        "Thi Hoa Huyen Nguyen",
+        "Thi Hoa Huyen Nguyen",
+        "Linh Khanh Bui",
+        "Tran Ngoc Tran",
+        "Ngan Thi Thuy Nguyen",
+        "Anh Hoang Phuong",
+        "Hieu Huy Pham",
+        "Andrew W. Taylor‐Robinson",
+        "Tran Quang Duc",
+        "Huong Thi Thanh Nguyen",
+        "Huong Thi Thanh Nguyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4410143500",
+      "title": "Estimating forest above ground biomass in Dak Lak Province, Vietnam",
+      "doi": "https://doi.org/10.13057/asianjfor/r090112",
+      "year": 2025,
+      "authors": [
+        "Ho Dinh Bao",
+        "Nguyễn Thị Thanh Hương"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4414042787",
+      "title": "Sustainable Development of Physical Education in Vietnam: Digital Transformation from 2020 to 2025 and vision to 2030",
+      "doi": "https://doi.org/10.61586/qwc38",
+      "year": 2025,
+      "authors": [
+        "Ngo Huu Phuc",
+        "Le Hoang Son Chau",
+        "Nguyen Hoang Minh Thuan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7162461848",
+      "title": "Recovering Health Disparities When Race and Ethnicity Information is Inadequate",
+      "doi": "https://doi.org/10.17605/osf.io/n5fb2",
+      "year": 2026,
+      "authors": [
+        "Derek Ouyang"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7133407978",
+      "title": "IP Frameworks and Innovation in the Agricultural Sector in Southeast Asia - A Legal Perspective",
+      "doi": null,
+      "year": 2024,
+      "authors": [
+        "Robert Smith",
+        "Mark Perry",
+        "Monique Cormier"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7153986709",
+      "title": "PREreview of \"Diagnostic Accuracy and Potential Resource Savings of Pooled Sputum Testing with Xpert MTB/RIF Ultra for Tuberculosis among adults in Vietnam: A Cross-Sectional Study\"",
+      "doi": "https://doi.org/10.5281/zenodo.19559782",
+      "year": 2026,
+      "authors": [
+        "John Cherry"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7154143679",
+      "title": "PREreview of \"Diagnostic Accuracy and Potential Resource Savings of Pooled Sputum Testing with Xpert MTB/RIF Ultra for Tuberculosis among adults in Vietnam: A Cross-Sectional Study\"",
+      "doi": "https://doi.org/10.5281/zenodo.19559781",
+      "year": 2026,
+      "authors": [
+        "John Cherry"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4406720993",
+      "title": "Insights on the current and future state of AI adoption within health systems in Southeast Asia: A qualitative study (Preprint)",
+      "doi": "https://doi.org/10.2196/preprints.71591",
+      "year": 2025,
+      "authors": [
+        "Mochammad Fadjar Wibowo",
+        "Alexandra Pyle",
+        "E. F. H. Lim",
+        "Joshua W. Ohde",
+        "Nan Liu",
+        "Jonas Karlström"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7154140122",
+      "title": "PREreview of \"Diagnostic Accuracy and Potential Resource Savings of Pooled Sputum Testing with Xpert MTB/RIF Ultra for Tuberculosis among adults in Vietnam: A Cross-Sectional Study\"",
+      "doi": "https://doi.org/10.5281/zenodo.19559875",
+      "year": 2026,
+      "authors": [
+        "John Cherry"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7154084917",
+      "title": "PREreview of \"Diagnostic Accuracy and Potential Resource Savings of Pooled Sputum Testing with Xpert MTB/RIF Ultra for Tuberculosis among adults in Vietnam: A Cross-Sectional Study\"",
+      "doi": "https://doi.org/10.5281/zenodo.19559874",
+      "year": 2026,
+      "authors": [
+        "John Cherry"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7127104083",
+      "title": "Psychological safety and AI adoption as antecedents of teaching burnout: the mediating effect of work–life balance",
+      "doi": "https://doi.org/10.1108/aeds-06-2025-0285",
+      "year": 2026,
+      "authors": [
+        "Sang Tang My"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7133592185",
+      "title": "Predictive modeling of direct medical costs among frail older adults with diabetes mellitus in a rural outpatient setting",
+      "doi": null,
+      "year": 2026,
+      "authors": [
+        "Ngoc Tuyet Nguyen",
+        "Quoc Cuong Hoang",
+        "Minh Trung Nguyen",
+        "Van De Tran"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416112095",
+      "title": "Wearable vital-sign sensors for early detection of severe dengue and sepsis: Clinical applications and implementation in resource-limited settings",
+      "doi": "https://doi.org/10.1177/20552076251396563",
+      "year": 2025,
+      "authors": [
+        "Mohamed Mustaf Ahmed",
+        "Zhinya Kawa Othman",
+        "Sumaya Mahamud Mahamed",
+        "Olalekan John Okesanya",
+        "Shuaibu Saidu Musa",
+        "Francesco Branda",
+        "Don Eliseo Lucero‐Prisno"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4387091800",
+      "title": "Measuring Racial Sentiment Using Social Media Is Harder Than It Seems",
+      "doi": "https://doi.org/10.1097/ede.0000000000001672",
+      "year": 2023,
+      "authors": [
+        "Eleanor J. Murray",
+        "Kareem Carr"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4392580413",
+      "title": "&amp;#160;Air Emission Inventory and AI- based Air Quality Forecasting Models for Developing Countries: A Case Study of Ho Chi Minh City, Vietnam",
+      "doi": "https://doi.org/10.5194/egusphere-egu24-10056",
+      "year": 2024,
+      "authors": [
+        "Quoc Bang Ho",
+        "Hoang Ngoc Khue Vu",
+        "Tam Thoai Nguyen",
+        "Ricardo Simón Carbajo"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7161401802",
+      "title": "Primary School Teachers’ Intention to Adopt AI in Sexual and Reproductive Health Education: An Extended Technology Scceptance Model",
+      "doi": "https://doi.org/10.5812/ijpbs-169858",
+      "year": 2026,
+      "authors": [
+        "Hoan Ngo-Thi-Kim",
+        "Quynh Pham-Viet",
+        "Hong Cuong Do",
+        "Mai Hoang Thi",
+        "Thao Tran Thi",
+        "Thanh Tran Phuong",
+        "Hiep‐Hung Pham"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7167353707",
+      "title": "SENTINEL-Dengue ASEAN-11: An AI-Powered Climate–Geospatial Intelligence System for Dengue Early Warning and Surveillance Prioritization Across Southeast Asia",
+      "doi": "https://doi.org/10.52939/ijg.v22i6.5044",
+      "year": 2026,
+      "authors": [
+        "J. Sudsawart"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4412028105",
+      "title": "BỆNH VIỆN THỐNG NHẤT – HÀNH TRÌNH PHÁT TRIỂN VÀ ĐỊNH HƯỚNG TRỞ THÀNH TRUNG TÂM LÃO KHOA KỸ THUẬT CAO HÀNG ĐẦU VIỆT NAM",
+      "doi": "https://doi.org/10.63947/bvtn.v1i1.1",
+      "year": 2025,
+      "authors": [
+        "Lê Đình Thanh"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4206629756",
+      "title": "Index",
+      "doi": "https://doi.org/10.1108/978-1-80117-139-720211014",
+      "year": 2022,
+      "authors": []
+    },
+    {
+      "id": "https://openalex.org/W7166448728",
+      "title": "TH-Hien Model: protocol and statistical analysis plan (HBeAg-negative CHB)",
+      "doi": "https://doi.org/10.17605/osf.io/yvxqp",
+      "year": 2026,
+      "authors": [
+        "Hien-Huu Tran"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7160442136",
+      "title": "AI for Sustainable Development in Middle-Income Southeast Asia",
+      "doi": "https://doi.org/10.4324/9781003715689-3",
+      "year": 2026,
+      "authors": [
+        "Masatoshi Hara"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7151608334",
+      "title": "Worker Well‐Being, Human Factors and the Gig Economy: Interdisciplinary Perspectives",
+      "doi": "https://doi.org/10.1111/bjir.70059",
+      "year": 2026,
+      "authors": [
+        "Xiaoning Ma",
+        "Guodong Zhao"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7133528178",
+      "title": "Bibliometric Analysis of Human‑Centered AI Research in Southeast Asia (2015–2025)",
+      "doi": "https://doi.org/10.58812/esiscs.v3i02.799",
+      "year": 2025,
+      "authors": [
+        "Loso  Judijanto",
+        "Ni Desak Made Santi Diwyarthi"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7116674418",
+      "title": "Editorial",
+      "doi": "https://doi.org/10.3897/jucs.183050",
+      "year": 2025,
+      "authors": [
+        "Christian Gütl"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7171557032",
+      "title": "Editorial",
+      "doi": "https://doi.org/10.1108/jedt-09-2026-758",
+      "year": 2026,
+      "authors": [
+        "Nicholas Chileshe"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4283799763",
+      "title": "Index",
+      "doi": "https://doi.org/10.1108/978-1-80262-637-720221018",
+      "year": 2022,
+      "authors": []
+    },
+    {
+      "id": "https://openalex.org/W2943496630",
+      "title": "Data as a Substitute for Judgment",
+      "doi": "https://doi.org/10.1097/opx.0000000000001391",
+      "year": 2019,
+      "authors": [
+        "Michael D. Twa"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3160639093",
+      "title": "Déjà Vu – A New Coronavirus Challenge",
+      "doi": "https://doi.org/10.17849/insm-49-1-5-10.1",
+      "year": 2021,
+      "authors": [
+        "Ross MacKenzie"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7162791292",
+      "title": "Fluid-sparing hyperoncotic albumin in severe dengue: A retrospective case series",
+      "doi": "https://doi.org/10.4103/apjtm.apjtm_142_26",
+      "year": 2026,
+      "authors": [
+        "Quan Le",
+        "Hang Trinh",
+        "Nhan Van Vu"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416598650",
+      "title": "An overview of digital twin applications in the construction and management of bridge and road infrastructure",
+      "doi": "https://doi.org/10.64588/jc.04.11.2025",
+      "year": 2025,
+      "authors": [
+        "TS Hà Trung Hiếu"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4404049520",
+      "title": "Editors’ Selections from Relevant Scientific Publications",
+      "doi": "https://doi.org/10.1158/1940-6207.capr-17-11-hfl",
+      "year": 2024,
+      "authors": []
+    },
+    {
+      "id": "https://openalex.org/W7154413480",
+      "title": "Growing A Greener Future: Sustainable Practices in Agriculture",
+      "doi": "https://doi.org/10.70593/978-93-7185-755-0",
+      "year": 2026,
+      "authors": [
+        "Jatinderpal Singh",
+        "P. C. Pathania",
+        "M. Saini"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7169562234",
+      "title": "Kiến thức, thái độ và thực hành ứng dụng trí tuệ nhân tạo trong học tập của sinh viên Điều dưỡng tại Đại học Y Dược Thành phố Hồ Chí Minh",
+      "doi": "https://doi.org/10.32895/hcjm.m.2026.09.04",
+      "year": 2026,
+      "authors": [
+        "Ngọc Hoa Phạm",
+        "Thị Như Quỳnh Nguyễn",
+        "Đặng Tường Vy Hồ"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4383961821",
+      "title": "Index",
+      "doi": "https://doi.org/10.1108/978-1-80455-588-020231017",
+      "year": 2023,
+      "authors": []
+    },
+    {
+      "id": "https://openalex.org/W4319994231",
+      "title": "New year greetings from the Editor-in-Chief of the Asia–Pacific Journal of Oncology Nursing",
+      "doi": "https://doi.org/10.1016/j.apjon.2023.100185",
+      "year": 2023,
+      "authors": [
+        "Winnie K.W. So"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4200419339",
+      "title": "Preface",
+      "doi": "https://doi.org/10.1088/1742-6596/2089/1/011001",
+      "year": 2021,
+      "authors": []
+    },
+    {
+      "id": "https://openalex.org/W7161490122",
+      "title": "PREreview of \"SARS-CoV-2 Introductions into Lao PDR Revealed by Genomic Surveillance, 2021–2024\"",
+      "doi": "https://doi.org/10.5281/zenodo.20257241",
+      "year": 2026,
+      "authors": [
+        "Syed Adnan Haider"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7161495963",
+      "title": "PREreview of \"SARS-CoV-2 Introductions into Lao PDR Revealed by Genomic Surveillance, 2021–2024\"",
+      "doi": "https://doi.org/10.5281/zenodo.20257242",
+      "year": 2026,
+      "authors": [
+        "Syed Adnan Haider"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4408807516",
+      "title": "Editorial: Bridging tradition and innovation: from maintaining masonry bridges to using AI for better understanding bridge behaviour",
+      "doi": "https://doi.org/10.1680/jbren.2025.178.2.95",
+      "year": 2025,
+      "authors": [
+        "Stergios-Aristoteles Mitoulis",
+        "Nadiia Kopiika"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4412472540",
+      "title": "Prediction of corroded reinforced concrete beam deflection using a metaheuristic optimized least squares support vector regression",
+      "doi": "https://doi.org/10.24200/sci.2025.65252.9382",
+      "year": 2025,
+      "authors": [
+        "Duc-Hoc Tran",
+        "Thi-Cam Tien Ngo"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4233838670",
+      "title": "Index",
+      "doi": "https://doi.org/10.1108/978-1-80071-348-220211013",
+      "year": 2021,
+      "authors": []
+    },
+    {
+      "id": "https://openalex.org/W4417290975",
+      "title": "Children and Families: Everyday Digital Media Culture",
+      "doi": "https://doi.org/10.1111/chso.70003",
+      "year": 2025,
+      "authors": [
+        "Ylva Ågren",
+        "Philippa Amery",
+        "Susan Danby"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413232052",
+      "title": "Karasteristik Sistem Pelayanan Angkutan Perkotaan Di Kota Makassar",
+      "doi": "https://doi.org/10.35965/jups.v5i3.633",
+      "year": 2025,
+      "authors": [
+        "Nisa Rusdin",
+        "Kamran Aksa",
+        "Nur Syam"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4253666347",
+      "title": "Index",
+      "doi": "https://doi.org/10.1108/978-1-78756-911-920191001",
+      "year": 2019,
+      "authors": []
+    },
+    {
+      "id": "https://openalex.org/W7154719521",
+      "title": "Guest editorial: Defining new frontiers of business research across Asian countries",
+      "doi": "https://doi.org/10.1108/jabs-04-2026-702",
+      "year": 2026,
+      "authors": [
+        "Zafar U. Ahmed"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4412117279",
+      "title": "Perspectives on year 1 of <i>Alzheimer's &amp; Dementia: Behavior and Socioeconomics of Aging (BSEA)</i>",
+      "doi": "https://doi.org/10.1002/bsa3.70026",
+      "year": 2025,
+      "authors": [
+        "Jennifer H. Lingler"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4410608473",
+      "title": "Editorial: ICYMARE – early career researchers in marine science",
+      "doi": "https://doi.org/10.3389/fmars.2025.1618554",
+      "year": 2025,
+      "authors": [
+        "Simon Jungblut",
+        "Lena Rölfer",
+        "Carolin Müller",
+        "Yvonne Schadewell",
+        "Lena Christin Heel",
+        "Viola Liebich"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7153144856",
+      "title": "Editorial: Multiparametric stress echocardiography in stable CAD patients. How technological advances may transform diagnosis and prognosis",
+      "doi": "https://doi.org/10.3389/fcvm.2026.1811863",
+      "year": 2026,
+      "authors": [
+        "Nicola Gaibazzi",
+        "Attila Kardos"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416914743",
+      "title": "Guest editorial: Sustainability management from a behavioral perspective in hospitality and tourism",
+      "doi": "https://doi.org/10.1108/jhti-09-2025-995",
+      "year": 2025,
+      "authors": [
+        "Osman M. Karatepe",
+        "Muhammad Farrukh",
+        "Elisa Rescalvo‐Martin"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413786197",
+      "title": "Fighter Pilot Meets Match With Lymphoma &amp; CAR T-Cell Therapy Battles Back",
+      "doi": "https://doi.org/10.1097/01.cot.0000000000000164",
+      "year": 2025,
+      "authors": [
+        "Valerie Neff Newitt"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416456850",
+      "title": "Characterizing global dermatologic engagement and needs: A cross‐sectional study from 83 countries",
+      "doi": "https://doi.org/10.1111/jdv.70142",
+      "year": 2025,
+      "authors": [
+        "Alexis G. Strahan",
+        "Christine Li",
+        "Maud Guérin",
+        "Tom Allison",
+        "Gene Colón",
+        "Jehireh Peraza‐Williams",
+        "Olyvia Zarchin",
+        "M J Zehtab",
+        "Ann Pacheco",
+        "Jadesola Akinwuntan",
+        "Shivani Jain",
+        "Marlous L. Grijsen",
+        "Wendemagegn Enbiale",
+        "Wingfield Rehmus",
+        "L. Claire Fuller",
+        "Karolyn A. Wanat",
+        "Esther E. Freeman"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4406814715",
+      "title": "Editorial: “Redefining impact: digital libraries and their communities”",
+      "doi": "https://doi.org/10.1108/dlp-02-2025-153",
+      "year": 2025,
+      "authors": [
+        "Anna Maria Tammaro"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4392706664",
+      "title": "Research activities at Hanoi National University of Education ‐ 70 years of development",
+      "doi": "https://doi.org/10.1002/vjch.202200133",
+      "year": 2022,
+      "authors": [
+        "Nguyễn Văn Minh",
+        "Hoang Hai Ha",
+        "Dương Minh Lam",
+        "Nguyen Van Trao"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4251098518",
+      "title": "Regular Issue",
+      "doi": "https://doi.org/10.35940/ijitee.10.4",
+      "year": 2021,
+      "authors": []
+    },
+    {
+      "id": "https://openalex.org/W4292958755",
+      "title": "Index",
+      "doi": "https://doi.org/10.1108/978-1-80117-226-420221017",
+      "year": 2022,
+      "authors": []
+    },
+    {
+      "id": "https://openalex.org/W7167895805",
+      "title": "Guest editorial: Beyond Industry 4.0: humancentricity, resilience and sustainability in the age of digital transformation",
+      "doi": "https://doi.org/10.1108/jsma-08-2026-526",
+      "year": 2026,
+      "authors": [
+        "Oluwaseun Kolade",
+        "David Sarpong"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4414865966",
+      "title": "Editorial: Promoting innovative learning-oriented feedback practice: engagement, challenges, and solutions",
+      "doi": "https://doi.org/10.3389/fpsyg.2025.1707902",
+      "year": 2025,
+      "authors": [
+        "Wei Wei"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3173761619",
+      "title": "A (Not Very) Distant Mirror",
+      "doi": "https://doi.org/10.1093/dh/dhab001",
+      "year": 2021,
+      "authors": [
+        "A. R. H. Preston"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7123507647",
+      "title": "Correction: Deep learning neural networks-based traffic predictors for V2X communication networks",
+      "doi": "https://doi.org/10.3389/frai.2025.1768205",
+      "year": 2026,
+      "authors": [
+        "Marina Magdy Saady",
+        "Hatim Ghazi Zaini",
+        "Mohamed H. Essai",
+        "Sahar A. El Rahman",
+        "Osama A. Omer",
+        "Ali R. Abdellah",
+        "Shaima Elnazer"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4205253758",
+      "title": "Index",
+      "doi": "https://doi.org/10.1108/978-1-83982-900-020211035",
+      "year": 2022,
+      "authors": []
+    }
+  ],
+  "indirect_sources_count": 106,
+  "indirect_sources_sample": [
+    {
+      "id": "https://openalex.org/W3109983083",
+      "title": "Flood risk assessment using hybrid artificial intelligence models integrated with multi-criteria decision analysis in Quang Nam Province, Vietnam",
+      "doi": "https://doi.org/10.1016/j.jhydrol.2020.125815",
+      "year": 2020,
+      "authors": [
+        "Binh Thai Pham",
+        "Chinh Luu",
+        "Tran Van Phong",
+        "Huu Duy Nguyen",
+        "Hiep Van Le",
+        "Thai Quoc Tran",
+        "Huong Thu Ta",
+        "Indra Prakash"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4407095344",
+      "title": "Generative AI chatbots for reliable cancer information: Evaluating web-search, multilingual, and reference capabilities of emerging large language models",
+      "doi": "https://doi.org/10.1016/j.ejca.2025.115274",
+      "year": 2025,
+      "authors": [
+        "Bradley D. Menz",
+        "Natansh D. Modi",
+        "Ahmad Y. Abuhelwa",
+        "Warit Ruanglertboon",
+        "Agnès Vitry",
+        "Yuan Gao",
+        "Lee X. Li",
+        "Rakchha Chhetri",
+        "Bianca Chu",
+        "Stephen Bacchi",
+        "Ganessan Kichenadasse",
+        "Adel Shahnam",
+        "Andrew Rowland",
+        "Michael J. Sorich",
+        "Ashley M. Hopkins"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4309865374",
+      "title": "Predicting the risk of osteoporosis in older Vietnamese women using machine learning approaches",
+      "doi": "https://doi.org/10.1038/s41598-022-24181-x",
+      "year": 2022,
+      "authors": [
+        "My Bui",
+        "Minh Hoàng Hà",
+        "Hoang Giang Pham",
+        "Thang Phuoc Dao",
+        "Thuy-Trang Thi Nguyen",
+        "Minh Loi Nguyen",
+        "Ngan Thi Vuong",
+        "Xuyen Hong Thi Hoang",
+        "Loc Tien",
+        "Xuan Thanh Dao",
+        "Cuong Quang Le"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2956118262",
+      "title": "Cross-serotype interactions and disease outcome prediction of dengue infections in Vietnam",
+      "doi": "https://doi.org/10.1038/s41598-019-45816-6",
+      "year": 2019,
+      "authors": [
+        "Ricardo Aguás",
+        "Ilaria Dorigatti",
+        "Laurent Coudeville",
+        "Christine Luxemburger",
+        "Neil M. Ferguson"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3209013861",
+      "title": "IoTs, Machine Learning (ML), AI and Digital Transformation Affects Various Industries - Principles and Cybersecurity Risks Solutions",
+      "doi": "https://doi.org/10.14704/web/v18si04/web18144",
+      "year": 2021,
+      "authors": [
+        "Nguyễn Đình Trung",
+        "Dinh Tran Ngoc Huy",
+        "Trung-Hieu Le"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4280604323",
+      "title": "Predicting Hypertension Based on Machine Learning Methods: A Case Study in Northwest Vietnam",
+      "doi": "https://doi.org/10.1007/s11036-022-01984-w",
+      "year": 2022,
+      "authors": [
+        "Tran Thi Mai Oanh",
+        "Nguyễn Thanh Tùng"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4207093336",
+      "title": "The Impact of Cultural Dimensions of Clinicians on the Adoption of Artificial Intelligence in Healthcare.",
+      "doi": null,
+      "year": 2022,
+      "authors": [
+        "Sabitha Krishnamoorthy",
+        "Easwar Tr",
+        "A Muruganathan",
+        "Sudhakar Ramakrishan",
+        "Saumya Nanda",
+        "Priya Radhakrishnan"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4402676003",
+      "title": "Factors associated with 90-day mortality in Vietnamese stroke patients: Prospective findings compared with explainable machine learning, multicenter study",
+      "doi": "https://doi.org/10.1371/journal.pone.0310522",
+      "year": 2024,
+      "authors": [
+        "Ton Duy",
+        "Dung Tien Nguyen",
+        "Cuong Chi Tran",
+        "Hai Quang Duong",
+        "Hoa N. Nguyen",
+        "Dang Phuc Duc",
+        "Hoàng Bùi Hải",
+        "Hong-Khoi Vo",
+        "Tho Quang Pham",
+        "Hoa Thi Truong",
+        "Minh C. Tran",
+        "Phuong Viet Dao"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3174173373",
+      "title": "Internet of Things (IoT), Artificial Intelligence (AI) Applications for Various Sectors in Emerging Markets - and Risk Management Information System (RMIS) Issues",
+      "doi": null,
+      "year": 2021,
+      "authors": [
+        "Vu Quynh Nam",
+        "Duong Thi Tinh",
+        "Dinh Tran Ngoc Huy",
+        "Trung-Hieu Le",
+        "Lê Thị Hương"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4405104656",
+      "title": "A machine learning-based risk score for prediction of mechanical ventilation in children with dengue shock syndrome: A retrospective cohort study",
+      "doi": "https://doi.org/10.1371/journal.pone.0315281",
+      "year": 2024,
+      "authors": [
+        "Thanh Tat Nguyen",
+        "Luan Thanh Vo",
+        "Đỗ Châu Việt",
+        "Trinh Huu Tung",
+        "Thien Vu"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4205227880",
+      "title": "Use of GIS and machine learning to predict disease in shrimp farmed on the east coast of the Mekong Delta, Vietnam",
+      "doi": "https://doi.org/10.1007/s12562-021-01577-8",
+      "year": 2022,
+      "authors": [
+        "Nguyen Minh Khiem",
+        "Yuki Takahashi",
+        "Hiroki Yasuma",
+        "Đặng Thị Hoàng Oanh",
+        "Trần Ngọc Hải",
+        "Vũ Ngọc Út",
+        "Nobuo KIMURA"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4380988014",
+      "title": "The Utilization of Machine Learning Algorithms for Assisting Physicians in the Diagnosis of Diabetes",
+      "doi": "https://doi.org/10.3390/diagnostics13122087",
+      "year": 2023,
+      "authors": [
+        "Linh Phuong Nguyen",
+        "Do Dinh Tung",
+        "Duong Thanh Nguyen",
+        "Hong Nhung Le",
+        "Trần Quốc Toàn",
+        "Ta Van Binh",
+        "Dung Thuy Nguyen Pham"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4317347026",
+      "title": "Multidimensional Machine Learning for Assessing Parameters Associated With COVID-19 in Vietnam: Validation Study",
+      "doi": "https://doi.org/10.2196/42895",
+      "year": 2023,
+      "authors": [
+        "Tue T. Nguyen",
+        "Ho Cam Tu",
+        "Huong Thi Thu Bui",
+        "Lam Khanh Ho",
+        "Van Thanh Ta"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4402526630",
+      "title": "Effectiveness of artificial intelligence for diabetic retinopathy screening in community in Binh Dinh Province, Vietnam",
+      "doi": "https://doi.org/10.4103/tjo.tjo-d-23-00101",
+      "year": 2024,
+      "authors": [
+        "Thanh Nguyen Van",
+        "Hoang Lan Vo Thi"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4416105290",
+      "title": "AI-Driven Climate-Health Forecasting: A Machine Learning Model for Epidemic Risk Prediction in Ba Ria-Vung Tau, Vietnam",
+      "doi": "https://doi.org/10.1007/s41748-025-00906-6",
+      "year": 2025,
+      "authors": [
+        "Đặng Anh Tuấn"
+      ]
+    }
+  ],
+  "gates": {
+    "g4": "PASS",
+    "g5": "PASS"
+  },
+  "decision": "BRANCH_A (Scoping Review)"
+}
