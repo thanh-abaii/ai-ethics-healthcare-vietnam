@@ -282,3 +282,68 @@ print(f'Duplicates Removed: {dup_count}')
 print(f'Unique Registry Records: {len(unique_registry)}')
 print(f'Registry file: {reg_csv_path}')
 print('==========================================')
+
+# === ROUND 1: TITLE & ABSTRACT SCREENING ===
+round1_results = []
+included_count = 0
+excluded_count = 0
+
+non_health_kw = ['bridge', 'road', 'construction', 'agriculture', 'dengue shock', 'traffic', 'shrimp', 'dermatology', 'dengue']
+
+for rec in unique_registry:
+    t_lower = rec['title'].lower()
+    chan = rec['channel']
+    
+    # Classification logic
+    if chan == 'Legal_Official':
+        rec['screening_recommendation'] = 'INCLUDE_ROUND_1'
+        rec['screening_reason'] = 'Official legal/ethical framework for AI in Vietnam'
+        included_count += 1
+    elif chan == 'Direct_Harvest':
+        rec['screening_recommendation'] = 'INCLUDE_ROUND_1'
+        rec['screening_reason'] = 'Direct research on AI ethics/governance/implementation in Vietnam'
+        included_count += 1
+    else: # Indirect/Contextual
+        if any(kw in t_lower for kw in ['ethics', 'governance', 'policy', 'legal', 'law', 'regulation', 'patient', 'health', 'hospital', 'clinical', 'nursing', 'medical', 'stroke', 'cancer', 'diabetes', 'hypertension', 'osteoporosis']):
+            if any(kw in t_lower for kw in ['bridge', 'road', 'traffic', 'shrimp', 'construction', 'agriculture']):
+                rec['screening_recommendation'] = 'EXCLUDE_ROUND_1'
+                rec['screening_reason'] = 'EX02_NOT_HEALTHCARE (Non-health domain application)'
+                excluded_count += 1
+            else:
+                rec['screening_recommendation'] = 'INCLUDE_ROUND_1'
+                rec['screening_reason'] = 'Contextual health/medical AI application in Vietnam'
+                included_count += 1
+        else:
+            rec['screening_recommendation'] = 'EXCLUDE_ROUND_1'
+            rec['screening_reason'] = 'EX03_NOT_VIETNAM_HEALTH_CONTEXT'
+            excluded_count += 1
+
+    rec['human_approval'] = 'PENDING_HUMAN_APPROVAL'
+    round1_results.append(rec)
+
+scr_csv_path = os.path.join(off_art_dir, 'official-screening-workspace-round-1.csv')
+scr_fnames = ['record_id', 'channel', 'pmid', 'doi', 'openalex_id', 'title', 'year', 'authors', 'screening_recommendation', 'screening_reason', 'human_approval']
+with open(scr_csv_path, 'w', newline='', encoding='utf-8') as f:
+    w = csv.DictWriter(f, fieldnames=scr_fnames)
+    w.writeheader()
+    w.writerows(round1_results)
+
+# Generate Markdown Report
+report_path = os.path.join(off_art_dir, 'screening-round-1-report.md')
+with open(report_path, 'w', encoding='utf-8') as f:
+    f.write(f"# Báo cáo Sàng lọc Vòng 1 (Title & Abstract Screening)\n\n")
+    f.write(f"- **Ngày thực hiện:** 31/07/2026\n")
+    f.write(f"- **Tổng số bản ghi rà soát:** {len(unique_registry)}\n")
+    f.write(f"- **Gợi ý giữ lại (INCLUDE_ROUND_1):** {included_count} bản ghi\n")
+    f.write(f"- **Gợi ý loại trừ (EXCLUDE_ROUND_1):** {excluded_count} bản ghi\n")
+    f.write(f"- **Trạng thái phán quyết con người:** Đang chờ Đào Trung Thành & Lộc Đặng duyệt.\n\n")
+    f.write(f"Workspace file: [`official-screening-workspace-round-1.csv`]({scr_csv_path})\n")
+
+print('\n==========================================')
+print('ROUND 1 TITLE & ABSTRACT SCREENING SUMMARY')
+print(f'Total Evaluated: {len(unique_registry)}')
+print(f'Recommended INCLUDE: {included_count}')
+print(f'Recommended EXCLUDE: {excluded_count}')
+print(f'Screening workspace: {scr_csv_path}')
+print(f'Report file: {report_path}')
+print('==========================================')
