@@ -47,6 +47,7 @@ rich_reasons = {
     'REC_DIR_0039': 'Vai trò điều tiết của dịch vụ AI trong ngành y tế và chất lượng dịch vụ bệnh viện tại Việt Nam.',
     'REC_DIR_0040': 'EX02_NOT_HEALTHCARE (Tiên lượng độ võng của cầu đường - Xây dựng/Hạ tầng, không thuộc y tế).',
     'REC_DIR_0041': 'Xây dựng và thẩm định hệ thống hỗ trợ quyết định lâm sàng (CDSS) dựa trên ML cho bệnh nhân tâm thần phân liệt tại Việt Nam.',
+    'REC_DIR_0042': 'EX02_NOT_HEALTHCARE (Giám sát âm thanh tổ ong dựa trên kỹ thuật IoT-AI - Nông nghiệp).',
     # Batch 3
     'REC_DIR_0043': 'Trực tiếp nghiên cứu thách thức pháp lý và quyền người bệnh trong kỷ nguyên AI đối với sinh viên y khoa Việt Nam.',
     'REC_DIR_0045': 'Khung Agentic AI điều phối luồng công việc lâm sàng thích ứng tại các cơ sở y tế Việt Nam.',
@@ -68,6 +69,7 @@ rich_reasons = {
     'REC_DIR_0062': 'EX03_NOT_VIETNAM_HEALTH_CONTEXT (Bảo vệ thành quả loại trừ sốt rét tại Trung Quốc, không có bối cảnh Việt Nam).',
     'REC_DIR_0063': 'Đánh giá thực chứng việc chấp nhận công nghệ y tế số tại 5 bệnh viện Việt Nam.',
     'REC_DIR_0064': 'EX02_NOT_HEALTHCARE (Áp dụng ML đánh giá sức khỏe kinh tế tư nhân địa phương - Kinh tế/Doanh nghiệp).',
+    'REC_DIR_0065': 'EX02_NOT_HEALTHCARE (Hệ thống giám sát sản xuất thông minh và y tế công nghiệp - Sản xuất/Kỹ thuật).',
     # Batch 4
     'REC_DIR_0066': 'Thẩm định công cụ giám sát trực tuyến và tiên lượng dựa trên ML cho bệnh nhân lọc máu chạy thận nhân tạo tại Việt Nam.',
     'REC_DIR_0067': 'EX02_NOT_HEALTHCARE (Dự báo phát thải khí Mê-tan từ ruộng lúa - Nông nghiệp/Môi trường, không thuộc y tế con người).',
@@ -89,6 +91,7 @@ rich_reasons = {
     'REC_DIR_0084': 'EX02_NOT_HEALTHCARE (Viễn thám ước tính năng suất và rủi ro khí hậu cho cây cà phê ở Tây Nguyên - Nông nghiệp).',
     'REC_DIR_0085': 'Tổng quan nghiên cứu phát triển dữ liệu lớn Dữ liệu gen (Genomics & Big Data) tại Việt Nam — liên quan đạo đức dữ liệu gen y tế.',
     'REC_DIR_0086': 'Khảo sát Kiến thức - Thái độ - Thực hành (KAP) về AI của sinh viên ngành y tế và độ sẵn sàng cho AI.',
+    'REC_DIR_0087': 'EX02_NOT_HEALTHCARE (Giám sát sức chịu tải công trình tòa nhà bằng IoT và AI - Xây dựng).',
     # Batch 5
     'REC_DIR_0088': 'Trực tiếp nghiên cứu khung năng lực và chuẩn mực đạo đức điều dưỡng tại Việt Nam (Chấp thuận bởi Đào Trung Thành: Khung năng lực chứa thành tố đạo đức hành nghề).',
     'REC_DIR_0089': 'Đánh giá công cụ dịch thuật AI cho hướng dẫn xuất viện khoa cấp cứu — an toàn bệnh nhân và giao tiếp y tế.',
