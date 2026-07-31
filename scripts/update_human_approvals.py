@@ -151,7 +151,28 @@ rich_reasons = {
     'REC_IND_0014': 'Trực tiếp đánh giá hiệu quả của AI trong sàng lọc bệnh lý võng mạc đái tháo đường tại cộng đồng tỉnh Bình Định, Việt Nam.',
     'REC_IND_0015': 'Mô hình ML dự báo rủi ro dịch bệnh dựa trên khí hậu - sức khỏe tại Bà Rịa - Vũng Tàu, Việt Nam.',
     'REC_IND_0016': 'Thuật toán ML tiên lượng tử vong nội viện cho bệnh nhân cao tuổi nhồi máu cơ tim tại Việt Nam.',
-    'REC_IND_0017': 'Rà soát phạm vi sử dụng AI trong chương trình sàng lọc ung thư tại các nước ASEAN (bao gồm Việt Nam).'
+    'REC_IND_0017': 'Rà soát phạm vi sử dụng AI trong chương trình sàng lọc ung thư tại các nước ASEAN (bao gồm Việt Nam).',
+    # Batch 8
+    'REC_IND_0018': 'Nghiên cứu ứng dụng phần mềm thống kê, IT và AI trong hành vi vượt tuyến của bệnh nhân tại các bệnh viện Việt Nam.',
+    'REC_IND_0019': 'Tổng quan ứng dụng AI trong nội soi tiêu hóa tại Việt Nam (nghiên cứu lâm sàng thực tế tại Việt Nam).',
+    'REC_IND_0020': 'Mô hình ML tiên lượng tử vong nội viện cho bệnh nhân sốc sốt xuất huyết tại Việt Nam.',
+    'REC_IND_0021': 'Ứng dụng ML phân tầng rủi ro tự kỷ ở trẻ chập chững bằng thang M-CHAT-R tiếng Việt tại Việt Nam.',
+    'REC_IND_0022': 'Rà soát phạm vi ứng dụng AI trong y tế tại Việt Nam — thực trạng và hướng nghiên cứu tương lai.',
+    'REC_IND_0023': 'Nhận diện đặc điểm bệnh nhân ung thư biểu mô tế bào vảy khoang miệng Việt Nam bằng ML trên giải trình tự gen.',
+    'REC_IND_0024': 'EX02_NOT_HEALTHCARE (Dự báo chỉ số sức khỏe thảm thực vật lưu vực sông Srepok - Nông nghiệp/Địa lý).',
+    'REC_IND_0025': 'EX02_NOT_HEALTHCARE (Tiên lượng rủi ro ô nhiễm Asen đồng bằng Sông Hồng - Môi trường/Địa chất).',
+    'REC_IND_0026': 'Mô hình Học máy đa chiều trên 2.173 bệnh nhân COVID-19 tại Việt Nam.',
+    'REC_IND_0027': 'ML xác định sinh dấu sinh học lncRNA cho bệnh sốt xuất huyết nặng tại Việt Nam.',
+    'REC_IND_0028': 'Biểu đồ Nomogram ML tiên lượng hội chứng sốc sốt xuất huyết ở bệnh nhi tại Việt Nam.',
+    'REC_IND_0029': 'EX02_NOT_HEALTHCARE (Bản đồ tiềm năng ô nhiễm Cadmi trong đất bề mặt cho kỹ thuật dân dụng lưu vực sông Gianh - Xây dựng).',
+    'REC_IND_0030': 'Ứng dụng mô hình ngôn ngữ PhoBERT phân loại bệnh dựa trên phân tích triệu chứng tiếng Việt.',
+    'REC_IND_0031': 'EX02_NOT_HEALTHCARE (Dự báo bụi mịn PM2.5 tại tỉnh Bắc Ninh bằng ML - Môi trường).',
+    'REC_IND_0032': 'Mô hình ML tiên lượng động lực dịch bệnh truyền nhiễm dựa trên khí hậu tại Bà Rịa - Vũng Tàu.',
+    'REC_IND_0033': 'Thích ứng và mở rộng can thiệp y tế số nhằm cải thiện sức khỏe bà mẹ và trẻ em phụ nữ dân tộc thiểu số tại Việt Nam.',
+    'REC_IND_0034': 'Phân tích sức khỏe tâm thần trên mạng xã hội cho các ngôn ngữ nguồn lực thấp (bao gồm tiếng Việt).',
+    'REC_IND_0035': 'Áp dụng ML xác định định lượng hoạt chất rau má (Y dược học cổ truyền Việt Nam).',
+    'REC_IND_0036': 'EX02_NOT_HEALTHCARE (Đặc tính phân tử và chỉ thị PCR nhận diện giống gừng tại Thừa Thiên Huế bằng ML - Nông nghiệp).',
+    'REC_IND_0037': 'EX01_NOT_AI (Phân tích tình trạng nha chu các tỉnh Việt Nam từ Điều tra Nha khoa Quốc gia, không có công nghệ AI/ML).'
 }
 
 overrides = ['REC_DIR_0088', 'REC_DIR_0091']
