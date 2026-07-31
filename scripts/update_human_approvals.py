@@ -130,7 +130,28 @@ rich_reasons = {
     'REC_DIR_0134': 'EX02_NOT_HEALTHCARE (An toàn tâm lý và việc chấp nhận AI ảnh hưởng đến kiệt sức nghề nghiệp của giáo viên phổ thông).',
     'REC_DIR_0136': 'Cảm biến sinh hiệu đeo phát hiện sớm sốt xuất huyết nặng và nhiễm trùng huyết tại vùng nguồn lực hạn chế (LMIC/Việt Nam).',
     'REC_DIR_0137': 'EX01_NOT_AI (Đo lường tình cảm chủng tộc trên mạng xã hội - Xã hội học/Truyền thông).',
-    'REC_DIR_0138': 'EX02_NOT_HEALTHCARE (Mô hình dự báo chất lượng không khí dựa trên AI tại TP.HCM - Môi trường).'
+    'REC_DIR_0138': 'EX02_NOT_HEALTHCARE (Mô hình dự báo chất lượng không khí dựa trên AI tại TP.HCM - Môi trường).',
+    # Batch 7
+    'REC_DIR_0139': 'Ý định sử dụng AI trong giáo dục sức khỏe sinh sản và tình dục của giáo viên tiểu học tại Việt Nam.',
+    'REC_DIR_0140': 'Hệ thống trí tuệ địa không gian AI dự báo sớm bệnh sốt xuất huyết khu vực Đông Nam Á (bao gồm Việt Nam).',
+    'REC_DIR_0141': 'Định hướng ứng dụng công nghệ cao và y tế số tại Bệnh viện Thống Nhất (Trung tâm Lão khoa hàng đầu Việt Nam).',
+    'REC_DIR_0142': 'EX01_NOT_AI (Mục lục chỉ mục tạp chí, không có nội dung nghiên cứu).',
+    'REC_DIR_0143': 'Đề cương mô hình tiên lượng và kế hoạch phân tích thống kê bệnh viêm gan B mạn tính tại Việt Nam.',
+    'REC_IND_0001': 'EX02_NOT_HEALTHCARE (Đánh giá rủi ro ngập lụt tại Quảng Nam bằng AI - Môi trường/Địa lý).',
+    'REC_IND_0002': 'Đánh giá khả năng cung cấp thông tin ung thư đa ngôn ngữ của Generative AI Chatbots — giao tiếp y tế bệnh nhân.',
+    'REC_IND_0003': 'Trực tiếp sử dụng ML tiên lượng rủi ro loãng xương ở phụ nữ cao tuổi Việt Nam.',
+    'REC_IND_0004': 'Tiên lượng kết cục bệnh sốt xuất huyết tại Việt Nam (Dữ liệu lâm sàng/Dịch tễ Việt Nam).',
+    'REC_IND_0005': 'EX02_NOT_HEALTHCARE (Tổng quan IoT và AI tác động đến các ngành công nghiệp chung - Kinh tế/An ninh mạng).',
+    'REC_IND_0006': 'Trực tiếp áp dụng ML tiên lượng bệnh tăng huyết áp tại vùng Tây Bắc Việt Nam.',
+    'REC_IND_0008': 'So sánh các yếu tố tử vong do đột quỵ tại Việt Nam với mô hình Học máy có thể giải thích (Explainable AI - XAI).',
+    'REC_IND_0010': 'Trực tiếp xây dựng thang điểm rủi ro ML tiên lượng thở máy cho trẻ em sốc sốt xuất huyết tại Bệnh viện Nhi đồng TP.HCM.',
+    'REC_IND_0011': 'EX02_NOT_HEALTHCARE (Sử dụng GIS và ML dự báo bệnh trên tôm nuôi vùng ĐBSCL - Thủy sản/Nông nghiệp).',
+    'REC_IND_0012': 'Trực tiếp ứng dụng thuật toán ML hỗ trợ bác sĩ chẩn đoán bệnh đái tháo đường tại Việt Nam.',
+    'REC_IND_0013': 'Thẩm định mô hình ML đa chiều đánh giá các thông số liên quan đến COVID-19 tại Việt Nam.',
+    'REC_IND_0014': 'Trực tiếp đánh giá hiệu quả của AI trong sàng lọc bệnh lý võng mạc đái tháo đường tại cộng đồng tỉnh Bình Định, Việt Nam.',
+    'REC_IND_0015': 'Mô hình ML dự báo rủi ro dịch bệnh dựa trên khí hậu - sức khỏe tại Bà Rịa - Vũng Tàu, Việt Nam.',
+    'REC_IND_0016': 'Thuật toán ML tiên lượng tử vong nội viện cho bệnh nhân cao tuổi nhồi máu cơ tim tại Việt Nam.',
+    'REC_IND_0017': 'Rà soát phạm vi sử dụng AI trong chương trình sàng lọc ung thư tại các nước ASEAN (bao gồm Việt Nam).'
 }
 
 overrides = ['REC_DIR_0088', 'REC_DIR_0091']
