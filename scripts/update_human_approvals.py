@@ -46,7 +46,28 @@ rich_reasons = {
     'REC_DIR_0038': 'AI hỗ trợ dịch thuật giao tiếp với bệnh nhân rào cản ngôn ngữ trong chăm sóc y tế.',
     'REC_DIR_0039': 'Vai trò điều tiết của dịch vụ AI trong ngành y tế và chất lượng dịch vụ bệnh viện tại Việt Nam.',
     'REC_DIR_0040': 'EX02_NOT_HEALTHCARE (Tiên lượng độ võng của cầu đường - Xây dựng/Hạ tầng, không thuộc y tế).',
-    'REC_DIR_0041': 'Xây dựng và thẩm định hệ thống hỗ trợ quyết định lâm sàng (CDSS) dựa trên ML cho bệnh nhân tâm thần phân liệt tại Việt Nam.'
+    'REC_DIR_0041': 'Xây dựng và thẩm định hệ thống hỗ trợ quyết định lâm sàng (CDSS) dựa trên ML cho bệnh nhân tâm thần phân liệt tại Việt Nam.',
+    # Batch 3
+    'REC_DIR_0043': 'Trực tiếp nghiên cứu thách thức pháp lý và quyền người bệnh trong kỷ nguyên AI đối với sinh viên y khoa Việt Nam.',
+    'REC_DIR_0045': 'Khung Agentic AI điều phối luồng công việc lâm sàng thích ứng tại các cơ sở y tế Việt Nam.',
+    'REC_DIR_0046': 'Tích hợp AI trong đào tạo y khoa tại Việt Nam dưới các chiều kích con người - tổ chức - công nghệ (HOT).',
+    'REC_DIR_0047': 'Khảo sát góc nhìn của sinh viên y tế Việt Nam về AI và robot trong chăm sóc bệnh nhân và nhu cầu cải cách chương trình.',
+    'REC_DIR_0048': 'EX01_NOT_AI (Bài báo tổng quan chung về Mục tiêu phát triển bền vững LHQ, không có nội dung AI hay y tế VN).',
+    'REC_DIR_0049': 'Trực tiếp nghiên cứu ứng dụng AI trong ngành y tế và các thách thức pháp lý tại Việt Nam.',
+    'REC_DIR_0050': 'Ứng dụng LLM đánh giá năng lực bác sĩ qua tình huống đối thoại lâm sàng thử nghiệm tại Việt Nam.',
+    'REC_DIR_0051': 'Bản thảo rà soát phạm vi chính sách và chương trình y tế số cho bệnh viện Việt Nam.',
+    'REC_DIR_0052': 'Trực tiếp nghiên cứu AI có trách nhiệm (Responsible AI) và điểm tựa quyết định trong ứng phó dịch bệnh tại Việt Nam.',
+    'REC_DIR_0053': 'Thử nghiệm lâm sàng tiến cứu ứng dụng thiết bị đeo và mạng Nơ-ron cho bệnh nhân sốt xuất huyết tại Việt Nam.',
+    'REC_DIR_0054': 'EX02_NOT_HEALTHCARE (Rà soát nghiên cứu hạn hán dựa trên quan sát Trái Đất - Môi trường/Địa lý).',
+    'REC_DIR_0055': 'Kết hợp Học sâu và LLM tự động phân loại thoái hóa khớp gối từ dữ liệu Nghiên cứu Loãng xương Việt Nam.',
+    'REC_DIR_0056': 'EX02_NOT_HEALTHCARE (Định lượng chỉ số diện tích lá rừng ngập mặn từ ảnh vệ tinh - Lâm nghiệp/Môi trường).',
+    'REC_DIR_0057': 'Bản thảo so sánh LLM và công cụ dịch thuật truyền thống trong dịch tóm tắt khám bệnh.',
+    'REC_DIR_0058': 'Phân loại mức độ nghiêm trọng bệnh uốn ván bằng cảm biến đeo tại khoa hồi sức tích cực bệnh viện Việt Nam.',
+    'REC_DIR_0059': 'Khung quản trị dựa trên dữ liệu cho chất lượng y tế đồng tạo lập tại các bệnh viện công Việt Nam.',
+    'REC_DIR_0060': 'Trực tiếp xây dựng bộ benchmark AI hỏi đáp đa chặng về quy định và pháp luật y tế Việt Nam.',
+    'REC_DIR_0062': 'EX03_NOT_VIETNAM_HEALTH_CONTEXT (Bảo vệ thành quả loại trừ sốt rét tại Trung Quốc, không có bối cảnh Việt Nam).',
+    'REC_DIR_0063': 'Đánh giá thực chứng việc chấp nhận công nghệ y tế số tại 5 bệnh viện Việt Nam.',
+    'REC_DIR_0064': 'EX02_NOT_HEALTHCARE (Áp dụng ML đánh giá sức khỏe kinh tế tư nhân địa phương - Kinh tế/Doanh nghiệp).'
 }
 
 rows = []
@@ -71,4 +92,4 @@ with open(csv_path, 'w', newline='', encoding='utf-8') as f:
     writer.writeheader()
     writer.writerows(rows)
 
-print(f"Successfully fixed recommendation and status logic for {len(rich_reasons)} records.")
+print(f"Successfully updated CSV workspace with rich Vietnamese reasons and APPROVED_BY_DAO_TRUNG_THANH for {len(rich_reasons)} records.")
