@@ -1537,15 +1537,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W7134819485",
-      "title": "Improving accuracy, stability, and practicability of poverty-targeting tools in the context of vietnamese ethnic minorities",
-      "doi": "https://doi.org/10.60848/13816",
-      "year": 2025,
-      "authors": [
-        "Be Thanh Duong"
-      ]
-    },
-    {
       "id": "https://openalex.org/W7131858720",
       "title": "Adaptive Modeling for Air Quality: A Continual Learning Framework for PM₂.₅ Estimation in Vietnam",
       "doi": "https://doi.org/10.1109/tgrs.2026.3668935",
@@ -1554,6 +1545,15 @@
         "Phuong D.M. Nguyen",
         "Duy A. Nguyen",
         "Thanh T.N. Nguyen"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7134819485",
+      "title": "Improving accuracy, stability, and practicability of poverty-targeting tools in the context of vietnamese ethnic minorities",
+      "doi": "https://doi.org/10.60848/13816",
+      "year": 2025,
+      "authors": [
+        "Be Thanh Duong"
       ]
     },
     {

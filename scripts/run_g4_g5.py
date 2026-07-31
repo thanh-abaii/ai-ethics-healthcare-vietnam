@@ -394,3 +394,20 @@ print('ROUND 2 DATA EXTRACTION WORKSPACE INITIALIZED')
 print(f'Total Candidates for Full-Text Extraction: {len(ext_rows)}')
 print(f'Extraction Workspace: {ext_csv_path}')
 print('==========================================')
+
+# === BATCH 1 APPROVAL UPDATE ===
+batch_1_ids = ['REC_DIR_0001', 'REC_DIR_0002', 'REC_DIR_0003', 'REC_DIR_0004', 'REC_DIR_0005', 'REC_DIR_0006', 'REC_DIR_0007', 'REC_DIR_0008', 'REC_DIR_0009', 'REC_DIR_0010', 'REC_DIR_0011', 'REC_DIR_0012', 'REC_DIR_0013', 'REC_DIR_0014', 'REC_DIR_0016', 'REC_DIR_0017', 'REC_DIR_0018', 'REC_DIR_0019', 'REC_DIR_0020', 'REC_DIR_0021']
+for r in round1_results:
+    if r['record_id'] in batch_1_ids:
+        r['human_approval'] = 'APPROVED_BY_DAO_TRUNG_THANH'
+        if r['screening_recommendation'] == 'INCLUDE_ROUND_1':
+            r['screening_status_round_1'] = 'PASSED_TO_ROUND_2'
+        else:
+            r['screening_status_round_1'] = 'EXCLUDED_ROUND_1'
+
+with open(scr_csv_path, 'w', newline='', encoding='utf-8') as f:
+    w = csv.DictWriter(f, fieldnames=scr_fnames)
+    w.writeheader()
+    w.writerows(round1_results)
+
+print(f'Updated {len(batch_1_ids)} records in Batch 1 to APPROVED_BY_DAO_TRUNG_THANH in CSV workspace.')
