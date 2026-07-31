@@ -109,7 +109,28 @@ rich_reasons = {
     'REC_DIR_0104': 'EX01_NOT_AI (Xuyên quốc gia hóa giáo dục đại học chung, không có nội dung AI/ML hay y tế).',
     'REC_DIR_0105': 'Trực tiếp xây dựng công cụ AI tiên lượng cá thể hóa triệu chứng bệnh lý tâm thần tại Việt Nam.',
     'REC_DIR_0107': 'EX02_NOT_HEALTHCARE (Dự báo bụi PM2.5 trong mỏ đồng mỏ hở - Khai thác mỏ/Môi trường, không thuộc y tế).',
-    'REC_DIR_0108': 'EX01_NOT_AI (Bằng chứng cho y học dựa trên bằng chứng EBM chung, không có ứng dụng hay quản trị AI/ML).'
+    'REC_DIR_0108': 'EX01_NOT_AI (Bằng chứng cho y học dựa trên bằng chứng EBM chung, không có ứng dụng hay quản trị AI/ML).',
+    # Batch 6
+    'REC_DIR_0109': 'Sử dụng VLM và ML hiểu tài liệu yêu cầu bồi thường (Bảo hiểm y tế/Tài chính y tế) — tác giả Việt Nam.',
+    'REC_DIR_0111': 'EX02_NOT_HEALTHCARE (Mô hình Học liên tục ước tính bụi PM2.5 môi trường tại Việt Nam, không thuộc y tế lâm sàng).',
+    'REC_DIR_0112': 'EX01_NOT_AI (Công cụ nhắm mục tiêu giảm nghèo cho đồng bào dân tộc thiểu số Việt Nam - An sinh xã hội chung).',
+    'REC_DIR_0113': 'EX03_NOT_VIETNAM_HEALTH_CONTEXT (Thư quyết định về mô hình ML ước tính tiêu thụ muối 54 quốc gia, không có bối cảnh VN).',
+    'REC_DIR_0114': 'EX03_NOT_VIETNAM_HEALTH_CONTEXT (Phản hồi tác giả về mô hình ML ước tính tiêu thụ muối 54 quốc gia).',
+    'REC_DIR_0115': 'Kiểm định niềm tin và chứng nhận tin cậy (Trust Certification) cho Enterprise AI Agents trước khi triển khai.',
+    'REC_DIR_0117': 'Thiết kế đánh giá và dịch chuyển lâm sàng cho AI y sinh đáng tin cậy (Trustworthy Biomedical AI).',
+    'REC_DIR_0119': 'EX02_NOT_HEALTHCARE (Ngoại giao số và chính trị quốc tế đối với Việt Nam - Chính trị/Ngoại giao, không thuộc y tế).',
+    'REC_DIR_0122': 'Nhận thức và sự sẵn lòng của phụ huynh Việt Nam khi dùng ứng dụng sức khỏe tâm thần dựa trên Internet cho trẻ em.',
+    'REC_DIR_0123': 'EX01_NOT_AI (Mở đầu đối thoại về tự do ngôn luận - Tạp chí Daedalus, không có nội dung AI hay y tế VN).',
+    'REC_DIR_0124': 'Chương trình quản lý triệu chứng và bài tập kỹ thuật số (i-CanManage) cho phụ nữ Việt Nam sau điều trị ung thư.',
+    'REC_DIR_0125': 'EX02_NOT_HEALTHCARE (Ước tính sinh khối trên mặt đất của rừng ở Đắk Lắk - Lâm nghiệp/Môi trường).',
+    'REC_DIR_0126': 'EX02_NOT_HEALTHCARE (Chuyển đổi số trong phát triển thể dục thể thao trường học tại Việt Nam - Giáo dục thể chất).',
+    'REC_DIR_0127': 'Khôi phục bất bình đẳng sức khỏe (Health Disparities) khi thiếu hụt dữ liệu — liên quan đạo đức dữ liệu y tế.',
+    'REC_DIR_0129': 'Đánh giá độ chính xác chẩn đoán và tiết kiệm nguồn lực cho xét nghiệm lao phổi tại Việt Nam.',
+    'REC_DIR_0131': 'Nghiên cứu định tính về thực trạng và tương lai chấp nhận AI trong hệ thống y tế Đông Nam Á (bao gồm Việt Nam).',
+    'REC_DIR_0134': 'EX02_NOT_HEALTHCARE (An toàn tâm lý và việc chấp nhận AI ảnh hưởng đến kiệt sức nghề nghiệp của giáo viên phổ thông).',
+    'REC_DIR_0136': 'Cảm biến sinh hiệu đeo phát hiện sớm sốt xuất huyết nặng và nhiễm trùng huyết tại vùng nguồn lực hạn chế (LMIC/Việt Nam).',
+    'REC_DIR_0137': 'EX01_NOT_AI (Đo lường tình cảm chủng tộc trên mạng xã hội - Xã hội học/Truyền thông).',
+    'REC_DIR_0138': 'EX02_NOT_HEALTHCARE (Mô hình dự báo chất lượng không khí dựa trên AI tại TP.HCM - Môi trường).'
 }
 
 overrides = ['REC_DIR_0088', 'REC_DIR_0091']
@@ -141,4 +162,4 @@ with open(csv_path, 'w', newline='', encoding='utf-8') as f:
     writer.writeheader()
     writer.writerows(rows)
 
-print(f"Successfully updated CSV workspace with rich reasons and approvals for {len(rich_reasons)} records, including {len(overrides)} human overrides.")
+print(f"Successfully updated CSV workspace with rich reasons and approvals for {len(rich_reasons)} records.")
