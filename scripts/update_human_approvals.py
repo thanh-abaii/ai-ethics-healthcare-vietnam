@@ -193,7 +193,33 @@ rich_reasons = {
     'REC_IND_0056': 'Khai thác AI dự báo sốt xuất huyết tại Bà Rịa - Vũng Tàu, Việt Nam.',
     'REC_IND_0057': 'Mô hình ML tiên lượng phản ứng có hại nghiêm trọng trên da do thuốc Carbamazepine/Allopurinol ở bệnh nhân Việt Nam.',
     'REC_IND_0058': 'Cập nhật phân số dự trữ dòng chảy (FFR) từ chụp CT mạch vành bằng AI tại Châu Á và Việt Nam.',
-    'REC_IND_0060': 'Bản thảo thẩm định mô hình Học máy đa chiều đánh giá thông số liên quan COVID-19 tại Việt Nam.'
+    'REC_IND_0060': 'Bản thảo thẩm định mô hình Học máy đa chiều đánh giá thông số liên quan COVID-19 tại Việt Nam.',
+    # Batch 10
+    'REC_IND_0061': 'Phân tích ML dịch tễ học sinh thái bệnh sán lá gan tại Miền Bắc Việt Nam và Miền Nam Trung Quốc.',
+    'REC_IND_0062': 'Kết hợp Google Trends và mô hình ML dự báo dịch bệnh sốt xuất huyết tại các tỉnh Việt Nam.',
+    'REC_IND_0063': 'Trực tiếp ứng dụng AI phát triển mô hình nhận diện trạng thái hưng cảm (Mania) dựa trên giọng nói bệnh nhân tại Việt Nam.',
+    'REC_IND_0064': 'EX02_NOT_HEALTHCARE (Mô hình nền tảng GPTViet tiếng Việt mã nguồn mở chung, không chuyên biệt về y tế).',
+    'REC_IND_0065': 'Tiên lượng kết cục chức năng sớm sau đột quỵ thiếu máu cục bộ cấp bằng dữ liệu lâm sàng thực tế tại Việt Nam.',
+    'REC_IND_0066': 'Thuật toán AI phân tích tiếng ho sàng lọc lao phổi (thử nghiệm tại Việt Nam - Nguyễn Việt Nhung et al.).',
+    'REC_IND_0067': 'Học chuyển giao (Transfer Learning) tăng cường tiên lượng kết cục thần kinh cấp cứu ngừng tuần hoàn ngoại viện (dữ liệu Việt Nam).',
+    'REC_IND_0068': 'Tính khả thi và độ chính xác của AI tự động đánh giá phân suất tống máu thất trái trên siêu âm tim tại Việt Nam.',
+    'REC_IND_0069': 'Công cụ AI phát hiện mức độ nghiêm trọng cho bệnh nhân mắc bệnh truyền nhiễm tại các bệnh viện Việt Nam.',
+    'REC_IND_0070': 'Ứng dụng y tế di động (mHealth) sàng lọc thị giác màu và tư vấn tại Việt Nam.',
+    'REC_IND_0071': 'EX02_NOT_HEALTHCARE (Mô hình ML xây dựng bản đồ nhạy cảm cháy rừng tại tỉnh Gia Lai - Lâm nghiệp/Môi trường).',
+    'REC_IND_0072': 'Bản thảo thử nghiệm mở rộng can thiệp y tế số cải thiện sức khỏe bà mẹ và trẻ em dân tộc thiểu số Việt Nam.',
+    'REC_IND_0073': 'Khai thác AI và Transfer Learning tiên lượng cấp cứu ngừng tuần hoàn ngoại viện (bao gồm bệnh nhân Việt Nam).',
+    'REC_IND_0074': 'Sinh dấu sinh học rủi ro tim mạch từ võng mạc dựa trên AI phản ánh gánh nặng bệnh mạch vành (Hoàng Tiến Tùng, Nguyễn Lạn Hiếu et al.).',
+    'REC_IND_0076': 'Khảo sát thực chứng việc sử dụng ChatGPT trong học tập của học viên sau đại học ngành y tế tại Việt Nam.',
+    'REC_IND_0077': 'EX02_NOT_HEALTHCARE (Dự báo chỉ số chất lượng không khí bằng mô hình ML LSTM - Môi trường).',
+    'REC_IND_0078': 'Trực tiếp áp dụng AI/ML tiên lượng bệnh gan nhiễm mỡ không do rượu dựa trên dữ liệu nhân trắc và xét nghiệm người Việt Nam.',
+    'REC_IND_0079': 'EX02_NOT_HEALTHCARE (Dữ liệu mạng xã hội hỗ trợ hậu cần cứu trợ nhân đạo sau bão Yagi - Hậu cần/Thiên tai).',
+    'REC_IND_0080': 'Thử nghiệm tính khả thi của các mô hình AI thời gian thực cho nhiệm vụ lâm sàng bệnh uốn ván tại Việt Nam.',
+    'REC_IND_0081': 'EX02_NOT_HEALTHCARE (Bản đồ phân giải nồng độ bụi PM2.5 theo ngày tại TP.HCM - Môi trường).',
+    'REC_IND_0082': 'EX01_NOT_AI (Tiến trình phát triển xét nghiệm sàng lọc nhanh lao phổi, không có công nghệ AI/ML).',
+    'REC_IND_0083': 'EX01_NOT_AI (Bài tòa soạn vi rút Bunyavirus lây truyền qua ve, không có công nghệ AI/ML).',
+    'REC_IND_0084': 'Trực tiếp phân tích lâm sàng và hình ảnh thần kinh ở bệnh nhân nhồi máu não cấp bằng phần mềm AI RAPID tại Việt Nam.',
+    'REC_IND_0085': 'Xây dựng các mô hình AI phát hiện mức độ suy dinh dưỡng — ứng dụng lâm sàng từ nhóm tác giả Việt Nam.',
+    'REC_IND_0086': 'EX01_NOT_AI (Bài tòa soạn về phòng chống HIV/AIDS, không có nội dung AI/ML).'
 }
 
 overrides = ['REC_DIR_0088', 'REC_DIR_0091']
@@ -225,4 +251,4 @@ with open(csv_path, 'w', newline='', encoding='utf-8') as f:
     writer.writeheader()
     writer.writerows(rows)
 
-print(f"Successfully updated CSV workspace with rich reasons and approvals for {len(rich_reasons)} records.")
+print(f"Successfully updated CSV workspace with rich reasons and approvals for ALL {len(rich_reasons)} records.")
