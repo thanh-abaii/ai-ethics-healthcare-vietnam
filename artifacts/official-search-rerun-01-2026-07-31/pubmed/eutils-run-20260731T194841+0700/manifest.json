@@ -1,0 +1,31 @@
+{
+  "run_id": "official-search-rerun-01-2026-07-31-pubmed-eutils-20260731T194841+0700",
+  "status": "FAIL_CLOSED_RAW_EXPORT_UNAVAILABLE",
+  "source": "NCBI E-utilities REST API",
+  "query_source": "frozen OSF search-strategy.md section 4.1",
+  "query_file": "pubmed-query-verbatim.txt",
+  "query_sha256": "2DA4544178B1FBFA64395C16CA65D919014D73F2C6D535B64217C068D4668BFA",
+  "started_at_local": "2026-07-31T19:48:41.3533802+07:00",
+  "steps": [],
+  "screening_or_extraction": "NOT_STARTED",
+  "failure": "Conversion from JSON failed with error: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.",
+  "raw_record_count": null,
+  "completed_at_local": "2026-07-31T19:48:42.9272511+07:00",
+  "files": [
+    {
+      "file": "esearch-response.headers.txt",
+      "bytes": 770,
+      "sha256": "DF460F06718B103A978B8C7D7CEF1CF9196A63C516615AB8395AF7258176DCE4"
+    },
+    {
+      "file": "esearch-response.json",
+      "bytes": 3872,
+      "sha256": "A0C961A6ABD2FA3C0D047AEB038C82EC5638E47CBE8383B84F1BE31648B690BB"
+    },
+    {
+      "file": "pubmed-query-verbatim.txt",
+      "bytes": 1387,
+      "sha256": "2DA4544178B1FBFA64395C16CA65D919014D73F2C6D535B64217C068D4668BFA"
+    }
+  ]
+}

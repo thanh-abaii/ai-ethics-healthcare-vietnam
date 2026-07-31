@@ -1,0 +1,8 @@
+{
+  "channel": "OpenAlex",
+  "status": "FAIL_CLOSED",
+  "reason": "HTTP_ERROR: OpenAlex returned HTTP 429 on page 1",
+  "screening_or_extraction_performed": false,
+  "prisma_use_allowed": false,
+  "generated_at_utc": "2026-07-31T12:35:42.0676797Z"
+}

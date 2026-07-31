@@ -10,7 +10,7 @@
 2. Chỉ record có raw artifact, checksum, query/portal ID và provenance event mới được nhập registry rerun.
 3. Registry dùng schema 42 trường của `record-registry-template.csv`, append-only; canonicalization toàn cục diễn ra trước sàng lọc.
 4. Không tạo quyết định sàng lọc hay extraction trong lúc các kênh tìm kiếm, citation chasing, dedup và gate chưa hoàn tất.
-5. Bác Đào và Lộc Đặng sẽ sàng lọc độc lập sau khi registry đầu vào chính thức được khóa; khuyến nghị AI chỉ là hỗ trợ, không thay quyết định của hai người.
+5. Đào Trung Thành và Lộc Đặng sẽ sàng lọc độc lập sau khi registry đầu vào chính thức được khóa; khuyến nghị AI chỉ là hỗ trợ, không thay quyết định của hai người.
 
 ## Điều kiện hoàn thành official search
 

@@ -1,0 +1,25 @@
+HTTP/1.1 302 Found
+Date: Fri, 31 Jul 2026 12:48:42 GMT
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: origin-when-cross-origin
+Location: https://misuse.ncbi.nlm.nih.gov/error/abuse.shtml?orig_args=/entrez/eutils/esearch.fcgi
+Content-Length: 311
+Content-Type: text/html; charset=iso-8859-1
+Via: 1.1 google
+Alt-Svc: clear
+
+HTTP/1.1 200 OK
+Date: Fri, 31 Jul 2026 12:48:43 GMT
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+CAF: 2.0.1
+Upgrade: h2,h2c
+Connection: Upgrade
+Accept-Ranges: bytes
+X-UA-Compatible: IE=Edge
+X-XSS-Protection: 1; mode=block
+Transfer-Encoding: chunked
+Content-Type: text/html
+

@@ -1,0 +1,5 @@
+{
+  "status": "PARTIAL_PROVENANCE",
+  "reason": "The client wrote and hash-verified all six artifacts but did not expose HTTP response headers after using OutFile. HTTP status, ETag and Last-Modified are deliberately recorded as unavailable rather than inferred.",
+  "effect": "The files remain raw official artifacts with source URL, retrieval timestamp, stable locator and SHA-256. A future rerun that requires header provenance must capture it prospectively; this harvest must not be upgraded by inference."
+}

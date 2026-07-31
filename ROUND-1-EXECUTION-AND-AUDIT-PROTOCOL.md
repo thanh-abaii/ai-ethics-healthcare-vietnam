@@ -1,4 +1,21 @@
-# TRÌNH TỰ THỰC HIỆN VÀ PHƯƠNG PHÁP KIỂM TOÁN VÒNG 1 (ROUND 1 EXECUTION & AUDIT PROTOCOL)
+# THỬ NGHIỆM CHƯA HOÀN CHỈNH — KHÔNG DÙNG CHO PRISMA/CORPUS
+
+| Trường | Giá trị |
+| --- | --- |
+| Trạng thái | `FROZEN_LEGACY_EXPERIMENT_NOT_FOR_PRISMA` |
+| Ngày đóng băng | 31/07/2026 |
+| Phạm vi được giữ lại | Nhật ký thử nghiệm, snapshot OpenAlex và dấu vết quyết định của PI; không phải official search hợp lệ. |
+| Tham chiếu vận hành | [`OFFICIAL-SEARCH-REEXECUTION-RUNBOOK.md`](OFFICIAL-SEARCH-REEXECUTION-RUNBOOK.md) — không phải protocol hay amendment |
+
+## Tuyên bố đóng băng
+
+Tài liệu dưới đây được giữ nguyên như mô tả một thử nghiệm workflow do Antigravity hỗ trợ. Nó không phải protocol thực thi đang hoạt động và không được dùng để tạo count PRISMA, corpus, kết quả sàng lọc hoặc bảng trích xuất.
+
+Lý do: mô tả số liệu trong tài liệu không khớp audit trail thực tế (`242 = 208 UNIQUE + 34 DUPLICATE_MERGED`, không phải 258–289/50); provenance theo record không đủ; phạm vi query/kênh và taxonomy loại trừ lệch protocol OSF/codebook; và workflow đã đi tới extraction trước sàng lọc toàn văn kép. Tất cả artifact cũ được giữ để phản biện có thể kiểm toán sai lệch này, không được sửa ngược.
+
+---
+
+# TRÌNH TỰ THỰC HIỆN VÀ PHƯƠNG PHÁP KIỂM TOÁN VÒNG 1 (BẢN THỬ NGHIỆM LƯU TRỮ)
 
 **Dự án:** Scoping Review về Đạo đức và Quản trị AI Y tế tại Việt Nam  
 **Đơn vị/Tác giả:** Đào Trung Thành (PI)  
