@@ -322,7 +322,7 @@ for rec in unique_registry:
     round1_results.append(rec)
 
 scr_csv_path = os.path.join(off_art_dir, 'official-screening-workspace-round-1.csv')
-scr_fnames = ['record_id', 'channel', 'pmid', 'doi', 'openalex_id', 'title', 'year', 'authors', 'screening_recommendation', 'screening_reason', 'human_approval']
+scr_fnames = ['record_id', 'channel', 'pmid', 'doi', 'openalex_id', 'title', 'year', 'authors', 'dedup_status', 'screening_status_round_1', 'screening_recommendation', 'screening_reason', 'human_approval']
 with open(scr_csv_path, 'w', newline='', encoding='utf-8') as f:
     w = csv.DictWriter(f, fieldnames=scr_fnames)
     w.writeheader()
