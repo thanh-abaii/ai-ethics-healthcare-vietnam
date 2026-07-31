@@ -172,7 +172,28 @@ rich_reasons = {
     'REC_IND_0034': 'Phân tích sức khỏe tâm thần trên mạng xã hội cho các ngôn ngữ nguồn lực thấp (bao gồm tiếng Việt).',
     'REC_IND_0035': 'Áp dụng ML xác định định lượng hoạt chất rau má (Y dược học cổ truyền Việt Nam).',
     'REC_IND_0036': 'EX02_NOT_HEALTHCARE (Đặc tính phân tử và chỉ thị PCR nhận diện giống gừng tại Thừa Thiên Huế bằng ML - Nông nghiệp).',
-    'REC_IND_0037': 'EX01_NOT_AI (Phân tích tình trạng nha chu các tỉnh Việt Nam từ Điều tra Nha khoa Quốc gia, không có công nghệ AI/ML).'
+    'REC_IND_0037': 'EX01_NOT_AI (Phân tích tình trạng nha chu các tỉnh Việt Nam từ Điều tra Nha khoa Quốc gia, không có công nghệ AI/ML).',
+    # Batch 9
+    'REC_IND_0038': 'Nhận diện rủi ro loãng xương ở phụ nữ cao tuổi Việt Nam bằng AI và Học máy.',
+    'REC_IND_0039': 'Ứng dụng ML đánh giá sinh dấu sinh học tiên lượng hội chứng sốc sốt xuất huyết ở trẻ em Việt Nam.',
+    'REC_IND_0040': 'Sử dụng ML tiên lượng thu nhận tinh trùng trong điều trị vô sinh nam (Micro-TESE) tại Việt Nam.',
+    'REC_IND_0041': 'Bản thảo so sánh LLM và dịch thuật truyền thống trong dịch tóm tắt khám bệnh y khoa.',
+    'REC_IND_0042': 'Đánh giá so sánh ChatGPT và Google Translate trong dịch hướng dẫn xuất viện — an toàn giao tiếp y tế.',
+    'REC_IND_0043': 'EX02_NOT_HEALTHCARE (Phôi phục cảnh quan rừng và dịch vụ hệ sinh thái huyện A Lưới, Thừa Thiên Huế - Lâm nghiệp).',
+    'REC_IND_0044': 'Tiên lượng rủi ro ác tính buồng trứng từ ghi chú y khoa bằng AI — nghiên cứu lâm sàng tại Việt Nam.',
+    'REC_IND_0045': 'Chatbot thay đổi hành vi dựa trên bằng chứng ứng phó COVID-19 — giao tiếp y tế bệnh nhân.',
+    'REC_IND_0046': 'EX03_NOT_VIETNAM_HEALTH_CONTEXT (Trung tâm Quản lý Chuyển hóa Trung Quốc, không thuộc bối cảnh thể chế Việt Nam).',
+    'REC_IND_0047': 'Trực tiếp ứng dụng AI trong sàng lọc rối loạn phổ tự kỷ ở trẻ em tại Bệnh viện Nhi đồng Cần Thơ, Việt Nam.',
+    'REC_IND_0048': 'Rà soát phạm vi các mô hình ML tiên lượng tái nhập viện do bệnh tim mạch ở người cao tuổi.',
+    'REC_IND_0051': 'Trực tiếp ứng dụng AI hỗ trợ sàng lọc phát hiện loãng xương qua phim X-quang khung chậu cho người trưởng thành Việt Nam.',
+    'REC_IND_0052': 'Nomogram ML tiên lượng hội chứng sốc sốt xuất huyết trên 4.522 trẻ em Đông Nam Á (bao gồm Việt Nam).',
+    'REC_IND_0053': 'Trực tiếp tiên lượng rủi ro cá thể hóa bằng dữ liệu lâm sàng cho trẻ em sốt xuất huyết tại Việt Nam và Thái Lan.',
+    'REC_IND_0054': 'Áp dụng ML tiên lượng mối quan hệ giữa ô nhiễm không khí, bất bình đẳng sức khỏe và ung thư phổi tại Việt Nam.',
+    'REC_IND_0055': 'Trực tiếp xây dựng và thẩm định mô hình ML tiên lượng trẻ sinh nhẹ cân tại Việt Nam.',
+    'REC_IND_0056': 'Khai thác AI dự báo sốt xuất huyết tại Bà Rịa - Vũng Tàu, Việt Nam.',
+    'REC_IND_0057': 'Mô hình ML tiên lượng phản ứng có hại nghiêm trọng trên da do thuốc Carbamazepine/Allopurinol ở bệnh nhân Việt Nam.',
+    'REC_IND_0058': 'Cập nhật phân số dự trữ dòng chảy (FFR) từ chụp CT mạch vành bằng AI tại Châu Á và Việt Nam.',
+    'REC_IND_0060': 'Bản thảo thẩm định mô hình Học máy đa chiều đánh giá thông số liên quan COVID-19 tại Việt Nam.'
 }
 
 overrides = ['REC_DIR_0088', 'REC_DIR_0091']
