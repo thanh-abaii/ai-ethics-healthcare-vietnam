@@ -5,6 +5,7 @@ root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 csv_path = os.path.join(root_dir, 'artifacts', 'official-search-run-2026-07-31', 'official-screening-workspace-round-1.csv')
 
 rich_reasons = {
+    # Batch 1
     'REC_DIR_0001': 'Trực tiếp nghiên cứu chính sách y tế số và chương trình triển khai tại các bệnh viện Việt Nam.',
     'REC_DIR_0002': 'Đánh giá độ sẵn sàng cho AI trong hệ thống thông tin y tế Việt Nam, liên quan trực tiếp đến thể chế và hạ tầng.',
     'REC_DIR_0003': 'Tinh chỉnh LLM cho giao tiếp y tế ngôn ngữ nguồn lực thấp (tiếng Việt), chạm đến an toàn và văn hóa tiếp cận.',
@@ -25,6 +26,7 @@ rich_reasons = {
     'REC_DIR_0019': 'EX01_NOT_AI (Nghiên cứu kinh tế y tế và chi tiêu nghèo năng lượng, không liên quan đến công nghệ AI/ML).',
     'REC_DIR_0020': 'Giải quyết vấn đề bảo mật dữ liệu y tế (Differential Privacy) trong AI phân loại X-quang ngực.',
     'REC_DIR_0021': 'Đánh giá an toàn và độ chính xác của LLM khi dịch tóm tắt tư vấn y khoa.',
+    # Batch 2
     'REC_DIR_0022': 'Trực tiếp nghiên cứu cơ hội và thách thức khi sử dụng AI trong đào tạo y khoa tại Việt Nam.',
     'REC_DIR_0023': 'Đánh giá độ chính xác của AI dịch hướng dẫn xuất viện (bao gồm bản tiếng Việt), liên quan an toàn bệnh nhân.',
     'REC_DIR_0024': 'EX01_NOT_AI (Nghiên cứu chênh lệch giới trong đại dịch COVID-19 chung, không liên quan đến công nghệ hay quản trị AI/ML).',
@@ -53,12 +55,15 @@ with open(csv_path, 'r', encoding='utf-8') as f:
     fieldnames = reader.fieldnames
     for r in reader:
         if r['record_id'] in rich_reasons:
-            r['screening_reason'] = rich_reasons[r['record_id']]
+            reason = rich_reasons[r['record_id']]
+            r['screening_reason'] = reason
             r['human_approval'] = 'APPROVED_BY_DAO_TRUNG_THANH'
-            if r['screening_recommendation'] == 'INCLUDE_ROUND_1':
-                r['screening_status_round_1'] = 'PASSED_TO_ROUND_2'
-            else:
+            if reason.startswith('EX0') or 'EX0' in reason:
+                r['screening_recommendation'] = 'EXCLUDE_ROUND_1'
                 r['screening_status_round_1'] = 'EXCLUDED_ROUND_1'
+            else:
+                r['screening_recommendation'] = 'INCLUDE_ROUND_1'
+                r['screening_status_round_1'] = 'PASSED_TO_ROUND_2'
         rows.append(r)
 
 with open(csv_path, 'w', newline='', encoding='utf-8') as f:
@@ -66,4 +71,4 @@ with open(csv_path, 'w', newline='', encoding='utf-8') as f:
     writer.writeheader()
     writer.writerows(rows)
 
-print(f"Successfully updated CSV workspace with rich Vietnamese reasons and APPROVED_BY_DAO_TRUNG_THANH for {len(rich_reasons)} records.")
+print(f"Successfully fixed recommendation and status logic for {len(rich_reasons)} records.")
