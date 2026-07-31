@@ -3,6 +3,8 @@
 
 [![OSF Registration](https://img.shields.io/badge/OSF%20Registration-62b8w-blue.svg)](https://osf.io/62b8w/)
 [![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2F62B8W-green.svg)](https://doi.org/10.17605/OSF.IO/62B8W)
+[![Target Journal](https://img.shields.io/badge/Target%20Journal-Ho%20Chi%20Minh%20City%20Journal%20of%20Medicine-104c8f.svg)](https://tapchiyhoctphcm.vn)
+[![AI Policy](https://img.shields.io/badge/AI%20Policy-Compliant-brightgreen.svg)](https://tapchiyhoctphcm.vn/su-dung-ai)
 [![Feasibility Pilot](https://img.shields.io/badge/Feasibility%20Pilot-PASS%20%28Branch%20A%29-success.svg)](g4-g5-feasibility-pilot-2026-07-31.md)
 [![PRISMA-ScR](https://img.shields.io/badge/Standard-PRISMA--ScR-orange.svg)](prisma-scr-checklist.md)
 
@@ -14,6 +16,12 @@
 This repository contains the registered protocol, search strategy, audit trail artifacts, and feasibility pilot results for the research study: **"Ethical and Responsible AI Implementation in Healthcare in Vietnam: A Systematic Scoping Review."**
 
 The project follows a rigorous two-stage Open Science architecture aligned with the **PRISMA-ScR** (Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews) guidelines and registered on OSF under DOI [10.17605/OSF.IO/62B8W](https://doi.org/10.17605/OSF.IO/62B8W).
+
+### Target Journal & AI Policy Compliance
+- **Target Publication Venue:** **Ho Chi Minh City Journal of Medicine** (*Tạp chí Y học Thành phố Hồ Chí Minh* — [tapchiyhoctphcm.vn](https://tapchiyhoctphcm.vn)).
+- **AI Policy Compliance:** This research strictly adheres to the official **AI Usage Policy** of the *Ho Chi Minh City Journal of Medicine* ([https://tapchiyhoctphcm.vn/su-dung-ai](https://tapchiyhoctphcm.vn/su-dung-ai)):
+  1. **Authorship Accountability:** AI tools (LLMs / agent CLI) are **not** credited as authors or co-authors. The human authors (Đào Trung Thành and Lộc Đặng) maintain full accountability for the accuracy, scientific integrity, interpretations, and conclusions of the manuscript.
+  2. **Transparent Disclosure:** Artificial Intelligence tools were utilized strictly for automated API data harvesting, JSON/NBIB metadata extraction, syntax verification, and formatting helper scripts. All raw search outputs, execution scripts, and SHA-256 checksums are disclosed transparently in this open repository for auditability.
 
 ### Research Status & Gate Decisions
 - **OSF Pre-registration:** Locked and public (OSF Identifier: [`62b8w`](https://osf.io/62b8w/)).
@@ -39,6 +47,12 @@ The project follows a rigorous two-stage Open Science architecture aligned with 
 Kho lưu trữ này chứa protocol đăng ký trước, chiến lược tìm kiếm, nhật ký lưu vết thẩm định và kết quả chạy thử nghiệm khả thi (pilot) cho đề tài: **"Triển khai AI có đạo đức và trách nhiệm trong Y tế tại Việt Nam: Tổng quan phạm vi hệ thống."**
 
 Dự án áp dụng kiến trúc Khoa học mở (Open Science) hai tầng tuân thủ nghiêm ngặt chuẩn quốc tế **PRISMA-ScR** và đã được đăng ký chính thức trên OSF tại DOI [10.17605/OSF.IO/62B8W](https://doi.org/10.17605/OSF.IO/62B8W).
+
+### Mục tiêu xuất bản & Tuân thủ quy định sử dụng AI
+- **Nơi đăng ký xuất bản mục tiêu:** **Tạp chí Y học Thành phố Hồ Chí Minh** ([tapchiyhoctphcm.vn](https://tapchiyhoctphcm.vn)).
+- **Tuân thủ quy định sử dụng AI:** Nghiên cứu tuân thủ 100% **"Quy định công khai về sử dụng Trí tuệ nhân tạo"** của *Tạp chí Y học Thành phố Hồ Chí Minh* ([https://tapchiyhoctphcm.vn/su-dung-ai](https://tapchiyhoctphcm.vn/su-dung-ai)):
+  1. **Trách nhiệm tác giả:** AI (các mô hình ngôn ngữ lớn / Agent CLI) **không đứng tên tác giả hoặc đồng tác giả**. Nhóm tác giả con người (Đào Trung Thành và Lộc Đặng) chịu trách nhiệm hoàn toàn về tính chính xác, tính trung thực khoa học, diễn giải và kết luận của bản thảo.
+  2. **Khai báo minh bạch:** Công cụ AI chỉ được sử dụng để hỗ trợ thu thập dữ liệu API tự động, xuất metadata JSON/NBIB, kiểm tra cú pháp và viết script hỗ trợ định dạng. Toàn bộ kết quả tìm kiếm thô, script thực thi và mã băm SHA-256 đều được công khai minh bạch trong kho lưu trữ này để phục vụ thẩm định.
 
 ### Trạng thái nghiên cứu và Quyết định cổng (Gates)
 - **Đăng ký OSF:** Đã khóa bất biến và công khai (Mã OSF: [`62b8w`](https://osf.io/62b8w/)).
@@ -73,5 +87,6 @@ If you reference this dataset or protocol in your academic work, please cite:
 }
 ```
 
+* **Target Journal:** Ho Chi Minh City Journal of Medicine (*Tạp chí Y học Thành phố Hồ Chí Minh*).
 * **License:** Creative Commons Attribution 4.0 International (CC BY 4.0).
 * **Repository Maintainer:** Đào Trung Thành (`daotrungthanh2021@gmail.com`).
