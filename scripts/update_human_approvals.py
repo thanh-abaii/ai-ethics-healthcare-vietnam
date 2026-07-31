@@ -88,8 +88,31 @@ rich_reasons = {
     'REC_DIR_0083': 'EX03_NOT_VIETNAM_HEALTH_CONTEXT (Mô hình nhận dạng hoạt động con người bằng Học sâu chung, không có bối cảnh y tế hay thể chế Việt Nam).',
     'REC_DIR_0084': 'EX02_NOT_HEALTHCARE (Viễn thám ước tính năng suất và rủi ro khí hậu cho cây cà phê ở Tây Nguyên - Nông nghiệp).',
     'REC_DIR_0085': 'Tổng quan nghiên cứu phát triển dữ liệu lớn Dữ liệu gen (Genomics & Big Data) tại Việt Nam — liên quan đạo đức dữ liệu gen y tế.',
-    'REC_DIR_0086': 'Khảo sát Kiến thức - Thái độ - Thực hành (KAP) về AI của sinh viên ngành y tế và độ sẵn sàng cho AI.'
+    'REC_DIR_0086': 'Khảo sát Kiến thức - Thái độ - Thực hành (KAP) về AI của sinh viên ngành y tế và độ sẵn sàng cho AI.',
+    # Batch 5
+    'REC_DIR_0088': 'Trực tiếp nghiên cứu khung năng lực và chuẩn mực đạo đức điều dưỡng tại Việt Nam (Chấp thuận bởi Đào Trung Thành: Khung năng lực chứa thành tố đạo đức hành nghề).',
+    'REC_DIR_0089': 'Đánh giá công cụ dịch thuật AI cho hướng dẫn xuất viện khoa cấp cứu — an toàn bệnh nhân và giao tiếp y tế.',
+    'REC_DIR_0090': 'Tổng quan ứng dụng AI trong Chẩn đoán trong ống nghiệm (IVD) — thiết bị y tế và hỗ trợ quyết định lâm sàng.',
+    'REC_DIR_0091': 'Nghiên cứu bối cảnh về hạ tầng thu thập và quản trị dữ liệu bệnh nhân ung thư tại Châu Á/Việt Nam (Chấp thuận bởi Đào Trung Thành: Quản trị dữ liệu bệnh nhân là nền tảng cho AI).',
+    'REC_DIR_0092': 'Trực tiếp xây dựng bộ benchmark ML tiếng Việt (Neurai-VN) cho phân loại kiểu hình số sức khỏe tâm thần tại Việt Nam.',
+    'REC_DIR_0093': 'Phát triển và đánh giá trợ lý giảng dạy AI Socratic cho đào tạo Y học cổ truyền Việt Nam.',
+    'REC_DIR_0094': 'Trực tiếp khảo sát thực trạng sử dụng ChatGPT và các yếu tố ảnh hưởng đối với sinh viên Đại học Y Hà Nội.',
+    'REC_DIR_0095': 'EX02_NOT_HEALTHCARE (Ứng dụng AI trong ngành xây dựng - Xây dựng/Hạ tầng, không thuộc y tế).',
+    'REC_DIR_0096': 'Trực tiếp khảo sát KAP về AI trong học tập và nghiên cứu của sinh viên y khoa trên toàn quốc tại Việt Nam.',
+    'REC_DIR_0097': 'Khoa học dữ liệu và bình đẳng dữ liệu (Data Equity) trong ứng phó tình huống y tế khẩn cấp.',
+    'REC_DIR_0098': 'Chẩn đoán COVID-19 thời gian thực bằng kỹ thuật Học máy (ML) — nhóm nghiên cứu Việt Nam.',
+    'REC_DIR_0099': 'EX01_NOT_AI (Diễn đàn hô hấp nhi khoa toàn cầu về COVID-19, không có nội dung công nghệ AI/ML).',
+    'REC_DIR_0100': 'EX02_NOT_HEALTHCARE (Bài tòa soạn Tạp chí Kỹ thuật, Thiết kế và Công nghệ - Xây dựng/Kỹ thuật).',
+    'REC_DIR_0101': 'EX02_NOT_HEALTHCARE (Nghiên cứu các phương pháp truy xuất thông tin tiếng Việt đa miền chung, không tập trung y tế).',
+    'REC_DIR_0102': 'EX02_NOT_HEALTHCARE (Dùng ChatGPT hỗ trợ học tiếng Anh - Ngôn ngữ học/Giáo dục đại cương, không thuộc y tế).',
+    'REC_DIR_0103': 'Xây dựng bộ dữ liệu sóng não EEG (UET175) cho nhiệm vụ tưởng tượng vận động ở bệnh nhân đột quỵ Việt Nam.',
+    'REC_DIR_0104': 'EX01_NOT_AI (Xuyên quốc gia hóa giáo dục đại học chung, không có nội dung AI/ML hay y tế).',
+    'REC_DIR_0105': 'Trực tiếp xây dựng công cụ AI tiên lượng cá thể hóa triệu chứng bệnh lý tâm thần tại Việt Nam.',
+    'REC_DIR_0107': 'EX02_NOT_HEALTHCARE (Dự báo bụi PM2.5 trong mỏ đồng mỏ hở - Khai thác mỏ/Môi trường, không thuộc y tế).',
+    'REC_DIR_0108': 'EX01_NOT_AI (Bằng chứng cho y học dựa trên bằng chứng EBM chung, không có ứng dụng hay quản trị AI/ML).'
 }
+
+overrides = ['REC_DIR_0088', 'REC_DIR_0091']
 
 rows = []
 with open(csv_path, 'r', encoding='utf-8') as f:
@@ -99,13 +122,18 @@ with open(csv_path, 'r', encoding='utf-8') as f:
         if r['record_id'] in rich_reasons:
             reason = rich_reasons[r['record_id']]
             r['screening_reason'] = reason
-            r['human_approval'] = 'APPROVED_BY_DAO_TRUNG_THANH'
-            if reason.startswith('EX0') or 'EX0' in reason:
-                r['screening_recommendation'] = 'EXCLUDE_ROUND_1'
-                r['screening_status_round_1'] = 'EXCLUDED_ROUND_1'
-            else:
+            if r['record_id'] in overrides:
+                r['human_approval'] = 'OVERRIDDEN_BY_DAO_TRUNG_THANH'
                 r['screening_recommendation'] = 'INCLUDE_ROUND_1'
                 r['screening_status_round_1'] = 'PASSED_TO_ROUND_2'
+            else:
+                r['human_approval'] = 'APPROVED_BY_DAO_TRUNG_THANH'
+                if reason.startswith('EX0') or 'EX0' in reason:
+                    r['screening_recommendation'] = 'EXCLUDE_ROUND_1'
+                    r['screening_status_round_1'] = 'EXCLUDED_ROUND_1'
+                else:
+                    r['screening_recommendation'] = 'INCLUDE_ROUND_1'
+                    r['screening_status_round_1'] = 'PASSED_TO_ROUND_2'
         rows.append(r)
 
 with open(csv_path, 'w', newline='', encoding='utf-8') as f:
@@ -113,4 +141,4 @@ with open(csv_path, 'w', newline='', encoding='utf-8') as f:
     writer.writeheader()
     writer.writerows(rows)
 
-print(f"Successfully updated CSV workspace with rich Vietnamese reasons and APPROVED_BY_DAO_TRUNG_THANH for {len(rich_reasons)} records.")
+print(f"Successfully updated CSV workspace with rich reasons and approvals for {len(rich_reasons)} records, including {len(overrides)} human overrides.")
