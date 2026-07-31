@@ -4,7 +4,7 @@
     "nbib_sha256": "52278e47d5b6ab1654c7a71bd6ae7db6c3c3dfcfdb2a10b1626b3f4e19746659"
   },
   "openalex": {
-    "total_pages": 15,
+    "total_pages": 14,
     "unique_works": 347,
     "first_meta_count": 347
   },
@@ -696,18 +696,18 @@
       ]
     },
     {
-      "id": "https://openalex.org/W7159973139",
+      "id": "https://openalex.org/W7159975701",
       "title": "LEGAL CHALLENGES IN THE ERA OF ARTIFICIAL INTELLIGENCE REGARDING PATIENTS' RIGHTS: LESSON FOR VIETNAMESE MEDICAL STUDENTS",
-      "doi": "https://doi.org/10.5281/zenodo.20007941",
+      "doi": "https://doi.org/10.5281/zenodo.20007942",
       "year": 2026,
       "authors": [
         "Nguyen Thi Phuong Cham and Ho Anh Tuan"
       ]
     },
     {
-      "id": "https://openalex.org/W7159975701",
+      "id": "https://openalex.org/W7159973139",
       "title": "LEGAL CHALLENGES IN THE ERA OF ARTIFICIAL INTELLIGENCE REGARDING PATIENTS' RIGHTS: LESSON FOR VIETNAMESE MEDICAL STUDENTS",
-      "doi": "https://doi.org/10.5281/zenodo.20007942",
+      "doi": "https://doi.org/10.5281/zenodo.20007941",
       "year": 2026,
       "authors": [
         "Nguyen Thi Phuong Cham and Ho Anh Tuan"
@@ -2161,6 +2161,15 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4406814715",
+      "title": "Editorial: “Redefining impact: digital libraries and their communities”",
+      "doi": "https://doi.org/10.1108/dlp-02-2025-153",
+      "year": 2025,
+      "authors": [
+        "Anna Maria Tammaro"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4416456850",
       "title": "Characterizing global dermatologic engagement and needs: A cross‐sectional study from 83 countries",
       "doi": "https://doi.org/10.1111/jdv.70142",
@@ -2183,15 +2192,6 @@
         "L. Claire Fuller",
         "Karolyn A. Wanat",
         "Esther E. Freeman"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4406814715",
-      "title": "Editorial: “Redefining impact: digital libraries and their communities”",
-      "doi": "https://doi.org/10.1108/dlp-02-2025-153",
-      "year": 2025,
-      "authors": [
-        "Anna Maria Tammaro"
       ]
     },
     {
