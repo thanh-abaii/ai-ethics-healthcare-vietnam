@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp_utc": "2026-07-31T12:05:29.0515102Z",
+    "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+    "page": 1,
+    "cursor": "*"
+  },
+  {
+    "timestamp_utc": "2026-07-31T12:06:40.6412273Z",
+    "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+    "page": 1,
+    "cursor": "*",
+    "http_status": 429,
+    "retry_after": null,
+    "attempt": 2
+  }
+]

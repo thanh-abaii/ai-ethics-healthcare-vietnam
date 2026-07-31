@@ -1,0 +1,31 @@
+{
+  "run_id": "OFFICIAL_SEARCH_RERUN_01_OPENALEX",
+  "status": "FAILED",
+  "first_meta_count": null,
+  "last_meta_count": null,
+  "meta_count_values": [],
+  "raw_results_seen": 0,
+  "unique_openalex_ids": 0,
+  "duplicate_ids": 0,
+  "difference_unique_minus_first_meta": null,
+  "cursor_loop_detected": false,
+  "page_or_http_error": true,
+  "note": "A dynamic meta.count may drift. A nonzero discrepancy is logged and prevents a completeness claim pending a clean rerun or prospective amendment.",
+  "errors": [
+    {
+      "timestamp_utc": "2026-07-31T12:05:29.0515102Z",
+      "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+      "page": 1,
+      "cursor": "*"
+    },
+    {
+      "timestamp_utc": "2026-07-31T12:06:40.6412273Z",
+      "error": "Response status code does not indicate success: 429 (Too Many Requests).",
+      "page": 1,
+      "cursor": "*",
+      "http_status": 429,
+      "retry_after": null,
+      "attempt": 2
+    }
+  ]
+}
