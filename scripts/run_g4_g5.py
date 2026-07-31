@@ -1,4 +1,4 @@
-﻿import os, json, csv, hashlib, urllib.request, urllib.parse
+import os, json, csv, hashlib, urllib.request, urllib.parse
 
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 art_dir = os.path.join(root, "artifacts", "g4-g5-feasibility-pilot-2026-07-31")
@@ -210,3 +210,75 @@ with open(out_res_path, 'w', encoding='utf-8') as f:
     json.dump(res_summary, f, ensure_ascii=False, indent=2)
 
 print(f'Results written to {out_res_path}')
+
+# === OFFICIAL DEDUPLICATION RUN ===
+off_art_dir = os.path.join(root, 'artifacts', 'official-search-run-2026-07-31')
+os.makedirs(off_art_dir, exist_ok=True)
+
+raw_candidates = []
+for idx, d in enumerate(direct_sources, 1):
+    raw_candidates.append({
+        'record_id': f'REC_DIR_{idx:04d}',
+        'channel': 'Direct_Harvest',
+        'pmid': str(d.get('pmid', '')),
+        'doi': str(d.get('doi', '')).lower(),
+        'openalex_id': str(d.get('openalex_id', '')),
+        'title': str(d.get('title', '')),
+        'year': str(d.get('year', '')),
+        'authors': str(d.get('authors', ''))
+    })
+
+for idx, ind in enumerate(indirect_sources, 1):
+    raw_candidates.append({
+        'record_id': f'REC_IND_{idx:04d}',
+        'channel': 'Indirect_Harvest',
+        'pmid': str(ind.get('pmid', '')),
+        'doi': str(ind.get('doi', '')).lower(),
+        'openalex_id': str(ind.get('openalex_id', '')),
+        'title': str(ind.get('title', '')),
+        'year': str(ind.get('year', '')),
+        'authors': str(ind.get('authors', ''))
+    })
+
+seen_dois = set()
+seen_pmids = set()
+seen_titles = set()
+unique_registry = []
+dup_count = 0
+
+import re
+def clean_t(t): return re.sub(r'[^a-z0-9]', '', t.lower())
+
+for rec in raw_candidates:
+    doi = rec['doi']
+    pmid = rec['pmid']
+    ntitle = clean_t(rec['title'])
+    is_dup = False
+    if doi and doi in seen_dois: is_dup = True
+    if pmid and pmid in seen_pmids: is_dup = True
+    if ntitle and ntitle in seen_titles: is_dup = True
+
+    if is_dup:
+        dup_count += 1
+    else:
+        if doi: seen_dois.add(doi)
+        if pmid: seen_pmids.add(pmid)
+        if ntitle: seen_titles.add(ntitle)
+        rec['dedup_status'] = 'UNIQUE'
+        rec['screening_status_round_1'] = 'PENDING_HUMAN_REVIEW'
+        unique_registry.append(rec)
+
+reg_csv_path = os.path.join(off_art_dir, 'official-record-registry-2026-07-31.csv')
+fnames = ['record_id', 'channel', 'pmid', 'doi', 'openalex_id', 'title', 'year', 'authors', 'dedup_status', 'screening_status_round_1']
+with open(reg_csv_path, 'w', newline='', encoding='utf-8') as f:
+    w = csv.DictWriter(f, fieldnames=fnames)
+    w.writeheader()
+    w.writerows(unique_registry)
+
+print('\n==========================================')
+print('OFFICIAL DEDUPLICATION SUMMARY')
+print(f'Total Candidates: {len(raw_candidates)}')
+print(f'Duplicates Removed: {dup_count}')
+print(f'Unique Registry Records: {len(unique_registry)}')
+print(f'Registry file: {reg_csv_path}')
+print('==========================================')
