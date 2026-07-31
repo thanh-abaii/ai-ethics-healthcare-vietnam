@@ -67,7 +67,28 @@ rich_reasons = {
     'REC_DIR_0060': 'Trực tiếp xây dựng bộ benchmark AI hỏi đáp đa chặng về quy định và pháp luật y tế Việt Nam.',
     'REC_DIR_0062': 'EX03_NOT_VIETNAM_HEALTH_CONTEXT (Bảo vệ thành quả loại trừ sốt rét tại Trung Quốc, không có bối cảnh Việt Nam).',
     'REC_DIR_0063': 'Đánh giá thực chứng việc chấp nhận công nghệ y tế số tại 5 bệnh viện Việt Nam.',
-    'REC_DIR_0064': 'EX02_NOT_HEALTHCARE (Áp dụng ML đánh giá sức khỏe kinh tế tư nhân địa phương - Kinh tế/Doanh nghiệp).'
+    'REC_DIR_0064': 'EX02_NOT_HEALTHCARE (Áp dụng ML đánh giá sức khỏe kinh tế tư nhân địa phương - Kinh tế/Doanh nghiệp).',
+    # Batch 4
+    'REC_DIR_0066': 'Thẩm định công cụ giám sát trực tuyến và tiên lượng dựa trên ML cho bệnh nhân lọc máu chạy thận nhân tạo tại Việt Nam.',
+    'REC_DIR_0067': 'EX02_NOT_HEALTHCARE (Dự báo phát thải khí Mê-tan từ ruộng lúa - Nông nghiệp/Môi trường, không thuộc y tế con người).',
+    'REC_DIR_0068': 'Kỷ yếu Hội nghị Sinh học Đạo đức Quốc tế (International Association of Bioethics) — thảo luận đạo đức sinh học và AI y tế.',
+    'REC_DIR_0069': 'EX02_NOT_HEALTHCARE (Thúc đẩy nông nghiệp bền vững tại Việt Nam qua công nghệ sinh học và AI - Nông nghiệp).',
+    'REC_DIR_0070': 'Tổng quan ứng dụng AI trong nghiên cứu y sinh và y học chính xác (Precision Medicine).',
+    'REC_DIR_0072': 'EX02_NOT_HEALTHCARE (Nhận diện sự hiện diện của ong chúa bằng âm thanh AI - Nông nghiệp/Động vật học).',
+    'REC_DIR_0073': 'Trực tiếp so sánh các phương pháp ML phân loại bệnh Alzheimer cho bệnh nhân Việt Nam.',
+    'REC_DIR_0074': 'EX02_NOT_HEALTHCARE (Đánh giá rủi ro hạn hán tại Quảng Trị bằng viễn thám và ML - Môi trường/Địa lý).',
+    'REC_DIR_0075': 'Mô hình đánh giá rủi ro cho ngành bảo hiểm y tế — liên quan thể chế chi trả và quản trị dữ liệu y tế.',
+    'REC_DIR_0076': 'Tiên lượng rủi ro tim mạch bằng AI kết hợp cảm biến sinh học đeo — ứng dụng CDS từ tác giả Việt Nam.',
+    'REC_DIR_0077': 'EX02_NOT_HEALTHCARE (Xung đột đạo đức AI và sức khỏe tâm thần của kế toán viên FinTech tài chính, không thuộc y tế bệnh nhân).',
+    'REC_DIR_0078': 'Trực tiếp xây dựng khung nghiên cứu thiên vị thuật toán (Algorithmic Bias) như một yếu tố xã hội quyết định sức khỏe tại LMICs.',
+    'REC_DIR_0079': 'EX02_NOT_HEALTHCARE (Dự báo độ lún công trình xây dựng tại Việt Nam bằng ML - Xây dựng/Hạ tầng).',
+    'REC_DIR_0080': 'Trực tiếp xây dựng bộ dữ liệu hỏi đáp AI tiếng Việt trong lĩnh vực sức khỏe tâm thần (Mental Health).',
+    'REC_DIR_0081': 'Tổng quan ứng dụng AI Agent trong vận hành dược bệnh viện tại Việt Nam.',
+    'REC_DIR_0082': 'EX02_NOT_HEALTHCARE (Cơ hội việc làm do AI tạo ra - Lao động/Kinh tế chung, không thuộc y tế).',
+    'REC_DIR_0083': 'EX03_NOT_VIETNAM_HEALTH_CONTEXT (Mô hình nhận dạng hoạt động con người bằng Học sâu chung, không có bối cảnh y tế hay thể chế Việt Nam).',
+    'REC_DIR_0084': 'EX02_NOT_HEALTHCARE (Viễn thám ước tính năng suất và rủi ro khí hậu cho cây cà phê ở Tây Nguyên - Nông nghiệp).',
+    'REC_DIR_0085': 'Tổng quan nghiên cứu phát triển dữ liệu lớn Dữ liệu gen (Genomics & Big Data) tại Việt Nam — liên quan đạo đức dữ liệu gen y tế.',
+    'REC_DIR_0086': 'Khảo sát Kiến thức - Thái độ - Thực hành (KAP) về AI của sinh viên ngành y tế và độ sẵn sàng cho AI.'
 }
 
 rows = []
