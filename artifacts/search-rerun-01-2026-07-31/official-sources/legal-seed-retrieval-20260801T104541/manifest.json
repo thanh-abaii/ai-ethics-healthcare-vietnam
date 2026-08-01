@@ -1,0 +1,9 @@
+{
+  "run_id": "legal-seed-retrieval-20260801T104541",
+  "completed_at_utc": "2026-08-01T03:45:51+00:00",
+  "seed_count": 3,
+  "successful_seed_count": 1,
+  "status": "FAIL_CLOSED_LEGAL_SEED_RETRIEVAL_INCOMPLETE",
+  "scope_limit": "Registered seed retrieval only; no legal-effect inference, relation expansion, registry creation, deduplication, screening, extraction, or synthesis.",
+  "required_next_step": "Human legal-content verification and registered relation traversal before any evidence claim."
+}

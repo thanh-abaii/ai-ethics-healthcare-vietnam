@@ -1,0 +1,13 @@
+query_id,verbatim_query,query_family
+DQ-IMPL-01,"(""đạo đức AI"" OR ""AI có trách nhiệm"" OR ""quản trị AI"") AND (kế hoạch OR triển khai OR áp dụng OR thí điểm)",implementation
+DQ-IMPL-02,"(""đạo đức AI"" OR ""AI có trách nhiệm"" OR ""quản trị AI"") AND (""Bộ Y tế"" OR bệnh viện OR ""cơ sở khám bệnh, chữa bệnh"")",implementation
+DQ-IMPL-03,"(""responsible AI"" OR ""AI governance"" OR ""AI ethics"") AND (implementation OR adoption OR uptake OR plan OR pilot) AND (Vietnam OR ""Viet Nam"") AND (health OR hospital OR clinical)",implementation
+DQ-TOOL-01,"(""đánh giá tuân thủ"" OR ""tự đánh giá"") AND (""đạo đức AI"" OR ""AI có trách nhiệm"")",implementation_tool
+DQ-TOOL-02,"(nền tảng OR công cụ) AND (""đánh giá tuân thủ"" OR ""đánh giá tác động"") AND (""AI"" OR ""trí tuệ nhân tạo"")",implementation_tool
+DQ-IMPL-04,"(""trí tuệ nhân tạo"" OR AI) AND (""theo dõi sau triển khai"" OR hậu kiểm OR ""giám sát sau triển khai"" OR ""đánh giá hiệu quả"") AND (y tế OR bệnh viện OR ""Sở Y tế"")",implementation
+DQ-IMPL-05,"(""trí tuệ nhân tạo"" OR AI) AND (""báo cáo sự cố"" OR ""quản lý chất lượng"" OR kiểm toán OR thanh tra) AND (y tế OR bệnh viện OR ""Sở Y tế"")",implementation
+DQ-EVID-01,"(""đạo đức AI"" OR ""quản trị AI"") AND (kiểm toán OR thanh tra OR giám sát)",evidence
+DQ-EVID-02,"(""AI"" OR ""trí tuệ nhân tạo"") AND (sự cố OR khiếu nại OR khắc phục) AND (y tế OR bệnh viện)",evidence
+DQ-EVID-03,"(""AI"" OR ""trí tuệ nhân tạo"") AND (""đánh giá tác động"" OR kết quả) AND (y tế OR bệnh viện)",evidence
+DQ-EVID-04,"(""AI ethics"" OR ""AI governance"") AND (audit OR inspection OR monitoring OR incident OR complaint OR redress OR ""impact assessment"" OR outcome OR result) AND (Vietnam OR ""Viet Nam"") AND (health OR hospital)",evidence
+DQ-EVID-05,"(""artificial intelligence"" OR AI) AND (""post-implementation monitoring"" OR ""post-market surveillance"" OR ""incident reporting"" OR ""quality management"" OR ""effectiveness evaluation"" OR audit) AND (Vietnam OR ""Viet Nam"") AND (health OR hospital OR ""provincial health department"")",evidence

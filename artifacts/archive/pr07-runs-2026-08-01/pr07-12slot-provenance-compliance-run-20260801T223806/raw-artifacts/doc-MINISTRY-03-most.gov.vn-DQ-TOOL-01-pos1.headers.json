@@ -1,0 +1,20 @@
+{
+  "Date": "Sat, 01 Aug 2026 15:41:52 GMT",
+  "Content-Type": "text/html; charset=utf-8",
+  "Transfer-Encoding": "chunked",
+  "Connection": "close",
+  "Cache-Control": "private",
+  "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=EM3Ulw1vHdNpNSIgstdyZrYapAGSqyk3OVl2vzh4I3e1A03yDQTJ5rkbI5tlj%2BBkvTqVSgWRRd2bkWI0KAwq%2Fg9HqGly4fzzQTWDDb3PJbH0AIOgtxRIikL0\"}]}",
+  "vary": "Accept-Encoding",
+  "Server": "cloudflare",
+  "access-control-allow-origin": "*",
+  "x-xss-protection": "1; mode=block",
+  "x-content-type-options": "nosniff",
+  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+  "permissions-policy": "geolocation=(self), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()",
+  "cf-cache-status": "DYNAMIC",
+  "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "Server-Timing": "cfEdge;dur=7,cfOrigin;dur=438",
+  "CF-RAY": "a245f3128adcf16e-SEA",
+  "alt-svc": "h3=\":443\"; ma=86400"
+}

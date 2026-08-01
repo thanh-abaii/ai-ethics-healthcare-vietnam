@@ -1,7 +1,7 @@
 import os, json, csv, hashlib, time, urllib.request, urllib.parse
 
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-art_dir = os.path.join(root, "artifacts", "official-search-run-2026-07-31")
+art_dir = os.path.join(root, "artifacts", "search-run-2026-07-31")
 oa_dir = os.path.join(art_dir, "openalex")
 pm_dir = os.path.join(art_dir, "pubmed")
 
@@ -9,8 +9,16 @@ os.makedirs(art_dir, exist_ok=True)
 os.makedirs(oa_dir, exist_ok=True)
 os.makedirs(pm_dir, exist_ok=True)
 
-# Polite Pool Credentials
-POLITE_EMAIL = "daotrungthanh@domain.com"
+# Load .env file automatically if present
+env_file = os.path.join(root, ".env")
+if os.path.exists(env_file):
+    with open(env_file, encoding="utf-8") as f:
+        for line in f:
+            if line.strip() and not line.startswith("#") and "=" in line:
+                k, v = line.strip().split("=", 1)
+                os.environ.setdefault(k.strip(), v.strip())
+
+POLITE_EMAIL = os.environ.get("POLITE_EMAIL", "")
 HEADERS = {
     'User-Agent': f'AI-Ethics-Healthcare-Vietnam-Scoping-Review/1.0 (mailto:{POLITE_EMAIL})',
     'Accept': 'application/json'
@@ -56,6 +64,10 @@ if ncbi_api_key:
     pm_url += f"&api_key={ncbi_api_key}"
 
 pm_data, pm_raw = fetch_json_with_retry(pm_url, HEADERS)
+if not pm_data and ncbi_api_key:
+    # Retry without invalid api_key parameter using email only
+    pm_url_no_key = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term={urllib.parse.quote(pm_query)}&retmode=json&retmax=200&email={urllib.parse.quote(POLITE_EMAIL)}&tool=ai_ethics_vn"
+    pm_data, pm_raw = fetch_json_with_retry(pm_url_no_key, HEADERS)
 
 if pm_data and 'esearchresult' in pm_data:
     with open(pm_raw_file, 'w', encoding='utf-8') as f:
@@ -105,6 +117,7 @@ while cursor is not None:
         except Exception:
             payload = None
     else:
+        openalex_api_key = os.environ.get("OPENALEX_API_KEY", "")
         params = {
             'filter': filter_str,
             'select': select_str,
@@ -112,6 +125,8 @@ while cursor is not None:
             'cursor': cursor,
             'mailto': POLITE_EMAIL
         }
+        if openalex_api_key:
+            params['api_key'] = openalex_api_key
         req_url = 'https://api.openalex.org/works?' + urllib.parse.urlencode(params)
         time.sleep(0.5) # Rate limit: max 2 req/sec for Polite Pool
         payload, raw_text = fetch_json_with_retry(req_url, HEADERS)

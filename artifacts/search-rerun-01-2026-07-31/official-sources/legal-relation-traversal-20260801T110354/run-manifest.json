@@ -1,0 +1,15 @@
+{
+  "run_id": "legal-relation-traversal-20260801T110354",
+  "completed_at_utc": "2026-08-01T04:04:21+00:00",
+  "protocol_status": "FAIL_CLOSED_RELATION_TRAVERSAL_BLOCKED_UNRESOLVED_OFFICIAL_TARGET",
+  "relation_depth_limit": 3,
+  "linked_document_cap": 50,
+  "stopping_rule_assessment": "BLOCKED_BEFORE_TERMINAL_NO_NEW_DOCUMENT_ID_RULE",
+  "nodes_discovered_or_seeded": 4,
+  "edge_count": 2,
+  "unresolved_official_targets": [
+    "55/2025/NĐ-CP"
+  ],
+  "scope": "Post-registration raw legal relation traversal only. No legal-effect, status, scope, implementation, eligibility, screening, deduplication, PRISMA, or council-existence conclusion.",
+  "method_note": "Only explicit relations recovered from reviewable PDF text are entered as edges. Scanned/unextractable PDFs produce no negative relation claim. Official search pages that do not contain the exact target number do not resolve a target."
+}

@@ -1,0 +1,19 @@
+Date: Sat, 01 Aug 2026 05:23:45 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Server: cloudflare
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Cookie
+X-Powered-By: WP Engine
+X-Cacheable: SHORT
+Cache-Control: max-age=600, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: normal
+last-modified: Sat, 01 Aug 2026 05:22:43 GMT
+cf-cache-status: HIT
+set-cookie: __cf_bm=aYPkL6aJQeK9W1LeFujnfxfwy1_TVs39L6g0KmyZ7Ug-1785561825.6433902-1.0.1.1-CGXyFEzTrLmii89Eep0zrlR3D61Eo6oYjmcjk7T3lbZrY3n6SiRPmiUqwYRLRoyEkFApEnsfzdgEX5vbVJiiICM94TbXtG.E5kpgBPeMl13igSZoRT9y.tb2otq1I10Z; HttpOnly; SameSite=None; Secure; Path=/; Domain=tamanhhospital.vn; Expires=Sat, 01 Aug 2026 05:53:45 GMT
+Age: 62
+CF-RAY: a24269a24e0f4acf-SEA
+alt-svc: h3=":443"; ma=86400
+

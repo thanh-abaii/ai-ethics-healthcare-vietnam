@@ -1,0 +1,14 @@
+{
+  "run_id": "openalex-api-20260731T203140+0700",
+  "started_at_utc": "2026-07-31T13:31:40.027902Z",
+  "pages": [],
+  "status": "FAIL_CLOSED_CREDENTIALS_UNSET",
+  "reason": "OPENALEX_API_KEY_OR_OPENALEX_MAILTO_UNSET",
+  "files": [
+    {
+      "file": "query-spec.json",
+      "sha256": "B5C5B272CFCFCFF8811963DC5091EE85E017C9961A08E9750272350BF09498D0",
+      "bytes": 2802
+    }
+  ]
+}

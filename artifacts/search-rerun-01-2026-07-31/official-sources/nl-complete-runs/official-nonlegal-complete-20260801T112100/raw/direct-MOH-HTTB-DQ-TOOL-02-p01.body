@@ -1,0 +1,4422 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!DOCTYPE html>
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html class="aui ltr" dir="ltr" lang="vi-VN">
+<head>
+	<title>Trang chủ - Trang thiết bị y tế</title>
+	<link rel="shortcut icon" href="/trangthietbiyte-trangchu-theme/images/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/trangthietbiyte-trangchu-theme/images/favicon.ico" type="image/x-icon">
+	<meta content="initial-scale=1.0, width=device-width" name="viewport" />
+
+				<script src="https://imda.moh.gov.vn/trangthietbiyte-home-theme/js/jquery-1.11.3.min.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1775116429000" type="text/javascript"></script>
+					<script src="https://imda.moh.gov.vn/trangthietbiyte-home-theme/js/jquery.ui.core.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1775116429000" type="text/javascript"></script>
+					<script src="https://imda.moh.gov.vn/trangthietbiyte-home-theme/js/bootstrap.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1775116429000" type="text/javascript"></script>
+					<script src="https://imda.moh.gov.vn/trangthietbiyte-home-theme/js/multiple-select.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1775116429000" type="text/javascript"></script>
+	
+	<!-- Load Select2 CSS -->
+	<link href="/trangthietbiyte-home-theme/css/select2.min.css" rel="stylesheet" />
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+<link href="https://imda.moh.gov.vn/trangthietbiyte-home-theme/images/favicon.ico" rel="Shortcut Icon" />
+
+
+
+
+
+	<link href="https&#x3a;&#x2f;&#x2f;imda&#x2e;moh&#x2e;gov&#x2e;vn&#x3f;s&#x3d;&#x25;28n&#x25;E1&#x25;BB&#x25;81n&#x25;20t&#x25;E1&#x25;BA&#x25;A3ng&#x25;20OR&#x25;20c&#x25;C3&#x25;B4ng&#x25;20c&#x25;E1&#x25;BB&#x25;A5&#x25;29&#x25;20AND&#x25;20&#x25;28&#x25;5C&#x25;C4&#x25;91&#x25;C3&#x25;A1nh&#x25;20gi&#x25;C3&#x25;A1&#x25;20tu&#x25;C3&#x25;A2n&#x25;20th&#x25;E1&#x25;BB&#x25;A7&#x25;5C&#x25;22&#x25;20OR&#x25;20&#x25;5C&#x25;22&#x25;C4&#x25;91&#x25;C3&#x25;A1nh&#x25;20gi&#x25;C3&#x25;A1&#x25;20t&#x25;C3&#x25;A1c&#x25;20&#x25;C4&#x25;91&#x25;E1&#x25;BB&#x25;99ng&#x25;5C&#x25;22&#x25;29&#x25;20AND&#x25;20&#x25;28&#x25;5C&#x25;22AI&#x25;5C&#x25;22&#x25;20OR&#x25;20&#x25;5C&#x25;22tr&#x25;C3&#x25;AD&#x25;20tu&#x25;E1&#x25;BB&#x25;87&#x25;20nh&#x25;C3&#x25;A2n&#x25;20t&#x25;E1&#x25;BA&#x25;A1o&#x25;5C&#x25;22&#x25;29&#x25;22&#x26;paged&#x3d;1" rel="canonical" />
+
+	
+
+
+
+
+
+<link class="lfr-css-file" href="https&#x3a;&#x2f;&#x2f;imda&#x2e;moh&#x2e;gov&#x2e;vn&#x2f;trangthietbiyte-home-theme&#x2f;css&#x2f;aui&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;trangthietbiytehome_WAR_trangthietbiytehometheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;vi_VN&#x26;b&#x3d;6202&#x26;t&#x3d;1775116429000" rel="stylesheet" type="text/css" />
+
+<link href="&#x2f;html&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;trangthietbiytehome_WAR_trangthietbiytehometheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;vi_VN&#x26;b&#x3d;6202&#x26;t&#x3d;1728291797000" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+
+	
+
+				<link href="https://imda.moh.gov.vn/html/portlet/journal_content/css/main.css?browserId=other&amp;themeId=trangthietbiytehome_WAR_trangthietbiytehometheme&amp;minifierType=css&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="https://imda.moh.gov.vn/oep-notification-portlet/css/main.css?browserId=other&amp;themeId=trangthietbiytehome_WAR_trangthietbiytehometheme&amp;minifierType=css&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526268000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="https://imda.moh.gov.vn/html/portlet/login/css/main.css?browserId=other&amp;themeId=trangthietbiytehome_WAR_trangthietbiytehometheme&amp;minifierType=css&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="https://imda.moh.gov.vn/html/portlet/journal/css/main.css?browserId=other&amp;themeId=trangthietbiytehome_WAR_trangthietbiytehometheme&amp;minifierType=css&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="https://imda.moh.gov.vn/html/portlet/document_library/css/main.css?browserId=other&amp;themeId=trangthietbiytehome_WAR_trangthietbiytehometheme&amp;minifierType=css&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="https://imda.moh.gov.vn/html/portlet/dynamic_data_mapping/css/main.css?browserId=other&amp;themeId=trangthietbiytehome_WAR_trangthietbiytehometheme&amp;minifierType=css&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="https://imda.moh.gov.vn/html/portlet/search/css/main.css?browserId=other&amp;themeId=trangthietbiytehome_WAR_trangthietbiytehometheme&amp;minifierType=css&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="https://imda.moh.gov.vn/html/portlet/message_boards/css/main.css?browserId=other&amp;themeId=trangthietbiytehome_WAR_trangthietbiytehometheme&amp;minifierType=css&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="https://imda.moh.gov.vn/html/portlet/document_library_display/css/main.css?browserId=other&amp;themeId=trangthietbiytehome_WAR_trangthietbiytehometheme&amp;minifierType=css&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" rel="stylesheet" type="text/css" />
+
+	
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		var Liferay = {
+			Browser: {
+				acceptsGzip: function() {
+					return false;
+				},
+				getMajorVersion: function() {
+					return 0.0;
+				},
+				getRevision: function() {
+					return "";
+				},
+				getVersion: function() {
+					return "";
+				},
+				isAir: function() {
+					return false;
+				},
+				isChrome: function() {
+					return false;
+				},
+				isFirefox: function() {
+					return false;
+				},
+				isGecko: function() {
+					return false;
+				},
+				isIe: function() {
+					return false;
+				},
+				isIphone: function() {
+					return false;
+				},
+				isLinux: function() {
+					return false;
+				},
+				isMac: function() {
+					return false;
+				},
+				isMobile: function() {
+					return false;
+				},
+				isMozilla: function() {
+					return false;
+				},
+				isOpera: function() {
+					return false;
+				},
+				isRtf: function() {
+					return false;
+				},
+				isSafari: function() {
+					return false;
+				},
+				isSun: function() {
+					return false;
+				},
+				isWap: function() {
+					return false;
+				},
+				isWapXhtml: function() {
+					return false;
+				},
+				isWebKit: function() {
+					return false;
+				},
+				isWindows: function() {
+					return false;
+				},
+				isWml: function() {
+					return false;
+				}
+			},
+
+			Data: {
+				NAV_SELECTOR: '#navigation',
+
+				isCustomizationView: function() {
+					return false;
+				},
+
+				notices: [
+					null
+
+					
+
+					
+				]
+			},
+
+			ThemeDisplay: {
+				
+					getLayoutId: function() {
+						return "1";
+					},
+					getLayoutURL: function() {
+						return "https://imda.moh.gov.vn/web/guest/trangchu";
+					},
+					getParentLayoutId: function() {
+						return "0";
+					},
+					isPrivateLayout: function() {
+						return "false";
+					},
+					isVirtualLayout: function() {
+						return false;
+					},
+				
+
+				getBCP47LanguageId: function() {
+					return "vi-VN";
+				},
+				getCDNBaseURL: function() {
+					return "https://imda.moh.gov.vn";
+				},
+				getCDNDynamicResourcesHost: function() {
+					return "";
+				},
+				getCDNHost: function() {
+					return "";
+				},
+				getCompanyId: function() {
+					return "10155";
+				},
+				getCompanyGroupId: function() {
+					return "10195";
+				},
+				getDefaultLanguageId: function() {
+					return "vi_VN";
+				},
+				getDoAsUserIdEncoded: function() {
+					return "";
+				},
+				getLanguageId: function() {
+					return "vi_VN";
+				},
+				getParentGroupId: function() {
+					return "10182";
+				},
+				getPathContext: function() {
+					return "";
+				},
+				getPathImage: function() {
+					return "/image";
+				},
+				getPathJavaScript: function() {
+					return "/html/js";
+				},
+				getPathMain: function() {
+					return "/c";
+				},
+				getPathThemeImages: function() {
+					return "https://imda.moh.gov.vn/trangthietbiyte-home-theme/images";
+				},
+				getPathThemeRoot: function() {
+					return "/trangthietbiyte-home-theme";
+				},
+				getPlid: function() {
+					return "10698";
+				},
+				getPortalURL: function() {
+					return "https://imda.moh.gov.vn";
+				},
+				getPortletSetupShowBordersDefault: function() {
+					return true;
+				},
+				getScopeGroupId: function() {
+					return "10182";
+				},
+				getScopeGroupIdOrLiveGroupId: function() {
+					return "10182";
+				},
+				getSessionId: function() {
+					
+						
+						
+							return "";
+						
+					
+				},
+				getSiteGroupId: function() {
+					return "10182";
+				},
+				getURLControlPanel: function() {
+					return "/group/control_panel?refererPlid=10698";
+				},
+				getURLHome: function() {
+					return "https\x3a\x2f\x2fimda\x2emoh\x2egov\x2evn\x2fweb\x2fguest";
+				},
+				getUserId: function() {
+					return "10159";
+				},
+				getUserName: function() {
+					
+						
+						
+							return "";
+						
+					
+				},
+				isAddSessionIdToURL: function() {
+					return false;
+				},
+				isFreeformLayout: function() {
+					return false;
+				},
+				isImpersonated: function() {
+					return false;
+				},
+				isSignedIn: function() {
+					return false;
+				},
+				isStateExclusive: function() {
+					return false;
+				},
+				isStateMaximized: function() {
+					return false;
+				},
+				isStatePopUp: function() {
+					return false;
+				}
+			},
+
+			PropsValues: {
+				NTLM_AUTH_ENABLED: false
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		
+
+		Liferay.AUI = {
+			getAvailableLangPath: function() {
+				return 'available_languages.jsp?browserId=other&themeId=trangthietbiytehome_WAR_trangthietbiytehometheme&colorSchemeId=01&minifierType=js&languageId=vi_VN&b=6202&t=1728291797000';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=vi_VN&b=6202&t=1728291797000&';
+			},
+			getFilter: function() {
+				
+					
+						return 'min';
+					
+					
+					
+				
+			},
+			getJavaScriptRootPath: function() {
+				return '/html/js';
+			},
+			getLangPath: function() {
+				return 'aui_lang.jsp?browserId=other&themeId=trangthietbiytehome_WAR_trangthietbiytehometheme&colorSchemeId=01&minifierType=js&languageId=vi_VN&b=6202&t=1728291797000';
+			}
+		};
+
+		Liferay.authToken = 'bkn4bR3B';
+
+		
+
+		Liferay.currentURL = '\x2f\x3fs\x3d\x2528n\x25E1\x25BB\x2581n\x2520t\x25E1\x25BA\x25A3ng\x2520OR\x2520c\x25C3\x25B4ng\x2520c\x25E1\x25BB\x25A5\x2529\x2520AND\x2520\x2528\x255C\x25C4\x2591\x25C3\x25A1nh\x2520gi\x25C3\x25A1\x2520tu\x25C3\x25A2n\x2520th\x25E1\x25BB\x25A7\x255C\x2522\x2520OR\x2520\x255C\x2522\x25C4\x2591\x25C3\x25A1nh\x2520gi\x25C3\x25A1\x2520t\x25C3\x25A1c\x2520\x25C4\x2591\x25E1\x25BB\x2599ng\x255C\x2522\x2529\x2520AND\x2520\x2528\x255C\x2522AI\x255C\x2522\x2520OR\x2520\x255C\x2522tr\x25C3\x25AD\x2520tu\x25E1\x25BB\x2587\x2520nh\x25C3\x25A2n\x2520t\x25E1\x25BA\x25A1o\x255C\x2522\x2529\x2522\x26paged\x3d1';
+		Liferay.currentURLEncoded = '%2F%3Fs%3D%2528n%25E1%25BB%2581n%2520t%25E1%25BA%25A3ng%2520OR%2520c%25C3%25B4ng%2520c%25E1%25BB%25A5%2529%2520AND%2520%2528%255C%25C4%2591%25C3%25A1nh%2520gi%25C3%25A1%2520tu%25C3%25A2n%2520th%25E1%25BB%25A7%255C%2522%2520OR%2520%255C%2522%25C4%2591%25C3%25A1nh%2520gi%25C3%25A1%2520t%25C3%25A1c%2520%25C4%2591%25E1%25BB%2599ng%255C%2522%2529%2520AND%2520%2528%255C%2522AI%255C%2522%2520OR%2520%255C%2522tr%25C3%25AD%2520tu%25E1%25BB%2587%2520nh%25C3%25A2n%2520t%25E1%25BA%25A1o%255C%2522%2529%2522%26paged%3D1';
+	// ]]>
+</script>
+
+
+	
+		
+			
+				<script src="/html/js/barebone.jsp?browserId=other&amp;themeId=trangthietbiytehome_WAR_trangthietbiytehometheme&amp;colorSchemeId=01&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=vi_VN&amp;b=6202&amp;t=1728291797000" type="text/javascript"></script>
+			
+			
+		
+	
+	
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		
+
+			
+
+			
+				Liferay.Portlet.list = ['56_INSTANCE_Y6U2ccWTtWfV', '56_INSTANCE_5UQpDnOlTaMr', '56_INSTANCE_cfnOzNOW54Yc', '56_INSTANCE_kTqJ4RGvt6GF', 'dockbarnotification_WAR_oepnotificationportlet', '58', '56_INSTANCE_Ng7OlSjP8z1R', '15', '20', '166', '3', '19', '110'];
+			
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+	
+		
+
+			
+
+			
+				<script type="text/javascript">
+					var _gaq = _gaq || [];
+
+					_gaq.push(['_setAccount', 'UA-99999284-1']);
+					_gaq.push(['_trackPageview']);
+
+					(function() {
+						var ga = document.createElement('script');
+
+						ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						ga.type = 'text/javascript';
+
+						var s = document.getElementsByTagName('script')[0];
+
+						s.parentNode.insertBefore(ga, s);
+					})();
+				</script>
+			
+		
+		
+	
+
+
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+				<script src="https://imda.moh.gov.vn/html/portlet/journal/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" type="text/javascript"></script>
+
+	
+
+				<script src="https://imda.moh.gov.vn/html/portlet/journal/js/navigation.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" type="text/javascript"></script>
+
+	
+
+				<script src="https://imda.moh.gov.vn/html/portlet/dynamic_data_lists/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" type="text/javascript"></script>
+
+	
+
+				<script src="https://imda.moh.gov.vn/html/portlet/dynamic_data_mapping/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" type="text/javascript"></script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" href="https&#x3a;&#x2f;&#x2f;imda&#x2e;moh&#x2e;gov&#x2e;vn&#x2f;trangthietbiyte-home-theme&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;trangthietbiytehome_WAR_trangthietbiytehometheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;vi_VN&#x26;b&#x3d;6202&#x26;t&#x3d;1775116429000" rel="stylesheet" type="text/css" />
+
+
+
+
+	<style type="text/css">
+		.select2-container {
+    width: 97% !important;
+}
+	</style>
+
+
+
+
+
+	<style type="text/css">
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_56_INSTANCE_Y6U2ccWTtWfV_ .portlet-borderless-container {
+border-width:;
+border-style:
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_56_INSTANCE_5UQpDnOlTaMr_ .portlet-borderless-container {
+border-width:;
+border-style:
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_56_INSTANCE_cfnOzNOW54Yc_ .portlet-borderless-container {
+border-width:;
+border-style:
+}
+.hidden-scrollbar .inner {
+	height: 345px !important;
+}
+.box-TT {
+	padding-bottom: 20px !important;
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_56_INSTANCE_kTqJ4RGvt6GF_ .portlet-borderless-container {
+border-width:;
+border-style:
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+
+
+</head>
+
+<body>
+	<a href="#main-content" id="skip-to-content">Truy cập nội dung luôn</a>
+
+		
+	
+	<header class="container">
+	<div class="row">
+		<div class="col-md-6 hidden-xs">
+			<a class="logo" href="https://imda.moh.gov.vn"><img src="https://imda.moh.gov.vn/trangthietbiyte-home-theme/images/logo2.png"></a>
+			<p class="slogan">
+				<span class="text-tle1">Hệ thống dịch vụ công trực tuyến</span><br>
+				<span class="text-tle2">Quản lý thiết bị y tế</span>
+			</p>
+		</div>
+		<div class="col-md-6">
+			<ul class="list-inline pull-right nav1-right">
+				<li><a href="/huong-dan"><i class="fa-R fa fa-book" aria-hidden="true"></i>Hướng dẫn</a></li>
+				<li><a href="/lien-he"><i class="fa-R fa fa-map-marker" aria-hidden="true"></i>Liên hệ</a></li>
+			</ul>
+		</div>
+	</div>
+</header>	<nav id="mainNav" class="navbar navbar-default navbar1">
+	<div class="container">
+		<div class="navbar-header">
+		  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand visible-xs-block pad10 page-scroll" href="https://imda.moh.gov.vn">
+				<img class="pull-left" src="https://imda.moh.gov.vn/trangthietbiyte-home-theme/images/logo2.png" width="40">
+				<p class="slogan-s">
+					<span class="text-tle1s">Hệ thống dịch vụ công trực tuyến</span><br>
+					<span class="text-tle2s">Quản lý thiết bị y tế</span>
+				</p>
+			  </a>
+		  </div>
+
+	  	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			 <ul class="nav navbar-nav navbar1 nav2">
+			 		          			          			<li class="active">
+	          				<a href="https&#x3a;&#x2f;&#x2f;imda&#x2e;moh&#x2e;gov&#x2e;vn&#x2f;web&#x2f;guest&#x2f;trangchu" >
+		          				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Trang chủ<span class="sr-only">(current)</span>
+	          				</a>
+	          			</li>
+	          							          			          			<li>
+	          				<a href="https&#x3a;&#x2f;&#x2f;imda&#x2e;moh&#x2e;gov&#x2e;vn&#x2f;web&#x2f;guest&#x2f;dich-vu-cong" >
+		          				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dịch vụ công
+	          				</a>
+	          			</li>
+	          							          			          			<li>
+	          				<a href="https&#x3a;&#x2f;&#x2f;imda&#x2e;moh&#x2e;gov&#x2e;vn&#x2f;web&#x2f;guest&#x2f;van-ban-cong-bo" >
+		          				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Kết quả dịch vụ công
+	          				</a>
+	          			</li>
+	          							          			          			<li>
+	          				<a href="https&#x3a;&#x2f;&#x2f;imda&#x2e;moh&#x2e;gov&#x2e;vn&#x2f;web&#x2f;guest&#x2f;van-ban-thu-hoi" >
+		          				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Văn bản thu hồi
+	          				</a>
+	          			</li>
+	          							          			          			<li>
+	          				<a href="https&#x3a;&#x2f;&#x2f;imda&#x2e;moh&#x2e;gov&#x2e;vn&#x2f;web&#x2f;guest&#x2f;cong-khai-phan-loai-ttbyt" >
+		          				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Công khai phân loại TBYT
+	          				</a>
+	          			</li>
+	          							          			          			<li>
+	          				<a href="https&#x3a;&#x2f;&#x2f;imda&#x2e;moh&#x2e;gov&#x2e;vn&#x2f;web&#x2f;guest&#x2f;cong-khai-nd-ht-quang-cao-ttbyt" >
+		          				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CÔNG KHAI ND&amp;HT QUẢNG CÁO TBYT
+	          				</a>
+	          			</li>
+	          									  </ul>
+			  
+			  	        			    		<ul class="nav navbar-nav navbar-right">
+				        <li class="">
+		            		<a class="bt" style="color: white;" href="/dangnhap"> <i class="MR10 fa fa-sign-in" aria-hidden="true">
+		            	</i> Đăng nhập</a>
+		            	</li>
+			        </ul>
+			        <ul class="nav navbar-nav navbar-right">
+				        <li class="">
+		            		<a class="bt" style="color: white;" href="/dang-ky"> <i class="MR10 fa fa-user-plus" aria-hidden="true">
+		            	</i> Đăng ký</a>
+		            	</li>
+			        </ul>
+		    	        		  </div>
+	  </div>
+  </nav><!-- DEBUG: cur_url=http://imda.moh.gov.vn/?s=%28n%E1%BB%81n%20t%E1%BA%A3ng%20OR%20c%C3%B4ng%20c%E1%BB%A5%29%20AND%20%28%5C%C4%91%C3%A1nh%20gi%C3%A1%20tu%C3%A2n%20th%E1%BB%A7%5C%22%20OR%20%5C%22%C4%91%C3%A1nh%20gi%C3%A1%20t%C3%A1c%20%C4%91%E1%BB%99ng%5C%22%29%20AND%20%28%5C%22AI%5C%22%20OR%20%5C%22tr%C3%AD%20tu%E1%BB%87%20nh%C3%A2n%20t%E1%BA%A1o%5C%22%29%22&paged=1 | home1=https://imda.moh.gov.vn | home2=https://imda.moh.gov.vn/ | https://imda.moh.gov.vn/?s=%28n%E1%BB%81n%20t%E1%BA%A3ng%20OR%20c%C3%B4ng%20c%E1%BB%A5%29%20AND%20%28%5C%C4%91%C3%A1nh%20gi%C3%A1%20tu%C3%A2n%20th%E1%BB%A7%5C%22%20OR%20%5C%22%C4%91%C3%A1nh%20gi%C3%A1%20t%C3%A1c%20%C4%91%E1%BB%99ng%5C%22%29%20AND%20%28%5C%22AI%5C%22%20OR%20%5C%22tr%C3%AD%20tu%E1%BB%87%20nh%C3%A2n%20t%E1%BA%A1o%5C%22%29%22&paged=1 -->
+
+
+
+
+	<article>
+		<div class="">
+			
+			<section class="container MB20">
+				<div class="row">
+					<div id="content">
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="container MB20">
+	<div class="row">
+		<div class="col-md-3 MT10">
+			<div class="box-TT hidden-scrollbar" style="padding-bottom: 50px;">
+				<h4><a href="/web/guest/van-ban-phap-quy"><span><i class="fa-R fa fa-book" aria-hidden="true"></i>Văn bản pháp quy</span></a></h4>
+				<div class="portlet-column portlet-column-first span3" style="width: 100%;margin-top: -9px !important;margin-left: -9px !important;padding-right: 0px;" id="column-1">
+					<div class="portlet-dropzone portlet-column-content portlet-column-content-first" id="layout-column_column-1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_56_  portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_Y6U2ccWTtWfV_" >
+		<span id="p_56_INSTANCE_Y6U2ccWTtWfV"></span>
+
+
+
+	
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				
+					
+
+						
+
+						
+
+						<div class="journal-content-article">
+							<ul class="list-unstyled tin inner">
+
+<li>
+    <a href="/documents/10182/10030594/CV23.TTBYT/4559a785-dad7-455c-b0e4-437558b58782"><strong>Thông tư 23/2026/TT-BYT ngày 29/06/2026 THÔNG TƯ Hướng dẫn về thiết kế Trạm Y tế xã, phường, đặc khu</a></li>
+
+<li>
+    <a href="/documents/10182/10030594/CV22.TTBYT/f504aa98-d360-48a0-b2eb-826beb79cb10"><strong>Thông tư 22/2026/TT-BYT ngày 29/06/2026 THÔNG TƯ Hướng dẫn danh mục máy móc, thiết bị cơ bản phục vụ hoạt động chuyên môn của Trạm Y tế xã, phường, đặc khu
+</a></li>
+
+<li>
+    <a
+        href="/documents/10182/10030594/TT10.TC/08b124de-5798-494a-b70d-fa4fbbb9e89d"><strong>Thông tư 10/2026/TT-BYT ngày 14/05/2026 THÔNG TƯ Quy định chi tiết hướng dẫn về tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng trong lĩnh vực y tế thuộc lĩnh vực quản lý nhà nước của Bộ Y tế và phân cấp thẩm quyền quyết định tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng thuộc phạm vi quản lý của Bộ Y tế</a></li>
+
+<li>
+    <a
+        href="/documents/10182/10030594/TT44.2025/49f088be-1134-46fb-a3c1-81de8a1f2215"><strong>Thông tư số 44/2025/TT-BYT ngày 22/11/2025 Quy định việc phân cấp thực hiện một số nhiệm vụ, giải quyết một số thủ tục hành chính trong lĩnh vực thiết bị y tế thuộc thẩm quyền của Bộ Y tế và quy định về mẫu văn bản, báo cáo thực hiện quản lý thiết bị y tế</a></li>
+
+<li>
+    <a
+        href="/documents/10182/10030594/VB05_NDQLTBYT/aa35210b-dd78-489e-a843-8545b0b17926"><strong>Văn bản hợp nhất Nghị định số 04/2025/NĐ-CP ngày 01/01/2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 98/2021/NĐ-CP ngày 08/11/2021 của Chính phủ về quản lý thiết bị y tế</a></li>
+  <li>
+
+  <li>
+    <a
+        href="/documents/10182/10030600/CV042025/7fbafd39-b08f-47a2-8870-11900d37f777"><strong>Nghị
+        định số 04/2025/NĐ-CP</strong> ngày 01/01/2025 Nghị định sửa
+      đổi, bổ sung một số điều của Nghị định 98/2021/NĐ-CP ngày 08 tháng
+      11 năm 2021 của Chính phủ về quản lý thiết bị y tế đã được sửa
+      đổi, bổ sung một số điều theo Nghị định 07/2023/NĐ-CP ngày 03
+      tháng 3 năm 2023 của Chính phủ.</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/TT19BYT/5736ff91-0255-47a6-bf36-b4ecf144e0e8"><strong>Thông
+        tư 19/2024/TT-BYT ngày 01/10/2024</strong> Ban hành Danh mục
+      thiết bị y tế xuất khẩu, nhập khẩu đã được xác định mã số hàng hóa
+      theo danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam. </a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Q%C4%901705/a8d12ac4-a49f-45b4-8263-bf1cebbd038b"><strong>Quyết
+        định 1705/QĐ-BYT ngày 18/06/2024</strong> Quyết định về việc
+      công bố thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực
+      Thiết bị y tế thuộc phạm vi quản lý của Bộ Y tế quy định tại Nghị
+      định 96/2023/NĐ-CP ngày 30 tháng 12 năm 2023 của Chính Phủ. </a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Thong-tu-432024btc/17f28b2a-11d4-45c5-b051-567706117482"><strong>Thông
+        tư 43/2024/TT-BTC ngày 28/06/2024</strong> Quy định mức thu một
+      số khoản phí, lệ phí nhằm tiếp tục tháo gỡ khó khăn, hỗ trợ cho
+      hoạt động sản xuất kinh doanh</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/VBHN-05-18062024/a83f4eb2-94c5-4f39-a484-a0c5ff17078f"><strong>Thông
+        tư số 05/VBHN-BYT ngày 14/06/2024</strong> Quy định mẫu văn bản,
+      báo cáo thực hiện Nghị định số 98/2021/NĐ-CP ngày 08 tháng 11 năm
+      2021 của Chính phủ về quản lý thiết bị y tế</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/thong-tu-59-2023-tt-btc-muc-thu-che-do-thu-phi-linh-vuc-y-te.pdf/45a5d3f2-89a5-4b96-8d26-430b7f83f72a"><strong>Thông
+        tư số 59/2023/TT-BTC ngày 30/8/2023</strong> của Bộ trưởng Bộ
+      Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng
+      phí trong lĩnh vực y tế</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Thong+tu+10-2023-TT-BYT/36e15268-31df-4cf1-b441-65d2ffa3d582"><strong>Thông
+        tư số 10/2023/TT-BYT ngày 11/5/2023</strong> của Bộ trưởng Bộ Y
+      tế sửa đổi, bổ sung một số điều của Thông tư số 19/2021/TT-BYT
+      ngày 16 tháng 11 năm 2021 của Bộ trưởng Bộ Y tế quy định mẫu văn
+      bản, báo cáo thực hiện Nghị định số 98/2021/NĐ-CP ngày 08 tháng 11
+      năm 2021 của Chính phủ về quản lý trang thiết bị y tế</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Nghi+dinh+07-2023/99935bb7-b51f-4127-9c6a-58e4b514fbf9"><strong>Nghị
+        định 07/2023/NĐ-CP ngày 03/3/2023</strong> của Chính phủ sửa
+      đổi, bổ sung một số điều của Nghị định số 98/2021/NĐ-CP ngày 08
+      tháng 11 năm 2021 của Chính phủ về quản lý trang thiết bị y tế</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/06TT.signed.pdf/324b7761-344f-4d0b-96f8-4fb1e20d0240"><strong>Thông
+        tư 06/2022/TT-BYT ngày 01/08/2022</strong> Quy định danh mục và
+      cấp số lưu hành trang thiết bị y tế phục vụ phòng, chống dịch
+      COVID-19 trong trường hợp cấp bách. </a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/05TT.signed_compress.pdf/35c913bf-b4cd-4b30-b97f-fe12ee9f5d0e"><strong>Thông
+        tư 05/2022/TT-BYT ngày 01/08/2022</strong> Quy định chi tiết thi
+      hành một số điều của Nghị định số 98/2021/NĐ-CP ngày 08 tháng 11
+      năm 2021 của Chính phủ về quản lý trang thiết bị y tế. </a></li>
+  <li>
+    <a
+        href="/documents/10182/0/Thong+tu+19_2021_TT-BYT.pdf/c88d036c-be00-421f-a1d7-10fce0a430f0"><strong>Thông
+        tư 19/2021/TT-BYT ngày 16/11/2021</strong> Quy định mẫu văn bản,
+      báo cáo thực hiện Nghị định số 98/2021/NĐ-CP ngày 08 tháng 11 năm
+      2021 của Chính phủ về quản lý trang thiết bị y tế. </a></li>
+  <li>
+    <a
+        href="/documents/10182/0/E_1636511534239_98_2021_ND-CP_08112021-signed.pdf/6e96247f-e468-434c-a478-091e7cb159ef"><strong>Nghị
+        định về quản lý trang thiết bị y tế số 98/2021/NĐ-CP ngày 08/11/2021.</strong></a></li>
+  <li>
+    <a
+        href="/documents/10182/0/Thong+tu+cap+so+luu+hanh+va+vien+tro+TTBYT.signed.pdf/4cd90be5-6a7c-4aae-8bc6-612fbc473f71"><strong>Thông
+        tư 13/2021/TT-BYT ngày 16/09/2021</strong> Quy định cấp số lưu
+      hành, nhập khẩu trang thiết bị y tế phục vụ phòng, chống dịch
+      COVID-19 trong trường hợp cấp bách.</a></li>
+  <li>
+    <a
+        href="/documents/10182/0/Circula+43.2021.TT-BCT_VATax+Revision_11June21.pdf/51d57c43-68ad-4d83-8922-4019bbf2d271"><strong>Thông
+        tư 43/2021/TT-BTC ngày 11/06/2021</strong> Sửa đổi bổ sung khoản
+      11 Điều 10 Thông tư số 219/2013/TT-BTC ngày 31/12/2013 của Bộ Tài
+      chính hướng dẫn thi hành Luật thuế giá trị gia tăng và Nghị định
+      số 209/2013/NĐ-CP ngày 18/12/2013 của Chính phủ quy định chi tiết
+      và hướng dẫn thi hành một số điều Luật Thuế giá trị gia tăng.</a></li>
+  <li>
+    <a
+        href="/documents/10182/0/QD+2426_huong+dan+CSDT.pdf/8cb7ca36-fec4-49e6-84b8-08e892d75495"><strong>Quyết
+        định số 2426/QĐ-BYT ngày 15/05/2021</strong> V/v ban hành Hướng
+      dẫn cách chuẩn bị hồ sơ kĩ thuật chung về trang thiết bị y tế theo
+      quy định của ASEAN.</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Thong+tu+quy+dinh+danh+muc+TTBYT+kiem+dinh.signed.pdf/5a9e9763-2aa3-494a-bac2-b3206b1f1e99"><strong>Thông
+        tư 33/2020/TT-BYT ngày 31/12/2020</strong> Quy định danh mục
+      trang thiết bị y tế phải kiểm định an toàn và tính năng kỹ thuật</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Thong+tu+TTB+tram+y+te+xa.signed.pdf/f70e54bb-19cf-45f5-8bbf-8578a9bd45c0"><strong>Thông
+        tư 28/2020/TT-BYT ngày 31/12/2020 </strong>Quy định danh mục
+      trang thiết bị y tế tối thiểu của trạm y tế xã. </a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Nghi%CC%A3+%C4%91i%CC%A3nh+117+2020+N%C4%90-CP+Quy+%C4%91i%CC%A3nh+xu%CC%9B%CC%89+pha%CC%A3t+vi+pha%CC%A3m+ha%CC%80nh+chi%CC%81nh+trong+li%CC%83nh+vu%CC%9B%CC%A3c+y+te%CC%82%CC%81.pdf/1f149919-dd41-459b-9ff2-7de9d7f1d486"><strong>Nghị
+        định 117/2020/NĐ-CP</strong> Quy định xử phạt vi phạm hành chính
+      trong lĩnh vực y tế</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Chi+thi_Tangcuongcongtacdauthau.pdf/3af354bd-b3b9-4132-a3be-abc3b23959ae"><strong>Số
+        20/CT-BYT ngày 01/10/2020  </strong>Về việc tăng cường công tác
+      đấu thầu nhằm đảm bảo cạnh tranh, công khai, minh bạch và hiệu quả
+      trong ngành y tế.</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Thong+tu+64+2020+TT+BTC.pdf/8e6f0096-18aa-4960-a875-239bb0b01388"><strong>Thông
+        tư số 64/2020/TT-BTC ngày 08/07/2020 của Bộ Tài
+      Chính </strong> Quy định mức thu, nộp phí trong lĩnh vực y tế. </a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/14_2020_TT-BYT_10072020.pdf/976a28e5-84bd-4a50-bfd5-69744ae59c0c"><strong>Thông
+        tư số 14/2020/TT-BYT ngày 10/07/2020 của Bộ Y tế </strong> Quy
+      định một số nội dung trong đấu thầu trang thiết bị y tế tại các cơ
+      sở y tế công lập </a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Van+ban+hop+nhat+Ngh%E1%BB%8B+dinh+quan+ly+TTBYT+01+2020.pdf/3a33c206-6d3b-4a99-a242-929df65789e7"><strong>Văn
+        bản số 01/VBHN-BYT</strong>  Văn bản hợp nhất về Nghị định quản
+      lý trang thiết bị y tế số 01/VBHN-BYT ngày 16/03/2020</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Nghidinhso032020/ac619899-3566-42e3-9f83-fdbeb615f490"><strong>Nghị
+        định số 03/2020/NĐ-CP </strong> Sửa đổi bổ sung điều 68 Nghị
+      đinh 36/20161ND-CP ngày 15 tháng 5 năm 2016 của Chính phủ về quản
+      lý TTBYT đã được sửa đổi bổ sung tại Nghị định số 169/20181ND-CP
+      ngày 31 tháng 12 năm 2018</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Thongtu082019/5a13efc7-88a8-42bf-8cac-21894e2264a8"><strong>Thông
+        tư số 08/2019/TT-BYT ngày 31/05/2019 </strong>  Hướng dẫn tiêu
+      chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng thuộc lĩnh
+      vực y tế.</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Thongtu122019BYT/ef7c6374-5e3c-41f7-b3b7-807213d569ae"><strong>Thông
+        tư số 12 </strong>  Bãi bỏ một số văn bản quy phạm pháp luật
+      trong lĩnh vực y tế do Bộ trưởng Bộ Y tế ban hành, liên tịch ban hành.</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Vanbanhopnhatnghidinh36vanghidinh169_23092019/af7f3f8f-7559-429f-b6c0-6ab5325cccbc"><strong>Nghị
+        định của Chính phủ về Quản lý TTBYT:</strong> Văn bản hợp nhất
+      Nghị định 36/2016/NĐ-CP và Nghị định 169/2018/NĐ-CP.</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Ngh%E1%BB%8B+%C4%91%E1%BB%8Bnh+169.2018.N%C4%90-CP+S%E1%BB%ADa+%C4%91%E1%BB%95i+N%C4%90+36.2016.pdf/0dedc5bd-d058-49ee-bb8e-0fac40c21727"><strong>Nghị
+        định số 169/2018/NĐ-CP ngày 31/12/2018 của Chính
+      phủ:</strong> Sửa đổi, bổ sung một số điều của Nghị định số
+      36/2016/NĐ-CP ngày 15/5/2016 của Chính phủ về quản lý trang thiết
+      bị y tế.</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Ngh%E1%BB%8B+%C4%91%E1%BB%8Bnh+155.2018.N%C4%90-CP+C%E1%BA%AFt+gi%E1%BA%A3m+%C4%91i%E1%BB%81u+ki%E1%BB%87n+kinh+doanh+trong+l%C4%A9nh+v%E1%BB%B1c+y+t%E1%BA%BF.pdf/ab5c0d82-a0f0-4233-adff-c9de092ccc9f"><strong>Nghị
+        định số 155/2018/NĐ-CP của Chính phủ: </strong>Sửa đổi, bổ sung
+      một số quy định liên quan đến điều kiện đầu tư kinh doanh thuộc
+      phạm vi quản lý nhà nước của Bộ Y tế.</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Ngh%E1%BB%8B+%C4%91%E1%BB%8Bnh+36.2016.N%C4%90-CP+Qu%E1%BA%A3n+l%C3%BD+TTBYT.pdf/e6f528d0-46bc-4a21-b98f-926713a13b01"><strong>Nghị
+        định số 36/2016/NĐ-CP ngày 15/05/2016 của Chính phủ:</strong> Về
+      quản lý trang thiết bị y tế.</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Th%C3%B4ng+t%C6%B0+14.2018.TT-BYT+Danh+m%E1%BB%A5c+TTBYT+k%C3%A8m+m%C3%A3+HS.pdf/bb50d812-2396-4ce4-8a2f-00f22405f382"><strong>Thông
+        tư số 14/2018/TT-BYT ngày 15/05/2018 của Bộ Y tế:</strong> Ban
+      hành Danh mục trang thiết bị y tế được xác định mã số hàng hóa
+      theo Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam.</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Th%C3%B4ng+t%C6%B0+46.2017.TT-BYT+Quy+%C4%91%E1%BB%8Bnh+1+s%E1%BB%91+%C4%91i%E1%BB%81u+N%C4%90+36.2016.pdf/42fcb16c-8b59-4e83-bd56-e454769a111b"><strong>Thông
+        tư số 46/2017/TT-BYT ngày 15/12/2017 của Bộ Y tế: </strong>Quy
+      định chi tiết thi hành một số điều của nghị định 36/2016/NĐ-CP
+      ngày 15/05/2016 của Chính phủ về quản lý trang thiết bị y tế.</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Th%C3%B4ng+t%C6%B0+278.2016.TT-BTC+Ph%C3%AD+v%C3%A0+l%E1%BB%87+ph%C3%AD+trong+l%C4%A9nh+v%E1%BB%B1c+y+t%E1%BA%BF.pdf/20f2cd3e-e52e-483c-a1af-d06afbba52a5"><strong>Thông
+        tư 278/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính:</strong> Về
+      việc quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí
+      trong lĩnh vực y tế.</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Th%C3%B4ng+t%C6%B0+39.2016.TT-BYT+Ph%C3%A2n+lo%E1%BA%A1i+TTBYT.pdf/2fc0ef05-7361-4925-8a36-1657a844ab6d"><strong>Thông
+        tư 39/2016/TT-BYT ngày 28/10/2016 của Bộ Y tế:</strong> Quy định
+      chi tiết về việc phân loại trang thiết bị y tế.</a></li>
+  <li>
+    <a
+        href="/documents/10182/10030594/Th%C3%B4ng+t%C6%B0+09.2015.TT-BYT+Qu%E1%BA%A3ng+c%C3%A1o+trong+l%C4%A9nh+v%E1%BB%B1c+y+t%E1%BA%BF.pdf/81177268-a606-47d3-84c6-dfc238fb2816"><strong>Thông
+        tư 09/2015/TT-BYT ngày 25/05/2015 của Bộ Y tế:</strong> Quy định
+      về xác nhận nội dung quảng cáo đối với sản phẩm, hàng hóa, dịch vụ
+      đặc biệt thuộc lĩnh vực quản lý của Bộ Y tế.</a></li></ul>
+						</div>
+
+						
+					
+					
+				
+			
+		
+	
+
+
+
+
+
+
+
+	
+		<div class="entry-links">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+	
+
+	
+
+	
+
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+
+	
+
+
+
+
+
+		
+	</div>
+
+
+
+
+</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-3 MT10">
+			<div class="box-TT hidden-scrollbar" style="padding-bottom: 50px;">
+				<h4><a href="/web/guest/van-ban-chi-ao-ieu-hanh"><span><i class="fa-R fa fa-file-text" aria-hidden="true"></i>Văn bản chỉ đạo điều hành</span></a></h4>
+				<div class="portlet-column span3" id="column-2" style="width: 100%;margin-top: -9px !important;margin-left: -9px !important; padding-right: 0px;">
+					<div class="portlet-dropzone portlet-column-content" id="layout-column_column-2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_56_  portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_5UQpDnOlTaMr_" >
+		<span id="p_56_INSTANCE_5UQpDnOlTaMr"></span>
+
+
+
+	
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				
+					
+
+						
+
+						
+
+						<div class="journal-content-article">
+							<ul class="list-unstyled tin inner">
+
+<li><a href="/documents//10182/10030597/Cong+van+4438.pdf/6956dd53-775d-4911-a265-8d631523f638"><strong>Công văn số 4438/BYT-HTTB ngày 16/6/2026 của Bộ Y tế gửi Sở Y tế các tỉnh, thành phố </strong> về việc tăng cường công tác kiểm tra, hậu kiểm thực hiện các thủ tục hành chính thuộc lĩnh vực thiết bị y tế.</strong></a></li>
+
+<li><a href="/documents/10182/0/QD3830.11.12.2025/6099e16d-ac4a-4c62-a0a0-311b645c75a3"><strong>Quyết định số 3830/QĐ-BYT ngày 11 tháng 12 năm 2025.</strong> Quyết định về việc ban hành quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính lĩnh vực thiết bị y tế thuộc thẩm quyền giải quyết của Bộ Y tế.</strong></a></li>
+	<li><a href="/web/guest/quyet-dinh-thuhoi-dklh-ttbyt"><strong>Các Quyết định thu hồi số lưu hành TBYT</strong></a></li>
+
+	<li><a href="/web/guest/quyet-dinh-dklh-ttbyt"><strong>Các Quyết định cấp số lưu hành TBYT</strong></a></li>
+	<li><a href="/web/guest/quyet-dinh-cap-phep-kiem-dinh-ttbyt"><strong>Các Quyết định cấp giấy chứng nhận đăng ký hoạt động kiểm định TTBYT</strong></a></li>
+	<!-- <li><a href="/web/guest/quyet-dinh-thuhoi-dklh-ttbyt"><strong>Các Quyết định thu hồi số lưu hành TBYT</strong></a></li> -->
+	<li><a href="/quy-trinh-iso-cap-phep-ttbyt"><strong>Các Quy trình ISO cấp phép TBYT</strong></a></li>
+	<li><a href="/quy-trinh-kiem-dinh-ttbyt"><strong>Các Quy trình kiểm định an toàn và tính năng kỹ thuật của TTBYT</strong></a></li>
+	<li><a href="/web/guest/quyet-inh-tieu-chuan-inh-muc-su-dung-tbyt"><strong>Các Quyết định ban hành tiêu chuẩn định mức sử dụng TBYT của đơn vị thuộc Bộ Y tế</strong></a></li>
+	<li><a href="/documents/10182/10030597/Quyet-dinh-2075-cong-bo-sua-doi-tthc/49e3e34a-e00b-4213-b4fe-da8dc680bb1d" target="_blank"><strong>Quyết định số 2075/QĐ-BYT ngày 24/06/2025 của Bộ Y tế</strong>&nbsp;Quyết định về việc công bố thủ tục hành chính mới ban hành, bị bãi bỏ lĩnh vực thiết bị y tế quy định tại Nghị định số 148/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ thuộc phạm vi chức năng quản lý của Bộ Y tế</a></li>
+	<li><a href="/documents/10182/10030597/490qdb_QD-huong-dan-ho-so-csdt-ivd.signed.pdf/267b7c09-ce3a-42c3-8568-88681673c9b1" target="_blank"><strong>Quyết định số 490/QĐ-BYT ngày 01/03/2024 của Bộ Y tế</strong> về việc ban hành tiêu chí, nguyên tắc đánh giá Hồ sơ CSDT đối với TBYT chẩn đoán in vitro</a></li>
+	<li><a href="/documents/10182/10030597/166-bqdb-22.01.2024.signed.pdf/8aa3c2e9-b6bf-4dbb-8106-7f85091d4c47" target="_blank"><strong>Quyết định số 166/QĐ-BYT ngày 22/01/2024 của Bộ Y tế</strong> về việc ban hành tiêu chí, nguyên tắc đánh giá Hồ sơ CSDT đối với TBYT không phải là TBYT in vitro</a></li>
+	<li><a href="/documents/10182/10030597/04qdb.signed+02.01.2023-CSDT.pdf/e5fb8819-52ef-4d8a-a72e-cd56514d1ba9" target="_blank"><strong>Quyết định số 04/QĐ-BYT ngày 02/01/2024 của Bộ Y tế</strong> về việc chỉ định đơn vị thẩm định hồ sơ kỹ thuật chung về TTBYT theo quy định của ASEAN (hồ sơ CSDT)</a></li>
+	<li><a href="/documents/10182/10030597/VB4170-BYT-HTTB-2023.07.04/29236671-9083-4ab8-bc3f-129f899af506" target="_blank"><strong>Văn bản số 4170/BYT-HTTB ngày 04/7/2023 của Bộ Y tế</strong> về việc kiểm định trang thiết bị y tế</a></li>
+	<li><a href="/web/guest/cac-so-luu-hanh-ttbyt-theo-thong-tu-13"><strong>Các số lưu hành trang thiết bị y tế theo thông tư 13/2021/TT-BYT</strong></a></li>
+	<li><a href="/web/guest/cong-van-sinh-pham"><strong>Các công văn SPCĐ in vitro SARS-CoV-2 đã cấp</strong></a></li>
+	<li><a href="/documents/10182/10030597/CV+2139+bai+bo+cac+van+ban+sinh+pham+TTBYT++chan+doan+invitro+xet+nghiem+sars-cov-2/6f56693a-b427-428b-81f5-03c4a2f63b3f"><strong>Công văn số 2139/BYT-TB-CT ngày 27/4/2022</strong> về việc bãi bỏ các văn bản có liên quan đến sinh phẩm/trang thiết bị y tế chẩn đoán in vitro xét nghiệm Sars-Cov-2</a></li>
+	<li><a href="/documents/10182/0/Quy%E1%BA%BFt+%C4%91%E1%BB%8Bnh+s%E1%BB%91+5652+Q%C4%90+BYT+C%C3%B4ng+b%E1%BB%91+TTHC+l%C4%A9nh+v%E1%BB%B1c+TTBYT.pdf/05d8fc66-8a40-4e44-941d-41a80f49247a" style="text-decoration-line: underline; outline: 0px;"><strong>Quyết định&nbsp;số 5652/QĐ-BYT ngày 10/12/2021&nbsp;</strong>&nbsp;V/v công bố thủ tục hành chính lĩnh vực trang thiết bị y tế.</a></li>
+	<li><a href="/documents/10182/0/QD+2992_QD-BKHCN+ngay+22.11.2021+ve+viec+ban+hanh+TCVN+PPE.pdf/088666c7-964c-4da7-8b12-82c1cbd3abaf"><strong>Quyết định&nbsp;số 2992/QĐ-BKHCN ngày 22/11/2021 </strong>&nbsp;V/v công bố Tiêu chuẩn quốc gia.</a></li>
+	<li><a href="/documents/10182/0/Quyet+dinh+tam+thoi+ve+chuyen+doi+sang+chai+chua+khi+oxy+y+te_final.signed.pdf/31eb880b-1e0e-49a8-aba5-9e36094af4f3"><strong>Quyết định số 5275/QĐ-BYT ngày 12/11/2021 </strong>&nbsp;V/v hướng dẫn tạm thời về việc chuyển đổi các chai chứa khí Nitơ, Argon, Oxy công nghiệp, Không khí nén sang chứa khí Oxy y tế phòng, chống dịch COVID-19 </a></li>
+	<li><a href="/documents/10182/0/CV+BC+8715+thong+tin+test+SARSCOV2+14.10.21.pdf/5f0ab209-78ec-4953-8e12-11a93c66adea"><strong>Công văn&nbsp;số 8715/BYT-TB-CT ngày 14/10/2021 </strong>&nbsp;V/v trang thiết bị chẩn đoán invitro xét nghiệm SAR-CoV-2.</a></li>
+	<li><a href="/documents/10182/0/Q%C4%90+4495+cong+bo+TTHC+Thong+tu+13+20.9.21.pdf/e65c66d1-05f2-4a1f-a40f-8bb09932ed34"><strong>Quyết định số 4495/BYT-TB-CT ngày 20/09/2021 </strong>&nbsp;V/v công bố thủ tục hành chính mới ban hành lĩnh vực trang thiết bị y tế được quy định tại Thông tư số 13/2021/TT-BYT ngày 16 tháng 9 năm 2021 của Bộ trưởng Bộ Y tế.</a></li>
+	<li><a href="/documents/10182/0/CV+gui+cac+don+vi+san+xuat-cung+ung+bao+cao+nang+luc_25.8.2021.signed.pdf/e2ce85d9-92d4-4b9d-992b-fd0ec7cde60c"><strong>Công văn số 7033/BYT-TB-CT ngày 25/08/2021</strong>&nbsp;V/v rà soát năng lực và đôn đốc tăng cường sản xuất, cung ứng Oxy y tế phục vụ phòng, chống dịch COVID-19</a></li>
+	<li><a href="/documents/10182/0/12.8.2021+CV+gui+dvi+DN%2C+SX+cung+ung+COVID-19+-+PPE.signed.pdf/e870564b-366e-4eae-9c54-25081e1a549b"><strong>Công văn số 6619/BYT-TB-CT ngày 13/08/2021</strong>&nbsp;V/v đôn đốc công tác sản xuất, cung ứng trang thiết bị bảo hộ cá nhân - PPE và phối hợp cung cấp thông tin phòng chống dịch COVID-19.</a></li>
+	<li><a href="/documents/10182/0/Vu%CC%A3+TTB%26CTYT+6547_11.8.2021_Don+doc+DN+SX+NK+KD+TTBYT+cong+khai+gia.signed.pdf/99278ac6-5187-4776-9ff8-003e874d7258"><strong>Công văn số 6547/BYT-TB-CT ngày 11/08/2021</strong>&nbsp;V/v đảm bảo sản xuất, kinh doanh và rà soát công khai giá trang thiết bị y tế trong điều kiện phòng chống dịch COVID-19</a></li>
+	<li><a href="/documents/10182/0/Ngmtuan_%C4%90a%CC%89m+ba%CC%89o+O2+y+te%CC%82%CC%81+phu%CC%A3c+vu%CC%A3+%C4%91ie%CC%82%CC%80u+tri%CC%A3+Covid-19+tre%CC%82n+ca%CC%89+nu%CC%9Bo%CC%9B%CC%81c_02.8.2021.pdf/f1d3c815-4b67-4756-a04b-525eda615b13"><strong>Tăng cường sản xuất, cung ứng và đầu tư, cải tạo mở rộng hệ thống Oxy khí y tế đáp ứng nhu cầu điều trị Covid-19.</strong></a></li>
+	<li><a href="/documents/10182/0/Cong+van+6472+ngay+09.8.21.pdf/9dee1a15-9a6c-4c69-a7e1-9ff15fe23115"><strong>Công văn số 6472/BYT-TB-CT ngày 09/08/2021</strong>&nbsp;V/v thông báo danh sách các đơn vị sản xuất, cung ứng trang thiết bị bảo hộ cá nhân - PPE.</a></li>
+	<li><a href="/documents/10182/0/C%C3%B4ng+v%C4%83n+6075+k%C3%A8m+ph%E1%BB%A5+l%E1%BB%A5c+28.07.2021.pdf/913d07dd-ff5e-4f4e-8fed-b7f29e04c11e"><strong>Công văn số 6075/BYT-TB-CT ngày 28/7/2021</strong>&nbsp;V/v thông báo danh sách các đơn vị sản xuất, cung ứng trang thiết bị bảo hộ cá nhân (PPE)</a></li>
+	<li><a href="/documents/13510/0/BYT_CV+gui+cac+SYT+va+BV+truc+thuoc+Covid-19+chuan+bi+phuong+an+dam+bao+Oxy+_final.signed.pdf/d70bfe09-cd8b-4cf8-b136-465ea2dbc8e1"><strong>Công văn số 5821/BYT-TB-CT ngày 20/7/2021</strong>&nbsp;V/v rà soát, có phương án đảm bảo nguồn cung ứng và sử dụng Oxy y tế cho công tác phòng chống dịch bệnh Covid-19.</a></li>
+	<li><a href="/documents/13510/0/20.7.2021+CV+gui+dvi+DN%2C+SX+cung+ung+Oxy.signed.pdf/783a5b34-54db-4034-a410-10c7947d5c34"><strong>Công văn số 5820/BYT-TB-CT ngày 20/7/2021</strong>&nbsp;V/v đôn đốc tăng cường sản xuất, cung ứng Oxy y tế phục vụ phòng chống&nbsp;dịch Covid-19.</a></li>
+	<li><a href="/documents/10182/0/FILE_20210719_095142_CV+BYT+tra+loi+Bo+GTVT+Bo+CT_HEMA+Edited_2021.7.19.9h15.signed.pdf/846f76b6-80ca-4f73-a38f-252d7ab548f0"><strong>Công văn số 5753/BYT-MT ngày 19/7/2021</strong>&nbsp;V/v xét nghiệm và tạo điều kiện thuận lợi cho người vận chuyển hàng hóa.</a></li>
+	<li><a href="/documents/10182/0/15.7.2021+CV+gui+dvi+DN%2C+SX+cung+ung+COVID-19+-+PPE.signed.pdf/2aa6e537-d76c-4968-af86-496c2b485d9a"><strong>Công văn số 5776/BYT-TB-CT ngày 20/7/2021</strong>&nbsp;V/v tăng cường đảm bảo công tác sản xuất, cung ứng PPE và phối hợp cung cấp thông tin phục vụ phòng chống dịch COVID-19. </a></li>
+	<li><a href="/documents/10182/0/CV+gui+Cty+huong+dan+viec+nhap+khau+test+khang+nguyen+SARS-Cov-2+12.7.21.signed.pdf/c4f44b18-50af-4ba0-89a1-b5a88b020e01"><strong>Công văn số 5650/BYT-TB-CT ngày 15/7/2021</strong>&nbsp;V/v nhập khẩu sinh phẩm chẩn đoán/trang thiết bị y tế chẩn đoán invitro xét nghiệm kháng nguyên SAR-CoV-2 phục vụ phòng chống dịch Covid-19.</a></li>
+	<li><a href="/documents/10182/0/CV+5646+BYT-TB-CT+15.7.21+Cung+c%E1%BA%A5p+th%C3%B4ng+tin+ph%E1%BB%A5c+v%E1%BB%A5+ph%C3%B2ng+ch%E1%BB%91ng+d%E1%BB%8Bch+COVID-19.rar/56311906-4d3c-49cd-bfc4-201e5bfc1426"><strong>Công văn số 5646/BYT-TB-CT ngày 15/7/2021</strong>&nbsp;V/v cung cấp thông tin phục vụ phòng chống dịch COVID-19.</a></li>
+	<li><a href="/documents/10195/0/Cong+van+gui+co+so+dang+ky%2C+nhap+khau%2C+co+so+xet+nghiem+ve+viec+bao+cao+chat+luong+TTBYT+xet+nghiem+vi+rut+SARS-CoV-2+09.7.2021.signed.pdf/ab488d34-1e25-4b12-a2d2-198716348902"><strong>Công văn số 5486/BYT-TB-CT ngày 09/7/2021</strong>&nbsp;V/v báo cáo chất lượng, hiệu quả sử dụng trang thiết bị y tế/sinh phẩm chẩn đoán in vitro xét nghiệm SARS-CoV-2</a></li>
+	<li><a href="/documents/10182/0/CV+s+a+1592+30.6.2021+ban+trinh.signed.pdf/ab23df8b-3f51-4e70-8508-005c2877c6cb"><strong>Công văn số 5414/BYT-TB-CT</strong> V/v đăng ký, nhập khẩu sinh phẩm chẩn đoán/trang thiết bị y tế chẩn đoán invitro xét nghiệm vi rút SARS-CoV-2 phục vụ phòng chống dịch Covid-19. </a></li>
+	<li><a href="/documents/10182/0/QD+ban+hanh+co+quan+kiem+tra+chat+luong+TTBYT+xet+nghiem+SARS-CoV-2+30.6.21.signed.pdf/aa6a84c9-19fc-4101-990a-8444ebe87e42"><strong>Quyết định số 3336/QĐ-BYT</strong> V/v ban hành danh sách các đơn vị đánh giá chất lượng sinh phẩm chẩn đoán/trang thiết bị y tế chẩn đoán invitro xét nghiệm vi rút SARS-CoV-2. </a></li>
+	<li><a href="/documents/10182/0/Cong+van+gui+Co+so+dang+ky+luu+hanh+TTBYT+san+xuat+trong+nuoc%2C+san+pham+khu+khuan+TTBYT+ngay+08.4.2021.pdf/a1e19846-50ac-4bc4-a0cc-01c14e2e1997"><strong>Công văn số 2572/BYT-TB-CT</strong> ngày 08/4/2021 V/v bổ sung, hoàn thiện các hồ sơ đăng ký lưu hành trang thiết bị y tế</a></li>
+	<li><a href="/documents/10182/0/CV+gui+SYT_Kiem+tra+don+vi+san+xuat+Gang+tay_07.4.2021.signed.pdf/71efec52-3fdc-4d3b-82d7-d406d86562fe"><strong>Công văn số 2547/BYT-TB-CT</strong> ngày 07/4/2021 V/v rà soát, kiểm tra các cơ sở sản xuất, kinh doanh găng tay y tế, vật tư y tế phòng, chống dịch Covid-19 trên địa bàn</a></li>
+	<li><a href="/documents/10182/0/CV+yeu+cau+DN+dam+bao+cung+ung+va+cap+nhat+gia+TBYT+PCD.signed.pdf/2caa81a6-acf0-46fb-a700-24b838dd12cc"><strong>Công văn số 1115/BYT-TB-CT</strong> ngày 24/02/2021 V/v bảo đảm cung ứng và cập nhật thông tin chính xác về giá vật tư, thiết bị y tế, sinh phẩm xét nghiệm có liên quan đến công tác phòng chống dịch Covid-19</a></li>
+	<li><a href="/documents/10182/10030597/Cong+van+gui+Co+so+DKLH+SXTN-KK.signed.pdf/dc50feb6-043e-4ca0-ba9c-d5bbc9589463"><strong>Công văn số 939/BYT-TB-CT</strong> ngày 09/02/2021 V/v hướng dẫn đăng ký lưu hành trang thiết bị y tế sản xuất trong nước và sản phẩm chỉ có 01 mục đích là khử khuẩn trang thiết bị y tế</a></li>
+	<li><a href="/documents/10182/10030597/Cong+van+gui+Co+so++ang+ky+luu+hanh+29.01.2021.signed.pdf/23e081f1-23ed-4064-bde9-efa24630d83c"><strong>Công văn số 724/BYT-TB-CT ngày 29/01/2021</strong> V/v hướng dẫn, đôn đốc thực hiện đăng ký lưu hành trang thiết bị y tế</a></li>
+	<li><a href="/documents/10182/10030597/12Jan2021+Cong+van+207+gui+Doanh+nghiep+bao+cao+gia+cua+01+He+thong+CT128+lat.signed.pdf/2dfa8860-c5d2-4194-a8d4-7240344c2982"><strong>Công văn số 207/BYT-KH-TC&nbsp;ngày 12/01/2021&nbsp;&nbsp;</strong>V/v báo cáo việc phân phối, kinh doanh, mua bán, ký kết hợp đồng liên doanh, liên kết của Hệ thống chụp cắt lớp vi tính 128 lát cắt</a>.</li>
+	<li><a href="/documents/10182/10030597/Cong+van+gui+Don+vi++dang+ky+luu+hanh+31.12.2020.signed.pdf/74a0b3bc-c8fc-433c-ba27-a379b5ca9934"><strong>Công văn số 7395/BYT-TB-CT&nbsp;ngày 31/12/2020&nbsp;&nbsp;</strong>V/v hướng dẫn chuẩn bị và nộp hồ sơ đăng ký lưu hành trang thiết bị y tế</a>.</li>
+	<li><a href="/documents/10182/10030597/CV+huong+dan+CT+ve+cac+thay+doi%2C+bo+sung+thanh+phan+ho+so+cua+SPC%C4%90+in+vitro+da+dc+BYT+cap+so+luu+hanh.pdf/9f0815eb-ee2f-4ea4-bb0a-43fb7019a386"><strong>Công văn số 6355/BYT-TB-CT&nbsp;ngày 18/11/2020&nbsp;&nbsp;</strong>V/v hướng thay đổi, bổ sung hồ sơ đăng ký&nbsp;&nbsp;Sinh phẩm chẩn đoán in vitro</a>.</li>
+	<li><a href="/documents/10182/10030597/cvb-2020-5888-1.pdf/8288f409-903f-453a-ad56-73bed3db2b99"><strong>Công văn số 5888/BYT-TB-CT&nbsp;ngày 29/10/2020&nbsp;</strong>V/v hướng dẫn triển khai đấu thầu&nbsp;trang thiết bị y tế theo Thông tư số 14/2020/TT-BYT</a>.</li>
+	<li><a href="/documents/10182/10030597/CV+5581+v%E1%BB%81+vi%E1%BB%87c+th%E1%BB%B1c+hi%E1%BB%87n+c%C3%B4ng+khai+gi%C3%A1+TTBYT.pdf/47b3f0f8-4d29-475d-ba73-6d95383155b6"><strong>Công văn số 5581/BYT-TB-CT&nbsp;ngày 14/10/2020&nbsp;&nbsp;</strong>V/v thực hiện Công khai giá&nbsp;trang thiết bị y tế</a>.</li>
+	<li><a href="/documents/10182/10030597/2020+CV+gui+doanh+nghiep+de+nghi+phoi+hop+dk+tai+khoan+cong+khai+gia+-+Vu+TTB.signed.pdf/5ef56bac-5501-4e82-af48-92cc8f747d1e"><strong>Công văn số 5159/BYT-TB-CT&nbsp;ngày 28/09/2020&nbsp;&nbsp;</strong>V/v Công khai giá Trang thiết bị y tế</a>.</li>
+	<li><a href="/documents/10182/10030597/CV+4428+Cung+cap+thong+tin+Hoi+nghi+ho+tro+phap+ly.pdf/d60e96ae-db8d-4249-8703-5ab2f5965689"><strong>Công văn số&nbsp;4428/BYT-PC&nbsp;ngày 20/08/2020&nbsp;&nbsp;</strong>V/v cung cấp thông tin và đề xuất liên quan văn bản QPPL trong lĩnh vực y tế nhằm ứng phó và giảm thiểu tác động của dịch bệnh Covid 19</a>.</li>
+	<li><a href="/documents/10182/10030597/CV+4043-BYT-TB-CT.pdf/d6b5cb51-8e48-4e5b-bf5f-cf3033840126"><strong>Công văn số&nbsp;4043/BYT-TB-CT ngày 29/07/2020&nbsp;&nbsp;</strong>V/v danh sách các sinh phẩm/trang thiết bị y tế chẩn đoán in vitro xét nghiệm virút&nbsp;Corona (SARS-CoV-2) đã được cấp số đăng ký, cấp giấy phép nhập khẩu</a>.</li>
+	<li><a href="/documents/10182/10030597/4026-BYT-TB-CT.pdf/7dc1b365-48e7-4c0d-9352-f133ebc566d0"><strong>Công văn số&nbsp;4026/BYT-TB-CT ngày 28/07/2020&nbsp;&nbsp;</strong>V/v tăng cường thanh kiểm tra xử lý vi phạm trên địa bàn</a>.</li>
+	<li><a href="/documents/10182/10030597/3990-BYT-TB-CT.pdf/30ce000a-ab47-4fdb-b5ff-0b05f33eff1c"><strong>Công văn số 3990/BYT-TB-CT ngày 27/07/2020&nbsp;&nbsp;</strong>V/v báo cáo năng lực, mặt hàng TTBYT trong nước đã sản xuất được </a>.</li>
+	<li><a href="/documents/10182/10030597/2597_QD-BYT_22062020_1-signed.pdf/74c4396d-c872-4ee3-9eaf-2e99b4f4506b"><strong>Quyết định&nbsp; 2597/QĐ-BYT&nbsp;&nbsp;</strong>Quyết định về việc ban hành danh mục 01 trang thiết bị y tế chẩn đoán in vitro xác định kháng thể kháng vi rút Corona (SARS-CoV-2) được cấp số đăng ký </a>.</li>
+	<li><a href="/documents/10182/10030597/2524_QD-BYT_16062020_1-signed.pdf/80a657cf-b836-4bc7-bea2-b282c7808258"><strong>Quyết định&nbsp; 2524/QĐ-BYT&nbsp;&nbsp;</strong>Quyết định về việc ban hành danh mục 02 trang thiết bị y tế chẩn đoán in vitro xác định kháng thể kháng vi rút Corona (SARS-CoV-2) được cấp số đăng ký</a>.</li>
+	<li><a href="/documents/10182/10030597/3453_BYT-TB-CT_24062020_signed_CV+gui+SYT+ra+soat+hoat+dong+cong+bo.pdf/0ceca4d3-2564-4424-bcc0-2149493f4cd3"><strong>Công văn&nbsp;3453/BYT-TB-CT</strong>&nbsp;Về việc rà soát, kiểm tra các hồ sơ công bố, tiếp nhận công bố và phân loại TTBYT.</a></li>
+	<li><a href="/documents/10182/10030597/2316_QD-BYT_04062020_1-signed.pdf/11be7012-ce07-4a83-8780-8416b3e8f9d4"><strong>Quyết định&nbsp;2316/QĐ-BYT</strong>&nbsp;Quyết định phân cấp thẩm quyền quyết định pshê duyệt tiêu chuẩn, định mức sử dụng máy móc,&nbsp;thiết bị chuyên dùng của các cơ quan, đơn vị thuộc phạm vi quản lý của Bộ Y&nbsp;tế.</a></li>
+	<li><a href="/documents/10182/10030597/3013_BYT-TB-CT_01062020_1-signed.pdf/d5627308-1de3-42ea-8828-40310b57b03c"><strong>Công văn 3013/BYT-TB-CT</strong>&nbsp;&nbsp;Về việc thực hiện cấp số đăng ký lưu hành đối với trang thiết bị y tế trong nước.</a></li>
+	<li><a href="/documents/10182/10030597/2560_BYT-TB-CT_11052020.pdf/936b7b1a-d320-4985-9e0a-06ade75f97c3"><strong>Công văn 2560/BYT-TB-CT</strong>&nbsp;&nbsp;Về việc&nbsp;danh sách các sinh phẩm/trang thiết&nbsp;bị y tế chẩn đoán in vitro xét nghiệm vi&nbsp;rút Corona (SARS-CoV-2) đã được cấp&nbsp;số đăng ký, cấp giấy phép nhập khẩu.</a></li>
+	<li><a href="/documents/10182/0/CV+2507+BYT+TB+CT.pdf/b377b5e3-885e-41ce-bd24-fe6e0670c335"><strong>Công văn 2507/BYT-TB-CT</strong>&nbsp;&nbsp;Về việc triển khai Nghị quyết 60/NQ-CP về công khai danh sách, năng lực sản xuất của các doanh nghiệp và đảm bảo chất lượng khẩu trang y tế.</a></li>
+	<li><a href="/documents/10182/10030597/1951_BYT-PC_07042020_4-signed.pdf/ee8a4150-c550-4b57-94ea-affb72321ffa"><strong>Công văn&nbsp;1951/BYT-PC</strong>&nbsp; &nbsp;Về việc cung cấp thông tin về các vướng mắc liên quan văn bản QPPL trong lĩnh vực y tế.</a></li>
+	<li><a href="/documents/10182/10030597/1587366795179597.pdf/a75c3407-f73e-44bd-b773-53c78a0e94b7"><strong>Quyết định 1772/QĐ-BYT</strong>&nbsp;&nbsp; Quyết định phân cấp thẩm quyền quyết định mua sắm và phê duyệt kế hoạch lựa chọn nhà thầu các gói thầu mua thuốc, hàng hóa, dịch vụ phục vụ hoạt động thường xuyên của các đơn vị hành chính, sự nghiệp thuộc&nbsp;Bộ Y tế.</a></li>
+	<li><a href="/documents/10182/10030597/Quyet+dinh+phan+cap+tai+san.pdf/1568bab5-7cf0-4d9e-8204-7a1c46005536"><strong>Quyết định 1814/QĐ-BYT</strong>&nbsp;&nbsp; Quyết định phân cấp thẩm quyền quyết định mua sắm và phê duyệt kế hoạch lựa chọn nhà thầu cung cấp tài sản cố định của các đơn vị hành chính, sự nghiệp thuộc Bộ Y tế.</a></li>
+	<li><a href="/documents/10182/10030597/CV+2063+ngay+13.4.2020.pdf/23c30cd7-fe35-4119-9b4d-2128324bf931"><strong>Công văn 2063/BYT-TB-CT</strong>&nbsp;&nbsp;Về việc báo cáo năng lực và khả năng cung cấp khẩu trang y tế.</a></li>
+	<li><a href="/documents/10182/10030597/1616_QD-BYT_08042020_1-signed.pdf/18326e20-9c84-4b16-bd72-8be2699331c0"><strong>Quyết định&nbsp;1616/QĐ-BYT</strong> &nbsp; Về việc hướng dẫn tạm thời về kỹ thuật, phân loại và lựa chọn bộ trang phục phòng, chống dịch COVID 19.</a></li>
+	<li><a href="/documents/10182/10030597/1444_QD-BYT_29032020_1-signed.pdf/18fb80a0-7993-49b6-85fb-b5ffda50246f"><strong>Quyết định 1444/QĐ-BYT</strong> &nbsp; Về việc hướng dẫn tạm thời về lựa chọn và sử dụng khẩu trang trong phòng chống&nbsp;dịch COVID 19.</a></li>
+	<li><a href="/documents/10182/10030597/CV+1908+2020+h%E1%BB%97+tr%E1%BB%A3+v%E1%BA%ADn+chuy%E1%BB%83n+v%E1%BA%ADt+t%C6%B0+thi%E1%BA%BFt+b%E1%BB%8B+ph%C3%B2ng+ch%E1%BB%91ng+d%E1%BB%8Bch.pdf/46fab427-983e-4a4c-a1df-e85ae06b16f7"><strong>Công văn 1908/BYT-TB-CT</strong>&nbsp; Về việc hỗ trợ vận chuyển vật tư, thiết bị, hóa chất, sinh phẩm và thuộc phòng chống dịch</a></li>
+	<li><a href="/documents/10182/10030597/1658_20200403094052.pdf/2e54ab68-c2e0-4b75-86f6-e98506979fb3"><strong>Công văn 1658/BYT-TB-CT</strong>&nbsp; Về việc thực hiện ý kiến kết luận của TTCP tại Thông báo số 122/TB-VPCP&nbsp;</a></li>
+	<li><a href="/documents/10182/10030597/CV+1657+gui+BTC+ve+cap+CFS.pdf/8ff6e2dd-5817-4125-89ea-088ff50d27d0"><strong>Công văn 1657/BYT-TB-CT</strong>&nbsp; Về việc xuất khẩu khẩu trang y tế&nbsp;</a></li>
+	<li><a href="/documents/10182/10030597/1417_20200403094308.pdf/65865841-33b9-41a9-9524-d57159c36e08"><strong>Công văn 1417/BYT-TB-CT</strong>&nbsp; Về việc rà soát các đơn vị sản xuất khẩu trang y tế và bộ trang phục phòng chống dịch trên địa bàn&nbsp;</a></li>
+	<li><a href="/documents/10182/10030597/CV+1777-2020+Cung+c%E1%BA%A5p+nguy%C3%AAn+li%E1%BB%87u+s%E1%BA%A3n+xu%E1%BA%A5t+kh%E1%BA%A9u+trang+y+t%E1%BA%BF.pdf/9839953c-3986-4c3b-9a63-bf9085d49cb5"><strong>Công văn 1777/BYT-TB-CT</strong>&nbsp; Về việc cung cấp nguyên vật liệu để sản xuất khẩu trang y tế&nbsp;</a></li>
+	<li><a href="/documents/10182/10030597/QD1353/122c4618-d91a-41f7-a007-ea98e2063488"><strong>Quyết định&nbsp;số 1353/QĐ-BYT</strong>&nbsp; Về việc ban hành danh mục các đơn vị kiểm định/kiểm tra chất lượng sinh phẩm chẩn đoán/TTBYT chẩn đoán vi rút&nbsp;Corona (SARS-CoV-2)</a></li>
+	<li><a href="/documents/10182/10030597/Scan0010.pdf/9dccaf6a-9919-4a86-9727-6d5339db3da2"><strong>Công văn số 1592/BYT-TB-CT</strong>&nbsp; Về việc sản xuất, nhập khẩu trang thiết bị y tế/&nbsp;sinh phẩm chẩn đoán invitro chẩn đoán virus Corona (SAR-Cov-2)</a></li>
+	<li><a href="/documents/10182/10030597/CV+1486+ngay+22.3.2020.pdf/858a382f-56f9-4a2d-942c-21ee0e559654"><strong>Công văn số 1486/BYT-TB-CT</strong>&nbsp; Về việc cung cấp báo giá khẩu trang y tế, trang phục phòng, chống dịch</a></li>
+	<li><a href="/documents/10182/10030597/CV+1485+ngay+22.3.2020.pdf/571159c1-3e8c-44d2-84a6-09470bd7cd3e"><strong>Công văn số 1485/BYT-TB-CT</strong>&nbsp; Về việc sử dụng vật liệu thay thế lớp màng lọc trong khẩu trang y tế.</a></li>
+	<li><a href="/documents/10182/10030597/CV+1352+BYT+TB+CT+ngay+18.03.2020.pdf/0a8828e0-2972-4ef4-9646-c69a36082d39"><strong>Công văn số 1352/BYT-TB-CT</strong>&nbsp; Về việc cung cấp báo giá khẩu trang y tế cho dự phòng Quốc Gia. </a></li>
+	<li><a href="/documents/10182/10030597/QD+774_2020-03-04+19.06.17.pdf/04e014dc-e377-4074-8c3b-1b011f3980bf"><strong>Quyết định số 774/QĐ-BYT</strong>&nbsp; Về việc ban hành danh mục 02 sinh phẩm chẩn đoán invitro xét nghiệm virut Corona ( SARS-CoV-2) được cấp số đăng ký.</a></li>
+	<li><a href="/documents/10182/10030597/CV747/9b147ee6-df05-4b06-8402-6f564ec84dba"><strong>Công văn số 747/BYT-TB-CT</strong>&nbsp; Về việc kiểm tra hồ sơ công bố đối với sản phẩm, chế phẩm diệt khuẩn tay không dùng nước</a>.</li>
+	<li><a href="/documents/10182/10030597/CV647/e4aa6878-3ea4-4940-9cff-c11c88e86d95"><strong>Công văn số 647/BYT-TB-CT</strong>&nbsp; Về việc đảm bảo cung cấp đủ TTBYT cho phòng, chống dịch bệnh nCoV</a>.</li>
+	<li><a href="/documents/10182/10030597/1581086317483676.pdf/8dd7dae3-7276-4ab0-8af7-0520ab54a3a7"><strong>Công văn số 108/XNK-CN</strong>&nbsp; Về việc đầu mối doanh nghiệp cung cấp nguyên liệu khẩu trang và một số TTBYT</a>.</li>
+	<li><a href="/documents/10182/10030597/QD+155+BTC_07.02.2020.pdf/2e99dd2c-6fcf-4dba-8819-e51d1ddcbf2a"><strong>Quyết định số 155/QĐ-BTC </strong>&nbsp; Về việc ban hành danh mục các mặt hàng được miễn thuế nhập khẩu</a>.</li>
+	<li><a href="/documents/10182/10030597/bn-2020-587.pdf/7d19505f-9867-44af-b7df-36c8aefe618f"><strong>Công văn số 797/VPCP-KGVX </strong>&nbsp; Về việc đảm bảo trang thiết bị, vật tư y tế cho phòng, chống dịch nCoV</a>.</li>
+	<li><a href="/documents/10182/10030597/Congvan403_new/8aa97ca4-6271-4af7-bff0-269d5b28e3e7"><strong>Công văn số 403 </strong>&nbsp; Về danh sách các công ty sản xuất khẩu trang y tế, trang phục phòng, chống dịch 2019-nCoV</a>.</li>
+	<li><a href="/documents/10182/10030597/CV-390-2020/4108d1e5-d747-462f-99ab-3d8d2dd1f4c5"><strong>Công văn số 390 </strong>&nbsp; Về việc đảm bảo cung cấp đủ vật tư, trang thiết bị cho phòng, chống dịch bệnh&nbsp;nCoV</a>.</li>
+	<li><a href="/documents/10182/10030597/CV-387-BYT-Hoatoc/b2a5b7bd-6afa-4cd3-b5a4-59e6a426410a"><strong>Công văn số 387 </strong>&nbsp; Về việc đảm bảo cung cấp đủ TTBYT cho phòng chống dịch bệnh&nbsp;nCoV</a>.</li>
+	<li><a href="/documents/10182/10030597/Congvanguidonvithongbaonghidinh032020/01783db0-b406-4a39-9ea6-0a4b7c830944"><strong>Công văn số 82 </strong>&nbsp; Về việc triển khai nghị định 03/2020/NĐ-CP ngày 01/01/2020 của Chính phủ.</a></li>
+	<li><a href="/documents/10182/10030594/Quyetdinh5074/2c7920c2-f73e-4beb-a182-cefe5fe0650a"><strong>Quyết định 5074 </strong>&nbsp; Về việc áp dụng Cơ chế một cửa quốc gia đối với 04 thủ tục hành chính thuộc lĩnh vực trang thiết bị y tế.</a></li>
+	<li><a href="/documents/10182/10030597/CV+cua+TCHQ+vv+trien+khai+NSW+v%E1%BB%9Bi+linh+vuc+TTBYT.pdf/20329e45-4732-4d86-9f37-33262eeb3032"><strong>Công văn số 6840 - </strong> Về việc triển khai các thủ tục của Bộ Y tế trên cơ chế một cửa quốc gia. </a></li>
+	<li><a href="/documents/10182/10030597/da_ky_CV++i+603.pdf/587212d9-c007-4ba1-ad97-5c4a88f36a12"><strong>Công văn 603 - </strong> Về việc triển khai thực hiện Cơ chế một cửa quốc gia đối với 04 thủ tục hành chính lĩnh vực TTBYT </a></li>
+	<li><a href="/documents/10182/10030597/Congvan7550/1a8a1f3f-7a3d-4716-a9ff-4aec06d29072"><strong>Công văn 7550 - </strong> Về việc triển khai DVCTT mức độ 4 đối với 03 TTHC về quảng cáo TTBYT </a></li>
+	<li><a href="/documents/10182/10030597/Quyetdinh525_XNQC+Boyte/65ea1d31-bf85-4790-b55c-26cc53fe6661"><strong>Quyết định 5252 - </strong> Về việc triển khai dịch vụ công trực tuyến mức độ 4 đối với 3 thủ tục hành chính thuộc lĩnh vực TTBYT </a></li>
+	<li><a href="/web/guest/van-ban-tong-hop"><strong>Các quyết định cấp số đăng ký lưu hành sinh phẩm chẩn đoán invitro 2014-2019</strong></a></li>
+	<li><strong><a href="/documents/10182/10030597/Congvanso4658_Nhapkhau/25e2ad26-1e91-4e70-a8b9-545f94eb4458"><strong>Công văn số 4658:&nbsp;</strong>V/v Hướng dẫn thủ tục Nhập khẩu TTBYT</a></strong></li>
+	<li><strong><a href="/documents/10182/0/Congvan3664-DKLH/4363d67d-3712-4332-aa1e-3e5ae5fefa55"><strong>Công văn số 3664:&nbsp;</strong>V/v thực hiện cấp đăng ký lưu hành đối với trang thiết bị y tế loại B, C, D</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/NQ+131-2017+c%E1%BB%A7a+Ch%C3%ADnh+ph%E1%BB%A7.pdf/f261db2f-b4ff-4f8f-bde1-bb48bd0db70f"><strong>Nghị&nbsp;quyết số 131/NQ-CP ngày 16/12/2017 của Chính phủ:&nbsp;</strong>Nghị quyết phiên họp Chính phủ thường kỳ tháng 11 năm 2017.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/Q%C4%90+745-2019+C%C3%B4ng+b%E1%BB%91+TTHC+B%E1%BB%99+Y+t%E1%BA%BF.pdf/49679dd0-e91d-493c-a4b7-13d9e59e7ec6"><strong>Quyết định số 745/QĐ-BYT ngày 28/02/2019 của Bộ Y tế: </strong>Về việc công bố thủ tục hành chính mới được ban hành/ được sửa đổi, bổ sung hoặc thay thế/ bị bãi bỏ lĩnh vực TTBYT thuộc phạm vi quản lý của Bộ Y tế.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/Q%C4%90+73-2019+Ph%C3%AA+duy%E1%BB%87t+k%E1%BA%BF+ho%E1%BA%A1ch+tri%E1%BB%83n+khai+N%C4%90+169.2019.pdf/a4c3287d-04d7-4805-b984-a28f271e0213"><strong>Quyết định số 73/QĐ-BYT&nbsp;ngày 08/01/2019 của Bộ Y tế: </strong>Về việc Phê duyệt kế hoạch triển khai nghị định số 169/2018/NĐ-CP ngày 31/12/2018.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+14-2019+g%E1%BB%ADi+HQ+v%E1%BB%81+vi%E1%BB%87c+tri%E1%BB%83n+khai+N%C4%90+169.2018.pdf/f475d523-f6d4-4674-8a6f-8f0a0816331c"><strong>Công văn số 14/BYT-TB-CT ngày 02/01/2019:&nbsp;</strong>Gửi Tổng cục Hải quan về việc triển khai Nghị định số 169/2018/NĐ-CP ngày 31/12/2018 của Chính Phủ.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+15-2019+g%E1%BB%ADi+c%C3%A1c+DN+v%E1%BB%81+vi%E1%BB%87c+tri%E1%BB%83n+khai+N%C4%90+169.2018.pdf/d3e15a64-9dac-48cf-8585-89469ca031f7"><strong>Công văn số 15/BYT-TB-CT ngày 02/01/2019:&nbsp;</strong>Gửi các doanh nghiệp về việc triển khai Nghị định số 169/2018/NĐ-CP ngày 31/12/2018 của Chính Phủ.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/15.+Quy+trinh+ISO+cap+so+DKLH+TTBYT+theo+ND36.pdf/be106a00-cedb-481c-834f-664f2c59359b"><strong>Quy trình Tiếp nhận, xử lý, thẩm định và xét duyệt hồ sơ cấp số đăng ký lưu hành trang thiết bị y tế:&nbsp;</strong></a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/QD+7673+nam+2018.pdf/f39150ca-40dc-4298-af69-499224d0e651"><strong>Quyết định số 7673/QĐ-BYT ngày 26/12/2018:&nbsp;</strong>Về việc công bố Hệ thống quản lý chất lượng phù hợp tiêu chuẩn quốc gia TCVN ISO 9001:2015 tại Cơ quản Bộ Y tế năm 2018.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/07.+Quy+trinh+ISO+cap+giay+phep+nhap+khau+TTBYT+theo+ND36.pdf/4e8b1bf0-944d-4c2c-aa72-736e110dada9"><strong>Quy trình Cấp giấy phép nhập khẩu Trang thiết bị y tế (Theo NĐ 36)</strong></a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+16-2019+g%E1%BB%ADi+c%C3%A1c+B%E1%BB%99+ng%C3%A0nh+v%E1%BB%81+vi%E1%BB%87c+tri%E1%BB%83n+khai+N%C4%90+169.2018.pdf/15bed062-fffb-44cc-9e62-d1b736f01ae7"><strong>Công văn số 16/BYT-TB-CT ngày 02/01/2019:&nbsp;</strong>Gửi các Bộ ngành; UBND các tỉnh, thành phố; các đơn vị trực thuộc Bộ Y tế về việc triển khai Nghị định số 169/2018/NĐ-CP ngày 31/12/2018 của Chính Phủ.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+5897-2018+g%E1%BB%ADi+UBND+t%C4%83ng+c%C6%B0%E1%BB%9Dng+h%E1%BA%ADu+ki%E1%BB%83m+SX+TTBYT.pdf/0d66c017-1f64-4dc5-ba07-0380aaebe032"><strong>Công văn số 5897/BYT-TB-CT ngày 04/10/2018:&nbsp;</strong>Gửi UBND các tỉnh, thành phố về việc tăng cường hậu kiểm, hướng dẫn đối với các cơ sở sản xuất, kinh doanh TTBYT trên địa bàn.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+4196-2018+g%E1%BB%ADi+DN+d%E1%BB%ABng+%C4%91i%E1%BB%81u+ch%E1%BB%89nh+hi%E1%BB%87u+l%E1%BB%B1c+GPNK.pdf/8efa5b36-4327-446d-a4ec-00a4d5e7304b"><strong>Công văn số 4196/BYT-TB-CT ngày 23/07/2018:&nbsp;</strong>Gửi các doanh nghiệp về việc thực hiện điều chỉnh hiệu lực của giấy phép nhập khẩu TTBYT.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+3949-2018+g%E1%BB%ADi+DN+kh%E1%BA%AFc+ph%E1%BB%A5c+s%E1%BB%B1+c%E1%BB%91+tr%C3%AAn+c%E1%BB%95ng+th%C3%B4ng+tin+1+c%E1%BB%ADa+QG.pdf/4a9e6622-1888-43f5-b15f-01a8303de749"><strong>Công văn số 3949&nbsp;BYT-TB-CT&nbsp;ngày 11/07/2018: </strong>Gửi các đơn vị nhập khẩu TTBYT về việc khắc phục sự cố cấp giấy phép nhập khẩu TTBYT triển khai Cơ chế một cửa quốc gia.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+2493-2018+g%C3%B3p+%C3%BD+d%E1%BB%B1+th%E1%BA%A3o+N%C4%90+s%E1%BB%ADa+%C4%91%E1%BB%95i+%C4%90KKD+l%C4%A9nh+v%E1%BB%B1c+y+t%E1%BA%BF.pdf/d2a375a3-5cd8-425d-9b80-10c2bf4eeb99"><strong>Công văn số 2493/BYT-TB-CT ngày 08/05/2018: </strong>Về việc góp ý dự thảo Nghị định sửa đổi một số quy định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Y tế.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+1879-2018+b%C3%A1o+c%C3%A1o+chuy%C3%AAn+%C4%91%E1%BB%81+v%E1%BB%81+TTBYT+IVD+nh%E1%BA%ADp+kh%E1%BA%A9u.pdf/a67e05bd-f5a2-4934-a0e4-8d1559b82b49"><strong>Công văn số 1879/BYT-TB-CT ngày 06/04/2018:&nbsp;</strong>Gửi các doanh nghiệp về việc báo cáo chuyên đề về trang thiết y tế nhập khẩu chẩn đoán in vitro.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+1567-2018+th%E1%BB%B1c+hi%E1%BB%87n+nh%E1%BA%ADp+kh%E1%BA%A9u+TTBYT+lo%E1%BA%A1i+B%2CC%2CD.pdf/e1f0bd56-6ddc-42d4-b30d-2fadc750dd72"><strong>Công văn số 1567/BYT-TB-CT ngày 23/03/2018:&nbsp;</strong>Gửi các doanh nghiệp về việc thực hiện nhập khẩu đối với TTBYT loại B, C, D.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+7370-2017+g%E1%BB%ADi+SYT+th%E1%BB%B1c+hi%E1%BB%87n+NQ+131+c%E1%BB%A7a+CP.pdf/7b063517-fb3f-4b68-abc9-e894caafa9cf"><strong>Công văn số 7370/BYT-TB-CT ngày 25/12/2017:&nbsp;</strong>Gửi các Sở Y tế về việc thực hiện nội dung Nghị Quyết số 131/NQ-CP ngày 06/12/2017 của Chính phủ.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+7371-2017+g%E1%BB%ADi+HQ+th%E1%BB%B1c+hi%E1%BB%87n+NQ+131+c%E1%BB%A7a+CP.pdf/d229cb8c-ebea-4625-8acd-2074a1e0a558"><strong>Công văn số 7371/BYT-TB-CT ngày 25/12/2017:&nbsp;</strong>Gửi Tổng cục Hải quan về việc thực hiện nội dung Nghị Quyết số 131/NQ-CP ngày 06/12/2017 của Chính phủ.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+7165-2017+g%E1%BB%ADi+DN+th%E1%BB%B1c+hi%E1%BB%87n+NQ+131+c%E1%BB%A7a+CP.pdf/603def2c-28a5-4f5e-a7e3-829132d16674"><strong>Công văn số 7165/BYT-TB-CT ngày 14/12/2017:&nbsp;</strong>Gửi các doanh nghiệp về việc thực hiện nội dung Nghị Quyết số 131/NQ-CP ngày 06/12/2017 của Chính phủ.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+5278-2017+g%E1%BB%ADi+DN+th%E1%BB%B1c+hi%E1%BB%87n+N%C4%90+36.2016.pdf/8d8df02d-bd86-4337-9624-5f05c2452779"><strong>Công văn số 5278/BYT-TB-CT ngày 19/09/2017:&nbsp;</strong>Gửi các doanh nghiệp về việc thực hiện đăng ký lưu hành trang thiết bị y tế thuộc loại B, C, D theo nghị định số 36/2016/NĐ-CP của Chính phủ.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+553-2017+g%E1%BB%ADi+SYT+t%E1%BA%ADp+hu%E1%BA%A5n+tri%E1%BB%83n+khai+N%C4%90+36.2016.pdf/58033f9b-01a0-45c6-a9b9-66694a015db7"><strong>Công văn số 553/BYT-TB-CT ngày 10/02/2017:</strong>&nbsp;Gửi các Sở Y tế về việc tập huấn triển khai dịch vụ công trực tuyến thực hiện Nghị định số 36/2016/NĐ-CP ngày 15/5/2016 của Chính phủ về quản lý TTBYT.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+9138-2016+g%E1%BB%ADi+SYT+tri%E1%BB%83n+khai+DVC+th%E1%BB%B1c+hi%E1%BB%87n+N%C4%90+36.2016.pdf/aa3bcccf-b97e-42cc-b343-a46f7c0ea446"><strong>Công văn số 9138/BYT-TB-CT ngày 29/12/2016:</strong>&nbsp;Gửi các Sở Y tế về việc triển khai ứng dụng CNTT thực hiện Nghị định số 36/2016/NĐ-CP ngày 15/5/2016 của Chính phủ về quản lý TTBYT.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+9139-2016+g%E1%BB%ADi+DN+tri%E1%BB%83n+khai+DVC+th%E1%BB%B1c+hi%E1%BB%87n+N%C4%90+36.2016.pdf/e3783df1-4384-448d-95e0-cdb956f5305a"><strong>Công văn số 9139/BYT-TB-CT ngày 27/12/2016:</strong> Gửi các doanh nghiệp về việc triển khai dịch vụ công trực tuyến&nbsp;thực hiện Nghị định số 36/2016/NĐ-CP ngày 15/5/2016 của Chính phủ về quản lý TTBYT.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/CV+8423-2016+g%E1%BB%ADi+SYT+tri%E1%BB%83n+khai+DVC+th%E1%BB%B1c+hi%E1%BB%87n+N%C4%90+36.2016.pdf/911cf66a-0d4c-4726-a23d-af51e42c777d"><strong>Công văn số 8423/BYT-TB-CT ngày 25/11/2016:</strong>&nbsp;Gửi các Sở Y tế về việc chuẩn bị điều kiện triển khai ứng dụng CNTT thực hiện Nghị định số 36/2016/NĐ-CP ngày 15/5/2016 của Chính phủ về quản lý TTBYT.</a></strong></li>
+	<li><strong><a href="/documents/10182/10030597/Q%C4%90+4554-2016+C%C3%B4ng+b%E1%BB%91+TTHC+th%E1%BB%B1c+hi%E1%BB%87n+N%C4%90+36.2016.pdf/52a5647f-dda9-471f-9268-3b312a6b83a0"><strong>Quyết định số 4554/QĐ-BYT&nbsp;ngày 22/08/2016 của Bộ Y tế:</strong>&nbsp;Về việc công bố thủ tục hành chính được ban hành tại Nghị định số 36/2016/NĐ-CP ngày 15/5/2016 của Chính phủ về quản lý TTBYT.</a></strong></li>
+</ul>
+						</div>
+
+						
+					
+					
+				
+			
+		
+	
+
+
+
+
+
+
+
+	
+		<div class="entry-links">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+	
+
+	
+
+	
+
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+
+	
+
+
+
+
+
+		
+	</div>
+
+
+
+
+</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-3 MT10">
+			<div class="box-TT hidden-scrollbar" style="padding-bottom: 50px;">
+				<h4><a href="/web/guest/thong-bao"><span><i class="fa-R fa fa-bell-o" aria-hidden="true"></i>Thông báo</span></a></h4>
+				<div class="portlet-column span3" id="column-3" style="width: 100%;margin-top: -9px !important;margin-left: -9px !important;padding-right: 0px;">
+					<div class="portlet-dropzone portlet-column-content" id="layout-column_column-3">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_56_  portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_cfnOzNOW54Yc_" >
+		<span id="p_56_INSTANCE_cfnOzNOW54Yc"></span>
+
+
+
+	
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				
+					
+
+						
+
+						
+
+						<div class="journal-content-article">
+							<ul class="list-unstyled tin inner">
+
+<li><strong><a href="https://us06web.zoom.us/j/87029335281?pwd=eibiQ0mviuD57I7aP2gkOVWsfpEdJK.1" target="_blank">Đường link tham dự trực tuyến Hội nghị Đối thoại doanh nghiệp thiết bị y tế năm 2026</a></strong><br />
+<strong>- Thời gian bắt đầu: </strong>08h00, Thứ Hai, ngày 13 tháng 7 năm 2026.<br/>
+<strong>- Đường link tham dự: </strong>Tham gia cuộc họp Zoom<br/>
++ https://us06web.zoom.us/j/87029335281?pwd=eibiQ0mviuD57I7aP2gkOVWsfpEdJK.1<br/>
++ ID cuộc họp: 870 2933 5281<br/>
++ Mật mã: 720389<br/>
+Đề nghị đại biểu ghi đầy đủ tên Cơ quan, Đơn vị khi tham gia Hội nghị.<br/></li>
+<li><strong><strong><a href="/documents/10182/10030600/CV5003.BYT.HTTB/0c429293-e734-4837-8c34-3688c349737d" target="_blank"><strong>Công văn số 5003/BYT-HTTB </strong> ngày 06/07/2026 V/v xin ý kiến góp ý Hồ sơ xây dựng Đề án quản lý chuỗi cung ứng thiết bị y tế
+</a><br />
+
+   <i>Kèm theo: </i> <a href="/documents/10182/10030600/QD.pheduyetdean.5003/c54d6632-5bc7-4854-a70c-2d3f7014486b" target="_blank">QUYẾT ĐỊNH Phê duyệt Đề án “Quản lý chuỗi cung ứng thiết bị y tế giai đoạn 2026 - 2030, định hướng đến năm 2035”
+</a> </strong></strong><br/>
+
+    <i>Kèm theo: </i><a href="/documents/10182/10030600/Totrinh.dean.5003/1f4050bc-63e6-4f70-8761-37474075fb26" target="_blank">TỜ TRÌNH Về việc phê duyệt Đề án “Quản lý chuỗi cung ứng thiết bị y tế giai đoạn 2026 - 2030, định hướng đến năm 2035”
+"</a> </strong></strong> <br/>
+
+    <i>Kèm theo: </i><a href="/documents/10182/10030600/Du-thao-de-an-Chuoicungung6.7/ce8ed5a1-2e47-409c-9bdf-e82ada3e1a3b" target="_blank">ĐỀ ÁN QUẢN LÝ CHUỖI CUNG ỨNG THIẾT BỊ Y TẾ GIAI ĐOẠN 2026 – 2030, ĐỊNH HƯỚNG ĐẾN NĂM 2035"</a> </strong></strong> <br/> </li>
+
+<li><strong><strong><a href="/documents/10182/10030600/CV4552.BYT.HTTB/07f97252-ee5c-4918-b3b0-fad9ada1c1ea" target="_blank"><strong>Công văn số 4552/BYT-HTTB </strong> ngày 19/06/2026 V/v xin kiến ý dự thảo Thông tư quy định về xác định mức độ rủi ro, biện
+pháp quản lý đối với sản phẩm, hàng hóa là thiết bị y tế và tạm ngưng hiệu lực về danh mục thiết bị y tế phải kiểm định an toàn và tính năng kỹ thuật thiết bị y tế
+</a><br />
+
+   <i>Kèm theo: </i> <a href="/documents/10182/10030600/Thongtu.4552/e4306540-20df-4665-afe0-23cf8f4749d8" target="_blank">THÔNG TƯ Quy định về xác định mức độ rủi ro, biện pháp quản lý đối với sản phẩm, hàng hóa là thiết bị y tế và tạm ngưng hiệu lực về danh mục thiết bị y tế phải kiểm định an toàn và tính năng kỹ thuật thiết bị y tế
+</a> </strong></strong><br/>
+
+    <i>Kèm theo: </i><a href="/documents/10182/10030600/Totrinh.4552/3aae40b9-a582-4f9c-bf50-335410876c9e" target="_blank">TỜ TRÌNH Về việc ban hành Thông tư quy định về xác định mức độ rủi ro, biện pháp quản lý đối với sản phẩm, hàng hóa là thiết bị y tế và tạm ngưng hiệu lực về danh mục thiết bị y tế phải kiểm định an toàn và tính năng kỹ thuật thiết bị y tế
+"</a> </strong></strong> <br/>
+
+<li><strong><strong><a href="/documents/10182/84707090/Cong_van_4474_17062026.pdf/713482aa-8687-46fa-bb4f-b82bf16a1743" target="_blank"><strong>Công văn số 4474/BYT-HTTB của Bộ Y tế</strong> ngày 17/06/2026 V/v đề nghị góp ý Hồ sơ xây dựng Đề án quản lý chuỗi cung ứng thiết bị y tế.</a><br />
+	<i>Kèm theo: </i><a href="/documents/10182/84707090/Du_thao_de_an_CV4474.pdf/c6c2287b-0cea-4f6b-86b5-e2d61b8e5179" target="_blank">Dự thảo Đề án "Quản lý chuỗi cung ứng thiết bị y tế giai đoạn 2026-2030, định hướng đến năm 2035"</a> </strong></strong> <br/>
+
+      <i>Kèm theo: </i> <a href="/documents/10182/10030600/Duthaoquyetdinh15.06.2026/6eb7602d-d855-489e-81ef-e663fabd5d4a" target="_blank">QUYẾT ĐỊNH Phê duyệt Đề án “Quản lý chuỗi cung ứng thiết bị y tế giai đoạn 2026 - 2030, định hướng đến năm 2035”"</a> </strong></strong><br/>
+
+     <i>Kèm theo: </i> <a href="/documents/10182/10030600/Duthaototrinh.15.06.2026/db844d21-f1d8-493e-914e-130b24ab9812" target="_blank">TỜ TRÌNH Về việc phê duyệt Đề án “Quản lý chuỗi cung ứng thiết bị y tế giai đoạn 2026 - 2030, định hướng đến năm 2035”</a> </strong></strong></li>
+
+<li><a href="https:/documents/10182/0/CV994.HTTB/5eb9b446-e37b-41d3-98c6-dd34387c9a5c"><strong><b>Công văn số 994/HTTB-VPC ngày 17/06/2026</b></strong><b> V/v chào giá dịch vụ tổ chức hội nghị.</b></a></li>
+
+<li><a href="/documents/10182/10030600/CV742/cf46330e-59ee-43be-b7d5-7a4d64d3f3a4"><strong><b>Công văn số 742/HTTB-VPC ngày 18/05/2026</b></strong><b> V/v chào giá dịch vụ tư vấn thẩm tra báo cáo kinh tế kỹ thuật.</b></a></li>
+
+<li><a href="/documents/10182/10030600/CV720/b1321227-6f9c-4c1a-a7c6-d4b25a9d0484"><strong><b>Công văn số 720/HTTB-CLSD ngày 14/05/2026</b></strong><b> V/v lưu ý cách đặt mật khẩu phức tạp để đăng nhập hệ thống VIMDA nhằm hạn chế nguy cơ lộ lọt tài khoản</b></a></li>
+
+<li><a href="/documents/10182/0/CV623/0a9f63fd-34f5-40e3-9545-6ef2ff3b631f"><strong><b>Công văn số 623/HTTB-CLSD ngày 29/04/2026</b></strong><b>V/v thông báo rà soát, khắc phục lỗ hổng bảo mật hệ thống dịch vụ công trực tuyển Quản lý thiết bị y tế </b></a></li>
+
+<li><a href="/documents/10182/10030600/CV579.Phihs/fa362143-91a1-455b-809a-e1554fc5c1f6"><strong><b style="color:red">Công văn số 579/TB-HTTB ngày 22/04/2026</b></strong><b style="color:red"> THÔNG BÁO Thực hiện nộp phí đúng quy định tại Thông tư số 64/2025/TT-BTC ngày 30/6/2025 của Bộ Tài chính về quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân. </b></a></li>
+
+<li><a href="/documents/10182/10030600/Cong-van-2833/906ebed8-b053-45b0-b9d6-7b99453ef8a0"><strong><b>Công văn số 2833/BYT-HTTB </b></strong><b> Về việc đảm bảo nguồn cung thiết bị  tế phục vụ công tác khám bệnh, chữa bệnh </b></a></li>
+
+<li><a href="/documents/10182/10030600/CV1956-CS/15cc9c4e-c11a-46e2-ac49-3cd176704cd1"><strong><b style="color:red">Công văn số 1956/BYT-HTTB </b></strong><b style="color:red"> V/v báo cáo tổng kết việc thi hành Nghị định số 98/2021/NĐ-CP </b></a></li>
+
+<li><a href="/documents/10182/10030600/CV333/4c9b2687-7c6b-4baf-825f-b46799f6c486"><strong><b">Công văn số 333/HTTB-VPC</b"></strong> ngày 17/03/2026 V/v thời hạn gửi hồ sơ năng lực để chọn
+đơn vị tư vấn đấu thầu </a></li>
+
+<li><a href="/documents/10182/0/CV313.THUMOITHAU13032026/d9ddcf0e-7623-4771-9afb-36f43b67c4bf"><strong><b">Công văn số 313/HTTB-VPC</b"></strong> ngày 13/03/2026 V/v mời gửi hồ sơ năng lực để chọn đơn vị tư vấn đấu thầu </a></li>
+
+<li><a href="/documents/10182/10030600/CV.201.Chaogia/192e9b4e-3c45-41a2-a785-77b98875dd7d"><strong><b">Công văn số 201/HTTB-VPC</b"></strong> ngày 13/02/2026 V/v mời báo giá phần mềm phục vụ quản lý điều hành </a></li>
+	<li>
+	<p><a href="/documents/10182/74852257/CV+g%E1%BB%ADi+xin+%C3%BD+ki%E1%BA%BFn+c%C3%A1c+c%C6%A1+s%E1%BB%9F+d%E1%BB%B1+th%E1%BA%A3o+Th%C3%B4ng+t%C6%B0+ph%C3%A2n+c%E1%BA%A5p+v%C3%A0+c%C3%A1c+bi%E1%BB%83u+m%E1%BA%ABu+16.10.2025.pdf/347bd109-cc7f-4af7-abde-797b19c66463"><u>KHẨN</u>: Công văn số 1212/HTTB-ĐKKD</strong>&nbsp;<strong>ngày 16/10/2025 về việc xin ý kiến dự thảo Thông tư quy định việc phân cấp thực hiện một số nhiệm vụ, giải quyết một số TTHC trong lĩnh vực TBYT thuộc thẩm quyền của Bộ Y tế và quy định về mẫu văn bản, báo cáo thực hiện quản lý TBYT.</a><br />
+	<em>Kèm theo</em><a href="/documents/10182/74852257/CV+g%E1%BB%ADi+xin+%C3%BD+ki%E1%BA%BFn+c%C3%A1c+c%C6%A1+s%E1%BB%9F+d%E1%BB%B1+th%E1%BA%A3o+Th%C3%B4ng+t%C6%B0+ph%C3%A2n+c%E1%BA%A5p+v%C3%A0+c%C3%A1c+bi%E1%BB%83u+m%E1%BA%ABu+16.10.2025.pdf/347bd109-cc7f-4af7-abde-797b19c66463"><strong>:&nbsp;</strong></a><strong><a href="/documents/10182/74852257/16.10.2025+Mau+van+ban+kem+theo+Th%C3%B4ng+t%C6%B0+ph%C3%A2n+c%E1%BA%A5p+XYK.docx/7de9fc7c-88ba-403b-b44d-cf04f079fef2">Mau van ban kem theo Thông tư phân cấp XYK</a>,&nbsp;<a href="/documents/10182/74852257/16.10.2025+Du+thao+Thong+tu+phan+c%E1%BA%A5p+l%C4%A9nh+v%E1%BB%B1c+TBYT+XYK.doc/9fe4f4e6-f4d8-453f-8b2c-22304739b5c6">Du thao Thong tu phan cấp lĩnh vực TBYT XYK</a></strong></p>
+	</li>
+	<li><a href="/documents/10182/10030600/CV984.TBYTdacapdklh/3f7e3c44-37d9-4c5c-a816-594af971ab6f"><strong><b">Công văn số 984/HTTB-ĐKKD</b"></strong> ngày 09/09/2025 V/v danh mục tên thiết bị y tế loại C, D đã cấp số lưu hành </a></li>
+	<li><a href="/documents/10182/10030600/Thu-moi-992/ab91e0ee-a0c3-492a-acd7-b633e1517f83?version=1.1"><strong><b">Công văn số 992/TB-HTTB</b"></strong> ngày 09/09/2025 Thông báo về việc mời tham gia lập Báo cáo kinh tế - kỹ thuật </a></li>
+	<li><a href="/documents/10182/10030600/Thu-moi-991/a9842725-5e01-4193-80c6-4dc192b641d5?version=1.0"><strong><b">Công văn số 991/TB-HTTB</b"></strong> ngày 09/09/2025 Thông báo về việc mời tham gia thẩm tra Báo cáo kinh tế - kỹ thuật </a></li>
+	<li><a href="/documents/10182/10030600/CV886-Taphuan-phan-loai-tbyt-HN-H/ed64b436-c018-4d31-a8a9-698d311265a8"><strong><b">Công văn số 886/HTTB-ĐKKD</b"></strong> ngày 19/08/2025 V/v mời gửi báo giá dịch vụ tư vấn lập E-HSMT, đánh giá E-HSDT; Tư vấn thẩm định E-HSMT, thẩm định KQLCNT </a></li>
+	<li><a href="/documents/10182/10030600/CV.BYT-Huong-dan-DN-cap-nhat-dia-gioi-hanh-chinh/e2165939-a858-405c-b9b1-3b7bdfe0c343"><strong><b">Công văn số 5469/BYT-HTTB</b"></strong> ngày 18/08/2025 V/v Hướng dẫn doanh nghiệp thực hiện khi thay đổi địa giới hành chính </a></li>
+	<li><a href="/documents/10182/10030600/cong-van-bao-gia/924fbf05-a83a-42a8-a301-edf39e388798"><strong><b">Công văn số 863/HTTB-ĐKKD</b"></strong> ngày 13/08/2025 V/v mời gửi báo giá dịch vụ cho thuê hội trường, tổ chức Hội Nghị tập huấn phân loại thiết bị y tế tại thành phố Huế và thành phố Hà Nội </a></li>
+	<li><a href="/documents/10182/10030600/GM_539/8efda2ef-9f61-4080-bb15-0a3455b2d86e"><strong><b style="color:red">Giấy mời số 539/GM-BYT</b></strong><b style="color:red"> ngày 29/7/2025 GIẤY MỜI tham gia Hội nghị Đối thoại doanh nghiệp thiết bị y tế năm 2025 </b></a></li>
+	<li><a href="/documents/10182/10030600/Xin-y-kien-du-thao-thong-tu-ban-hanh-danh-muc-mua-sam/2a829c5f-fabe-4c0f-97c5-040792a6a75a"><strong><b">Công văn số 4755/BYT-HTTB</b"></strong> ngày 21/07/2025 V/v xin ý kiến góp ý Dự thảo Thông tư ban hành danh mục mua sắm tập trung cấp quốc gia đối với thiết bị y tế, vật tư xét nghiệm </a></li>
+	<li><a href="/documents/10182/10030600/Du-thao-thong-tu-ban-hanh-danh-muc-mua-sam/5294010f-5058-4a56-b57a-2231b9f9623b"><strong><b">TỜ TRÌNH Dự thảo Thông tư ban hành danh mục mua sắm tập trung cấp quốc gia đối với thiết bị y tế, vật tư xét nghiệm </b"></strong></a></li>
+	<li><strong><a href="/documents/10182/10030600/Du-thao-thong-tu-mua-sam/199e39ab-2e24-43e7-b9d1-6cb74eeb28ef"><strong><b"> THÔNG TƯ Ban hành danh mục mua sắm tập trung cấp quốc gia đối với thiết bị y tế, vật tư xét nghiệm </b"></strong></a></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/Thong-bao-676/6019cf3a-b846-4c7a-b1f1-53293550bee7"><strong><b">Công văn số 676/TB-HTTB</b"></strong> ngày 10/7/2025 Thông báo V/v kê khai giá thiết bị y tế </a></strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/Thong-bao-638/8dffa0e5-c3f7-4838-904a-02236a927d09"><strong><b">Công văn số 638/TB-HTTB</b"></strong> ngày 31/12/2024 Thông báo Danh sách doanh nghiệp thực hiện kê khai giá thiết bị y tế tại Bộ Y tế </a></strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/Thong-bao-thay-doi-muc-phi-2025/c0567596-7e1a-4685-b6f0-95aeef471e30"><strong><b style="color:red">Công văn số 645/TB-HTTB</b></strong><b style="color:red"> ngày 02/7/2025 Thông báo V/v thay đổi mức thu phí các khoản phí lĩnh vực thiết bj y tế </b></a></strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV-gui-dn-tbyt2025%28lan2%29/311471eb-6b35-484e-b5b1-dcdbc396faf3"><strong><b style="color:red">Công văn số 3776/BYT-HTTB</b></strong><b style="color:red"> ngày 16/6/2025 V/v chuẩn bị tổ chức Hội nghị đối thoại Doanh nghiệp thiết bị y tế năm 2025 (lần 2) </b></a></strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/Thong-bao-doi-dia-chi-Cuc-HT/50bd7b5b-4f07-42c2-bff5-ffebcc0d2ccf"><strong><b style="color:red">Công văn số 387/TB-HTTB</b></strong><b style="color:red"> ngày 21/05/2025 V/v Thay đổi địa chỉ trụ sở làm việc Cục Hạ tầng và Thiết bị y tế, Bộ Y tế</b></a></strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/Thongbao-thay-doi-tk-thu-phi/08a67564-0b3e-43bd-8411-f0c5c67fb615"><strong><b style="color:red">Công văn số 32/TB-HTTB</b></strong><b style="color:red"> ngày 13/03/2025 V/v Thay đổi tên tài khoản thu phí thẩm định cấp giấy phép lưu hành, nhập khẩu, công bố thiết bị y tế</b></a></strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV267/c027f29b-5072-4a0c-a685-ab00c01ed4c3"><strong>Công văn số 267/BYT-HTTB</strong> ngày 14/01/2025 V/v triển khai Nghị định số 04/2025/NĐ-CP ngày 01/01/2025 của Chính phủ.</a></strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV638KKG/4f89fa2e-77d9-4b61-becc-3f40b80ffbbf" target="_blank"><strong>Công văn số 638/TB-HTTB</strong> ngày 31/12/2024 Thông báo danh sách doanh nghiệp thực hiện kê khai giá thiết bị y tế tại Bộ Y tế</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV7910.HTTB/da2417c3-66be-4090-bec5-f2d744318ac0" target="_blank"><strong>Công văn số 7910/BYT-HTTB</strong> ngày 21 /12/2024 V/v góp ý dự thảo nghị định sửa đổi, bổ sung nghị định số 98/2021/NĐ-CP.</a> <a href="/documents/10182/10030600/3.Du-thao-nghi-dinh-sua-doi-bo-sung-nghi-dinh-98-2024/d0362296-2e51-45a0-bd51-f4513d2c2a6d"><b style="color:red">Kèm công văn dự thảo Nghị định </b></a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/7614-CVB/c737f912-655c-4901-b441-2dbbc0633ff7" target="_blank"><strong>Công văn số 7614/BYT-HTTB</strong> ngày 09/12/2024 V/v đảm bảo nguồn cung thiết bị y tế đối với các giấy phép nhập khẩu hết hạn vào ngày 31/12/2024</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV519/5bc5f933-08fc-4538-897f-5ae71d25c779" target="_blank"><strong>Công văn số 519/HTTB-ĐKKD</strong> ngày 19/11/2024 V/v cung cấp thông tin TBYT đã được cấp giấy phép Nhập khẩu hết hạn vào ngày 31/12/2024</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/TM506/ab813866-60e9-436e-a4f7-88b0ba678e75" target="_blank"><strong>Công văn số 506/HTTB-VPC</strong> ngày 13/11/2024 Thư mời tham gia thực hiện tư vấn thẩm định E-HSMT và thẩm định kết quả lựa chọn nhà thầu gói thầu "Thuê đơn vị quản lý, vận hành, duy trì hệ thống dịch vụ công trực tuyến quản lý thiết bị y tế</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/TM507/d86626c4-7fdd-4daf-82f9-761923eedc33" target="_blank"><strong>Công văn số 507/HTTB-VPC</strong> ngày 13/11/2024 Thư mời tham gia thực hiện tư vấn thẩm định E-HSMT và đánh giá E-HSDT gói thầu "Thuê đơn vị quản lý, vận hành, duy trì hệ thống dịch vụ công trực tuyến quản lý thiết bị y tế</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV486/70df1287-49e1-4c95-96f3-3ee23e43ccb4" target="_blank"><strong>Công văn số 486/BYT-HTTB</strong> ngày 05/11/2024 V/v danh mục tên thiết bị y tế loại C, D đã cấp số lưu hành</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV459HTTB.CLSD/c2f128fb-b01e-422a-a885-b68217d93402" target="_blank"><strong>Công văn số 459/HTTB-CLSD</strong> ngày 22/10/2024 V/v mời báo giá dịch vụ quản trị vận hành hệ thống dịch vụ công trực tuyến về quản lý thiết bị y tế (IMDA)</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV6067/bdd6d5d5-88eb-412b-8abe-c9581715b752" target="_blank"><strong>Công văn số 6067/BYT-HTTB</strong> ngày 04/10/2024 V/v khảo sát thực trạng và thăm dò ý kiến về các chính sách dự kiến của Dự thảo Luật Thiết bị y</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV6066/4180b821-7d75-44d9-8623-728b3062f84c" target="_blank"><strong>Công văn số 6066/BYT-HTTB</strong> ngày 04/10/2024 V/v khảo sát thực trạng và thăm dò ý kiến về các chính sách dự kiến của Dự thảo Luật Thiết bị y tế</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV6065/a67a0ef3-21b1-4ea7-9dbb-6f9d91bec6c9" target="_blank"><strong>Công văn số 6065/BYT-HTTB</strong> ngày 04/10/2024 V/v khảo sát thực trạng và thăm dò ý kiến về các chính sách dự kiến của Dự thảo Luật Thiết bị y tế</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV6032/778c0c5e-af03-497c-ac81-50b94951a3f3" target="_blank"><strong>Công văn số 6032/HTTB-ĐKKD</strong> ngày 04/10/2024 V/v thực hiện phân loại, công bố tiêu chuẩn áp dụng đối với thiết bị y tế</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV6031/6c53ed47-f4db-40d5-9b7b-2d2802bf08a9" target="_blank"><strong>Công văn số 6031/BYT-HTTB</strong> ngày 04/10/2024 V/v thực hiện phân loại, công bố tiêu chuẩn áp dụng đối với thiết bị y tế </a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV-xu-ly-ho-so-NK-truoc112022/017c3b2d-a8ae-4d70-9763-936be88744f6" target="_blank"><strong>Công văn số 365/HTTB-ĐKKD</strong> ngày 12/09/2024 V/v xử lý hồ sơ nhập khẩu thiết bị y tế nộp trước ngày 01/01/2022 </a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV-thong-bao-chuyen-doi-ten-mien-28082024/0c070b37-b63a-4d3f-bf88-16617836fac8" target="_blank"><strong>Công văn số 342/HTTB-ĐKKD</strong> ngày 30/08/2024 V/v thay đổi tên miền hệ thống dịch vụ công trực tuyến quản lý thiết bị y tế</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/Du-thao-thong-tu-KKG-2024/2b85a07a-aad7-4271-a263-ca00a4856765" target="_blank"><strong>Dự thảo Thông tư</strong> Quy định về Kê khai giá thiết bị y tế</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/GM_Hop-truc-tiep-21082024/e12876dc-558a-425f-a573-866b4fe4c8ce" target="_blank"><strong>Giấy mời số 333/GM-HTTB</strong> ngày 21/08/2024 V/v Tham dự họp về giải quyết hồ sơ nhập khẩu thiết bị y tế đã nộp trước 01 tháng 01 năm 2022</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/GM_Hop-truc-tuyen-21082024/1d9890b8-7ac2-4070-88cb-2c75ac4cf283" target="_blank"><strong>Giấy mời số 332/GM-HTTB</strong> ngày 21/08/2024 V/v Tham dự họp về giải quyết hồ sơ nhập khẩu thiết bị y tế đã nộp trước 01 tháng 01 năm 2022</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV317_TB/1669d512-f8c8-4ff4-ba67-9f1170b4c56d" target="_blank"><strong>Công văn số 317/HTTB-ĐKKD</strong> ngày 16/08/2024 V/v cập nhật tài liệu trên Hệ thống dịch vụ công trực tuyến quản lý thiết bị y tế</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/Q%C4%902302/06820ffc-6f1b-4441-b5ac-a0dc837480e1" target="_blank"><strong>Quyết định số 2302/QĐ-BYT</strong> ngày 05/08/2024 v/v ban hành hướng dẫn thẩm định hồ sơ pháp lý đối với hồ sơ đăng ký lưu hành thiết bị y tế</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/49189400/Cong+van+xin+gop+y+tieu+chi+nguyen+tac+danh+gia+ho+so+CSDT+-IVD+ngay+24.11.2023.signed.pdf/66aaaabb-9ead-4a9c-a782-2c3b4047df64" target="_blank"><strong>Công văn số 224/HTTB-ĐKKD</strong> ngày 24/11/2023 v/v góp ý dự thảo Quyết định về việc ban hành tiêu chí, nguyên tắc đánh giá Hồ sơ kỹ thuật chung về TTBYT theo quy định ASEAN (hồ sơ CSDT) đối với TTBYT chẩn đoán in vitro</a><br />
+	<i>Kèm theo:</i> <a href="/documents/10182/49189400/Du+thao+Quyet+dinh+huong+dan+danh+gia+ho+so+CSDT+23.11.2023.docx/655823d5-c1ad-406e-8c5b-b4b0b046de92" target="_blank">Dự thảo Quyết định</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/49189621/Cong+van+xin+gop+y+tieu+chi+nguyen+tac+danh+gia+CSDT+ngay+16.11.2023.signed.pdf/2968bc5c-d6b5-466e-9c58-e3d5c6e6ac37" target="_blank"><strong>Công văn số 200/HTTB-ĐKKD</strong> ngày 16/11/2023 v/v góp ý dự thảo Quyết định về việc ban hành tiêu chí, nguyên tắc đánh giá Hồ sơ kỹ thuật chung về TTBYT theo quy định ASEAN (hồ sơ CSDT)</a><br />
+	<i>Kèm theo:</i> <a href="/documents/10182/49189621/Du+thao+Quyet+dinh+huong+dan+danh+gia+ho+so+CSDT+16.11.2023.docx/708bb213-beb3-4819-b790-51f81d925651" target="_blank">Dự thảo Quyết định</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/Thong-bao-thay-doi-tai-khoan-thu-phi/dceb28f8-947c-498c-b241-3ac19f39c1df" target="_blank"><strong>Công văn số 442/TB-HTTB</strong> ngày 27/09/2023 của Bộ Y tế (Cục Cơ sở Hạ tầng và Thiết bị Y tế) V/v thay đổi tài khoản thu phí thẩm định cấp giấy phép lưu hành, nhập khẩu, xuất khẩu, công bố trang thiết bị y tế</a></strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV+5440+gui+lay+y+kien+cac+don+vi_28.8.2023.signed.pdf/c7352581-3fee-4a24-acfb-077a5bc57ddb" target="_blank"><strong>Công văn số 5440/BYT-HTTB</strong> ngày 28/08/2023 của Bộ Y tế v/v lấy ý kiến góp ý dự thảo Quyết định ban hành 03 Quy trình kiểm định an toàn và tính năng kỹ thuật đối với trang thiết bị y tế</a></strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV+3764-2023-Cong+van+lay+y+kien+du+thao+Thong+tu+ma+HS.pdf/ee2e8504-267f-44a4-b1bd-1501f85cedcb" target="_blank"><strong>Công văn số 3764/BYT-HTTB</strong> ngày 19/06/2023 của Bộ Y tế v/v xin ý kiến góp ý Dự thảo Thông tư ban hành Danh mục trang thiết bị y tế được xác định mã số hàng hóa theo Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam</a><br />
+	<i>Kèm theo:</i> <a href="/documents/10182/10030600/CV+3764-2023-Du+thao+Thong+tu+ma+HS+ve+TTBYT.pdf/a3a1119f-a1be-4a6e-b4e3-04c87c6a467f" target="_blank">Dự thảo Thông tư ban hành Danh mục trang thiết bị y tế được xác định mã số hàng hóa theo Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/1345.signed+%28HD+tham-dinh-ho-so-ky-thuat-lam-sang+non+IVD%29.pdf/b7c34f2b-2702-4901-a0f0-e135d8ccc112" target="_blank"><strong>Quyết định số 1345/QĐ-BYT</strong> ngày 13/03/2023 v/v ban hành hướng dẫn thẩm định, hậu kiểm hồ sơ kỹ thuật, lâm sàng trong hồ sơ đăng ký lưu hành trang thiết bị y tế không phải trang thiết bị y tế chẩn đoán in vitro (trang thiết bị y tế chung)</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV+947-BYT-PC-27.02.2023/5fa45877-5e72-4566-bbb6-5504b82cc97d"><strong>Công văn số 947/BYT-PC</strong> ngày 27/02/2023 của Bộ Y tế v/v cung cấp thông tin phục vụ hoạt động hỗ trợ pháp lý doanh nghiệp</a></strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/CV+838-BYT-TB-CT+lay+y+kien+du+thao+sua+doi+TT19/f91b9069-815c-4441-93ae-a1c53051aace"><strong>Công văn số 838/BYT-TB-CT</strong> ngày 22/02/2023 của Bộ Y tế v/v lấy ý kiến dự thảo Thông tư sửa đổi, bổ sung Thông tư số 19/2021/TT-BYT</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/Q%C4%90+3435.signed+%2821.12.2022%29-Huong-dan-tham-dinh-ho-so-ky-thuat-lam-sang+IVD.pdf/da862832-203b-44d8-85ef-2b81c406b81f" target="_blank"><strong>Quyết định số 3435/QĐ-BYT</strong> ngày 21/12/2022 v/v ban hành hướng dẫn thẩm định, hậu kiểm hồ sơ kỹ thuật, lâm sàng trong hồ sơ đăng ký lưu hành trang thiết bị y tế chẩn đoán in vitro</a> </strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/10030600/3007.signed+%28QD-Huong-dan-tham-dinh-ho-so-phap-ly%29.pdf/ff369466-b8d6-453f-9001-d40e1906e31f" target="_blank"><strong>Quyết định số 3007/QĐ-BYT</strong> ngày 03/11/2022 v/v ban hành hướng dẫn thẩm định, hậu kiểm hồ sơ pháp lý trong hồ sơ đăng ký lưu hành trang thiết bị y tế</a> </strong></strong></li>
+	<li><strong><strong>- <a href="/documents/10182/10030600/Du+thao+Nghi+dinh+sua+doi+Nghi+dinh+98/e9fe9eb2-f644-4b36-9f83-b90a60b2e980">Dự thảo Nghị định sửa đổi, bổ sung Nghị định 98/2021/NĐ-CP</a><br />
+	- <a href="/documents/10182/10030600/Du+thao+thong+tu+sua+doi+Thong+tu+19/5cb9da0b-f51a-4232-90cb-4b6e8091e946">Dự thảo Thông tư sửa đổi, bổ sung Thông tư 19/2021/TT-BYT</a> </strong></strong>
+	<ul>
+		<li><strong><strong><a href="/documents/10182/10030600/CV+7183+moi+doanh+nghiep+tham+dinh+gia+2022.12.13/156c384d-30de-40f1-8f0c-e668c112ec80"><strong>Công văn số 7183/BYT-TB-CT</strong> ngày 13/12/2022 của Bộ Y tế v/v mời doanh nghiệp thẩm định giá</a></strong></strong></li>
+		<li><strong><strong><a href="/documents/10182/10030600/CV6698_21112022/edc4d63b-565c-419e-9d34-55fdaf2dd11e"><strong>Công văn số 6698/BYT-TB-CT</strong> ngày 21/11/2022 của Bộ Y tế v/v lấy ý kiến dự thảo Nghị định sửa đổi, bổ sung Nghị định số 98/2021/NĐ_CP</a></strong></strong></li>
+		<li><strong><strong><a href="/documents/10182/10030600/de+nghi+cung+cap+thong+tin+ve+vuong+mac+lien+quan+den+ho+tro+phap+ly+dn+2022.signed/fce1d20d-a50e-4d60-adda-ae25eb749272"><strong>Công văn số 4398/BYT-PC</strong>ngày 16/8/2022 của Bộ Y tế về việc cung cấp thông tin phục vụ hoạt động hỗ trợ pháp lý doanh nghiệp</a></strong></strong></li>
+		<li><strong><strong><a href="/documents/10182/0/GM+hoi+thao+huong+dan+ke+khai+gia+SYT%2C+DN+-+Final.signed.pdf/c91d6015-0ee0-42b2-a162-13084556466b"><strong>Giấy mời&nbsp;số 203/GM-BYT</strong>&nbsp;Tham dự Hội nghị trực tuyến hướng dẫn thực hiện quy định về kê khai, công khai giá trang thiết bị y tế</a></strong></strong></li>
+		<li><strong><strong><a href="/documents/10182/0/H%C6%B0%E1%BB%9Bng+d%E1%BA%ABn+tham+d%E1%BB%B1+H%E1%BB%99i+ngh%E1%BB%8B+29.3.2022.docx/5618152a-6dda-4c64-ad2f-3d76ee2a3fc9" style="text-decoration-line: underline; outline: 0px;">Hướng dẫn tham dự Hội nghị trực tuyến ngày 29/03/2022</a></strong></strong></li>
+		<li><strong><strong><a href="/documents/10182/0/C%C3%B4ng+v%C4%83n+%C4%91%E1%BA%A3m+b%E1%BA%A3o+cung+c%E1%BA%A5p+TTBYT+ph%C3%B2ng+ch%E1%BB%91ng+d%E1%BB%8Bch+COVID-1925.02.2022"><strong>Công văn số 913/BYT-TB-CT</strong>&nbsp;V/v đảm bảo cung cấp trang thiết bị y tế phục vụ phòng, chống dịch COVID-19</a></strong></strong></li>
+		<li><strong><strong><a href="/documents/10182/0/CV+gui+lay+y+kien+du+thao+Thong+tu+quy+dinh+1+so+dieu+ND98.rar/cf940336-172b-42b8-9689-ab12bc300ce0"><strong>Công văn số 10725/BYT-TB-CT</strong>&nbsp;V/v&nbsp;lấy ý kiến dự thảo Thông tư quy định chi tiết thi hành và biện pháp thực hiện Nghị định số 98/2021/NĐ-CP</a></strong></strong></li>
+		<li><strong><strong><a href="/documents/10182/0/C%C3%B4ng+v%C4%83n+l%E1%BA%A5y+%C3%BD+ki%E1%BA%BFn+d%E1%BB%B1+th%E1%BA%A3o+Th%C3%B4ng+t%C6%B0+quy+%C4%91%E1%BB%8Bnh+m%E1%BA%ABu+v%C4%83n+b%E1%BA%A3n+b%C3%A1o+c%C3%A1o+li%C3%AAn+quan+%C4%91%E1%BA%BFn+qu%E1%BA%A3n+l%C3%BD+TTBYT.rar/98bcf21f-30bc-4f8a-a869-0c6cc4c8a1a5"><strong>Công văn số 8540/BYT-TB-CT</strong> V/v&nbsp;lấy ý kiến dự thảo Thông tư quy định mẫu văn bản báo cáo liên quan đến quản lý TTBYT</a></strong></strong></li>
+		<li><strong><strong><a href="/documents/10182/10030600/CV+gui+Doanh+nghiep_Tam+ngung+he+thong+DMEC_ngay+08.10.2021.signed.pdf/3c5a9405-6e8d-4966-aa07-cb47ea1b5b6f"><strong>Công văn số 8506/BYT-TB-CT </strong>V/v triển khai phần mềm kết nối 5 TTHC lĩnh vực trang thiết bị y tế với Cổng thông tin một cửa quốc gia trên hệ thống DMEC&nbsp;</a></strong></strong></li>
+		<li><strong><strong><a href="/documents/10182/0/Cong+van+thong+bao+CSDT+6.21.signed.pdf/2ad09add-ba71-4eab-83fc-b780a7efa240"><strong>Công văn số 4882/BYT-TB-CT&nbsp;&nbsp;</strong>V/v nghiên cứu, chuẩn bị triển khai áp dụng Hồ sơ kỹ thuật chung ASEAN.</a></strong></strong></li>
+		<li><strong><strong><a href="/documents/10182/0/C%C3%B4ng+v%C4%83n+s%E1%BB%91+3749+BYT-TB-CT.rar/f18d6ef1-ea17-4291-8c06-57c972b4476a"><strong>Công văn số 3749/BYT-TB-CT&nbsp;&nbsp;</strong>V/v góp ý dự thảo Quyết định ban hành hướng dẫn cách chuẩn bị hồ sơ kĩ thuật chung về TTBYT theo quy định của ASEAN kèm theo Quyết định hướng dẫn.</a></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/0/CV+gui+lay+y+kien+cac+Bo+nganh+don+vi.rar/80bb4e79-6d67-45bd-abf2-f1afaac049fe"><strong>Công văn số 2271/BYT-TB-CT&nbsp;&nbsp;</strong>V/v lấy ý kiến dự thảo Nghị định về quản lý trang thiết bị y tế.</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/0/Công+văn+số+1762BYT-TB-CT.rar/30b31094-b63b-4a34-b015-a96867b58b0e"><strong>Công văn số 1762/BYT-TB-CT&nbsp;&nbsp;</strong>V/v lấy ý kiến dự thảo Quyết định ban hành 03 Quy trình kiểm định an toàn và tính năng kỹ thuật đối với TTBYT (lần 2) kèm theo 03 Quy trình kiểm định.</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/Ta%CC%80i+lie%CC%A3%CC%82u+to%CC%82%CC%89ng+ho%CC%9B%CC%A3p+Ho%CC%A3%CC%82i+tha%CC%89o+PPE.pdf/d2f78667-48d6-4b40-b1cd-d06a39ce22bf">Tài liệu hội thảo xây dựng phần mềm quản lý PPE</a>.</strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/CV+BTC.pdf/11f6dee1-7da9-42d1-ad01-607baf67c006"><strong>Văn bản số 13303/BTC-TCT&nbsp;&nbsp;</strong>Về việc xin&nbsp;ý kiến về dự thảo Thông tư sửa đổi, bổ sung các thông tư hướng dẫn về thuế GTGT.</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/CV+gui+lay+y+kien+cac+Bo%2C+nganh%2C+don+vi+lan+2.signed.pdf/63dbd10d-59d3-47b9-b129-58ec5a47b19b"><strong>Văn bản số 5112/BYT-TB-CT&nbsp;&nbsp;</strong>Về việc lấy ý kiến dự thảo Thông tư ban hành danh mục trang thiết bị y tế phải kiểm định.</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/3697_BYT-TB-CT_10072020_2-signed.pdf/475fbd09-ddba-4779-8767-3e891b88f9c2"><strong>Văn bản số 3697/BYT-TB-CT&nbsp;&nbsp;</strong>Về việc lấy ý kiến dự thảo Thông tư ban hành 04 Quy trình kiểm định an toàn và tính năng kỹ thuật đối với trang thiết bị y tế </a>.</strong> <a href="/documents/10182/10030600/Du+thao+Thong+tu+kiem+dinh+TTBYT+ngay+2020.7.06.docx/8f87c6b6-b54a-498e-887e-677f81a16fdd"> Link Dự thảo thông tư kiểm định TTBYT</a></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/455+GM-BYT.pdf/3528de8f-f6d0-4605-9126-0dc7f40f31cc"><strong>Giấy mời số&nbsp;455/GM-BYT&nbsp;&nbsp;</strong>Giấy mời Hội thảo "Tăng cường chất lượng, năng lực sản xuất và giải đáp, hỗ trợ xuất khẩu vật tư, trang thiết bị phòng, chống dịch COVID-19". (Khu vực phía Nam)</a>.</strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/427+GM+BYT.pdf/dba9b086-928c-4a93-9b53-21b79c71720d"><strong>Giấy mời số&nbsp;427/GM-BYT&nbsp;&nbsp;</strong>Giấy mời Hội thảo "Tăng cường chất lượng, năng lực sản xuất và giải đáp, hỗ trợ xuất khẩu vật tư, trang thiết bị phòng, chống dịch COVID-19"</a>.</strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="https://tcvn.gov.vn/2018/03/3154/?utm_source=zalo&amp;utm_medium=zalo&amp;utm_campaign=zalo&amp;zarsrc=30" target="_blank"><strong>Danh sách tổ chức chứng nhận tiêu chuẩn ISO đã đăng ký hoạt động chứng nhận tại Việt Nam theo quy định tại Nghị định số 107/2016/NĐ-CP ngày 01/7/2016 của Chính phủ quy định về điều kiện kinh doanh đánh giá sự phù hợp</strong></a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/CV+1957_2020+Xin+%C3%BD+ki%E1%BA%BFn+d%E1%BB%B1+th%E1%BA%A3o+Th%C3%B4ng+t%C6%B0+quy+%C4%91%E1%BB%8Bnh+%C4%91%E1%BA%A5u+th%E1%BA%A7u+TTBYT.pdf/64887154-24b2-4103-971e-0cbc06c8debf"><strong>Công văn 1957/BYT-TB-CT&nbsp;&nbsp;</strong>Xin ý kiến dự thảo Thông tư quy định một số nội dung trong đấu thầu TTBYT tại các cơ sở y tế Công lập</a>.&nbsp; <a href="/documents/10182/10030600/Thong+tu+quy+dinh+dau+thau+TTBYT+ngay+07.4.2020.docx/4a985488-3eca-4674-859d-04b82bbfaea8">Xem file Thông tư quy định đấu thầu TTBYT</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/CV+312+Cung+c%E1%BA%A5p+TTB+ph%C3%B2ng+ch%E1%BB%91ng+d%E1%BB%8Bch+Covid19+c%E1%BB%A7a+B%E1%BB%87nh+vi%E1%BB%87n+B%E1%BA%A1ch+Mai.pdf/47d82296-8f43-4735-bc2d-a2c46401b9b7"><strong>Công văn 312/CV-BM&nbsp;</strong>Cung cấp các trang thiết bị phục vụ công tác phòng, chống dịch COVID-19 của BV Bạch Mai&nbsp;.</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/Co%CC%82ng+va%CC%86n+344.pdf/f31efd5e-2d04-49f6-9c66-9b2004eac804"><strong>Công văn 344/BVCR-TTBYT&nbsp;</strong>Cung cấp các trang thiết bị phục vụ công tác phòng, chống dịch COVID-19 của BV Chợ Rẫy&nbsp;.</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/GM+1254+H%E1%BB%99i+ngh%E1%BB%8B+%C4%91%E1%BB%91i+tho%E1%BA%A1i+Mi%E1%BB%81n+Nam.pdf/fbc9258d-dbc4-49a3-999d-f2c6c3e78fc6"><strong>Giấy mời số 1254 </strong>Tham dự hội nghị đối thoại doanh nghiệp về các quy định trong Quản lý TTBYT - Khu vực Phía Nam.</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/GM+1111+H%E1%BB%99i+ngh%E1%BB%8B+%C4%91%E1%BB%91i+tho%E1%BA%A1i+Mi%E1%BB%81n+B%E1%BA%AFc.pdf/532a3a03-7514-447f-83c4-961a33c1677d"><strong>Giấy mời số 1111 </strong>Tham dự hội nghị đối thoại doanh nghiệp về các quy định trong Quản lý TTBYT - Khu vực Phía Bắc.</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/0/CongvanthongboASIAN/7163363b-28fa-45f3-b599-8d7be96635b5"><strong>Công văn </strong>Thông báo tổ chức hội thảo, hội nghị khu vực ASEAN về TTBYT.</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/GM+383-2019+H%E1%BB%99i+ngh%E1%BB%8B+t%E1%BA%ADp+hu%E1%BA%A5n+ph%C3%A2n+lo%E1%BA%A1i+M.B%E1%BA%AFc.pdf/9ed07e8b-a959-4252-8e97-565a607bce66"><strong>Giấy mời số 383/GM-BYT ngày 24/05/2019: </strong>Gửi các cơ sở đủ điều kiện phân loại TTBYT tham dự Hội nghị phổ biến quán triệt triển khai Nghị định 36/2016/NĐ-CP và Nghị định 169/2018/NĐ-CP (Khu vực phía Bắc).</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/GM+384-2019+H%E1%BB%99i+ngh%E1%BB%8B+t%E1%BA%ADp+hu%E1%BA%A5n+ph%C3%A2n+lo%E1%BA%A1i+M.Nam.pdf/e4cd5253-5636-4fae-b5a3-d539e359fa06"><strong>Giấy mời số 384/GM-BYT ngày 24/05/2019: </strong>Gửi các cơ sở đủ điều kiện phân loại TTBYT tham dự Hội nghị phổ biến quán triệt triển khai Nghị định 36/2016/NĐ-CP và Nghị định 169/2018/NĐ-CP (Khu vực phía Nam).</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/CV+1444-2019+Thay+%C4%91%E1%BB%95i+ng%C3%A0y+t%E1%BB%95+ch%E1%BB%A9c+H%E1%BB%99i+ngh%E1%BB%8B+theo+GM+153.pdf/911bb240-6c48-4e48-bca4-6c69bcee989e"><strong>Công văn số 1444/BYT-TB-CT ngày 19/03/2019:&nbsp;</strong>Gửi các Sở Y tế; các Bệnh viện, các doanh nghiệp về việc thay đổi ngày tổ chức Hội Nghị triển khai Nghị định 169/2018/NĐ-CP (Khu vực Miền Trung - Tây Nguyên).</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/GM+153-2019+H%E1%BB%99i+ngh%E1%BB%8B+ph%E1%BB%95+bi%E1%BA%BFn+N%C4%90169.2018+M.Trung.pdf/4efde5fe-bc92-4a83-975d-2876e55d5e30"><strong>Giấy mời số 153/GM-BYT ngày 05/03/2019:&nbsp;</strong>Gửi các Sở Y tế; các Bệnh viện, các doanh nghiệp tham dự Hội nghị phổ biến triển khai Nghị định 169/2018/NĐ-CP (Khu vực Miền Trung - Tây Nguyên).</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/GM+113-2019+g%E1%BB%ADi+SYT+H%E1%BB%99i+ngh%E1%BB%8B+ph%E1%BB%95+bi%E1%BA%BFn+N%C4%90169.2018+M.Nam.pdf/c9d3c65d-ceb6-405a-9636-2628d4446290"><strong>Giấy mời số 113/GM-BYT ngày 19/02/2019:&nbsp;</strong>Gửi các Sở Y tế; các Bệnh viện tham dự Hội nghị phổ biến triển khai Nghị định 169/2018/NĐ-CP (Khu vực Miền Nam).</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/GM+109-2019+g%E1%BB%ADi+SYT+H%E1%BB%99i+ngh%E1%BB%8B+ph%E1%BB%95+bi%E1%BA%BFn+N%C4%90169.2018+M.B%E1%BA%AFc.pdf/19b4d099-2e2b-4b5c-b589-f2d2cf46917d"><strong>Giấy mời số 109/GM-BYT ngày 18/02/2019:&nbsp;</strong>Gửi các Sở Y tế; các Bệnh viện tham dự Hội nghị phổ biến triển khai Nghị định 169/2018/NĐ-CP (Khu vực Miền Bắc).</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/CV+202-2019+Thay+%C4%91%E1%BB%95i+ng%C3%A0y+t%E1%BB%95+ch%E1%BB%A9c+H%E1%BB%99i+ngh%E1%BB%8B+theo+GM+35.pdf/ee4732b2-ee56-4664-9647-081c1ef2aa83"><strong>Công văn số 202/BYT-TB-CT ngày 14/01/2019:&nbsp;</strong>Gửi Bệnh viện Thống Nhất; các doanh nghiệp về việc thay đổi ngày tổ chức Hội nghị phổ biến nội dung Nghị định 169/2018/NĐ-CP &nbsp;(Khu vực phía Nam)</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/GM+35-2019+g%E1%BB%ADi+DN+H%E1%BB%99i+ngh%E1%BB%8B+ph%E1%BB%95+bi%E1%BA%BFn+N%C4%90169.2018+M.Nam.pdf/6c423e6f-fcec-4a5e-8b54-6ceeb121ee33"><strong>Giấy mời&nbsp;số 35/GM-BYT ngày 10/01/2019: </strong>Gửi các doanh nghiệp tham dự Hội nghị phổ biến nội dung Nghị định 169/2018/NĐ-CP (Khu vực phía Nam).</a></strong></strong></strong></li>
+		<li><strong><strong><strong red=""><a href="/documents/10182/10030600/GM+30-2019+g%E1%BB%ADi+DN+H%E1%BB%99i+ngh%E1%BB%8B+ph%E1%BB%95+bi%E1%BA%BFn+N%C4%90169.2018+M.B%E1%BA%AFc.pdf/769b2f66-c824-4511-a090-52bf8b3414ae"><strong>Giấy mời&nbsp;số 30/GM-BYT ngày 09/01/2019: </strong>Gửi các doanh nghiệp tham dự Hội nghị phổ biến nội dung Nghị định 169/2018/NĐ-CP (Khu vực Phía Bắc).</a></strong></strong></strong></li>
+	</ul>
+	</li>
+</ul>
+						</div>
+
+						
+					
+					
+				
+			
+		
+	
+
+
+
+
+
+
+
+	
+		<div class="entry-links">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+	
+
+	
+
+	
+
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+
+	
+
+
+
+
+
+		
+	</div>
+
+
+
+
+</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-3 MT10">
+			<div class="box-TT hidden-scrollbar" style="padding-bottom: 50px;">
+				<h4><a href="/web/guest/tai-lieu-tham-khao"><span><i class="fa-R fa fa-clipboard" aria-hidden="true"></i> Tài liệu tham khảo</span></a></h4>
+				<div class="portlet-column portlet-column-last span3" id="column-4" style="width: 100%;margin-top: -9px !important;margin-left: -9px !important;padding-right: 0px;">
+					<div class="portlet-dropzone portlet-column-content portlet-column-content-last" id="layout-column_column-4">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_56_  portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_kTqJ4RGvt6GF_" >
+		<span id="p_56_INSTANCE_kTqJ4RGvt6GF"></span>
+
+
+
+	
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				
+					
+
+						
+
+						
+
+						<div class="journal-content-article">
+							<ul class="list-unstyled tin inner">
+	<li><strong>Dự thảo 03 Quy trình kiểm định (Lần 4) </strong>xin ý kiến kèm theo giấy mời họp ngày 02/10/2023
+	<br/><a href="/documents/10182/10030661/QT-kiem-dinh-an-toan-va-tinh-nang-ky-thuat-may-pha-rung-tim-28-9-2023.docx/a962d860-efe2-4dda-b64d-034f7b45918e">- QT Kiểm định an toàn và tính năng kỹ thuật máy phá rung tim</a>
+	<br/><a href="/documents/10182/10030661/QT-kiem-dinh-an-toan-va-tinh-nang-ky-thuat-may-than-nhan-tao-28-9-2023.doc/bc8ebe75-ada3-4689-a8d4-a5cc55656a15">- QT Kiểm định an toàn và tính năng kỹ thuật máy thận nhân tạo</a>
+	<br/><a href="/documents/10182/10030661/QT-kiem-dinh-an-toan-va-tinh-nang-ky-thuat-long-ap-tre-so-sinh-28-09.docx/3071b343-bb55-44cd-99dc-52f88750e48c">- QT Kiểm định an toàn và tính năng  kỹ thuật Lồng ấp trẻ sơ sinh</a>
+</li>
+	<li><strong>Dự thảo 03 quy trình kiểm định xin ý kiến </strong>kèm theo Công văn số 5440/BYT-HTTB ngày 28/8/2023 của Bộ Y tế
+	<br/><a href="/documents/10182/46289466/QT-kiem-dinh-an-toan-va-tinh-nang-ky-thuat-may-pha-rung-tim-15-8-2023/e30bbb1f-5d37-4204-a5de-2ed4e4208035">- QT Kiểm định an toàn và tính năng kỹ thuật máy phá rung tim</a>
+	<br/><a href="/documents/10182/46289466/QT-kiem-dinh-an-toan-va-tinh-nang-ky-thuat-may-than-nhan-tao-15-8-2023/353cdf44-f0c7-4e2d-8b7d-cd14ab34936f">- QT Kiểm định an toàn và tính năng kỹ thuật máy thận nhân tạo</a>
+	<br/><a href="/documents/10182/46289466/QT-kiem-dinh-an-toan-va-tinh-nang-ky-thuat-long-ap-tre-so-sinh-15-8-2023/2fbcf64f-4bb7-438e-a91a-14315138f439">- QT Kiểm định an toàn và tính năng  kỹ thuật Lồng ấp trẻ sơ sinh</a>
+</li>
+	<li><strong><a href="/documents/10182/0/Tai+lieu+So+Y+te.pdf/3008875c-cc6f-4e2d-825c-34a6c8e83e1e"><strong>Tài liệu Hội nghị phổ biến Nghị định 98/2021/NĐ-CP -&nbsp;Sở Y tế</strong></a></strong></li>
+	<li><strong><a href="/documents/10182/0/Tai+lieu+Doanh+nghiep.pdf/5f47e647-89b6-412f-8844-7be7c8e4557a"><strong>Tài liệu Hội nghị phổ biến Nghị định 98/2021/NĐ-CP - Doanh nghiệp</strong></a></strong></li>
+	<li><strong><a href="/documents/10182/0/CV+gui+cac+don+vi+san+xuat-cung+ung+bao+cao+nang+luc_25.8.2021.docx/11e82a16-cb7f-48fe-8436-53e025e5d151"><strong>CV gửi các đơn vị sản xuất - cung ứng báo cáo năng lực</strong></a></strong></li>
+	<li><strong><strong><a href="/documents/10182/0/Quyet+dinh+tam+thoi+ve+chuyen+doi+sang+chai+chua+khi+oxy+y+te-sua_11.8.2021.docx/99722e28-d842-42e2-af84-4c7c93afa21e"><strong>Quyết định tạm thời về việc chuyển đổi sang chai chứa khí Oxy y tế</strong></a></strong></strong></li>
+	<li><strong><strong><a href="/documents/10182/0/Ngmtuan_%C4%90a%CC%89m+ba%CC%89o+O2+y+te%CC%82%CC%81+phu%CC%A3c+vu%CC%A3+%C4%91ie%CC%82%CC%80u+tri%CC%A3+Covid-19+tre%CC%82n+ca%CC%89+nu%CC%9Bo%CC%9B%CC%81c_02.8.2021.pdf/f1d3c815-4b67-4756-a04b-525eda615b13"><strong>Tăng cường sản xuất, cung ứng và đầu tư, cải tạo mở rộng hệ thống Oxy khí y tế đáp ứng nhu cầu điều trị Covid-19.</strong></a></strong></strong></li>
+	<li><strong><strong><strong><a href="/documents/10182/10030661/2-CLBGD+PN2020_Mot+so+noi+dung+trong+Dau+thau+TTBYT_10.11.2020.pdf/88bdd449-d17c-4224-a580-65a51ee1b3ea">Một số lưu ý trong đấu thầu Trang thiết bị y tế hiện nay</a></strong></strong></strong></li>
+	<li><strong><strong><strong><a href="/documents/10182/10030661/M%E1%BA%ABu+Gi%E1%BA%A5y+ch%E1%BB%A9ng+nh%E1%BA%ADn+l%C6%B0u+h%C3%A0nh+t%E1%BB%B1+do.pdf/914d40b0-9d3c-434c-9867-80b637f1cc1b">Mẫu giấy chứng nhận lưu hành tự do</a></strong></strong></strong></li>
+	<li><strong><strong><strong><a href="/documents/10182/10030661/Bai+trinh+bay+ve+dau+thau+TTBYT.pdf/6dd610c9-7a6b-4c33-ba11-4c9d7b7d7a39">Một số quy định mới trong đấu thầu Trang thiết bị y tế</a></strong></strong></strong></li>
+	<li><strong><strong><a href="https://dmec.moh.gov.vn/documents/10182/10030661/quyet-dinh-322-qd-byt-huong-dan-chan-doan-dieu-tri-viem-duong-ho-hap-cap-tinh.pdf/fec4bd49-a872-49f0-b599-d6f3528ec64e"><strong>Quyết định số 322&nbsp;</strong>Hướng dẫn chẩn đoán điều trị viêm đường hô hấp cấp tính do chủng Virus Corona mới (2019-nCoV)</a></strong></strong></li>
+	<li><strong><strong><a href="https://dmec.moh.gov.vn/documents/10182/10030661/quyet-dinh-225-qd-byt-2020-doi-co-dong-phan-ung-nhanh-chong-dich-viem-duong-ho-hap+%281%29.pdf/757f8d28-54d6-4115-bea8-2d177a1b9eed"><strong>Quyết định số 225&nbsp;</strong>Thành lập đội cơ động phản ứng nhanh chống dịch viêm đường hô hấp cấp do chủng mới virus corona (nCoV).</a></strong></strong></li>
+	<li><strong><strong><a href="https://dmec.moh.gov.vn/documents/10182/10030661/quyet-dinh-181-qd-byt-huong-dan-phong-chong-benh-viem-duong-ho-hap-do-virus-corona.pdf/767bbb73-6b30-45cf-9887-dcd917b47bf7"><strong>Quyết định 181&nbsp;</strong>Về việc ban hành "Hướng dẫn tạm thời giám sát, phòng, chống bệnh viêm đường hô hấp cấp do chủng mới virus corona".</a></strong></strong></li>
+	<li><strong><strong><a href="https://dmec.moh.gov.vn/documents/10182/10030661/quyet-dinh-156-qd-byt-2020-ke-hoach-dap-ung-voi-benh-viem-phoi-cap-do-virus-corona.pdf/248066cc-e3b0-49ea-ba21-08087a19600d"><strong>Quyết định 156&nbsp;</strong>Về việc ban hành kế hoạch đáp ứng với bệnh viêm phổi cấp do chủng mới của virus Corona .</a></strong></strong></li>
+	<li><strong><strong><a href="https://dmec.moh.gov.vn/documents/10182/10030661/CV+101+Cuc+KCB+dam+bao+thuoc+vat+tu+cho+don+vi+dieu+tri+dich+viem+phoi+do+Corona.pdf/ee84c56c-ea74-47dd-bd8f-cc8a6fcad30d"><strong>Công văn 104/KCB-NV </strong> Về việc đảm bảo trang bị TTB- Thuốc-VTTH cho đơn vị cách lý điều trị bệnh viêm đường hô hấp do nCoV.</a></strong></strong></li>
+	<li><strong><strong><strong><a href="https://dmec.moh.gov.vn/documents/10182/10030661/cong-van-519-byt-kcb-huong-dan-chan-doan-dieu-tri-viem-duong-ho-hap-cap-tinh.pdf/0355b38d-e3fc-4651-b47f-5bdc40ccfccf"><strong>Công văn 519/BYT-KCB </strong> Hướng dẫn tổ chức tiếp nhận, chẩn đoán, điều trị và quản lý người bệnh viêm đường hô hấp cấp tính do nCoV.</a></strong></strong></strong></li>
+	<li><strong><strong><strong><a href="https://dmec.moh.gov.vn/documents/10182/10030661/365067_108-kcb-qlclcdt.pdf/eed9411b-4651-481f-82c4-3d6678059c07"><strong>Số 108/KCB-QLCL&amp;CĐT</strong>Về việc hướng dẫn tạm thời về xét nghiệm chủng mới của Virus Corona (nCoV).</a></strong></strong></strong></li>
+	<li><strong><strong><strong><a href="/documents/10182/10030661/T%C3%A0i+li%E1%BB%87u+H%E1%BB%99i+th%E1%BA%A3o+%C4%91%E1%BB%91i+tho%E1%BA%A1i+doanh+nghi%E1%BB%87p+khu+v%E1%BB%B1c+Mi%E1%BB%81n+B%E1%BA%AFc.pdf/8bb6adf7-fc02-411d-9c6f-823bb246d13b"><strong>Tài liệu:&nbsp;</strong>Hội thảo đối thoại doanh nghiệp khu vực Miền Bắc</a></strong></strong></strong></li>
+	<li><strong><strong><strong><a href="/documents/10182/10030661/T%C3%A0i+li%E1%BB%87u+H%E1%BB%99i+th%E1%BA%A3o+%C4%91%E1%BB%91i+tho%E1%BA%A1i+doanh+nghi%E1%BB%87p+khu+v%E1%BB%B1c+Mi%E1%BB%81n+Nam.pdf/cbc3e9c9-486c-46f4-b65e-6e5be464854a"><strong>Tài liệu:&nbsp;</strong>Hội thảo đối thoại doanh nghiệp khu vực Miền Nam</a></strong></strong></strong></li>
+	<li><strong><strong><strong><a href="/documents/10182/10030661/DuthaonghidinhTTBYT2019/0fc7e2b7-b637-42d8-a64e-fef34957545c"><strong>Tài liệu:&nbsp;</strong>NGHỊ ĐỊNH Sửa đổi, bổ sung một số quy định liên quan đến điều kiện đầu tư kinh doanh lĩnh vực trang thiết bị y tế </a></strong></strong></strong></li>
+	<li><strong><strong><strong><a href="/documents/10182/10030661/T%C3%A0i+li%E1%BB%87u+H%E1%BB%99i+ngh%E1%BB%8B+t%E1%BA%ADp+hu%E1%BA%A5n+ph%C3%A2n+lo%E1%BA%A1i+TTBYT.pdf/97679e25-ac9d-42a2-8c8e-a27333628e03"><strong>Tài liệu:&nbsp;</strong>Hội nghị phổ biến quy định về hoạt động phân loại TTBYT.</a></strong></strong></strong></li>
+	<li><strong><strong><strong><a href="/documents/10182/10030661/T%C3%A0i+li%E1%BB%87u+H%E1%BB%99i+ngh%E1%BB%8B+ph%E1%BB%95+bi%E1%BA%BFn+N%C4%90169.2018+cho+SYT+BV.pdf/0c765d54-b3dc-4f84-a4e0-3bf76ca98232"><strong>Tài liệu:&nbsp;</strong>Hội nghị phổ biến Nghị định 169/2018/NĐ-CP cho các nhà quản lý tại Sở Y tế và các Bệnh viện.</a></strong></strong></strong></li>
+	<li><strong><strong><strong><a href="/documents/10182/10030661/T%C3%A0i+li%E1%BB%87u+H%E1%BB%99i+ngh%E1%BB%8B+ph%E1%BB%95+bi%E1%BA%BFn+N%C4%90169.2018+cho+DN.pdf/63ea519c-960d-409d-b167-c5b00a6b8e5b"><strong>Tài liệu:&nbsp;</strong>Hội nghị phổ biến Nghị định 169/2018/NĐ-CP cho doanh nghiệp.</a></strong></strong></strong></li>
+	<li><strong><strong><strong><a href="/documents/10182/10030661/Ph%E1%BB%A5+l%E1%BB%A5c+c%C3%A1c+nguy%C3%AAn+t%E1%BA%AFc+thi%E1%BA%BFt+y%E1%BA%BFu+v%E1%BB%81+an+to%C3%A0n+t%C3%ADnh+n%C4%83ng+TTBYT.doc/092f3606-7fa4-43d8-8e7d-5f815c4c0ffd"><strong>Phụ lục: </strong>Các nguyên tắc thiết yếu về tính an toàn và tính năng kỹ thuật của TTBYT.</a></strong></strong></strong></li>
+	<li><strong><strong><strong><a href="/documents/10182/10030661/T%E1%BB%95ng+h%E1%BB%A3p+d%E1%BB%B1+th%E1%BA%A3o+n%E1%BB%99i+dung+s%E1%BB%ADa+%C4%91%E1%BB%95i+N%C4%9036.2016.docx/edd5f852-caff-4c1d-9c70-fbfbdfbd967c"><strong>Tổng hợp: </strong>Dự thảo nội dung cắt giảm, sửa đổi, bổ sung quy định tại Nghị định 36/2016/NĐ-CP.</a></strong></strong></strong></li>
+	<li><strong><strong><strong><a href="/documents/10182/10030661/D%E1%BB%B1+th%E1%BA%A3o+Th%C3%B4ng+t%C6%B0+quy+%C4%91%E1%BB%8Bnh+h%E1%BB%93+s%C6%A1+k%E1%BB%B9+thu%E1%BA%ADt+TTBYT.pdf/f1ab56ac-33ac-4303-b55e-1f48050f3499"><strong>Dự thảo Thông tư:&nbsp;</strong>Quy định chi tiết về hồ sơ kỹ thuật TTBYT.</a></strong></strong></strong></li>
+</ul>
+						</div>
+
+						
+					
+					
+				
+			
+		
+	
+
+
+
+
+
+
+
+	
+		<div class="entry-links">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+	
+
+	
+
+	
+
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+
+	
+
+
+
+
+
+		
+	</div>
+
+
+
+
+</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
+
+
+	
+
+
+
+
+
+
+											</div>
+				</div>
+			</section>
+		</div>
+	</article>
+
+	<div class="line3">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<h5><b>Bộ Y Tế</b></h5>
+					<p>
+						Địa chỉ: 138A Giảng Võ,Phường Giảng Võ, Hà Nội<br/>
+						Email: dmec@moh.gov.vn<br/>
+						Điện thoại: 02462732272
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<h5><b>Hỗ trợ nghiệp vụ</b></h5>
+					<p>
+						Bộ Y tế (Cục Hạ tầng và Thiết bị y tế)<br/>
+						Email: dmec@moh.gov.vn<br/>
+						Điện thoại: 02462732272
+
+					</p>
+				</div>
+				<div class="col-sm-4">
+					<h5><b>Hotline kỹ thuật</b></h5>
+					<p>
+						Line 1: 0928982898<br/>
+						Email: hotrokythuat.dmec@moh.gov.vn
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<footer style="height: 37px;">
+	<div class="container">
+		<p class="pull-left" style="margin-bottom: 0px !important;">Copyright © 2016 Bộ Y tế</p>
+	</div>
+</footer>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+				<script src="https://imda.moh.gov.vn/oep-notification-portlet/js/jquery.tooltipster.min.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526268000" type="text/javascript"></script>
+
+	
+
+				<script src="https://imda.moh.gov.vn/oep-notification-portlet/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526268000" type="text/javascript"></script>
+
+	
+
+				<script src="https://imda.moh.gov.vn/html/portlet/document_library/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" type="text/javascript"></script>
+
+	
+
+				<script src="https://imda.moh.gov.vn/html/portlet/document_library/js/upload.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" type="text/javascript"></script>
+
+	
+
+				<script src="https://imda.moh.gov.vn/html/portlet/message_boards/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1785526288000" type="text/javascript"></script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	Liferay.Util.addInputFocus();
+
+	
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+	
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+			Liferay.Portlet.onLoad(
+				{
+					canEditTitle: false,
+					columnPos: 0,
+					isStatic: 'end',
+					namespacedId: 'p_p_id_56_INSTANCE_5UQpDnOlTaMr_',
+					portletId: '56_INSTANCE_5UQpDnOlTaMr',
+					refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10698\x26p_p_id\x3d56_INSTANCE_5UQpDnOlTaMr\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F\x253Fs\x253D\x252528n\x2525E1\x2525BB\x252581n\x252520t\x2525E1\x2525BA\x2525A3ng\x252520OR\x252520c\x2525C3\x2525B4ng\x252520c\x2525E1\x2525BB\x2525A5\x252529\x252520AND\x252520\x252528\x25255C\x2525C4\x252591\x2525C3\x2525A1nh\x252520gi\x2525C3\x2525A1\x252520tu\x2525C3\x2525A2n\x252520th\x2525E1\x2525BB\x2525A7\x25255C\x252522\x252520OR\x252520\x25255C\x252522\x2525C4\x252591\x2525C3\x2525A1nh\x252520gi\x2525C3\x2525A1\x252520t\x2525C3\x2525A1c\x252520\x2525C4\x252591\x2525E1\x2525BB\x252599ng\x25255C\x252522\x252529\x252520AND\x252520\x252528\x25255C\x252522AI\x25255C\x252522\x252520OR\x252520\x25255C\x252522tr\x2525C3\x2525AD\x252520tu\x2525E1\x2525BB\x252587\x252520nh\x2525C3\x2525A2n\x252520t\x2525E1\x2525BA\x2525A1o\x25255C\x252522\x252529\x252522\x2526paged\x253D1'
+				}
+			);
+		
+			Liferay.Portlet.onLoad(
+				{
+					canEditTitle: false,
+					columnPos: 0,
+					isStatic: 'end',
+					namespacedId: 'p_p_id_56_INSTANCE_kTqJ4RGvt6GF_',
+					portletId: '56_INSTANCE_kTqJ4RGvt6GF',
+					refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10698\x26p_p_id\x3d56_INSTANCE_kTqJ4RGvt6GF\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-4\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F\x253Fs\x253D\x252528n\x2525E1\x2525BB\x252581n\x252520t\x2525E1\x2525BA\x2525A3ng\x252520OR\x252520c\x2525C3\x2525B4ng\x252520c\x2525E1\x2525BB\x2525A5\x252529\x252520AND\x252520\x252528\x25255C\x2525C4\x252591\x2525C3\x2525A1nh\x252520gi\x2525C3\x2525A1\x252520tu\x2525C3\x2525A2n\x252520th\x2525E1\x2525BB\x2525A7\x25255C\x252522\x252520OR\x252520\x25255C\x252522\x2525C4\x252591\x2525C3\x2525A1nh\x252520gi\x2525C3\x2525A1\x252520t\x2525C3\x2525A1c\x252520\x2525C4\x252591\x2525E1\x2525BB\x252599ng\x25255C\x252522\x252529\x252520AND\x252520\x252528\x25255C\x252522AI\x25255C\x252522\x252520OR\x252520\x25255C\x252522tr\x2525C3\x2525AD\x252520tu\x2525E1\x2525BB\x252587\x252520nh\x2525C3\x2525A2n\x252520t\x2525E1\x2525BA\x2525A1o\x25255C\x252522\x252529\x252522\x2526paged\x253D1'
+				}
+			);
+		
+			Liferay.Portlet.onLoad(
+				{
+					canEditTitle: false,
+					columnPos: 0,
+					isStatic: 'end',
+					namespacedId: 'p_p_id_56_INSTANCE_Y6U2ccWTtWfV_',
+					portletId: '56_INSTANCE_Y6U2ccWTtWfV',
+					refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10698\x26p_p_id\x3d56_INSTANCE_Y6U2ccWTtWfV\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F\x253Fs\x253D\x252528n\x2525E1\x2525BB\x252581n\x252520t\x2525E1\x2525BA\x2525A3ng\x252520OR\x252520c\x2525C3\x2525B4ng\x252520c\x2525E1\x2525BB\x2525A5\x252529\x252520AND\x252520\x252528\x25255C\x2525C4\x252591\x2525C3\x2525A1nh\x252520gi\x2525C3\x2525A1\x252520tu\x2525C3\x2525A2n\x252520th\x2525E1\x2525BB\x2525A7\x25255C\x252522\x252520OR\x252520\x25255C\x252522\x2525C4\x252591\x2525C3\x2525A1nh\x252520gi\x2525C3\x2525A1\x252520t\x2525C3\x2525A1c\x252520\x2525C4\x252591\x2525E1\x2525BB\x252599ng\x25255C\x252522\x252529\x252520AND\x252520\x252528\x25255C\x252522AI\x25255C\x252522\x252520OR\x252520\x25255C\x252522tr\x2525C3\x2525AD\x252520tu\x2525E1\x2525BB\x252587\x252520nh\x2525C3\x2525A2n\x252520t\x2525E1\x2525BA\x2525A1o\x25255C\x252522\x252529\x252522\x2526paged\x253D1'
+				}
+			);
+		
+			Liferay.Portlet.onLoad(
+				{
+					canEditTitle: false,
+					columnPos: 0,
+					isStatic: 'end',
+					namespacedId: 'p_p_id_56_INSTANCE_cfnOzNOW54Yc_',
+					portletId: '56_INSTANCE_cfnOzNOW54Yc',
+					refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10698\x26p_p_id\x3d56_INSTANCE_cfnOzNOW54Yc\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-3\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F\x253Fs\x253D\x252528n\x2525E1\x2525BB\x252581n\x252520t\x2525E1\x2525BA\x2525A3ng\x252520OR\x252520c\x2525C3\x2525B4ng\x252520c\x2525E1\x2525BB\x2525A5\x252529\x252520AND\x252520\x252528\x25255C\x2525C4\x252591\x2525C3\x2525A1nh\x252520gi\x2525C3\x2525A1\x252520tu\x2525C3\x2525A2n\x252520th\x2525E1\x2525BB\x2525A7\x25255C\x252522\x252520OR\x252520\x25255C\x252522\x2525C4\x252591\x2525C3\x2525A1nh\x252520gi\x2525C3\x2525A1\x252520t\x2525C3\x2525A1c\x252520\x2525C4\x252591\x2525E1\x2525BB\x252599ng\x25255C\x252522\x252529\x252520AND\x252520\x252528\x25255C\x252522AI\x25255C\x252522\x252520OR\x252520\x25255C\x252522tr\x2525C3\x2525AD\x252520tu\x2525E1\x2525BB\x252587\x252520nh\x2525C3\x2525A2n\x252520t\x2525E1\x2525BA\x2525A1o\x25255C\x252522\x252529\x252522\x2526paged\x253D1'
+				}
+			);
+		AUI().use('aui-base', 'liferay-menu', 'liferay-notice', 'liferay-poller', 'liferay-session', function(A) {(function() {
+	Liferay.Util.addInputType();
+
+	Liferay.Portlet.ready(
+		function(portletId, node) {
+			Liferay.Util.addInputType(node);
+		}
+	);
+
+	if (A.UA.mobile) {
+		Liferay.Util.addInputCancel();
+	}
+})();(function() {
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();(function() {
+			Liferay.Session = new Liferay.SessionBase(
+				{
+					autoExtend: true,
+					sessionLength: 30,
+					redirectOnExpire: false,
+					redirectUrl: 'https\x3a\x2f\x2fimda\x2emoh\x2egov\x2evn\x2fweb\x2fguest',
+					warningLength: 1
+				}
+			);
+
+			
+		})();});
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://imda.moh.gov.vn/trangthietbiyte-home-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1775116429000" type="text/javascript"></script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// <![CDATA[
+			
+
+			
+		// ]]>
+	</script>
+
+
+
+
+
+
+				<script src="https://imda.moh.gov.vn/trangthietbiyte-home-theme/js/oep-common.js?browserId=other&amp;minifierType=js&amp;languageId=vi_VN&amp;b=6202&amp;t=1775116429000" type="text/javascript"></script>
+		<script src="/trangthietbiyte-home-theme/js/select2.min.js"></script>
+	<script src="/trangthietbiyte-home-theme/js/select2-utils.js"></script>
+</body>
+</html>
+
+

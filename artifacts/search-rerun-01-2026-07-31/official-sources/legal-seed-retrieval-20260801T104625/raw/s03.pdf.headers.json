@@ -1,0 +1,20 @@
+{
+  "Date": "Sat, 01 Aug 2026 03:46:40 GMT",
+  "Content-Type": "application/pdf",
+  "Content-Length": "2265822",
+  "Connection": "close",
+  "Content-Security-Policy": "block-all-mixed-content",
+  "No-Gzip-Compression": "true",
+  "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+  "Slice": "MP4",
+  "Server": "Bizfly Cloud CDN / 564.b7e6e920df63bacd6c8a475ae121fb32",
+  "Alt-Svc": "h3=\":443\"; ma=604800",
+  "X-XSS-Protection": "1; mode=block",
+  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Methods": "GET, HEAD, POST, OPTIONS",
+  "Access-Control-Allow-Headers": "Accept,Authorization,Cache-Control,Content-Length,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,Range,User-Agent,X-Requested-With",
+  "Access-Control-Expose-Headers": "Content-Length",
+  "Timing-Allow-Origin": "*",
+  "X-Cache": "HIT from VCCloud CDN",
+  "Accept-Ranges": "bytes"
+}

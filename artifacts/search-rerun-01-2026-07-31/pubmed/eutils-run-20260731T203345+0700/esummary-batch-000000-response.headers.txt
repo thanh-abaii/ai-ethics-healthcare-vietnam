@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Fri, 31 Jul 2026 13:33:50 GMT
+Server: Finatra
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Content-Security-Policy: upgrade-insecure-requests
+Referrer-Policy: origin-when-cross-origin
+Ncbi-Sid: 890102115BBE9E96_9F51SID
+Ncbi-Phid: 1D33592EE9CA7755000054D8D8097EEF.1.1.m_1
+Content-Type: application/json; charset=UTF-8
+Cache-Control: private
+X-Ratelimit-Limit: 10
+X-Ratelimit-Remaining: 9
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: X-RateLimit-Limit,X-RateLimit-Remaining
+Set-Cookie: ncbi_sid=890102115BBE9E96_9F51SID; domain=.nih.gov; path=/; expires=Sat, 31 Jul 2027 13:33:50 GMT
+Vary: Accept-Encoding
+X-Ua-Compatible: IE=Edge
+X-Xss-Protection: 1; mode=block
+Transfer-Encoding: chunked
+Via: 1.1 google
+Alt-Svc: clear
+

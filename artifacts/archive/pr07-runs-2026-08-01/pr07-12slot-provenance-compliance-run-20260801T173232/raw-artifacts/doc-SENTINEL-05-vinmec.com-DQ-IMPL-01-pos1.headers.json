@@ -1,0 +1,22 @@
+{
+  "Date": "Sat, 01 Aug 2026 10:43:15 GMT",
+  "Content-Type": "text/html; charset=UTF-8",
+  "Transfer-Encoding": "chunked",
+  "Connection": "close",
+  "access-control-allow-headers": "DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range,Host",
+  "access-control-allow-methods": "GET, POST, OPTIONS",
+  "access-control-allow-origin": "*",
+  "access-control-expose-headers": "Content-Length,Content-Range",
+  "Server-Timing": "cfEdge;dur=9,cfOrigin;dur=0",
+  "last-modified": "Sat, 01 Aug 2026 10:03:13 GMT",
+  "engine": "SharksMedia-kb8--sharks.vn",
+  "Server": "cloudflare",
+  "sm-cache-status": "hit",
+  "ttl": "1785539451",
+  "vary": "Accept-Encoding",
+  "Age": "86067",
+  "cf-cache-status": "HIT",
+  "set-cookie": "_cfuvid=kMR9q63LgvdnbWa.7gDnesB73DLwmazlhklufRZGRi4-1785580995.9000359-1.0.1.1-9NzaqNlk2MhlckJqP1zuJpLL.z.EjdeIPxt0iQWuK7Y; HttpOnly; SameSite=None; Secure; Path=/; Domain=vinmec.com",
+  "CF-RAY": "a2443da85b2a322f-SEA",
+  "alt-svc": "h3=\":443\"; ma=86400"
+}

@@ -1,0 +1,19 @@
+{
+  "Content-Type": "text/html; charset=utf-8",
+  "Cache-Control": "private, max-age=0",
+  "Expires": "Sat, 01 Aug 2026 04:12:49 GMT",
+  "Vary": "Accept-Encoding",
+  "X-EventID": "6a6d727dfd7d42c7baf38aa1e8bc1e1f",
+  "UserAgentReductionOptOut": "A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=",
+  "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+  "Permissions-Policy": "unload=()",
+  "Content-Security-Policy": "script-src https: 'strict-dynamic' 'report-sample' 'wasm-unsafe-eval' 'nonce-RUbtxxpIjxfdpoTBIgl4zpPn3Hk0+aNFsdF6p+I4cb0='; base-uri 'self';",
+  "P3P": "CP=\"NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND\"",
+  "X-Display-Context": "full",
+  "Date": "Sat, 01 Aug 2026 04:13:49 GMT",
+  "Transfer-Encoding": "chunked",
+  "Connection": "Transfer-Encoding",
+  "Set-Cookie": "_SS=SID=2DE34B409EEF653B2DFC5CE89FBE64C2; domain=.bing.com; path=/",
+  "Alt-Svc": "h3=\":443\"; ma=93600",
+  "X-CDN-TraceID": "0.83f23517.1785557629.8829cf1"
+}

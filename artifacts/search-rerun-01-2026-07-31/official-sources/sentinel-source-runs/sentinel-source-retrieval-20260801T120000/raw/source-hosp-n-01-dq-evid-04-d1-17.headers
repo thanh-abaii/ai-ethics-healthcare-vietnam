@@ -1,0 +1,20 @@
+Content-Type: text/html; charset=utf-8
+X-Akamai-Transformed: 9 24422 0 pmb=mRUM,2
+Vary: Accept-Encoding
+Expires: Sat, 01 Aug 2026 05:12:37 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sat, 01 Aug 2026 05:12:37 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: AKA_A2=A; expires=Sat, 01-Aug-2026 06:12:37 GMT; path=/; domain=gov.vn; secure; HttpOnly
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=174
+Server-Timing: origin; dur=188
+Alt-Svc: h3=":443"; ma=93600
+Link: <https://apicms.bachmai.gov.vn>;rel="preconnect"
+Akamai-Cache-Status: NotCacheable from child
+Akamai-GRN: 0.79965468.1785561156.bbcdde7
+Server-Timing: ak_p; desc="1785561156345_1750374009_196926951_36208_16694_143_358_-";dur=1
+

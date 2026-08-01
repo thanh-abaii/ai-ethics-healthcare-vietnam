@@ -1,0 +1,26 @@
+date: Fri, 31 Jul 2026 23:04:41 GMT
+cache-control: max-age=14400, public
+content-language: en
+x-content-type-options: nosniff
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+x-frame-options: SAMEORIGIN
+last-modified: Fri, 31 Jul 2026 23:04:40 GMT
+content-type: text/html; charset=UTF-8
+x-cacheable: YES
+x-storage: memoire
+x-cache: ZIP
+etag: W/"1785539080"
+vary: Cookie, Accept-Encoding
+age: 114
+accept-ranges: bytes
+x-cache-hits: 3
+set-cookie: X-class=ext; Domain=.unesco.org; Max-Age=5184000; Path=/;
+ samesite=None; Secure
+connection: close
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Set-Cookie: 
+ TS0121e8f2=015207929585ce426b1c30e8b7815fc1dc6ac55b8dd693a36ae970f4f3636dacc40452a0356c3e96d2f99031317f7c8297dd3ff7e9d1c392808b3c982bd8b35699bb67c252;
+ Path=/; Domain=.www.unesco.org; samesite=None; Secure
+Transfer-Encoding: chunked
+

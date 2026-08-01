@@ -1,0 +1,36 @@
+Content-Type: text/html; charset=utf-8
+Cache-Control: private, max-age=0
+Expires: Sat, 01 Aug 2026 05:24:38 GMT
+Vary: User-Agent
+Vary: Accept-Encoding
+X-EventID: 6a6d8352e1ed48a3a7195e2a87aca18e
+UserAgentReductionOptOut: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Permissions-Policy: unload=()
+Link: <https://r.bing.com>; rel="preconnect",<https://r.bing.com>; rel="preconnect"; crossorigin,<https://th.bing.com>; rel="preconnect",<https://th.bing.com>; rel="preconnect"; crossorigin
+Content-Security-Policy: script-src https: 'strict-dynamic' 'report-sample' 'wasm-unsafe-eval' 'nonce-IujWBf2WcVdqak9PWz7crig/vlsN2cdA2/iwfA5jnT0='; base-uri 'self';report-to csp-endpoint
+Report-To: {"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingcsp"}]}
+Report-To: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingserp&ndcParam=QWthbWFp"}]}
+Report-To: {"group":"crossorigin-errors","max_age":604800,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingserp"}]}
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+X-Display-Context: full
+NEL: {"report_to":"network-errors","max_age":604800,"success_fraction":0.01,"failure_fraction":1.0,"include_subdomains":true}
+Cross-Origin-Embedder-Policy-Report-Only: 'require-corp; report-to=\"crossorigin-errors\"'
+Cross-Origin-Opener-Policy-Report-Only: 'same-origin; report-to=\"crossorigin-errors\"'
+Date: Sat, 01 Aug 2026 05:25:38 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: MUID=0AE03F446B546529173A28EC6AAF6444; domain=.bing.com; expires=Thu, 26-Aug-2027 05:25:38 GMT; path=/; secure; SameSite=None
+Set-Cookie: MUIDB=0AE03F446B546529173A28EC6AAF6444; expires=Thu, 26-Aug-2027 05:25:38 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=F=1&SID=388CB27723AE64B41AA0A5DF22556554; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: _EDGE_V=1; domain=.bing.com; expires=Thu, 26-Aug-2027 05:25:38 GMT; path=/; HttpOnly
+Set-Cookie: __Host-XY=CfDJ8A8rLfEh4ZdMhJ19YNJ4FtSRbkj75ap7kXvkMOHLkABycWusw5QszADGxp_sNKoIrQBwqcS1Wc6mlPAh6F-SS74LnFipgcNXczaLg09S4vKNolsdFQZCIkyauYhPn44c9lSo3ROL8yIyYKoLxJlMqRDljfORgZ-kU55gtdUyas6sKbN0D-29eE9ZIPKXcV0m3jP3P7NNwoqOD5P-IAep1mTbez4E6_qeJTQBDjHwj5NiwROPHKIuGSz_PjdWvrd9wg; expires=Sun, 02-Aug-2026 12:25:38 GMT; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: SRCHHPGUSR=V=CfDJ8A8rLfEh4ZdMhJ19YNJ4FtRIuEfGZxG6IFbSozsFP_m-3tvA1mRdL-P4sDFt4TVIoH1w_cplB7U8-f2LQfI5nxEIlq0aA9QcvC1pDAB28kjCcAZWVAnh5KHnt8W5nsbkpKvuVbzcN8G0K96wAPRqz7g&SRCHLANG=vi&IG=8452A87E43A145E6BD5B7BBBE9092F4A; domain=.bing.com; expires=Tue, 01-Aug-2028 05:25:38 GMT; path=/
+Set-Cookie: SRCHD=AF=NOFORM; domain=.bing.com; expires=Tue, 01-Aug-2028 05:25:38 GMT; path=/
+Set-Cookie: SRCHUID=V=2&GUID=34A5B343C611440885C80A2C5D3F7C3A&dmnchg=1; domain=.bing.com; expires=Tue, 01-Aug-2028 05:25:38 GMT; path=/
+Set-Cookie: SRCHUSR=DOB=20260801; domain=.bing.com; expires=Tue, 01-Aug-2028 05:25:38 GMT; path=/
+Set-Cookie: _SS=SID=388CB27723AE64B41AA0A5DF22556554; domain=.bing.com; path=/
+Alt-Svc: h3=":443"; ma=93600
+X-CDN-TraceID: 0.c923d517.1785561938.5e765870
+

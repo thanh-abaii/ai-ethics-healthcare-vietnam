@@ -1,0 +1,14 @@
+{
+  "date": "Sat, 01 Aug 2026 02:52:47 GMT",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "71294",
+  "server": "nginx/1.20.1",
+  "cache-control": "private",
+  "set-cookie": "l=; path=/; HTTPOnly; Secure; SmaeSite=Lax",
+  "x-frame-options": "SAMEORIGIN",
+  "x-server": "2",
+  "x-cache-status": "MISS",
+  "filterid": "ft",
+  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+  "connection": "close"
+}

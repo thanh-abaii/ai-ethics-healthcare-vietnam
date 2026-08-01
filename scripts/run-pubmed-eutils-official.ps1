@@ -17,9 +17,13 @@ $strategy = Get-Content -LiteralPath $frozenStrategy -Raw -Encoding utf8
 $match = [regex]::Match($strategy, '(?s)### 4\.1\. Truy vấn nguyên văn\s*```text\s*(.*?)\s*```')
 if (-not $match.Success) { throw 'LOCKED_PUBMED_QUERY_NOT_FOUND' }
 $query = $match.Groups[1].Value.Trim()
+$ncbiApiKey = $env:NCBI_API_KEY
+# POLITE_EMAIL is the existing local naming convention; NCBI_CONTACT_EMAIL is
+# retained as the explicit alias in the public setup example.
+$ncbiContactEmail = if ($env:NCBI_CONTACT_EMAIL) { $env:NCBI_CONTACT_EMAIL } else { $env:POLITE_EMAIL }
 
 if ([string]::IsNullOrWhiteSpace($OutputRoot)) {
-    $OutputRoot = Join-Path $repo 'artifacts\official-search-rerun-01-2026-07-31\pubmed'
+    $OutputRoot = Join-Path $repo 'artifacts\search-rerun-01-2026-07-31\pubmed'
 }
 $stamp = (Get-Date).ToString('yyyyMMddTHHmmsszzz').Replace(':','')
 $runDir = Join-Path $OutputRoot ("eutils-run-$stamp")
@@ -40,7 +44,7 @@ function Invoke-EutilsGet([string]$Name, [string]$ArtifactPrefix, [hashtable]$Pa
     $body = Join-Path $runDir "$ArtifactPrefix-response.raw"
     $headers = Join-Path $runDir "$ArtifactPrefix-response.headers.txt"
     & curl.exe --fail-with-body --location --retry 2 --retry-all-errors --connect-timeout 30 --max-time 180 `
-        --user-agent 'AI-ethics-healthcare-Vietnam-scoping-review/1.0' `
+        --user-agent "AI-ethics-healthcare-Vietnam-scoping-review/1.0 ($ncbiContactEmail)" `
         --dump-header $headers --output $body $url
     $exit = $LASTEXITCODE
     [pscustomobject]@{ name=$Name; url=$url; body=$body; headers=$headers; exit_code=$exit }
@@ -49,7 +53,7 @@ function Invoke-EutilsGet([string]$Name, [string]$ArtifactPrefix, [hashtable]$Pa
 $queryFile = Join-Path $runDir 'pubmed-query-verbatim.txt'
 [System.IO.File]::WriteAllText($queryFile, $query + [Environment]::NewLine, [System.Text.UTF8Encoding]::new($false))
 $manifest = [ordered]@{
-    run_id = "official-search-rerun-01-2026-07-31-pubmed-eutils-$stamp"
+    run_id = "search-rerun-01-2026-07-31-pubmed-eutils-$stamp"
     status = 'STARTED'
     source = 'NCBI E-utilities REST API'
     query_source = 'frozen OSF search-strategy.md section 4.1'
@@ -57,13 +61,16 @@ $manifest = [ordered]@{
     query_sha256 = Get-Hash $queryFile
     started_at_local = (Get-Date).ToString('o')
     steps = @()
+    credential_configuration = [ordered]@{ ncbi_api_key_present = -not [string]::IsNullOrWhiteSpace($ncbiApiKey); ncbi_contact_email_present = -not [string]::IsNullOrWhiteSpace($ncbiContactEmail) }
     screening_or_extraction = 'NOT_STARTED'
 }
 
 try {
+    if ([string]::IsNullOrWhiteSpace($ncbiApiKey)) { throw 'NCBI_API_KEY_UNSET' }
+    if ([string]::IsNullOrWhiteSpace($ncbiContactEmail)) { throw 'NCBI_CONTACT_EMAIL_UNSET' }
     # Step 1: eSearch preserves both the raw JSON and the history server handles.
     $search = Invoke-EutilsGet 'esearch' 'esearch' @{
-        db='pubmed'; term=$query; usehistory='y'; retmax='100000'; retmode='json'; tool='ai_ethics_healthcare_vietnam_review'
+        db='pubmed'; term=$query; usehistory='y'; retmax='100000'; retmode='json'; tool='ai_ethics_healthcare_vietnam_review'; email=$ncbiContactEmail; api_key=$ncbiApiKey
     }
     if ($search.exit_code -ne 0) { throw "ESEARCH_HTTP_OR_TRANSPORT_FAILURE_EXIT_$($search.exit_code)" }
     $searchRaw = Get-Content -LiteralPath $search.body -Raw -Encoding utf8
@@ -86,12 +93,12 @@ try {
         $size = [Math]::Min($BatchSize, $count - $start)
         Start-Sleep -Milliseconds 400
         $summary = Invoke-EutilsGet 'esummary' ("esummary-batch-{0:D6}" -f $start) @{
-            db='pubmed'; WebEnv=$result.webenv; query_key=$result.querykey; retstart=$start; retmax=$size; retmode='json'; tool='ai_ethics_healthcare_vietnam_review'
+            db='pubmed'; WebEnv=$result.webenv; query_key=$result.querykey; retstart=$start; retmax=$size; retmode='json'; tool='ai_ethics_healthcare_vietnam_review'; email=$ncbiContactEmail; api_key=$ncbiApiKey
         }
         if ($summary.exit_code -ne 0) { throw "ESUMMARY_HTTP_OR_TRANSPORT_FAILURE_START_$start`_EXIT_$($summary.exit_code)" }
         Start-Sleep -Milliseconds 400
         $fetch = Invoke-EutilsGet 'efetch' ("efetch-batch-{0:D6}" -f $start) @{
-            db='pubmed'; WebEnv=$result.webenv; query_key=$result.querykey; retstart=$start; retmax=$size; retmode='xml'; tool='ai_ethics_healthcare_vietnam_review'
+            db='pubmed'; WebEnv=$result.webenv; query_key=$result.querykey; retstart=$start; retmax=$size; retmode='xml'; tool='ai_ethics_healthcare_vietnam_review'; email=$ncbiContactEmail; api_key=$ncbiApiKey
         }
         if ($fetch.exit_code -ne 0) { throw "EFETCH_HTTP_OR_TRANSPORT_FAILURE_START_$start`_EXIT_$($fetch.exit_code)" }
         $manifest.steps += [ordered]@{step='batch'; retstart=$start; retmax=$size; esummary_raw=(Split-Path $summary.body -Leaf); esummary_sha256=Get-Hash $summary.body; efetch_raw=(Split-Path $fetch.body -Leaf); efetch_sha256=Get-Hash $fetch.body}

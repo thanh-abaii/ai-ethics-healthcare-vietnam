@@ -26,14 +26,31 @@ The project follows a rigorous two-stage Open Science architecture aligned with 
 ### Research Status & Gate Decisions
 - **OSF Pre-registration:** Locked and public (OSF Identifier: [`62b8w`](https://osf.io/62b8w/)).
 - **Feasibility Pilot (Gates G4 & G5):** **`PASS`** (Completed on July 31, 2026).
-- **Execution Branch:** **`BRANCH A (Scoping Review)`** — 183 direct/contextual sources identified across PubMed, OpenAlex, official legal/governmental channels, and citation chasing (exceeding the threshold of 5 direct sources).
+- **Gate G6 (Reference Budget Feasibility Gate):** **`FAIL_CLOSED`**
+- **Gate G7 (Journal Mock Manuscript Gate):** **`FAIL_CLOSED`**
+- **Current Research Status:** **`DIRECT_SEARCH_IN_PROGRESS`**
+- **Double Screening Status:** **`DEDUP_AND_SCREENING_NOT_OPEN`** (`SCREENING = NOT_OPEN`).
 
-### Key Repository Artifacts
+### Single Source of Truth & Repository Layout
+- **[INDEX.md](INDEX.md):** **Single Source of Truth (SSOT)** for the entire repository structure, file index, post-registration documents (`docs/`), audit reports (`reports/`), scripts (`scripts/`), and raw artifacts (`artifacts/`).
 - **[protocol.md](protocol.md):** Pre-registered research protocol (v0.6-registered).
 - **[search-strategy.md](search-strategy.md):** Verbatim search queries (PubMed, OpenAlex, Legal Databases, Citation Chasing).
-- **[g4-g5-feasibility-pilot-2026-07-31.md](g4-g5-feasibility-pilot-2026-07-31.md):** Locked feasibility pilot execution log and gate evaluation report.
 - **[prisma-scr-checklist.md](prisma-scr-checklist.md):** PRISMA-ScR compliance checklist.
-- **[artifacts/g4-g5-feasibility-pilot-2026-07-31/](artifacts/g4-g5-feasibility-pilot-2026-07-31/):** OpenAlex cursor API JSON dumps, PubMed NBIB exports, `manifest.csv`, and `checksums.sha256`.
+- **[reports/official-sources-harvest-audit-report-2026-08-01.md](reports/official-sources-harvest-audit-report-2026-08-01.md):** Official sources raw harvest & Gate G6/G7 audit report.
+- **[docs/audits/g6-g7-evaluation-report-2026-08-01.md](docs/audits/g6-g7-evaluation-report-2026-08-01.md):** Gate G6 & G7 evaluation report.
+
+### API Credentials Setup
+To execute automated data harvesting from OpenAlex and PubMed without rate-limiting or WAF abuse blocks, configure a `.env` file at the root of the repository:
+```env
+# Official email for OpenAlex Polite Pool rate-limit tier
+POLITE_EMAIL=your_real_email@domain.com
+
+# Optional OpenAlex API Key (from https://openalex.org/account)
+OPENALEX_API_KEY=your_openalex_api_key
+
+# Official NCBI API Key (from https://www.ncbi.nlm.nih.gov/account/settings/)
+NCBI_API_KEY=your_ncbi_api_key_36_chars
+```
 
 ### Research Team & Roles
 - **Lead Investigator:** Đào Trung Thành (*AI Ethics Author & Research Lead*).
@@ -61,14 +78,27 @@ Dự án áp dụng kiến trúc Khoa học mở (Open Science) hai tầng tuân
 ### Trạng thái nghiên cứu và Quyết định cổng (Gates)
 - **Đăng ký OSF:** Đã khóa bất biến và công khai (Mã OSF: [`62b8w`](https://osf.io/62b8w/)).
 - **Thử nghiệm khả thi (Gate G4 & G5):** **`PASS`** (Hoàn tất ngày 31/07/2026).
-- **Phân nhánh nghiên cứu:** **`NHÁNH A (Scoping Review)`** — Đã xác minh 183 nguồn trực tiếp/bối cảnh trên PubMed, OpenAlex, cổng chính thức/pháp luật VN và citation chasing (vượt xa ngưỡng 5 nguồn tối thiểu).
+- **Gate G6 (Khả thi Ngân sách Tham khảo 25 tài liệu):** **`FAIL_CLOSED`**
+- **Gate G7 (Bản thảo thử 8 trang Hợp đồng Tạp chí):** **`FAIL_CLOSED`**
+- **Trạng thái Tiến độ Nghiên cứu:** **`DIRECT_SEARCH_IN_PROGRESS`**
+- **Trạng thái Sàng lọc Kép Vòng 1 / Dedup:** **`DEDUP_AND_SCREENING_NOT_OPEN`** (`SCREENING = NOT_OPEN`).
 
-### Các tài liệu cốt lõi
+### Cấu trúc Repository & Single Source of Truth
+- **[INDEX.md](INDEX.md):** **Single Source of Truth (SSOT)** quản lý toàn bộ sơ đồ phân mục repository, tài liệu hậu đăng ký (`docs/`), báo cáo kiểm toán (`reports/`), mã nguồn (`scripts/`) và chứng cứ thô (`artifacts/`).
 - **[protocol.md](protocol.md):** Protocol nghiên cứu đăng ký trước (phiên bản `0.6-registered`).
 - **[search-strategy.md](search-strategy.md):** Chiến lược tìm kiếm nguyên văn (PubMed, OpenAlex, Cổng pháp lý, Citation Chasing).
-- **[g4-g5-feasibility-pilot-2026-07-31.md](g4-g5-feasibility-pilot-2026-07-31.md):** Nhật ký khả thi G4–G5 và báo cáo đánh giá gate đã khóa.
 - **[prisma-scr-checklist.md](prisma-scr-checklist.md):** Bảng kiểm tuân thủ PRISMA-ScR.
-- **[artifacts/g4-g5-feasibility-pilot-2026-07-31/](artifacts/g4-g5-feasibility-pilot-2026-07-31/):** Thư mục lưu vết raw JSON OpenAlex API, raw NBIB PubMed, `manifest.csv` và băm SHA-256 `checksums.sha256`.
+- **[reports/official-sources-harvest-audit-report-2026-08-01.md](reports/official-sources-harvest-audit-report-2026-08-01.md):** Báo cáo kiểm toán thu hồi dữ liệu thô 5 nhánh nguồn chính thức.
+
+### Cấu hình API Credentials
+Để thực thi thu thập dữ liệu tự động từ OpenAlex và PubMed ổn định mà không bị giới hạn lưu lượng (rate-limit) hoặc bị tường lửa chặn (WAF abuse block), người nghiên cứu cần tạo tệp `.env` tại thư mục gốc repository:
+```env
+# Email chính thức dùng cho OpenAlex Polite Pool
+POLITE_EMAIL=email_that_cua_bac@domain.com
+
+# NCBI API Key chính thức (lấy tại https://www.ncbi.nlm.nih.gov/account/settings/)
+NCBI_API_KEY=ncbi_api_key_36_ky_tu
+```
 
 ### Nhóm nghiên cứu & Vai trò
 - **Chủ trì nghiên cứu:** Đào Trung Thành (*Tác giả Đạo đức AI & Chủ trì đề tài*).

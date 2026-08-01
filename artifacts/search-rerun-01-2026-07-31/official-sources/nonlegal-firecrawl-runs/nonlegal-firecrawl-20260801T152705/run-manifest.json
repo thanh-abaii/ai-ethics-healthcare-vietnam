@@ -1,0 +1,24 @@
+{
+  "run_id": "nonlegal-firecrawl-20260801T152705",
+  "completed_at": "2026-08-01T09:31:18.378403+00:00",
+  "method": "Firecrawl site: fallback locator; first-party source scrape plus direct header attempt",
+  "catalog_sha256": "AC629A914F4C64FF6ABEEF5D1C0D66E25C75AFECCB8FE8C4E46173342DEED5F7",
+  "expected_channel_query_pairs": 120,
+  "executed_channel_query_pairs": 120,
+  "source_discovered": 473,
+  "source_acquired": 338,
+  "depth_2_acquired": 0,
+  "status": "RAW_NONLEGAL_FIRECRAWL_RETRIEVAL_COMPLETE_UNSCREENED",
+  "not_permitted_claims": [
+    "OFFICIAL_SEARCH_COMPLETE",
+    "saturation",
+    "eligibility",
+    "PRISMA identification count",
+    "implementation finding"
+  ],
+  "next": [
+    "audit source provenance and exact search coverage",
+    "global registry/dedup",
+    "G6/G7 contract audit before screening"
+  ]
+}

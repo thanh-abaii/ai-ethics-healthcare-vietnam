@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "C:\Users\DELL\Documents\2. Research & Writing\dao-duc-ai-tu-gia-tri-den-van-hanh\docs\research\ai-ethics-healthcare-vietnam\scripts\run_implementation_sentinel_source_retrieval.py", line 156, in <module>
+    if __name__=="__main__": main()
+                             ^^^^^^
+  File "C:\Users\DELL\Documents\2. Research & Writing\dao-duc-ai-tu-gia-tri-den-van-hanh\docs\research\ai-ethics-healthcare-vietnam\scripts\run_implementation_sentinel_source_retrieval.py", line 143, in main
+    dump("search-attempt-ledger.csv",search); dump("source-locator-ledger.csv",locators); dump("source-acquisition-ledger.csv",sources); dump("query-terminal-ledger.csv",acquisition)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\Documents\2. Research & Writing\dao-duc-ai-tu-gia-tri-den-van-hanh\docs\research\ai-ethics-healthcare-vietnam\scripts\run_implementation_sentinel_source_retrieval.py", line 141, in dump
+    with (run/name).open("w",encoding="utf-8",newline="") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Roaming\uv\python\cpython-3.11-windows-x86_64-none\Lib\pathlib.py", line 1044, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\DELL\\Documents\\2. Research & Writing\\dao-duc-ai-tu-gia-tri-den-van-hanh\\docs\\research\\ai-ethics-healthcare-vietnam\\artifacts\\search-rerun-01-2026-07-31\\official-sources\\sentinel-source-runs\\sentinel-source-retrieval-20260801T124500\\search-attempt-ledger.csv'

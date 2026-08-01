@@ -1,0 +1,778 @@
+ 
+<!DOCTYPE html><html lang="vi"><head>
+  
+<title>Cục quản lý Khám chữa bệnh</title>
+  
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  
+  
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  
+<meta name="description" content="Cục quản lý Khám chữa bệnh"/>
+<meta name="keywords" content=""/>
+<meta name="Author" content="Cục quản lý Khám chữa bệnh" />
+<meta name="copyright" content="Cục quản lý Khám chữa bệnh" />
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet"> 
+  
+  
+<meta property="fb:app_id" content="1396997063955601"/>
+  
+  
+  
+  
+  
+<meta property="og:image" content="https://kcb.vn/upload/2005611/20210712/logo_header_e3e4f.png"/>
+<link rel="image_src" href="https://kcb.vn/upload/2005611/20210712/logo_header_e3e4f.png"/>
+  
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="kcb.vn" />
+<meta property="og:title" content="Cục quản lý Khám chữa bệnh" />
+<meta property="og:description" content="" />
+  
+<meta property="og:url" content="https://kcb.vn"/>
+<link rel="canonical" href="https://kcb.vn/" />
+<meta name="DC.Title" content="Cục quản lý Khám chữa bệnh" />
+<meta name="DC.Identifier" content="https://kcb.vn" />
+<meta name="DC.Description" content="Cục quản lý Khám chữa bệnh" />
+<meta name="DC.Date" content="2026-08-01+0716:47:00" />
+<meta name="DC.Publisher" content="Cục quản lý Khám chữa bệnh" />
+<meta name="DC.Subject" content="" />
+<meta name="DC.Creator" content="" />
+<meta name="DC.language" content="vi" />
+  
+  
+  
+<link href="/upload/2005611/20220525/favicon_boyte_7edd15f48a.png" rel="shortcut icon" type="image/x-icon" />
+  
+<link rel="preload" href="/css/1.522204209/2005611/3324/style.css?204209" as="style">
+<link type="text/css" rel="stylesheet" href="/css/1.522204209/2005611/3324/style.css?204209"/>
+  
+<link rel="preload" as="script" href="/publish/js/lib2-1.522.min.js?204209">
+<!-- <link rel="stylesheet" type="text/css" href="/3rdparty/font-awesome-5.13.1/css/all.min.css"/> -->
+<link href="/3rdparty/vhv-font/vhv.css?1.522" rel="stylesheet" type="text/css">
+<link type="text/css" rel="stylesheet" href="/Common/css/newUI.css"/>
+  
+  
+  
+  
+</head><body  style="padding:0px;margin:0px;" >
+  
+  
+  
+  
+<style>
+input[type="password"]::-ms-reveal{
+display: none;
+}
+body #loader{
+top:50% !important;
+left: 50% !important;
+transform: translate(-50%, -50%);
+}
+</style>
+ 
+<div class="region-top"><div id="module4" class="ModuleWrapper  wrapper-header" ><div class="container">  <div id="module5" class="ModuleWrapper" ><div class="header-commerce"> <div class="banner-top row"> <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12 logo-col"> <div class="logo"> <a title="Cục quản lý Khám chữa bệnh" href="https://kcb.vn/"> <img alt="Cục quản lý Khám chữa bệnh" src="/upload/2005611/20210712/logo_header_e3e4f.png">
+ </a> </div> <div class="logo-info ml-10"> <div class="governingUnit">Bộ y tế</div> <div class="title">Cục quản lý Khám chữa bệnh</div> <div class="companyName">Department of medical service administration - Ministry of health, Viet Nam</div> </div> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 search-column"> <div class="header-support d-inline-b a-middle"> <a class="rss mr-10" href="https://kcb.vn/page/sitemap">Site map</a> <span>|</span> <a class="contact ml-10" href="https://kcb.vn/page/contact">Liên hệ</a> </div> <div class="wrapper-search-language row"> <div class="header-search col-md-9"> <form id="form5" class="search-form" action="/"> <input type="hidden" name="site" value="2005611" /> <input type="hidden" name="page" value="search" /> <div class="search-form-inner d-table wp-100"> <div class="frm-row d-table-c a-middle"> <div class="d-table"> <input type="text" value="" placeholder="Tìm kiếm..." name="keyword" class="input-group-field form-control"> <span class="input-group-btn"> <button class="btn btn-search" title="Tìm kiếm"> <i class="vi vi-search"></i> </button> </span> </div> </div> </div> <input type="hidden" name="securityToken" value="2267b8f95776c3cc655a9b4a04da8d77798f06796fd724eb15423653de809304"><input type="hidden" name="submitFormId" value="5"><input type="hidden" name="moduleId" value="5"></form> </div> <div class="language col-md-3"> <select class="form-control" id="change-select5"> <option value="javascript:;">VN</option> <option value="javascript:;">EN</option> </select> </div> </div> </div> </div></div></div>  
+</div></div><div id="module6" class="ModuleWrapper" ><nav aria-label="Thực đơn" id="menu6" class="navigation-menu-default-type1 navigation-menu-default-type2 no-logo" style="overflow: hidden;">
+ <div class="navbar navbar-default"> <div class="container container-has-link">
+ <div class="row has-link-right relative">
+ <div class="navbar-header">   <div class="link-right mobile link-right-header"> <div class="wrapper-date-time"> <div class="time-news"> <div class="top-header clearfix"> <div class="time-header"> <div class="clock clearfix"> <div id="Date"></div> <ul class="list-inline"> <li id="hours"></li> <li id="point">:</li> <li id="min"></li> <li id="point">:</li> <li id="sec"></li> </ul> <span id="am-pm"></span> <div class="clear-both"></div> </div> </div> </div> </div> </div>     </div>     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-6" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> </div> <div class="collapse navbar-collapse fluid-nav sidebar-collapse" id="bs-navbar-collapse-6">
+ <div class="intestine-collapse">       <ul id="fluid-nav-positive6" role="tablist" class="nav navbar-nav fluid-nav-positive">
+   <li  role="presentation" class="item home-page li-home" data-id="101795264" >
+ <a rel="noopener" href="/"  title="Trang chủ" >
+       <i class="vi vi-home" ></i>     <span class="title">Trang chủ</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101795265" style="display:none;">
+ <a rel="noopener" href="/tin-tuc"  title="Tin tức" >
+         <span class="title">Tin tức</span>     </a>     </li>   <li  role="presentation" class="item dropdown" data-id="101795266" style="display:none;">
+ <a rel="noopener" href="/van-ban"  title="Văn bản" >
+         <span class="title">Văn bản</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item dropdown has-child" data-id="101795515" >
+ <a rel="noopener" href="/van-ban/chi-dao-dieu-hanh"  title="Chỉ đạo điều hành" >
+         <span class="title">Chỉ đạo điều hành</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101795268" >
+ <a rel="noopener" href="/cong-van"  title="Công văn" >
+         <span class="title">Công văn</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819450" >
+ <a rel="noopener" href="/van-ban/chi-dao-dieu-hanh/chi-thi-quyet-dinh"  title="Chỉ thị, Quyết định" >
+         <span class="title">Chỉ thị, Quyết định</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819451" >
+ <a rel="noopener" href="/van-ban/chi-dao-dieu-hanh/van-ban-qppl"  title="Văn bản QPPL" >
+         <span class="title">Văn bản QPPL</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item" data-id="101795516" >
+ <a rel="noopener" href="/van-ban/van-ban-phap-quy"  title="Văn bản pháp quy" >
+         <span class="title">Văn bản pháp quy</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101795269" >
+ <a rel="noopener" href="/du-thao"  title="Dự thảo xin ý kiến" >
+         <span class="title">Dự thảo xin ý kiến</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item dropdown" data-id="101819452" style="display:none;">
+ <a rel="noopener" href="/cac-chuyen-muc-khac"  title="Lĩnh vực quản lý" >
+         <span class="title">Lĩnh vực quản lý</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101795271" >
+ <a rel="noopener" href="/chat-luong"  title="Quản lý chất lượng" >
+         <span class="title">Quản lý chất lượng</span>     </a>     </li>   <li  role="presentation" class="item dropdown has-child" data-id="101795273" >
+ <a rel="noopener" href="/hanh-nghe"  title="Quản lý hành nghề KCB" >
+         <span class="title">Quản lý hành nghề KCB</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="5264838" >
+ <a rel="noopener" href="/hanh-nghe/danh-sach-co-so-kbcb-du-dieu-kien-huong-dan-thuc-hanh"  title="Danh sách Cơ sở KBCB đủ điều kiện hướng dẫn thực hành" >
+         <span class="title">Danh sách Cơ sở KBCB đủ điều kiện hướng dẫn thực hành</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item" data-id="101797445" >
+ <a rel="noopener" href="/kham-chua-benh/can-thiep-som-tu-ky"  title="Phục hồi chức năng" >
+         <span class="title">Phục hồi chức năng</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819456" >
+ <a rel="noopener" href="/cac-chuyen-muc-khac/giam-dinh-y-khoa"  title="Giám định y khoa" >
+         <span class="title">Giám định y khoa</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819457" >
+ <a rel="noopener" href="/cac-chuyen-muc-khac/dieu-duong-ksnk-dinh-duong"  title="Điều dưỡng – KSNK- Dinh dưỡng" >
+         <span class="title">Điều dưỡng – KSNK- Dinh dưỡng</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819458" >
+ <a rel="noopener" href="https://hoinhap.kcb.vn/" target="_blank" title="Hội nhập" >
+         <span class="title">Hội nhập</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101796492" >
+ <a rel="noopener" href="/hma"  title="Hội nghị quản lý bệnh viện Châu Á" >
+         <span class="title">Hội nghị quản lý bệnh viện Châu Á</span>     </a>     </li>   <li  role="presentation" class="item" data-id="5274715" >
+ <a rel="noopener" href="/cac-chuyen-muc-khac/du-lich-y-te"  title="Du lịch Y tế" >
+         <span class="title">Du lịch Y tế</span>     </a>     </li>   <li  role="presentation" class="item dropdown has-child" data-id="101819460" >
+ <a rel="noopener" href="/cac-chuyen-muc-khac/chuong-trinh-cham-soc-suc-khoe"  title="Chương trình chăm sóc sức khỏe" >
+         <span class="title">Chương trình chăm sóc sức khỏe</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101819461" >
+ <a rel="noopener" href="https://vilaphoikhoe.kcb.vn/" target="_blank" title="Vì lá phổi khỏe Việt Nam" >
+         <span class="title">Vì lá phổi khỏe Việt Nam</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819462" >
+ <a rel="noopener" href="http://daithaoduong.kcb.vn/" target="_blank" title="Đái tháo đường" >
+         <span class="title">Đái tháo đường</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819463" >
+ <a rel="noopener" href="https://dotquy.kcb.vn/" target="_blank" title="Phòng chống đột quỵ" >
+         <span class="title">Phòng chống đột quỵ</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819465" >
+ <a rel="noopener" href="/cac-chuyen-muc-khac/chuong-trinh-cham-soc-suc-khoe/phong-chong-khang-thuoc"  title="Phòng chống kháng thuốc" >
+         <span class="title">Phòng chống kháng thuốc</span>     </a>     </li>     </ul>   </li>     </ul>   </li>   <li  role="presentation" class="item dropdown" data-id="101795267" style="display:none;">
+ <a rel="noopener" href="/kham-chua-benh"  title="Khám chữa bệnh" >
+         <span class="title">Khám chữa bệnh</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item dropdown has-child" data-id="101795286" >
+ <a rel="noopener" href="/kham-chua-benh/phuc-hoi-chuc-nang"  title="Phục hồi chức năng" >
+         <span class="title">Phục hồi chức năng</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101795511" >
+ <a rel="noopener" href="/kham-chua-benh/phuc-hoi-chuc-nang/giam-dinh"  title="Giám định" >
+         <span class="title">Giám định</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101795512" >
+ <a rel="noopener" href="/kham-chua-benh/phuc-hoi-chuc-nang/khac-phuc-hau-qua"  title="Khắc phục hậu quả" >
+         <span class="title">Khắc phục hậu quả</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101795513" >
+ <a rel="noopener" href="/kham-chua-benh/phuc-hoi-chuc-nang/hop-tac-quoc-te"  title="Hợp tác quốc tế" >
+         <span class="title">Hợp tác quốc tế</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101795514" >
+ <a rel="noopener" href="/kham-chua-benh/phuc-hoi-chuc-nang/kham-suc-khoe"  title="Khám sức khỏe" >
+         <span class="title">Khám sức khỏe</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item" data-id="101795287" >
+ <a rel="noopener" href="/kham-chua-benh/dieu-duong"  title="Điều dưỡng" >
+         <span class="title">Điều dưỡng</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item dropdown" data-id="101795272" style="display:none;">
+ <a rel="noopener" href="/thong-tin"  title="Thông tin" >
+         <span class="title">Thông tin</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101795270" >
+ <a rel="noopener" href="/ban-do-co-so-y-te"  title="Bản đồ cơ sở y tế" >
+         <span class="title">Bản đồ cơ sở y tế</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item dropdown" data-id="101819466" style="display:none;">
+ <a rel="noopener" href="/tai-lieu"  title="Tài liệu" >
+         <span class="title">Tài liệu</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="5261268" >
+ <a rel="noopener" href="/tai-lieu/tai-lieu-ve-cham-soc-mat"  title="Tài liệu về chăm sóc mắt" >
+         <span class="title">Tài liệu về chăm sóc mắt</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819467" >
+ <a rel="noopener" href="/tai-lieu/quy-trinh-ky-thuat"  title="Quy trình kỹ thuật" >
+         <span class="title">Quy trình kỹ thuật</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819468" >
+ <a rel="noopener" href="/tai-lieu/huong-dan-chan-doan-dieu-tri"  title="Hướng dẫn chẩn đoán, điều trị" >
+         <span class="title">Hướng dẫn chẩn đoán, điều trị</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819469" >
+ <a rel="noopener" href="/tai-lieu/tai-lieu-lien-quan-den-covid-19"  title="Tài liệu liên quan đến Covid-19" >
+         <span class="title">Tài liệu liên quan đến Covid-19</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819470" >
+ <a rel="noopener" href="/tai-lieu/tai-lieu-hoi-nghi-tap-huan"  title="Tài liệu Hội nghị, tập huấn" >
+         <span class="title">Tài liệu Hội nghị, tập huấn</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item" data-id="101795274" style="display:none;">
+ <a rel="noopener" href="/quy-trinh"  title="Quy trình kỹ thuật" >
+         <span class="title">Quy trình kỹ thuật</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101796520" style="display:none;">
+ <a rel="noopener" href="/phac-do"  title="Hướng dẫn chẩn đoán, điều trị" >
+         <span class="title">Hướng dẫn chẩn đoán, điều trị</span>     </a>     </li>   <li  role="presentation" class="item dropdown" data-id="101819472" style="display:none;">
+ <a rel="noopener" href="/dich-vu"  title="Dịch vụ" >
+         <span class="title">Dịch vụ</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101820650" >
+ <a rel="noopener" href="http://ktbv.kcb.vn" target="_blank" title="KIỂM TRA ĐÁNH GIÁ CHẤT LƯỢNG BỆNH VIỆN" >
+         <span class="title">KIỂM TRA ĐÁNH GIÁ CHẤT LƯỢNG BỆNH VIỆN</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101820651" >
+ <a rel="noopener" href="https://chatluongbenhvien.vn/" target="_blank" title="HÀI LÒNG NGƯỜI BỆNH VÀ NVYT" >
+         <span class="title">HÀI LÒNG NGƯỜI BỆNH VÀ NVYT</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819474" >
+ <a rel="noopener" href="https://cdc.kcb.vn/" target="_blank" title="Hệ thống thông tin quản lý khám chữa bệnh" >
+         <span class="title">Hệ thống thông tin quản lý khám chữa bệnh</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819464" >
+ <a rel="noopener" href="https://nkt.kcb.vn" target="_blank" title="Quản lý thông tin người khuyết tật" >
+         <span class="title">Quản lý thông tin người khuyết tật</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819476" >
+ <a rel="noopener" href="http://icd10ev.kcb.vn/" target="_blank" title="ICD-10 Tập 1 (Song ngữ)" >
+         <span class="title">ICD-10 Tập 1 (Song ngữ)</span>     </a>     </li>   <li  role="presentation" class="item" data-id="5265406" >
+ <a rel="noopener" href="http://icd9ev.kcb.vn" target="_blank" title="ICD-9 CM Tập 3 (Song ngữ)" >
+         <span class="title">ICD-9 CM Tập 3 (Song ngữ)</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item dropdown" data-id="101820649" style="display:none;">
+ <a rel="noopener" href="/video"  title="Kênh Video" >
+         <span class="title">Kênh Video</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101821583" >
+ <a rel="noopener" href="https://www.youtube.com/channel/UCyqTNxm9KPR0T6e1raVrsuA" target="_blank" title="Kênh Video" >
+         <span class="title">Kênh Video</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item" data-id="101821587" style="display:none;">
+ <a rel="noopener" href="/gioi-thieu?categoryId=101821587"  title="Giới thiệu" >
+         <span class="title">Giới thiệu</span>     </a>     </li>   <li  role="presentation" class="item dropdown" data-id="101821692" style="display:none;">
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh"  title="LỊCH SỬ 70 NĂM HÌNH THÀNH VÀ PHÁT TRIỂN CỤC QUẢN LÝ KHÁM CHỮA BỆNH" >
+         <span class="title">LỊCH SỬ 70 NĂM HÌNH THÀNH VÀ PHÁT TRIỂN CỤC QUẢN LÝ KHÁM CHỮA BỆNH</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101821693" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/loi-gioi-thieu"  title="Lời giới thiệu" >
+         <span class="title">Lời giới thiệu</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821801" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/qua-trinh-hinh-thanh-va-phat-trien"  title="Quá trình hình thành và phát triển" >
+         <span class="title">Quá trình hình thành và phát triển</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821802" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/qua-trinh-hoat-dong"  title="Quá trình hoạt động" >
+         <span class="title">Quá trình hoạt động</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821803" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/danh-muc-van-ban-da-ban-hanh"  title="Danh mục văn bản đã ban hành" >
+         <span class="title">Danh mục văn bản đã ban hành</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821804" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/nhung-phan-thuong-cao-quy"  title="Những phần thưởng cao quý" >
+         <span class="title">Những phần thưởng cao quý</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821805" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/dinh-huong-chinh-sach-kham-chua-benh"  title="Định hướng chính sách khám chữa bệnh" >
+         <span class="title">Định hướng chính sách khám chữa bệnh</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821806" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/chuc-nang-nhiem-vu-hien-nay"  title="Chức năng nhiệm vụ hiện nay" >
+         <span class="title">Chức năng nhiệm vụ hiện nay</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821807" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/co-cau-to-chuc-hien-nay"  title="Cơ cấu tổ chức hiện nay" >
+         <span class="title">Cơ cấu tổ chức hiện nay</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item dropdown" data-id="101821694" style="display:none;">
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc"  title="GIỚI THIỆU CÁC PHÒNG CỦA CỤC" >
+         <span class="title">GIỚI THIỆU CÁC PHÒNG CỦA CỤC</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101821808" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/cac-dong-chi-lanh-dao-cuc-duong-nhiem"  title="Các đồng chí Lãnh đạo Cục đương nhiệm" >
+         <span class="title">Các đồng chí Lãnh đạo Cục đương nhiệm</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821809" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/van-phong-cuc"  title="Văn phòng Cục" >
+         <span class="title">Văn phòng Cục</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821810" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/phong-nghiep-vu"  title="Phòng Nghiệp vụ" >
+         <span class="title">Phòng Nghiệp vụ</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821811" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/phong-dieu-duong-tiet-che"  title="Phòng Điều dưỡng - Dinh dưỡng - Kiểm soát nhiễm khuẩn" >
+         <span class="title">Phòng Điều dưỡng - Dinh dưỡng - Kiểm soát nhiễm khuẩn</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821812" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/phong-phuc-hoi-chuc-nang-va-giam-dinh"  title="Phòng Phục hồi chức năng và Giám định" >
+         <span class="title">Phòng Phục hồi chức năng và Giám định</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821814" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/phong-quan-ly-hanh-nghe-kham-chua-benh"  title="Phòng Quản lý hành nghề khám, chữa bệnh" >
+         <span class="title">Phòng Quản lý hành nghề khám, chữa bệnh</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821815" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/phong-quan-ly-chat-luong-va-chuyen-giao-ky-thuat"  title="Phòng Quản lý Chất lượng và Chuyển giao kỹ thuật" >
+         <span class="title">Phòng Quản lý Chất lượng và Chuyển giao kỹ thuật</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821819" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/trung-tam-phat-trien-nang-luc-quan-ly-kham-chua-benh"  title="Trung tâm Phát triển năng lực quản lý khám, chữa bệnh" >
+         <span class="title">Trung tâm Phát triển năng lực quản lý khám, chữa bệnh</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item" data-id="101796519" style="display:none;">
+ <a rel="noopener" href="/thu-vien-tai-lieu"  title="Tài liệu khác" >
+         <span class="title">Tài liệu khác</span>     </a>     </li>     </ul>   <div class="fluid-nav-backup nav-backup" style="display: none;"> <a id="fluid-nav-toggle6" class="fluid-nav-toggle dropdown-toggle" data-toggle="dropdown" href="javascript: void(0)"><i class="vi vi-dots-vertical" ></i></a> <ul id="fluid-nav-negative6" class="fluid-nav-negative dropdown-menu2 dropdown-menu-right" role="menu" style="display: none;"> </ul> </div> </div> </div>   <div class="link-right desktop text-center">     <a id="open-search6" class="btn-open-search" title="Tìm kiếm"><i class="vi vi-search" ></i></a>       </div>     <div id="div-search6" class="search"> <form id="form6" class="sear-form" method="post"> <input name="page" value="search" type="hidden" /> <div> <div class="input-inner">     <input class="form-control" fixedName="keyword6" name="keyword" placeholder="Tìm kiếm..." value=""/>
+   <button class="btn btn-submit show-in-pc" type="submit"><i class="vi vi-search"></i></button>   </div> </div> <input type="hidden" name="site" value="2005611" /> <input type="hidden" name="securityToken" value="2267b8f95776c3cc655a9b4a04da8d77798f06796fd724eb15423653de809304"><input type="hidden" name="submitFormId" value="6"><input type="hidden" name="moduleId" value="6"></form> </div>   </div> </div> </div></nav><style> .wrapper-date-time .top-header { padding: 0; background: #fff; }
+ .wrapper-date-time .top-header .clock { font-size: 1.5rem; font-weight: 600; }
+ .wrapper-date-time .top-header .clock #Date{ float: left; }
+ ul.list-inline{ float: left; margin-left: 10px; }
+ .wrapper-date-time .top-header .clock ul li { padding: 0; }
+ .wrapper-date-time .top-header .clock ul { margin-bottom: 0; }
+ /**/
+ @media(max-width: 768px){ .body-menu-action.overflow-hidden{ overflow: hidden; }
+ }
+ /**/
+ .image-logo-menu-scoll{ display: block !important; }
+ /**/
+ /**/
+ /**/
+ @media (max-width: 768px) { #menu6 .navbar-brand img{ .logo{ max-width:290px; }
+ }
+ #menu6 .navbar-collapse { position: fixed; z-index: 10000000001 !important; top: 0 !important; border: none; display: block; /**/
+ left: -280px; /**/
+ width: 280px; bottom: 0; height: 100%; padding-top: 20px; transition: all 0.3s; }
+ #menu6 .navbar-collapse.open-sidebar { /**/
+ left: 0; /**/
+ transition: all 0.3s; }
+ #menu6 .navbar-collapse .navbar-nav > li > a { color: #fff !important; border-top: 1px solid rgba(255, 255, 255, 0.3); }
+ .navbar-collapse .navbar-nav > li > .dropdown-toggle { color: #fff !important; }
+ #menu6 .navbar-collapse .navbar-nav > li.active > a { font-weight: bold; color: #fff !important; }
+ #menu6 .navbar-collapse .navbar-nav > li > .dropdown-menu { margin-left: 0; width: 100%; margin-bottom:0; }
+ body.overhidden{ position: relative; overflow-x: hidden; transition: all 0.3s; -webkit-transition: all 0.3s; }
+ body.overhidden:before{ content:""; display: inline-block; left: 0; bottom: 0; top: 0; right: 0; background: rgba(0, 0, 0, 0.8); z-index:1000; position:absolute; }
+ body.overhidden .navbar-header{ display: none; }
+ }
+   .navigation-menu-default-type1 .navbar-nav li a span{ white-space: break-spaces; }
+ @media(max-width: 768px) { .navigation-menu-default-type1.no-logo .navbar-default{ min-height: auto; }
+ .navigation-menu-default-type1.no-logo .navbar-default .navbar-header{ background: none; }
+ .navigation-menu-default-type1.no-logo .navbar-default .navbar-header .navbar-toggle{ background: rgba(245,245,245,0.66); }
+ .navigation-menu-default-type1 .navbar-collapse{ overflow-y: auto !important; }
+ }
+ @media(min-width: 769px){ .navigation-menu-default-type1 .fluid-nav-backup .dropdown-menu-right li a:hover{ color: var(--link-hover-color); }
+ .navigation-menu-default-type1 .fluid-nav-backup>a{ color: var(--text-color); }
+ .navigation-menu-default-type1 .hidden-desktop-time{ display: none; }
+ }
+</style></div><div id="module7" class="ModuleWrapper container wrapper-highlight-news" ><div class ="columns-widget columns9-3 row"><div class="col-left col-xs-12 col-md-9 col-sm-8">    <div id="module11" class="ModuleWrapper" moduleRootId="101795265" ><div id="article-new-botton-slide11" class="article-news article-news-botton-slide ">
+ <div class="row"> <div class="col-md-8 col-sm-7 col-xs-12 col-left"> <div class="category-slider-inner "> <div class="bg-cont-new"> <div class="slider-indicator"></div> <div class="slider slider-for">   <div class="posi-new"> <div class="news-slide-row"> <div class="thumbnail-large"> <a href="/tin-tuc/bo-y-te-tang-toc-chien-dich-500-ngay-dem-day-manh-thuc-hien-tim-kiem-quy-tap-va-xac-dinh-danh-tinh-hai-cot-liet-si.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470"><img class="relative-height" alt="Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/fck/lehaokcb1/1785331553754_1987306436102777788_7773817127492971978_f8eded770ab41ba724849156a1171737.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;"></a>
+ </div> <div class="left_inner-content">   <div class="article-title common-title"><a class="trilliumAnchor" href="/tin-tuc/bo-y-te-tang-toc-chien-dich-500-ngay-dem-day-manh-thuc-hien-tim-kiem-quy-tap-va-xac-dinh-danh-tinh-hai-cot-liet-si.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ">Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ</a></div>   <div class="brief">  Bộ Y tế yêu cầu các đơn vị đẩy nhanh tiến độ Chiến dịch 500 ngày đêm tìm kiếm, quy tập và xác định danh tính hài ... </div> </div> </div> </div>   <div class="posi-new"> <div class="news-slide-row"> <div class="thumbnail-large"> <a href="/tin-tuc/benh-vien-huu-nghi-viet-duc-ghep-duong-vat-thanh-cong-tu-nguoi-cho-chet-nao.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470"><img class="relative-height" alt="Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260729/1785300527240_6975846952524827623_g533051543158425165_h_5fb6d.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;"></a>
+ </div> <div class="left_inner-content">   <div class="article-title common-title"><a class="trilliumAnchor" href="/tin-tuc/benh-vien-huu-nghi-viet-duc-ghep-duong-vat-thanh-cong-tu-nguoi-cho-chet-nao.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não">Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não</a></div>   <div class="brief">  Ngày 29/7, Bệnh viện Hữu nghị Việt Đức đã công bố ca ghép dương vật thành công đầu tiên tại Việt Nam từ người cho ... </div> </div> </div> </div>   <div class="posi-new"> <div class="news-slide-row"> <div class="thumbnail-large"> <a href="/tin-tuc/yeu-cau-lam-ro-vu-dieu-duong-khoa-than-kinh-o-hai-phong-bi-hanh-hung.html"><img class="relative-height" alt="Yêu cầu làm rõ vụ điều dưỡng khoa Thần kinh ở Hải Phòng bị hành hung" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260723/chi_muc__1__7a05b.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;"></a>
+ </div> <div class="left_inner-content">   <div class="article-title common-title"><a class="trilliumAnchor" href="/tin-tuc/yeu-cau-lam-ro-vu-dieu-duong-khoa-than-kinh-o-hai-phong-bi-hanh-hung.html" title="Yêu cầu làm rõ vụ điều dưỡng khoa Thần kinh ở Hải Phòng bị hành hung">Yêu cầu làm rõ vụ điều dưỡng khoa Thần kinh ở Hải Phòng bị hành hung</a></div>   <div class="brief">  Liên quan đến vụ việc báo chí nêu vào ngày 22/7/2026, theo đó “Điều dưỡng trưởng khoa thần kinh, Bệnh viện Đa khoa ... </div> </div> </div> </div>   <div class="posi-new"> <div class="news-slide-row"> <div class="thumbnail-large"> <a href="/tin-tuc/huong-dan-chan-doan-va-dieu-tri-viem-phoi-mac-phai-cong-dong-o-nguoi-lon.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470"><img class="relative-height" alt="Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260723/chan-doan-viem-phoi-cong-dong_eb5da.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;"></a>
+ </div> <div class="left_inner-content">   <div class="article-title common-title"><a class="trilliumAnchor" href="/tin-tuc/huong-dan-chan-doan-va-dieu-tri-viem-phoi-mac-phai-cong-dong-o-nguoi-lon.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn">Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn</a></div>   <div class="brief">  Quyết định 2147/QĐ-BYT này có hiệu lực kể từ ngày 15/7/2026 thay thế Quyết định số 4815/QĐ-BYT ngày 20 tháng 11 ... </div> </div> </div> </div>   <div class="posi-new"> <div class="news-slide-row"> <div class="thumbnail-large"> <a href="/tin-tuc/cuc-quan-ly-kham-chua-benh-yeu-cau-ra-soat-kiem-tra-doi-voi-co-so-kham-benh-chua-benh-tren-dia-ban-tinh-nghe-an.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470"><img class="relative-height" alt="Cục Quản lý Khám, chữa bệnh yêu cầu rà soát, kiểm tra đối với cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh Nghệ An" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260723/752509148_1679645809930354_6821143766556752483_n_24ca6.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;"></a>
+ </div> <div class="left_inner-content">   <div class="article-title common-title"><a class="trilliumAnchor" href="/tin-tuc/cuc-quan-ly-kham-chua-benh-yeu-cau-ra-soat-kiem-tra-doi-voi-co-so-kham-benh-chua-benh-tren-dia-ban-tinh-nghe-an.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Cục Quản lý Khám, chữa bệnh yêu cầu rà soát, kiểm tra đối với cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh Nghệ An">Cục Quản lý Khám, chữa bệnh yêu cầu rà soát, kiểm tra đối với cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh Nghệ An</a></div>   <div class="brief">  Cục Quản lý Khám, chữa bệnh (Cục QLKCB) nhận được thông tin phản ánh về việc Phòng khám đa khoa y học Nghệ An “Bơm ... </div> </div> </div> </div>   <div class="posi-new"> <div class="news-slide-row"> <div class="thumbnail-large"> <a href="/tin-tuc/duoc-si-benh-vien-phai-la-mot-tru-cot-cua-chat-luong-dieu-tri-va-an-toan-nguoi-benh.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470"><img class="relative-height" alt="Dược sĩ bệnh viện phải là một trụ cột của chất lượng điều trị và an toàn người bệnh" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260718/IMG_9018_ed0df.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;"></a>
+ </div> <div class="left_inner-content">   <div class="article-title common-title"><a class="trilliumAnchor" href="/tin-tuc/duoc-si-benh-vien-phai-la-mot-tru-cot-cua-chat-luong-dieu-tri-va-an-toan-nguoi-benh.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Dược sĩ bệnh viện phải là một trụ cột của chất lượng điều trị và an toàn người bệnh">Dược sĩ bệnh viện phải là một trụ cột của chất lượng điều trị và an toàn người bệnh</a></div>   <div class="brief">  Sáng ngày 18/7 tại Phú Thọ, Hội Dược sĩ Bệnh viện Việt Nam phối hợp với Sở Y tế tỉnh Phú Thọ, Hội Y Dược tỉnh Phú ... </div> </div> </div> </div>   <div class="posi-new"> <div class="news-slide-row"> <div class="thumbnail-large"> <a href="/tin-tuc/thu-truong-tran-van-thuan-6-nhom-ke-hoach-trien-khai-cac-hoat-dong-ky-niem-ngay-thuong-binh-liet-si-nam-2026-va-huong-to.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470"><img class="relative-height" alt="Thứ trưởng Trần Văn Thuấn: 6 nhóm kế hoạch triển khai các hoạt động Kỷ niệm ngày Thương binh-Liệt sĩ năm 2026 và hướng tới kỷ niệm 80 năm ngày Thương binh-Liệt sĩ" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260715/1784105939990_1987306436102777788_423137241477136119_47c6cee6629d96fe46fd9ef3fd063c8a_2c95e.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;"></a>
+ </div> <div class="left_inner-content">   <div class="article-title common-title"><a class="trilliumAnchor" href="/tin-tuc/thu-truong-tran-van-thuan-6-nhom-ke-hoach-trien-khai-cac-hoat-dong-ky-niem-ngay-thuong-binh-liet-si-nam-2026-va-huong-to.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Thứ trưởng Trần Văn Thuấn: 6 nhóm kế hoạch triển khai các hoạt động Kỷ niệm ngày Thương binh-Liệt sĩ năm 2026 và hướng tới kỷ niệm 80 năm ngày Thương binh-Liệt sĩ">Thứ trưởng Trần Văn Thuấn: 6 nhóm kế hoạch triển khai các hoạt động Kỷ niệm ngày Thương binh-Liệt sĩ năm 2026 và hướng tới kỷ niệm 80 năm ngày Thương binh-Liệt sĩ</a></div>   <div class="brief">  Chiều ngày 15/7/2026, tại trụ sở Bộ Y tế, GS.TS Trần Văn Thuấn, Thứ trưởng Bộ Y tế, Chủ tịch Hội đồng Y khoa Quốc ... </div> </div> </div> </div>   <div class="posi-new"> <div class="news-slide-row"> <div class="thumbnail-large"> <a href="/tin-tuc/benh-vien-huu-nghi-viet-duc-co-so-ninh-binh-cap-cuu-thanh-cong-ca-da-chan-thuong-nguy-kich-ngay-dem-truc-dau-tien.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470"><img class="relative-height" alt="Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình cấp cứu thành công ca đa chấn thương nguy kịch ngay đêm trực đầu tiên" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260710/IMG_20260710_000139_3c2af.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;"></a>
+ </div> <div class="left_inner-content">   <div class="article-title common-title"><a class="trilliumAnchor" href="/tin-tuc/benh-vien-huu-nghi-viet-duc-co-so-ninh-binh-cap-cuu-thanh-cong-ca-da-chan-thuong-nguy-kich-ngay-dem-truc-dau-tien.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình cấp cứu thành công ca đa chấn thương nguy kịch ngay đêm trực đầu tiên">Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình cấp cứu thành công ca đa chấn thương nguy kịch ngay đêm trực đầu tiên</a></div>   <div class="brief">  Ngay trong đêm trực đầu tiên tại Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình, các bác sĩ đã tiếp nhận và xử trí ... </div> </div> </div> </div>   <div class="posi-new"> <div class="news-slide-row"> <div class="thumbnail-large"> <a href="/tin-tuc/benh-vien-huu-nghi-viet-duc-co-so-ninh-binh-di-vao-hoat-dong-mo-rong-co-hoi-tiep-can-ky-thuat-ngoai-khoa-chuyen-sau-cho-.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470"><img class="relative-height" alt="Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình đi vào hoạt động, mở rộng cơ hội tiếp cận kỹ thuật ngoại khoa chuyên sâu cho người bệnh" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260709/z8025464533854_e43d1650ba531494021465e0cad638c6_baed0.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;"></a>
+ </div> <div class="left_inner-content">   <div class="article-title common-title"><a class="trilliumAnchor" href="/tin-tuc/benh-vien-huu-nghi-viet-duc-co-so-ninh-binh-di-vao-hoat-dong-mo-rong-co-hoi-tiep-can-ky-thuat-ngoai-khoa-chuyen-sau-cho-.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình đi vào hoạt động, mở rộng cơ hội tiếp cận kỹ thuật ngoại khoa chuyên sâu cho người bệnh">Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình đi vào hoạt động, mở rộng cơ hội tiếp cận kỹ thuật ngoại khoa chuyên sâu cho người bệnh</a></div>   <div class="brief">  Chiều 9-7, tại Ninh Bình, Thủ tướng Chính phủ Lê Minh Hưng dự lễ khai trương Bệnh viện Hữu nghị Việt Đức cơ sở ... </div> </div> </div> </div>   <div class="posi-new"> <div class="news-slide-row"> <div class="thumbnail-large"> <a href="/tin-tuc/hoi-thao-lay-y-kien-doi-voi-du-thao-luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-phong-chong-tac-hai-cua-thuoc-la.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470"><img class="relative-height" alt="Hội thảo lấy ý kiến đối với dự thảo Luật sửa đổi, bổ sung một số điều của Luật Phòng, chống tác hại của thuốc lá" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260707/gen-h-z8012832408356_fe369e6e78660f899c1b59307e7750d0_6f106.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;"></a>
+ </div> <div class="left_inner-content">   <div class="article-title common-title"><a class="trilliumAnchor" href="/tin-tuc/hoi-thao-lay-y-kien-doi-voi-du-thao-luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-phong-chong-tac-hai-cua-thuoc-la.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Hội thảo lấy ý kiến đối với dự thảo Luật sửa đổi, bổ sung một số điều của Luật Phòng, chống tác hại của thuốc lá">Hội thảo lấy ý kiến đối với dự thảo Luật sửa đổi, bổ sung một số điều của Luật Phòng, chống tác hại của thuốc lá</a></div>   <div class="brief">  Chiều 3/7 tại Tp Hồ Chí Minh và sáng ngày 6/7 tại Hà Nội,  Bộ Y tế tổ chức Hội thảo lấy ý kiến đối với dự thảo ... </div> </div> </div> </div>   </div> </div> <div class="slider slider-nav">   <div class="slider-nav-tab" data-carousel-slide="1"> <div class="itme-new-bottom"> <div class="article-img "> <img class="relative-height" alt="Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/fck/lehaokcb1/1785331553754_1987306436102777788_7773817127492971978_f8eded770ab41ba724849156a1171737.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;">
+ </div>   <div class="article-title common-title">Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ</div>   </div> </div>   <div class="slider-nav-tab" data-carousel-slide="2"> <div class="itme-new-bottom"> <div class="article-img "> <img class="relative-height" alt="Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260729/1785300527240_6975846952524827623_g533051543158425165_h_5fb6d.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;">
+ </div>   <div class="article-title common-title">Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não</div>   </div> </div>   <div class="slider-nav-tab" data-carousel-slide="3"> <div class="itme-new-bottom"> <div class="article-img "> <img class="relative-height" alt="Yêu cầu làm rõ vụ điều dưỡng khoa Thần kinh ở Hải Phòng bị hành hung" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260723/chi_muc__1__7a05b.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;">
+ </div>   <div class="article-title common-title">Yêu cầu làm rõ vụ điều dưỡng khoa Thần kinh ở Hải Phòng bị hành hung</div>   </div> </div>   <div class="slider-nav-tab" data-carousel-slide="4"> <div class="itme-new-bottom"> <div class="article-img "> <img class="relative-height" alt="Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260723/chan-doan-viem-phoi-cong-dong_eb5da.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;">
+ </div>   <div class="article-title common-title">Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn</div>   </div> </div>   <div class="slider-nav-tab" data-carousel-slide="5"> <div class="itme-new-bottom"> <div class="article-img "> <img class="relative-height" alt="Cục Quản lý Khám, chữa bệnh yêu cầu rà soát, kiểm tra đối với cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh Nghệ An" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260723/752509148_1679645809930354_6821143766556752483_n_24ca6.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;">
+ </div>   <div class="article-title common-title">Cục Quản lý Khám, chữa bệnh yêu cầu rà soát, kiểm tra đối với cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh Nghệ An</div>   </div> </div>   <div class="slider-nav-tab" data-carousel-slide="6"> <div class="itme-new-bottom"> <div class="article-img "> <img class="relative-height" alt="Dược sĩ bệnh viện phải là một trụ cột của chất lượng điều trị và an toàn người bệnh" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260718/IMG_9018_ed0df.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;">
+ </div>   <div class="article-title common-title">Dược sĩ bệnh viện phải là một trụ cột của chất lượng điều trị và an toàn người bệnh</div>   </div> </div>   <div class="slider-nav-tab" data-carousel-slide="7"> <div class="itme-new-bottom"> <div class="article-img "> <img class="relative-height" alt="Thứ trưởng Trần Văn Thuấn: 6 nhóm kế hoạch triển khai các hoạt động Kỷ niệm ngày Thương binh-Liệt sĩ năm 2026 và hướng tới kỷ niệm 80 năm ngày Thương binh-Liệt sĩ" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260715/1784105939990_1987306436102777788_423137241477136119_47c6cee6629d96fe46fd9ef3fd063c8a_2c95e.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;">
+ </div>   <div class="article-title common-title">Thứ trưởng Trần Văn Thuấn: 6 nhóm kế hoạch triển khai các hoạt động Kỷ niệm ngày Thương binh-Liệt sĩ năm 2026 và hướng tới kỷ niệm 80 năm ngày Thương binh-Liệt sĩ</div>   </div> </div>   <div class="slider-nav-tab" data-carousel-slide="8"> <div class="itme-new-bottom"> <div class="article-img "> <img class="relative-height" alt="Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình cấp cứu thành công ca đa chấn thương nguy kịch ngay đêm trực đầu tiên" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260710/IMG_20260710_000139_3c2af.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;">
+ </div>   <div class="article-title common-title">Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình cấp cứu thành công ca đa chấn thương nguy kịch ngay đêm trực đầu tiên</div>   </div> </div>   <div class="slider-nav-tab" data-carousel-slide="9"> <div class="itme-new-bottom"> <div class="article-img "> <img class="relative-height" alt="Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình đi vào hoạt động, mở rộng cơ hội tiếp cận kỹ thuật ngoại khoa chuyên sâu cho người bệnh" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260709/z8025464533854_e43d1650ba531494021465e0cad638c6_baed0.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;">
+ </div>   <div class="article-title common-title">Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình đi vào hoạt động, mở rộng cơ hội tiếp cận kỹ thuật ngoại khoa chuyên sâu cho người bệnh</div>   </div> </div>   <div class="slider-nav-tab" data-carousel-slide="10"> <div class="itme-new-bottom"> <div class="article-img "> <img class="relative-height" alt="Hội thảo lấy ý kiến đối với dự thảo Luật sửa đổi, bổ sung một số điều của Luật Phòng, chống tác hại của thuốc lá" data-size-ratio="3:2" src="/publish/thumbnail/2005611/500x333xdefault/upload/2005611/20260707/gen-h-z8012832408356_fe369e6e78660f899c1b59307e7750d0_6f106.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;">
+ </div>   <div class="article-title common-title">Hội thảo lấy ý kiến đối với dự thảo Luật sửa đổi, bổ sung một số điều của Luật Phòng, chống tác hại của thuốc lá</div>   </div> </div>   </div> </div> </div> <div class="col-md-4 col-sm-5 col-xs-12 col-right"> <div class="right-wrapper-news"> <div class="right-subtitle"> <h2 class="text-bold h4 mt-0 mb-0">Tin mới</h2> </div> <div class="right-wrapper-news_inner">   <div class="right-item"> <h2 class="article-title mt-0"><a href="/tin-tuc/bo-y-te-tang-toc-chien-dich-500-ngay-dem-day-manh-thuc-hien-tim-kiem-quy-tap-va-xac-dinh-danh-tinh-hai-cot-liet-si.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ">Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ</a> </h2> </div>   <div class="right-item"> <h2 class="article-title mt-0"><a href="/tin-tuc/benh-vien-huu-nghi-viet-duc-ghep-duong-vat-thanh-cong-tu-nguoi-cho-chet-nao.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não">Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não</a> </h2> </div>   <div class="right-item"> <h2 class="article-title mt-0"><a href="/tin-tuc/yeu-cau-lam-ro-vu-dieu-duong-khoa-than-kinh-o-hai-phong-bi-hanh-hung.html" title="Yêu cầu làm rõ vụ điều dưỡng khoa Thần kinh ở Hải Phòng bị hành hung">Yêu cầu làm rõ vụ điều dưỡng khoa Thần kinh ở Hải Phòng bị hành hung</a> </h2> </div>   <div class="right-item"> <h2 class="article-title mt-0"><a href="/tin-tuc/huong-dan-chan-doan-va-dieu-tri-viem-phoi-mac-phai-cong-dong-o-nguoi-lon.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn">Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn</a> </h2> </div>   <div class="right-item"> <h2 class="article-title mt-0"><a href="/tin-tuc/cuc-quan-ly-kham-chua-benh-yeu-cau-ra-soat-kiem-tra-doi-voi-co-so-kham-benh-chua-benh-tren-dia-ban-tinh-nghe-an.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Cục Quản lý Khám, chữa bệnh yêu cầu rà soát, kiểm tra đối với cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh Nghệ An">Cục Quản lý Khám, chữa bệnh yêu cầu rà soát, kiểm tra đối với cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh Nghệ An</a> </h2> </div>   <div class="right-item"> <h2 class="article-title mt-0"><a href="/tin-tuc/duoc-si-benh-vien-phai-la-mot-tru-cot-cua-chat-luong-dieu-tri-va-an-toan-nguoi-benh.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Dược sĩ bệnh viện phải là một trụ cột của chất lượng điều trị và an toàn người bệnh">Dược sĩ bệnh viện phải là một trụ cột của chất lượng điều trị và an toàn người bệnh</a> </h2> </div>   <div class="right-item"> <h2 class="article-title mt-0"><a href="/tin-tuc/thu-truong-tran-van-thuan-6-nhom-ke-hoach-trien-khai-cac-hoat-dong-ky-niem-ngay-thuong-binh-liet-si-nam-2026-va-huong-to.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Thứ trưởng Trần Văn Thuấn: 6 nhóm kế hoạch triển khai các hoạt động Kỷ niệm ngày Thương binh-Liệt sĩ năm 2026 và hướng tới kỷ niệm 80 năm ngày Thương binh-Liệt sĩ">Thứ trưởng Trần Văn Thuấn: 6 nhóm kế hoạch triển khai các hoạt động Kỷ niệm ngày Thương binh-Liệt sĩ năm 2026 và hướng tới kỷ niệm 80 năm ngày Thương binh-Liệt sĩ</a> </h2> </div>   <div class="right-item"> <h2 class="article-title mt-0"><a href="/tin-tuc/benh-vien-huu-nghi-viet-duc-co-so-ninh-binh-cap-cuu-thanh-cong-ca-da-chan-thuong-nguy-kich-ngay-dem-truc-dau-tien.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình cấp cứu thành công ca đa chấn thương nguy kịch ngay đêm trực đầu tiên">Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình cấp cứu thành công ca đa chấn thương nguy kịch ngay đêm trực đầu tiên</a> </h2> </div>   <div class="right-item"> <h2 class="article-title mt-0"><a href="/tin-tuc/benh-vien-huu-nghi-viet-duc-co-so-ninh-binh-di-vao-hoat-dong-mo-rong-co-hoi-tiep-can-ky-thuat-ngoai-khoa-chuyen-sau-cho-.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình đi vào hoạt động, mở rộng cơ hội tiếp cận kỹ thuật ngoại khoa chuyên sâu cho người bệnh">Bệnh viện Hữu nghị Việt Đức cơ sở Ninh Bình đi vào hoạt động, mở rộng cơ hội tiếp cận kỹ thuật ngoại khoa chuyên sâu cho người bệnh</a> </h2> </div>   <div class="right-item"> <h2 class="article-title mt-0"><a href="/tin-tuc/hoi-thao-lay-y-kien-doi-voi-du-thao-luat-sua-doi-bo-sung-mot-so-dieu-cua-luat-phong-chong-tac-hai-cua-thuoc-la.html?categoryId=101795265,101819452,101795271,101795273,101797445,101819456,101819457,101819458,101796492,101819460,101819461,101819462,101819463,101819464,101819465,101795267,101795286,101795511,101795512,101795513,101795514,101795287,101795272,101819467,101819469,101819470" title="Hội thảo lấy ý kiến đối với dự thảo Luật sửa đổi, bổ sung một số điều của Luật Phòng, chống tác hại của thuốc lá">Hội thảo lấy ý kiến đối với dự thảo Luật sửa đổi, bổ sung một số điều của Luật Phòng, chống tác hại của thuốc lá</a> </h2> </div>   </div> </div> </div> </div></div><style> .article-news-botton-slide .right-wrapper-news{ background: #f4f4fa; }
+ .article-news-botton-slide .right-wrapper-news_inner .article-title{ font-weight: normal; color: #333333; }
+ .article-news-botton-slide .slider-nav .slick-current .article-title{ color: var(--brand-primary); }
+ .article-news-botton-slide .slick-initialized .slick-slide:focus, .article-news-botton-slide .slick-slide img:focus, .article-news-botton-slide a:focus { outline: none; }
+ .article-news-botton-slide .category-slider-inner .bg-cont-new { margin-bottom: 15px; }
+ .article-news-botton-slide .news-slide-row { overflow: hidden; }
+ .article-news-botton-slide .news-slide-row .left_inner-content{ position: absolute; inset: auto 0 0 0; background: linear-gradient(transparent, black); padding: 10px; color: white; }
+ .article-news-botton-slide .news-slide-row .left_inner-content h2{ margin: 0; font-size: 1.4rem; line-height: 1.428571429; }
+ .article-news-botton-slide .news-slide-row .left_inner-content a { font-weight: bold; line-height: 28px; display: block; color: inherit; }
+ .article-news-botton-slide .news-slide-row .brief-fisrt { margin-bottom: 10px; }
+ @media (max-width: 767px) { .article-news-botton-slide .slider-nav.slick-initialized { margin-bottom: 10px; }
+ }
+ .article-news-botton-slide .slider-nav.slick-initialized .slick-prev { bottom: 0; width: 30px; height: 100%; left: 0; background-color: #adadad; }
+ .article-news-botton-slide .slider-nav.slick-initialized .slick-next { bottom: 0; width: 30px; height: 100%; right: 0; background-color: #adadad; }
+ .article-news-botton-slide .posi-new { position: relative; }
+ @media (max-width: 769px) { .article-news-botton-slide .posi-new .caption { position: absolute; bottom: 0; left: 0; right: 0; background-color: rgba(0, 0, 0, 0.5); z-index: 9; padding: 10px; }
+ .article-news-botton-slide .posi-new .caption .left_inner-content { margin-bottom: 10px; }
+ .article-news-botton-slide .posi-new .caption .left_inner-content a { font-size: 16px; color: #fff; line-height: 18px; }
+ .article-news-botton-slide .posi-new .caption .brief-fisrt { color: #fff; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; text-overflow: -o-ellipsis-lastline; }
+ .article-news-botton-slide .posi-new .caption .chitiet { display: none; }
+ .article-news-botton-slide .right-wrapper-news{ max-height: 350px; }
+ }
+ .article-news-botton-slide .slick-dots { display: none !important; }
+ .article-news-botton-slide .slider-nav .slick-slide { cursor: pointer; outline: none !important; position: relative; }
+ .article-news-botton-slide .slider-nav .slick-slide .article-title { font-weight: bold; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; text-overflow: -o-ellipsis-lastline; margin-top: 5px; }
+ @media (max-width: 768px) { .article-news-botton-slide .slider-nav .slick-slide .article-title { font-weight: normal; margin-top: 10px; height: 36px; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; text-overflow: -o-ellipsis-lastline; }
+ }
+ .article-news-botton-slide .slider-nav .slick-slide :hover .article-title { color: var(--link-hover-color); }
+ .article-news-botton-slide .slider-nav .slick-slide :hover .article-img { opacity: 0.7; }
+ .article-news-botton-slide .slider-nav .slick-slide.slick-center .article-title { color: var(--link-hover-color); }
+ .article-news-botton-slide .slider-nav .slick-slide.slick-active .article-img { opacity: 0.7; }
+ .article-news-botton-slide .slick-dotted.slick-slider { margin-bottom: 0; }
+</style></div>  </div><div class="col-right col-xs-12 col-md-3 col-sm-4">  <div id="module10" class="ModuleWrapper" moduleRootId="1795266" ><div class="menu-legal-document-defaul" id="menu-legal-document-defaul10">  </div><div class="list-legal-document-table table-responsive"> <table class="table table-bordered"> <thead> <tr> <th scope="col" style="white-space: nowrap;">Số văn bản</th> <th scope="col" class="tg-yw4l" style="white-space: nowrap;">Trích yếu</th> <th scope="col" style="white-space: nowrap;">Ngày ban hành</th> </tr> </thead> <tbody>   <tr> <th scope="col" colspan="6" class="text-center">Không có văn bản</th> </tr>   </tbody> </table>   <div class="clearfix"></div></div><style> .menu-legal-document-defaul .fluid-nav-backup{ margin-left: auto; }
+ .menu-legal-document-defaul .fluid-nav-backup >ul{ left: auto; right: 0; cursor: pointer; }
+ .menu-legal-document-defaul .list-menu-top.overflow-x-scroll{ overflow-x: scroll; justify-content: normal; display: flex !important; }
+ .menu-legal-document-defaul h4.by-category-title{ margin-right: 15px; }
+ .menu-legal-document-defaul h4.by-category-title>a{ white-space: nowrap; }
+ .menu-legal-document-defaul .nav-pills a{ white-space: nowrap; }
+ .menu-legal-document-defaul .list-menu{ margin-bottom: 10px; align-items: center; }
+ .menu-legal-document-defaul .nav-pills a:hover, .menu-legal-document-defaul .nav-pills>li.active>a{ background: transparent; }
+ .list-legal-document-table .tg-yw4l a{ color:#333; }
+ .list-legal-document-table .tg-yw4l a:hover { color: var(--brand-primary) !important; }
+ .list-document-mobile .item-block { padding-bottom: 10px; margin-bottom: 10px; border-bottom: 1px solid #ebebeb; }
+ .list-document-mobile .item-block:last-of-type { padding-bottom: 0; margin-bottom: 0; border-bottom: none; }
+ .list-document-mobile .item-block .title-doc { font-weight: 700; margin-bottom: 10px; }
+ #pills-tab-list-10{ justify-content: left; }
+</style></div><div id="module12" class="ModuleWrapper" moduleRootId="101819472" ><aside id="categories12" class="category-default-type-02">   <div class="right-dropdown">
+   <ul class="nav nav-pills nav-stacked  ">
+   <li data-id=101820650 class="      " data-id="101820650"  data-id="101820650">
+ <a class="item-lv1 item-link relative" title="KIỂM TRA ĐÁNH GIÁ CHẤT LƯỢNG BỆNH VIỆN" href="http://ktbv.kcb.vn" data-id="101820650">
+     <img alt="" src="/upload/2005611/20220316/ssd_073ec.png"/>   <span>KIỂM TRA ĐÁNH GIÁ CHẤT LƯỢNG BỆNH VIỆN</span> </a>   </li>   <li data-id=101820651 class="      " data-id="101820651"  data-id="101820651">
+ <a class="item-lv1 item-link relative" title="HÀI LÒNG NGƯỜI BỆNH VÀ NVYT" href="https://chatluongbenhvien.vn/" data-id="101820651">
+     <img alt="" src="/upload/2005611/20220316/ssd_b433f.png"/>   <span>HÀI LÒNG NGƯỜI BỆNH VÀ NVYT</span> </a>   </li>   <li data-id=101819474 class="      " data-id="101819474"  data-id="101819474">
+ <a class="item-lv1 item-link relative" title="Hệ thống thông tin quản lý khám chữa bệnh" href="https://cdc.kcb.vn/" data-id="101819474">
+     <img alt="" src="/upload/2005611/20220316/adas_9b2f7.png"/>   <span>Hệ thống thông tin quản lý khám chữa bệnh</span> </a>   </li>   <li data-id=101819464 class="      " data-id="101819464"  data-id="101819464">
+ <a class="item-lv1 item-link relative" title="Quản lý thông tin người khuyết tật" href="https://nkt.kcb.vn" data-id="101819464">
+     <img alt="" src="/upload/2005611/20240405/435345_c4161_356d4.png"/>   <span>Quản lý thông tin người khuyết tật</span> </a>   </li>   <li data-id=101819476 class="      " data-id="101819476"  data-id="101819476">
+ <a class="item-lv1 item-link relative" title="ICD-10 Tập 1 (Song ngữ)" href="http://icd10ev.kcb.vn/" data-id="101819476">
+     <img alt="" src="/upload/2005611/20220316/Group_939923423_ca951.png"/>   <span>ICD-10 Tập 1 (Song ngữ)</span> </a>   </li>   <li data-id=5265406 class="last-li last-child       " data-id="5265406"  data-id="5265406">
+ <a class="item-lv1 item-link relative" title="ICD-9 CM Tập 3 (Song ngữ)" href="http://icd9ev.kcb.vn" data-id="5265406">
+     <img alt="" src="/upload/2005611/20240405/images_824e1.png"/>   <span>ICD-9 CM Tập 3 (Song ngữ)</span> </a>   </li>   </ul>     </div></aside><style> .category-default-type-02 ul.dropdown-menu{ margin-top: 0; padding: 0; position: relative; inset: 0; max-width: 100%; width: 100%; border: 0; border-radius: 4px; -webkit-box-shadow: none; box-shadow: none; }
+ .category-default-type-02 ul li a { background: url("/Template/Edu00/Healthcare/images/bg.png") no-repeat; background-size: cover !important; border-radius: 8px; margin-bottom: 10px; text-transform: uppercase; font-weight: bold; padding: 15px 10px 15px 45px; color: white !important; line-height: 1.3; }
+ .category-default-type-02 ul li.video-right a{ background: var(--brand-success) !important; }
+ .category-default-type-02 li.dropdown{ overflow: hidden; }
+ .category-default-type-02 a.relative img { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); max-width: 30px; }
+</style></div>  <div id="module8" class="ModuleWrapper" ><div class="clearfix media ">
+ <div class="boun-media">    <img style="/**/" class="full-width lazy" src="/upload/2005611/20230705/z4490242033400_223450af344d4d366a1e28c23337e69c_2c981.jpg" data-original="/upload/2005611/20230705/z4490242033400_223450af344d4d366a1e28c23337e69c_2c981.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;" alt="" title=""/>
+       </div></div>
+</div><div id="module9" class="ModuleWrapper" ><div class="widget-space" style="height:10px;" class="clearfix"></div>
+</div><div id="module13" class="ModuleWrapper" moduleRootId="101820649" ><aside id="categories13" class="category-default-type-02">   <div class="right-dropdown">
+   <ul class="nav nav-pills nav-stacked  ">
+   <li data-id=101821583 class="last-li last-child    video-right     " data-id="101821583"  data-id="101821583">
+ <a class="item-lv1 item-link relative" title="Kênh Video" href="https://www.youtube.com/channel/UCyqTNxm9KPR0T6e1raVrsuA" data-id="101821583">
+     <img alt="" src="/upload/2005611/20220323/Group_7395_e771c.png"/>   <span>Kênh Video</span> </a>   </li>   </ul>     </div></aside><style> .category-default-type-02 ul.dropdown-menu{ margin-top: 0; padding: 0; position: relative; inset: 0; max-width: 100%; width: 100%; border: 0; border-radius: 4px; -webkit-box-shadow: none; box-shadow: none; }
+ .category-default-type-02 ul li a { background: url("/Template/Edu00/Healthcare/images/bg.png") no-repeat; background-size: cover !important; border-radius: 8px; margin-bottom: 10px; text-transform: uppercase; font-weight: bold; padding: 15px 10px 15px 45px; color: white !important; line-height: 1.3; }
+ .category-default-type-02 ul li.video-right a{ background: var(--brand-success) !important; }
+ .category-default-type-02 li.dropdown{ overflow: hidden; }
+ .category-default-type-02 a.relative img { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); max-width: 30px; }
+</style></div><div id="module14" class="ModuleWrapper" moduleRootId="101820649" > <section id="section-video14" class="section-video-highLight-vmark"> <div class="first-video-vm"> <div id="media-player14" class="playlist-none embed-responsive embed-responsive-4by3"></div> </div> <div class="right-video-vm"> <div class="title-video"><div class="entry-title text-autoTitle"></div></div> </div> </section>  <style> .video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+ .video-container{ position: relative; padding-bottom: 47.25%; padding-top: 30px; height: 0; text-align: center; }
+ .first-video-vm .jwplayer{ width:100% !important; }
+ .right-video-vm h5.text-autoTitle{ font-weight: 700; margin: 10px 0; font-size: var(--font-size-base); line-height: 1.1; }
+ .frame-video-right-vMark .section-video-highLight-vmark .entry-title { display: block; }
+</style></div></div>
+</div></div><div id="module16" class="ModuleWrapper container wrapper-category-home" ><div class ="columns-widget columns4-8 row"><div class="col-left col-xs-12 col-md-4 col-sm-4">  <div id="module17" class="ModuleWrapper" moduleRootId="101795265" ><div class="article-news-list-type12">  <section class="section-list clearfix   ">
+   <article class="article-news Article-News"> <div class="common-title mb-10"> <h2><a href="/tin-tuc/bo-y-te-tang-toc-chien-dich-500-ngay-dem-day-manh-thuc-hien-tim-kiem-quy-tap-va-xac-dinh-danh-tinh-hai-cot-liet-si.html?categoryId=101795265">Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ</a></h2> </div> <div class="article-info mb-10 clearfix">     <i class="vi vi-folder ml-10"></i><a href="san-pham/dien-thoai-di-dong">Điện thoại di động</a>   <i class="vi vi-eye ml-10" ></i> 37 </div> <div class="article-item row clearfix"> <div class="col-xs-6 col-sm-6 col-md-5 col-left"> <div class="post-image"> <a class="article-img common-img" href="/tin-tuc/bo-y-te-tang-toc-chien-dich-500-ngay-dem-day-manh-thuc-hien-tim-kiem-quy-tap-va-xac-dinh-danh-tinh-hai-cot-liet-si.html?categoryId=101795265" title="Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ"> <img class="post-image relative-height lazy"
+ data-size-ratio="3:2" src="/Common/images/bg_trans.png"   data-original="/publish/thumbnail/2005611/480x320xdefault/upload/2005611/fck/lehaokcb1/1785331553754_1987306436102777788_7773817127492971978_f8eded770ab41ba724849156a1171737.jpg"   onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;" alt="Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ"> </a> </div> </div> <div class="col-xs-6 col-sm-6 col-md-7 col-right"> <a href="/tin-tuc/bo-y-te-tang-toc-chien-dich-500-ngay-dem-day-manh-thuc-hien-tim-kiem-quy-tap-va-xac-dinh-danh-tinh-hai-cot-liet-si.html?categoryId=101795265">   <div class="article-brief common-brief" title="Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ" >  Bộ Y tế yêu cầu các đơn vị đẩy nhanh tiến độ Chiến dịch 500 ngày đêm tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ bằng giám định ADN. Cùng với việc ứng dụng công nghệ giải trình tự gene thế hệ mới, ngành y tế cũng kiến nghị sớm bố trí kinh phí, đầu tư trang thiết bị và nhân lực để hoàn ... </div>   </a>   </div> </div> </article>     <article class="article-news Article-News"> <div class="common-title mb-10"> <h2><a href="/tin-tuc/benh-vien-huu-nghi-viet-duc-ghep-duong-vat-thanh-cong-tu-nguoi-cho-chet-nao.html?categoryId=101795265">Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não</a></h2> </div> <div class="article-info mb-10 clearfix">     <i class="vi vi-folder ml-10"></i><a href="tri-thuc/diem-sach">Điểm sách</a>   <i class="vi vi-eye ml-10" ></i> 169 </div> <div class="article-item row clearfix"> <div class="col-xs-6 col-sm-6 col-md-5 col-left"> <div class="post-image"> <a class="article-img common-img" href="/tin-tuc/benh-vien-huu-nghi-viet-duc-ghep-duong-vat-thanh-cong-tu-nguoi-cho-chet-nao.html?categoryId=101795265" title="Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não"> <img class="post-image relative-height lazy"
+ data-size-ratio="3:2" src="/Common/images/bg_trans.png"   data-original="/publish/thumbnail/2005611/480x320xdefault/upload/2005611/20260729/1785300527240_6975846952524827623_g533051543158425165_h_5fb6d.jpg"   onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;" alt="Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não"> </a> </div> </div> <div class="col-xs-6 col-sm-6 col-md-7 col-right"> <a href="/tin-tuc/benh-vien-huu-nghi-viet-duc-ghep-duong-vat-thanh-cong-tu-nguoi-cho-chet-nao.html?categoryId=101795265">   <div class="article-brief common-brief" title="Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não" >  Ngày 29/7, Bệnh viện Hữu nghị Việt Đức đã công bố ca ghép dương vật thành công đầu tiên tại Việt Nam từ người cho chết não. Ca ghép không chỉ mang ý nghĩa điều trị cho một người bệnh mà còn khẳng định năng lực làm chủ kỹ thuật ghép mô phức hợp của đội ngũ bác sĩ Việt Nam, mở ra cơ hội điều trị cho ... </div>   </a>   </div> </div> </article>     <article class="article-news Article-News"> <div class="common-title mb-10"> <h2><a href="/tin-tuc/yeu-cau-lam-ro-vu-dieu-duong-khoa-than-kinh-o-hai-phong-bi-hanh-hung.html">Yêu cầu làm rõ vụ điều dưỡng khoa Thần kinh ở Hải Phòng bị hành hung</a></h2> </div> <div class="article-info mb-10 clearfix">     <i class="vi vi-folder ml-10"></i><a href="san-pham/dien-thoai-di-dong">Điện thoại di động</a>   <i class="vi vi-eye ml-10" ></i> 122 </div> <div class="article-item row clearfix"> <div class="col-xs-6 col-sm-6 col-md-5 col-left"> <div class="post-image"> <a class="article-img common-img" href="/tin-tuc/yeu-cau-lam-ro-vu-dieu-duong-khoa-than-kinh-o-hai-phong-bi-hanh-hung.html" title="Yêu cầu làm rõ vụ điều dưỡng khoa Thần kinh ở Hải Phòng bị hành hung"> <img class="post-image relative-height lazy"
+ data-size-ratio="3:2" src="/Common/images/bg_trans.png"   data-original="/publish/thumbnail/2005611/480x320xdefault/upload/2005611/20260723/chi_muc__1__7a05b.jpg"   onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;" alt="Yêu cầu làm rõ vụ điều dưỡng khoa Thần kinh ở Hải Phòng bị hành hung"> </a> </div> </div> <div class="col-xs-6 col-sm-6 col-md-7 col-right"> <a href="/tin-tuc/yeu-cau-lam-ro-vu-dieu-duong-khoa-than-kinh-o-hai-phong-bi-hanh-hung.html">   <div class="article-brief common-brief" title="Yêu cầu làm rõ vụ điều dưỡng khoa Thần kinh ở Hải Phòng bị hành hung" >  Liên quan đến vụ việc báo chí nêu vào ngày 22/7/2026, theo đó “Điều dưỡng trưởng khoa thần kinh, Bệnh viện Đa khoa Hải Dương bị một nhóm người hành hung trong bệnh viện và nhà riêng, dẫn đến phải nhập viện”; đây là sự việc có tính chất nghiêm trọng, gây mất an ninh trật tự trong bệnh viện và ảnh ... </div>   </a>   </div> </div> </article>     <article class="article-news Article-News"> <div class="common-title mb-10"> <h2><a href="/tin-tuc/huong-dan-chan-doan-va-dieu-tri-viem-phoi-mac-phai-cong-dong-o-nguoi-lon.html?categoryId=101795265">Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn</a></h2> </div> <div class="article-info mb-10 clearfix">     <i class="vi vi-folder ml-10"></i><a href="trang-chu">Trang chủ</a>   <i class="vi vi-eye ml-10" ></i> 847 </div> <div class="article-item row clearfix"> <div class="col-xs-6 col-sm-6 col-md-5 col-left"> <div class="post-image"> <a class="article-img common-img" href="/tin-tuc/huong-dan-chan-doan-va-dieu-tri-viem-phoi-mac-phai-cong-dong-o-nguoi-lon.html?categoryId=101795265" title="Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn"> <img class="post-image relative-height lazy"
+ data-size-ratio="3:2" src="/Common/images/bg_trans.png"   data-original="/publish/thumbnail/2005611/480x320xdefault/upload/2005611/20260723/chan-doan-viem-phoi-cong-dong_eb5da.jpg"   onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;" alt="Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn"> </a> </div> </div> <div class="col-xs-6 col-sm-6 col-md-7 col-right"> <a href="/tin-tuc/huong-dan-chan-doan-va-dieu-tri-viem-phoi-mac-phai-cong-dong-o-nguoi-lon.html?categoryId=101795265">   <div class="article-brief common-brief" title="Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn" >  Quyết định 2147/QĐ-BYT này có hiệu lực kể từ ngày 15/7/2026 thay thế Quyết định số 4815/QĐ-BYT ngày 20 tháng 11 năm 2020 của Bộ trưởng Bộ Y tế về việc ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn”. </div>   </a>   </div> </div> </article>     <article class="article-news Article-News"> <div class="common-title mb-10"> <h2><a href="/tin-tuc/cuc-quan-ly-kham-chua-benh-yeu-cau-ra-soat-kiem-tra-doi-voi-co-so-kham-benh-chua-benh-tren-dia-ban-tinh-nghe-an.html?categoryId=101795265">Cục Quản lý Khám, chữa bệnh yêu cầu rà soát, kiểm tra đối với cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh Nghệ An</a></h2> </div> <div class="article-info mb-10 clearfix">     <i class="vi vi-folder ml-10"></i><a href="san-pham/dien-thoai-di-dong">Điện thoại di động</a>   <i class="vi vi-eye ml-10" ></i> 95 </div> <div class="article-item row clearfix"> <div class="col-xs-6 col-sm-6 col-md-5 col-left"> <div class="post-image"> <a class="article-img common-img" href="/tin-tuc/cuc-quan-ly-kham-chua-benh-yeu-cau-ra-soat-kiem-tra-doi-voi-co-so-kham-benh-chua-benh-tren-dia-ban-tinh-nghe-an.html?categoryId=101795265" title="Cục Quản lý Khám, chữa bệnh yêu cầu rà soát, kiểm tra đối với cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh Nghệ An"> <img class="post-image relative-height lazy"
+ data-size-ratio="3:2" src="/Common/images/bg_trans.png"   data-original="/publish/thumbnail/2005611/480x320xdefault/upload/2005611/20260723/752509148_1679645809930354_6821143766556752483_n_24ca6.jpg"   onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;" alt="Cục Quản lý Khám, chữa bệnh yêu cầu rà soát, kiểm tra đối với cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh Nghệ An"> </a> </div> </div> <div class="col-xs-6 col-sm-6 col-md-7 col-right"> <a href="/tin-tuc/cuc-quan-ly-kham-chua-benh-yeu-cau-ra-soat-kiem-tra-doi-voi-co-so-kham-benh-chua-benh-tren-dia-ban-tinh-nghe-an.html?categoryId=101795265">   <div class="article-brief common-brief" title="Cục Quản lý Khám, chữa bệnh yêu cầu rà soát, kiểm tra đối với cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh Nghệ An" >  Cục Quản lý Khám, chữa bệnh (Cục QLKCB) nhận được thông tin phản ánh về việc Phòng khám đa khoa y học Nghệ An “Bơm sữa đậu nành vào niệu đạo người bệnh để giả viêm nhiễm, lừa chữa bệnh giá cao”. </div>   </a>   </div> </div> </article>     <article class="article-news Article-News"> <div class="common-title mb-10"> <h2><a href="/tin-tuc/duoc-si-benh-vien-phai-la-mot-tru-cot-cua-chat-luong-dieu-tri-va-an-toan-nguoi-benh.html?categoryId=101795265">Dược sĩ bệnh viện phải là một trụ cột của chất lượng điều trị và an toàn người bệnh</a></h2> </div> <div class="article-info mb-10 clearfix">     <i class="vi vi-folder ml-10"></i><a href="trang-chu">Trang chủ</a>   <i class="vi vi-eye ml-10" ></i> 168 </div> <div class="article-item row clearfix"> <div class="col-xs-6 col-sm-6 col-md-5 col-left"> <div class="post-image"> <a class="article-img common-img" href="/tin-tuc/duoc-si-benh-vien-phai-la-mot-tru-cot-cua-chat-luong-dieu-tri-va-an-toan-nguoi-benh.html?categoryId=101795265" title="Dược sĩ bệnh viện phải là một trụ cột của chất lượng điều trị và an toàn người bệnh"> <img class="post-image relative-height lazy"
+ data-size-ratio="3:2" src="/Common/images/bg_trans.png"   data-original="/publish/thumbnail/2005611/480x320xdefault/upload/2005611/20260718/IMG_9018_ed0df.jpg"   onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;" alt="Dược sĩ bệnh viện phải là một trụ cột của chất lượng điều trị và an toàn người bệnh"> </a> </div> </div> <div class="col-xs-6 col-sm-6 col-md-7 col-right"> <a href="/tin-tuc/duoc-si-benh-vien-phai-la-mot-tru-cot-cua-chat-luong-dieu-tri-va-an-toan-nguoi-benh.html?categoryId=101795265">   <div class="article-brief common-brief" title="Dược sĩ bệnh viện phải là một trụ cột của chất lượng điều trị và an toàn người bệnh" >  Sáng ngày 18/7 tại Phú Thọ, Hội Dược sĩ Bệnh viện Việt Nam phối hợp với Sở Y tế tỉnh Phú Thọ, Hội Y Dược tỉnh Phú Thọ, Trường Đại học Dược Hà Nội, Trường Dược - Đại học Y Dược thành phố Hồ Chí Minh tổ chức Hội nghị khoa học dược bệnh viện lần thứ nhất – năm 2026 với chủ đề Dược bệnh viện trong kỷ ... </div>   </a>   </div> </div> </article>        </section></div><style> .article-news-list-type12 .common-title>h2>a, .article-news-list-type12 .article-brief{ display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; }
+ /**/
+ .article-news-list-type12 .common-title>h2>a{ -webkit-line-clamp: 2; }
+ /**/
+ /**/
+ .article-news-list-type12 .article-brief{ -webkit-line-clamp: 4; }
+ /**/
+</style></div>  </div><div class="col-right col-xs-12 col-md-8 col-sm-8 pull-right">    <div id="module18" class="ModuleWrapper" moduleRootId="101795266" ><div class="menu-legal-document-defaul" id="menu-legal-document-defaul18">   <div class="list-menu flex relative">   <h4 class="by-category-title text-bold"> <a class="relative" href="/van-ban" title="Văn bản">Văn bản</a> </h4>   <ul class="list-menu-top nav nav-pills" id="pills-tab-list-18">   <li role="presentation" class="item-101795515 nav-item " >
+ <a class="is-load " data-type="" data-id="101795515" title="Chỉ đạo điều hành">Chỉ đạo điều hành</a> </li>   <li role="presentation" class="item-101795516 nav-item " >
+ <a class="is-load " data-type="" data-id="101795516" title="Văn bản pháp quy">Văn bản pháp quy</a> </li>   <li role="presentation" class="item-101795269 nav-item " >
+ <a class="is-load " data-type="" data-id="101795269" title="Dự thảo xin ý kiến">Dự thảo xin ý kiến</a> </li>   </ul> </div>  </div><div class="list-legal-document-table table-responsive"> <table class="table table-bordered"> <thead> <tr> <th scope="col" style="white-space: nowrap;">Số văn bản</th> <th scope="col" class="tg-yw4l" style="white-space: nowrap;">Trích yếu</th> <th scope="col" style="white-space: nowrap;">Ngày ban hành</th> </tr> </thead> <tbody>   <tr> <td style="white-space: nowrap;">08/2026/TT-BYT</td> <td class="tg-yw4l"><a href="/van-ban/thong-tu-so-08-2026-tt-byt-huong-dan-ve-giam-dinh-tu-phap-trong-linh-vuc-chuyen-mon-thuoc-tham-quyen-quan-ly-cua-bo-y-te.html?categoryId=101795266" title="Thông tư số 08/2026/TT-BYT Hướng dẫn về giám định tư pháp trong lĩnh vực chuyên môn thuộc thẩm quyền quản lý của Bộ Y tế">Thông tư số 08/2026/TT-BYT Hướng dẫn về giám định tư pháp trong lĩnh vực chuyên môn thuộc thẩm quyền quản lý của Bộ Y tế</a></td> <td>28/04/2026</td> </tr>   <tr> <td style="white-space: nowrap;">3395/BYT-KCB</td> <td class="tg-yw4l"><a href="/du-thao/xin-y-kien-du-thao-nghi-dinh-sua-doi-bo-sung-nghi-dinh-so-96-2023-nd-cp-va-thong-tu-quy-dinh-pham-vi-hanh-nghe-sua-doi-b.html?categoryId=101795266" title="xin ý kiến dự thảo Nghị định sửa đổi, bổ sung Nghị định số 96/2023/NĐ-CP và Thông tư Quy định phạm vi hành nghề sửa đổi, bổ sung Thông tư số 32/2023/TT-BYT">xin ý kiến dự thảo Nghị định sửa đổi, bổ sung Nghị định số 96/2023/NĐ-CP và Thông tư Quy định phạm vi hành nghề sửa đổi, bổ sung Thông tư số 32/2023/TT-BYT</a></td> <td>03/06/2025</td> </tr>   <tr> <td style="white-space: nowrap;">2492/BYT-KCB</td> <td class="tg-yw4l"><a href="/van-ban/chi-dao-dieu-hanh/bao-dam-cong-tac-kham-chua-benh-cap-cuu-tai-nan-giao-thong-trong-dip-nghi-le-30-4-va-01-5-nam-2025.html?categoryId=101795266" title="Bảo đảm công tác khám chữa bệnh, cấp cứu tai nạn giao thông trong dịp nghỉ lễ 30/4 và 01/5 năm 2025">Bảo đảm công tác khám chữa bệnh, cấp cứu tai nạn giao thông trong dịp nghỉ lễ 30/4 và 01/5 năm 2025</a></td> <td>25/04/2025</td> </tr>   <tr> <td style="white-space: nowrap;">2350/BYT-KCB</td> <td class="tg-yw4l"><a href="/van-ban/chi-dao-dieu-hanh/tang-cuong-kiem-tra-giam-sat-thuc-hien-cac-quy-dinh-phap-luat-trong-kham-benh-chua-benh.html?categoryId=101795266" title="Tăng cường kiểm tra, giám sát thực hiện các quy định pháp luật trong khám bệnh, chữa bệnh">Tăng cường kiểm tra, giám sát thực hiện các quy định pháp luật trong khám bệnh, chữa bệnh</a></td> <td>22/04/2025</td> </tr>   <tr> <td style="white-space: nowrap;">65/KCB-QLCL&amp;CĐT</td> <td class="tg-yw4l"><a href="/cong-van/trien-khai-mau-benh-an-mau-giay-phieu-y-theo-thong-tu-so-32-2023-tt-byt-va-tiep-tuc-nghien-cuu-thu-nghiem-thi-diem-mot-s.html?categoryId=101795266" title="triển khai mẫu bệnh án, mẫu giấy, phiếu y theo Thông tư số 32/2023/TT-BYT và tiếp tục nghiên cứu thử nghiệm, thí điểm một số biểu mẫu mới">triển khai mẫu bệnh án, mẫu giấy, phiếu y theo Thông tư số 32/2023/TT-BYT và tiếp tục nghiên cứu thử nghiệm, thí điểm một số biểu mẫu mới</a></td> <td>12/01/2024</td> </tr>   </tbody> </table>   <div class="clearfix"></div></div><style> .menu-legal-document-defaul .fluid-nav-backup{ margin-left: auto; }
+ .menu-legal-document-defaul .fluid-nav-backup >ul{ left: auto; right: 0; cursor: pointer; }
+ .menu-legal-document-defaul .list-menu-top.overflow-x-scroll{ overflow-x: scroll; justify-content: normal; display: flex !important; }
+ .menu-legal-document-defaul h4.by-category-title{ margin-right: 15px; }
+ .menu-legal-document-defaul h4.by-category-title>a{ white-space: nowrap; }
+ .menu-legal-document-defaul .nav-pills a{ white-space: nowrap; }
+ .menu-legal-document-defaul .list-menu{ margin-bottom: 10px; align-items: center; }
+ .menu-legal-document-defaul .nav-pills a:hover, .menu-legal-document-defaul .nav-pills>li.active>a{ background: transparent; }
+ .list-legal-document-table .tg-yw4l a{ color:#333; }
+ .list-legal-document-table .tg-yw4l a:hover { color: var(--brand-primary) !important; }
+ .list-document-mobile .item-block { padding-bottom: 10px; margin-bottom: 10px; border-bottom: 1px solid #ebebeb; }
+ .list-document-mobile .item-block:last-of-type { padding-bottom: 0; margin-bottom: 0; border-bottom: none; }
+ .list-document-mobile .item-block .title-doc { font-weight: 700; margin-bottom: 10px; }
+ #pills-tab-list-18{ justify-content: left; }
+</style></div><div id="module19" class="ModuleWrapper  border-bottom-line pb-15 mb-20" >    
+</div><div id="module20" class="ModuleWrapper" moduleRootId="101819452" ><div class="news-highlight-type-17" id="article-news-highlight-type-20 ">   <div class="list-menu flex relative" id="list-menu20">   <h4 class="by-category-title text-bold"> <a class="relative" href="/cac-chuyen-muc-khac" title="Lĩnh vực quản lý">Lĩnh vực quản lý</a> </h4>   <ul class="list-menu-top nav nav-pills" id="pills-tab-list-20">   <li role="presentation" class="item-101795271 nav-item " >
+ <a class="is-load " data-type="" data-id="101795271" title="Quản lý chất lượng">Quản lý chất lượng</a> </li>   <li role="presentation" class="item-101795273 nav-item " >
+ <a class="is-load " data-type="" data-id="101795273" title="Quản lý hành nghề KCB">Quản lý hành nghề KCB</a> </li>   <li role="presentation" class="item-101797445 nav-item " >
+ <a class="is-load " data-type="" data-id="101797445" title="Phục hồi chức năng">Phục hồi chức năng</a> </li>   <li role="presentation" class="item-101819456 nav-item " >
+ <a class="is-load " data-type="" data-id="101819456" title="Giám định y khoa">Giám định y khoa</a> </li>   <li role="presentation" class="item-101819457 nav-item " >
+ <a class="is-load " data-type="" data-id="101819457" title="Điều dưỡng – KSNK- Dinh dưỡng">Điều dưỡng – KSNK- Dinh dưỡng</a> </li>   <li role="presentation" class="item-101819458 nav-item " >
+ <a class="is-load " data-type="" data-id="101819458" title="Hội nhập">Hội nhập</a> </li>   <li role="presentation" class="item-101796492 nav-item " >
+ <a class="is-load " data-type="" data-id="101796492" title="Hội nghị quản lý bệnh viện Châu Á">Hội nghị quản lý bệnh viện Châu Á</a> </li>   <li role="presentation" class="item-101819460 nav-item " >
+ <a class="is-load " data-type="" data-id="101819460" title="Chương trình chăm sóc sức khỏe">Chương trình chăm sóc sức khỏe</a> </li>   </ul> </div>   <div class="list-cont-news">   <div class="wrapper-top-new-highlightType17 row">   <div class="clearfix top-new-highlightType17 top-news-one col-md-8 ">
+   <div class="image-news"> <a href="/tin-tuc/bo-y-te-tang-toc-chien-dich-500-ngay-dem-day-manh-thuc-hien-tim-kiem-quy-tap-va-xac-dinh-danh-tinh-hai-cot-liet-si.html?categoryId=101819452" title="Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ"> <img class="post-image relative-height" data-size-ratio="3:2" src="/publish/thumbnail/2005611/600x400xdefault/upload/2005611/fck/lehaokcb1/1785331553754_1987306436102777788_7773817127492971978_f8eded770ab41ba724849156a1171737.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;" alt="Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ">
+ </a> </div>   <div class="cont-news"> <div class="title-news"><a href="/tin-tuc/bo-y-te-tang-toc-chien-dich-500-ngay-dem-day-manh-thuc-hien-tim-kiem-quy-tap-va-xac-dinh-danh-tinh-hai-cot-liet-si.html?categoryId=101819452" title="Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ">Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ</a></div>     <a href="/tin-tuc/bo-y-te-tang-toc-chien-dich-500-ngay-dem-day-manh-thuc-hien-tim-kiem-quy-tap-va-xac-dinh-danh-tinh-hai-cot-liet-si.html?categoryId=101819452" title="Bộ Y tế tăng tốc Chiến dịch 500 ngày đêm,đẩy mạnh thực hiện tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ">   <div class="brief-news">Bộ Y tế yêu cầu các đơn vị đẩy nhanh tiến độ Chiến dịch 500 ngày đêm tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ bằng giám định ADN. Cùng ...</div>   </a>   </div> </div>   <div class="clearfix top-new-highlightType17 top-news-two col-md-4 ">
+   <div class="cont-news"> <div class="title-news"><a href="/tin-tuc/benh-vien-huu-nghi-viet-duc-ghep-duong-vat-thanh-cong-tu-nguoi-cho-chet-nao.html?categoryId=101819452" title="Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não">Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não</a></div>     <a href="/tin-tuc/benh-vien-huu-nghi-viet-duc-ghep-duong-vat-thanh-cong-tu-nguoi-cho-chet-nao.html?categoryId=101819452" title="Bệnh viện Hữu nghị Việt Đức: ghép dương vật thành công từ người cho chết não">   <div class="brief-news">Ngày 29/7, Bệnh viện Hữu nghị Việt Đức đã công bố ca ghép dương vật thành công đầu tiên tại Việt Nam từ người cho chết não. Ca ghép không chỉ mang ý ...</div>   </a>   </div> </div>   </div> <div class="wrapper-new-highlightType17 row">   <div class="clearfix new-highlightType17 col-md-4"> <div class="cont-news"> <div class="title-news"><a href="/tin-tuc/huong-dan-chan-doan-va-dieu-tri-viem-phoi-mac-phai-cong-dong-o-nguoi-lon.html?categoryId=101819452" title="Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn">Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn</a></div>     </div> </div>   <div class="clearfix new-highlightType17 col-md-4"> <div class="cont-news"> <div class="title-news"><a href="/tin-tuc/cuc-quan-ly-kham-chua-benh-yeu-cau-ra-soat-kiem-tra-doi-voi-co-so-kham-benh-chua-benh-tren-dia-ban-tinh-nghe-an.html?categoryId=101819452" title="Cục Quản lý Khám, chữa bệnh yêu cầu rà soát, kiểm tra đối với cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh Nghệ An">Cục Quản lý Khám, chữa bệnh yêu cầu rà soát, kiểm tra đối với cơ sở khám bệnh, chữa bệnh trên địa bàn tỉnh Nghệ An</a></div>     </div> </div>   <div class="clearfix new-highlightType17 col-md-4"> <div class="cont-news"> <div class="title-news"><a href="/tin-tuc/duoc-si-benh-vien-phai-la-mot-tru-cot-cua-chat-luong-dieu-tri-va-an-toan-nguoi-benh.html?categoryId=101819452" title="Dược sĩ bệnh viện phải là một trụ cột của chất lượng điều trị và an toàn người bệnh">Dược sĩ bệnh viện phải là một trụ cột của chất lượng điều trị và an toàn người bệnh</a></div>     </div> </div>   </div>   </div></div><style> .news-highlight-type-17 .fluid-nav-backup{ margin-left: auto; }
+ .news-highlight-type-17 .fluid-nav-backup >ul{ left: auto; right: 0; cursor: pointer; }
+ .news-highlight-type-17 .list-menu-top.overflow-x-scroll{ overflow-x: scroll; justify-content: normal; display: flex !important; }
+ .news-highlight-type-17 h4.by-category-title{ margin-right: 15px; }
+ .news-highlight-type-17 h4.by-category-title>a{ white-space: nowrap; }
+ .news-highlight-type-17 .nav-pills a{ white-space: nowrap; }
+ .news-highlight-type-17 .list-menu-top.overflow-x-scroll::-webkit-scrollbar { display: none; }
+ .news-highlight-type-17 .list-menu{ margin-bottom: 10px; }
+ .news-highlight-type-17 .nav-pills a:hover, .news-highlight-type-17 .nav-pills>li.active>a{ background: transparent; color:var(--brand-primary); }
+ .news-highlight-type-17 a.article-title{ overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+ .news-highlight-type-17 .article-brief{ overflow: hidden; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; }
+ .news-highlight-type-17 .article-item-top{ border-bottom: 1px solid lightgray; margin-bottom: 10px; padding-bottom: 10px; }
+ .news-highlight-type-17 .article-bottom .article-title{ padding-left: 12px; }
+ .news-highlight-type-17 .article-bottom .article-title:before{ content: ""; position: absolute; width: 6px; height: 6px; inset: 7px auto auto 0; background: lightgray; border-radius: 50%; }
+ #pills-tab-list-20{ justify-content: left; }
+ @media (min-width: 769px){ .news-highlight-type-17 .article-item-top .article-item-first{ border-right: 1px solid lightgray; }
+ }
+</style></div><div id="module21" class="ModuleWrapper  border-bottom-line pb-15 mb-20" >    
+</div><div id="module22" class="ModuleWrapper" moduleRootId="101819466" ><div class="news-highlight-type-17" id="article-news-highlight-type-22 ">   <div class="list-menu flex relative" id="list-menu22">   <h4 class="by-category-title text-bold"> <a class="relative" href="/tai-lieu" title="Tài liệu">Tài liệu</a> </h4>   <ul class="list-menu-top nav nav-pills" id="pills-tab-list-22">   <li role="presentation" class="item-5261268 nav-item " >
+ <a class="is-load " data-type="" data-id="5261268" title="Tài liệu về chăm sóc mắt">Tài liệu về chăm sóc mắt</a> </li>   <li role="presentation" class="item-101819467 nav-item " >
+ <a class="is-load " data-type="" data-id="101819467" title="Quy trình kỹ thuật">Quy trình kỹ thuật</a> </li>   <li role="presentation" class="item-101819469 nav-item " >
+ <a class="is-load " data-type="" data-id="101819469" title="Tài liệu liên quan đến Covid-19">Tài liệu liên quan đến Covid-19</a> </li>   <li role="presentation" class="item-101819470 nav-item " >
+ <a class="is-load " data-type="" data-id="101819470" title="Tài liệu Hội nghị, tập huấn">Tài liệu Hội nghị, tập huấn</a> </li>   </ul> </div>   <div class="list-cont-news">   <div class="wrapper-top-new-highlightType17 row">   <div class="clearfix top-new-highlightType17 top-news-one col-md-8 ">
+   <div class="image-news"> <a href="/tin-tuc/quyet-dinh-1740-qd-byt-ban-hanh-tai-lieu-chuyen-mon-huong-dan-chan-doan-va-dieu-tri-viem-gan-vi-rut-b.html?categoryId=101819466" title="Quyết định 1740/QĐ-BYT ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị viêm gan vi rút B"> <img class="post-image relative-height" data-size-ratio="3:2" src="/publish/thumbnail/2005611/600x400xdefault/upload/2005611/20260617/benh-nhan-viem-gan-1_678bc.jpg" onerror="this.src=&quot;/Common/images/no-image-news.png&quot;;" alt="Quyết định 1740/QĐ-BYT ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị viêm gan vi rút B">
+ </a> </div>   <div class="cont-news"> <div class="title-news"><a href="/tin-tuc/quyet-dinh-1740-qd-byt-ban-hanh-tai-lieu-chuyen-mon-huong-dan-chan-doan-va-dieu-tri-viem-gan-vi-rut-b.html?categoryId=101819466" title="Quyết định 1740/QĐ-BYT ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị viêm gan vi rút B">Quyết định 1740/QĐ-BYT ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị viêm gan vi rút B</a></div>     <a href="/tin-tuc/quyet-dinh-1740-qd-byt-ban-hanh-tai-lieu-chuyen-mon-huong-dan-chan-doan-va-dieu-tri-viem-gan-vi-rut-b.html?categoryId=101819466" title="Quyết định 1740/QĐ-BYT ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị viêm gan vi rút B">   <div class="brief-news">Ngày 16/6, Bộ Y tế đã ban hành Quyết định 1740/QĐ-BYT ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị  viêm gan vi rút B. Quyết định này ...</div>   </a>   </div> </div>   <div class="clearfix top-new-highlightType17 top-news-two col-md-4 ">
+   <div class="cont-news"> <div class="title-news"><a href="/tin-tuc/ban-hanh-huong-dan-chan-doan-va-dieu-tri-benh-do-vi-rut-ebola.html?categoryId=101819466" title="Ban hành Hướng dẫn chẩn đoán và điều trị bệnh do vi rút Ebola">Ban hành Hướng dẫn chẩn đoán và điều trị bệnh do vi rút Ebola</a></div>     <a href="/tin-tuc/ban-hanh-huong-dan-chan-doan-va-dieu-tri-benh-do-vi-rut-ebola.html?categoryId=101819466" title="Ban hành Hướng dẫn chẩn đoán và điều trị bệnh do vi rút Ebola">   <div class="brief-news">Trước nguy cơ bệnh do vi rút Ebola xâm nhập vào Việt Nam, thực hiện chỉ đạo của lãnh đạo Bộ Y tế, để chủ động phòng chống bệnh do vi rút Ebola, Cục ...</div>   </a>   </div> </div>   </div> <div class="wrapper-new-highlightType17 row">   <div class="clearfix new-highlightType17 col-md-4"> <div class="cont-news"> <div class="title-news"><a href="/tin-tuc/.-huong-dan-quy-trinh-ky-thuat-ve-tam-than-tap-1-va-tap-2.html?categoryId=101819466" title="Hướng dẫn Quy trình kỹ thuật về Tâm thần  Tập 1 và Tập 2">Hướng dẫn Quy trình kỹ thuật về Tâm thần  Tập 1 và Tập 2</a></div>     </div> </div>   <div class="clearfix new-highlightType17 col-md-4"> <div class="cont-news"> <div class="title-news"><a href="/tin-tuc/huong-dan-quy-trinh-ky-thuat-ve-vi-sinh-tap-2.html?categoryId=101819466" title="Hướng dẫn Quy trình kỹ thuật về Vi sinh – Tập 2">Hướng dẫn Quy trình kỹ thuật về Vi sinh – Tập 2</a></div>     </div> </div>   <div class="clearfix new-highlightType17 col-md-4"> <div class="cont-news"> <div class="title-news"><a href="/tin-tuc/huong-dan-quy-trinh-ky-thuat-ve-vi-sinh-tap-1.html?categoryId=101819466" title="Hướng dẫn Quy trình kỹ thuật về Vi sinh – Tập 1">Hướng dẫn Quy trình kỹ thuật về Vi sinh – Tập 1</a></div>     </div> </div>   </div>   </div></div><style> .news-highlight-type-17 .fluid-nav-backup{ margin-left: auto; }
+ .news-highlight-type-17 .fluid-nav-backup >ul{ left: auto; right: 0; cursor: pointer; }
+ .news-highlight-type-17 .list-menu-top.overflow-x-scroll{ overflow-x: scroll; justify-content: normal; display: flex !important; }
+ .news-highlight-type-17 h4.by-category-title{ margin-right: 15px; }
+ .news-highlight-type-17 h4.by-category-title>a{ white-space: nowrap; }
+ .news-highlight-type-17 .nav-pills a{ white-space: nowrap; }
+ .news-highlight-type-17 .list-menu-top.overflow-x-scroll::-webkit-scrollbar { display: none; }
+ .news-highlight-type-17 .list-menu{ margin-bottom: 10px; }
+ .news-highlight-type-17 .nav-pills a:hover, .news-highlight-type-17 .nav-pills>li.active>a{ background: transparent; color:var(--brand-primary); }
+ .news-highlight-type-17 a.article-title{ overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+ .news-highlight-type-17 .article-brief{ overflow: hidden; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; }
+ .news-highlight-type-17 .article-item-top{ border-bottom: 1px solid lightgray; margin-bottom: 10px; padding-bottom: 10px; }
+ .news-highlight-type-17 .article-bottom .article-title{ padding-left: 12px; }
+ .news-highlight-type-17 .article-bottom .article-title:before{ content: ""; position: absolute; width: 6px; height: 6px; inset: 7px auto auto 0; background: lightgray; border-radius: 50%; }
+ #pills-tab-list-22{ justify-content: left; }
+ @media (min-width: 769px){ .news-highlight-type-17 .article-item-top .article-item-first{ border-right: 1px solid lightgray; }
+ }
+</style></div>  </div>
+</div></div></div><div class="region-full-content"></div><div id="whole-page" class="container"  ></div>
+<div class="region-bottom"><div id="module1" class="ModuleWrapper  wrapper-footer" ><div class="container">  <div id="module2" class="ModuleWrapper" ><div class="footer-intro"> <div class="row"> <div class="col-md-6 col-sm-12 logo-col"> <div class="logo"> <a title="Cục quản lý Khám chữa bệnh" href="https://kcb.vn/"> <img alt="Cục quản lý Khám chữa bệnh" src="/upload/2005611/20210712/logo_header_e3e4f.png">
+ </a> </div> <div class="logo-info ml-10"> <div class="governingUnit">Bộ y tế</div> <div class="title">Cục quản lý Khám chữa bệnh</div> <div class="companyName">Department of medical service administration - Ministry of health, Viet Nam</div> </div> </div> <div class="col-md-3 col-sm-6 contact"> <div class="footer-intro_inner"> <div class="adress"> <strong>Địa chỉ:</strong>138 A Giảng Võ, Phường Giảng Võ, Hà Nội </div> <ul class="list-inline"> <li> <strong>Điện thoại:</strong>024 6273 2093 </li> <li> <strong>Fax:</strong>024 6273 2093 </li> <li> <strong>Email:</strong>kcb@moh.gov.vn </li> </ul> </div> </div> <div class="col-right col-md-3 col-sm-6"> <div id="footer-map12" class="footer-defail">  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.09425292736!2d105.82341251493271!3d21.028914385998338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab7449177c59%3A0x83978bd59038ca0d!2zMTM4QSBQLiBHaeG6o25nIFbDtSwgS2ltIE3DoywgQmEgxJDDrG5oLCBIw6AgTuG7mWk!5e0!3m2!1svi!2s!4v1647416203538!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe> </div> </div> </div></div><style> .footer-intro .heading { text-transform: uppercase; font-weight: bold; font-size: 18px; margin-bottom: 10px; line-height: 24px; }
+ .footer-intro small { display: block; font-style: italic; margin-top: 10px; margin-bottom: 10px; }
+ .footer-intro ul li { margin-top: 10px; margin-bottom: 10px; display: block; }
+ .footer-intro .about { margin-bottom: 20px; }
+ .footer-defail>iframe{ height: 100%; width: 100%; }
+ @media (max-width:768px) { .footer-intro>div>div{ margin-bottom: 10px; }
+ }
+</style>
+</div>  
+</div></div><div id="module3" class="ModuleWrapper" ><div class="footer-copyright-social pt-10 pb-10"> <div class="container">
+ <div class="row">   <div class="col-xs-12 col-sm-4 col-md-4 col-right"> <div class="social"> <ul class="flex">   <li> <a href="http://facebook.com/" class="text-center " title="facebook"> <i class="vi vi-facbook-cricle"></i> </a> </li>     <li> <a href="https://www.google.com/" class="text-center " title="google" > <i class="vi vi-google"></i> </a> </li>     <li> <a rel="noopener" href="http://twitter.com/home?lang=vi" class="text-center " title="twitter"> <i class="vis vi-twitter-cricle"></i> </a> </li>         </ul> </div> </div>   <div class="col-xs-12  col-sm-8 col-md-8  col-left">
+ <p class="copy-right" style="margin-bottom: 0;">© Copyright 2021. Bộ y tế - Cục quản lý khám chữa bệnh</p> </div> </div> </div></div><style> .footer-copyright-social .social>ul.flex{ justify-content: flex-end; }
+ .footer-copyright-social .social>ul>li>a{ width: 34px; height: 34px; line-height: 34px; display: block; margin-left: 10px; }
+ .footer-copyright-social .social>ul>li:first-child>a{ margin-left: 0; }
+ .footer-copyright-social .col-left>p{ line-height: 34px; }
+ .footer-copyright-social{ /**/
+ /**/
+ }
+ @media (min-width:768px) { .footer-copyright-social>div>div>.col-right{ float: right; }
+ .footer-copyright-social>div>div>.col-left{ float: left; }
+ }
+ @media (max-width:425px) { .footer-copyright-social .social>ul.flex{ justify-content: center; }
+ .footer-copyright-social .col-left>p{ text-align: center; }
+ }
+</style>
+</div></div><div id="backToTop" class="vi vi-chevron-up" style="display:none;"></div> 
+<div id="footer-editer"></div>
+  
+  
+  
+</body>
+<!--[if lt IE 9]>
+<script src="/3rdparty/Bootstrap/js/ie8-responsive-file-warning.js"></script>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!--[if IE 6]>
+<script src="/3rdparty/fix_ie/DD_belatedPNG.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('.mask,img');
+</script>
+<![endif]-->
+  
+<script type="text/javascript">
+rootURL = location.protocol+'//'+location.host+'/';
+staticURL = '/';
+</script>
+  
+<script type="text/javascript" src="/publish/js/lib2-1.522.min.js?204209"></script>
+  
+<script type="text/javascript">
+  
+  
+$(document).ready(function() {
+$(window).scroll(function() {
+if($(window).scrollTop() != 0) {
+$('#backToTop').fadeIn();
+} else {
+$('#backToTop').fadeOut();
+}
+});
+$('#backToTop').click(function() {
+$('html, body').animate({
+scrollTop:0
+},500);
+});
+});
+  
+if(window.vhvInit)
+{
+vhvInit();
+}
+$.extend(VHV,{
+pageId: "home",
+itemId: "",
+inheritPageId: "base",
+checkPhone: "phoneVN",
+checkPassword: [],
+serverTime: 1785577620,
+domainRoot: '/',
+defaultCurrency: '$',
+defaultNumberFormat: "",
+language: 'vi',
+nationId: "",
+version:'1.522',
+clientVersion:'204209',
+pageVersion:'',
+ckeVersion:'4.15.0',
+  
+  
+loadingImage:'/Common/images/loading.gif',
+site:'2005611',
+href:'?'+decode64(''),
+defaultPortalPath:'',
+securityToken: '2267b8f95776c3cc655a9b4a04da8d77798f06796fd724eb15423653de809304',
+groupId: ''
+  
+  
+  
+  
+  
+  
+,currentAccountId: "" 
+,visitTimeLimit: 180 
+});
+$.extend(VHV.App, {
+portal:'2005611',
+site: 2005611 
+});
+VHV.init();
+VHV.User = {
+id: 0 
+  
+};
+ ;
+$('#search-menu5 a[data-id]').on('click',function(){ $('#form5 input[name="filters[categories]"]').val($(this).data('id')); $('#form5 .dropdown-toggle-text').text($(this).text()); });
+;
+VHV.load('3rdparty/jQuery/jqueryui/jquery-ui.min.js',function(){ $(document).ready(function() { var monthNames = [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12" ]; var dayNames= ["Chủ Nhật","Thứ Hai","Thứ Ba","Thứ Tư","Thứ Năm","Thứ Sáu","Thứ Bảy"]; var newDate = new Date(VHV.serverTime * 1000); newDate.setDate(newDate.getDate()); $('#Date').html(dayNames[newDate.getDay()] + ", " + newDate.getDate() + '/' + monthNames[newDate.getMonth()] + '/' + newDate.getFullYear()); setInterval( function() { var seconds = new Date(VHV.serverTime * 1000).getSeconds(); $("#sec").html(( seconds < 10 ? "0" : "" ) + seconds); },1000);
+setInterval( function() { var minutes = new Date(VHV.serverTime * 1000).getMinutes(); $("#min").html(( minutes < 10 ? "0" : "" ) + minutes); },1000);
+setInterval( function() { var hours = new Date(VHV.serverTime * 1000).getHours(); $("#hours").html(hours); }, 1000);
+});
+});
+$(document).ready(function () { var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth, widthUl = $('#fluid-nav-positive6').width(), widthLi = 0; if(width > 768) { $('#fluid-nav-positive6').children().each(function () { widthLi += $(this).width(); if (widthLi > widthUl - 25) { $('#module6').find('.fluid-nav-backup').removeAttr('style'); $('#fluid-nav-negative6').append($(this)); }
+$(this).removeAttr('style'); })
+}else{
+$('#fluid-nav-positive6').children().removeAttr('style'); }
+});
+$('.navigation-menu-default-type1:first').addClass('navigation-menu-default-type1-first'); $('#menu6 .has-child').parent().addClass('dropdown-menu-has-child'); $('#menu6 .has-child').parent().parent().addClass('dropdown-has-child'); $('body').addClass('body-home-page'); $("#menu6 li.li-home").addClass('active'); $('#menu6').on('click','.item .dropdown-toggle', function(){ $(this).parent('li').toggleClass('open-menu-mobile'); $(this).parent('li').find('ul:first').slideToggle(); $(this).find('.vi').toggleClass('vi-minus-square vi-plus'); });
+$('#menu6').on('click','.navbar-toggle',function(){ $('body').toggleClass('overflow-hidden'); $('#backtotop').slideToggle(); });
+var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth; if($('#menu6 .navbar-default .navbar-collapse').hasClass('in')){ $('body').addClass('overflow-hidden'); }
+if(width > 768){ var height = $('#menu6 .navbar-default').outerHeight(); $('#menu6').css({ 'height': height });
+}
+$(window).scroll(function () { var top = $('#menu6').offset().top; var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth; $('#menu6').css({ 'height': $('#menu6 .navbar-default').outerHeight() });
+if (parseInt($(window).scrollTop()) > top) { if(width < 769){ var height = $('#menu6 .navbar-Base').outerHeight(); $('#menu6').css({ 'height': height });
+$('#menu6 .navbar-default .navbar-collapse').css({ 'top': height });
+$('body').addClass('body-menu-action'); }
+$('#menu6').addClass('has-fix-menu-default-type1'); }else {
+$('#menu6').removeClass('has-fix-menu-default-type1'); if(width < 769){ $('#menu6').css({ 'height': 'auto' });
+$('#menu6 .navbar-default .navbar-collapse').css({ 'top': 0 });
+$('body').removeClass('body-menu-action'); }
+}
+});
+$(document).ready(menuResize6); $(window).on('load',menuResize6); $(window).on('resize',menuResize6); function menuResize6() { var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth; if(width > 768){ $('#menu6 .navbar-nav').addClass('fluid-nav-positive'); $('#menu6 .fluid-nav-backup').removeClass('hidden'); }else{
+$('#menu6 .navbar-nav').removeClass('fluid-nav-positive'); $('#menu6 .fluid-nav-backup').addClass('hidden'); $('#menu6 .navbar-nav').prepend($('#div-search6')); }
+};
+$(document).ready(function(){ $('#menu6 .back-to-top').click(function() { $('html, body').animate({ scrollTop:0 },500);
+});
+var width2 = $(window).width() || document.documentElement.clientWidth() || document.body.clientWidth(); if(width2 < 769){ $('#bs-navbar-collapse-6').removeClass('fluid-nav'); }else{
+$('#bs-navbar-collapse-6').addClass('fluid-nav'); }
+if($('#menu6').hasClass('navigation-menu-default-type1-first')){ $(window).resize(function(){ var width3 = $(this).width() || document.documentElement.clientWidth() || document.body.clientWidth(); if(width3 > 768){ if(!$('.navigation-menu-default-type1-first .navbar-collapse').hasClass('fluid-nav')){ location.reload(); }
+}else{
+if($('.navigation-menu-default-type1-first .navbar-collapse').hasClass('fluid-nav')){ location.reload(); }
+}
+});
+}
+setTimeout(function(){ $('#menu6').css('overflow',''); }, 200);
+});
+$('#menu6 .fluid-nav-backup .dropdown-toggle').click(function(){ $(this).parent().toggleClass('active'); $('#menu6 .fluid-nav-backup').addClass('open'); $(this).next('ul').slideToggle(); });
+$(document).mouseup(function (e) { var container = $('#menu6 .fluid-nav-backup'); var container2 = $('#menu6'); if (!container.is(e.target) && container.has(e.target).length === 0) { container.removeClass('active'); container.children('ul').hide(); }
+if (!container2.is(e.target) && container2.has(e.target).length === 0) { $('#div-search6').removeClass('active'); $('#open-search6').children().addClass('vi-search').removeClass('vi-x-small'); }
+});
+$('#menu6 .btn-open-search').click(function(){ $('#div-search6').toggleClass('active'); $(this).children().toggleClass('vi-search vi-x-small'); });
+$('#form6').submit(function(e){ var page = 'search'; var keyword = $('#form6 input[name=keyword6]').val(); if(keyword!="Tìm kiếm") { VHV.redirect("https://kcb.vn/page/search?"+'&keyword='+ encodeURIComponent(keyword)); }
+return false; });
+$('#menu6 .navbar-toggle').on('click',function(){ $('#menu6 .navbar-collapse').addClass('open-sidebar'); $('body').addClass('overhidden'); $('body').append('<a href="javascript:void(0);" id="close6" style="font-size: 2.8rem;color: #fff;position: fixed;top: 20px;left: 288px;z-index: 99999;"><i class="vi vi-x-circle" ></i></a>') });
+$('#close6').click(function(){ $('#menu6 .navbar-collapse').removeClass('in'); ('#menu6 .navbar-collapse').removeClass('open-sidebar'); $('body').removeClass('overhidden overflow-hidden'); $(this).remove(); });
+$(document).mouseup(function(e) { var container = $('#menu6 .navbar-collapse'); if (!container.is(e.target) && container.has(e.target).length === 0) { container.removeClass('in'); container.removeClass('open-sidebar'); $('body').removeClass('overhidden overflow-hidden'); $('#close6').remove(); }
+});
+;
+$(window).resize(function () { let heightLeft = $('#article-new-botton-slide11 .col-left').height(); $('#article-new-botton-slide11 .right-wrapper-news').css({ height: heightLeft, overflow: 'hidden' });
+});
+VHV.load('3rdparty/jQuery/slick-1.8.0/slick.css'); VHV.load('3rdparty/jQuery/slick-1.8.0/slick-theme.css'); VHV.load('3rdparty/jQuery/slick-1.8.0/slick.js',function(){ $('#article-new-botton-slide11 .slider-for').slick({ slidesToShow: 1, slidesToScroll: 1, arrows: true, autoplay: true, autoplaySpeed: 7000, //fade: true,
+lazyLoad: 'ondemand', asNavFor: '#article-new-botton-slide11 .slider-nav' });
+$('#article-new-botton-slide11 .slider-nav').slick({ slidesToShow: "4", slidesToScroll: 1, asNavFor: '#article-new-botton-slide11 .slider-for', dots: false, autoplay: true, focusOnSelect: true, arrows: false, responsive: [ { breakpoint: 1024, settings: { slidesToShow: 3, slidesToScroll: 3, }
+},
+{ breakpoint: 600, settings: { slidesToShow: 2, slidesToScroll: 2 }
+},
+{ breakpoint: 480, settings: { slidesToShow: 2, slidesToScroll: 1 }
+}
+// You can unslick at a given breakpoint now by adding:
+// settings: "unslick"
+// instead of a settings object
+] });
+});
+$(window).resize(function(){ var height = $('.article-news-botton-slide').outerHeight(); $('.Article-Detail-listType6').css({ 'height': height, 'overflow-y': 'auto', 'overflow-x': 'hidden' })
+});
+;
+$(window).resize(function() { let boxUl = $('#menu-legal-document-defaul10 .list-menu').width(), widthTitle = $('#menu-legal-document-defaul10 .by-category-title').width(); let widthUl = boxUl - widthTitle - 80; let widthLI = 0; let width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth; $('#pills-tab.tpl-list-10').children().each(function () { widthLI += $(this).width(); if(widthLI > widthUl){ if(width > 1200){ $('#module10').find('.fluid-nav-backup').removeAttr('style'); $('#readmore-li10').append($(this)).removeAttr('style'); }
+if(width < 1200 && !$(this).parent().hasClass('overflow-x-scroll')) { $(this).parent().addClass('overflow-x-scroll'); }
+}else if($(this).parent().hasClass('overflow-x-scroll')){
+$(this).parent().removeClass('overflow-x-scroll'); }
+})
+});
+$(document).ready(function () { $('#pills-tab.tpl-list-10 > li > a').click(function (e) { e.preventDefault(); VHV.App.modules[10].parentId = $(this).attr('data-id'); VHV.App.modules[10].reload(); });
+});
+VHV.using ($.extend(
+$.parseJSON(decode64('eyJsYXlvdXQiOiJDb250ZW50LkFydGljbGUuTGVnYWxEb2N1bWVudC5kZWZhdWx0IiwiaXRlbXNQZXJQYWdlIjoiNSIsIm9yZGVyQnkiOiJzb3J0T3JkZXIgREVTQyIsInBhZ2VObyI6MSwic2VydmljZSI6IkNvbnRlbnQuQXJ0aWNsZS5zZWxlY3RBbGwiLCJ3aWRnZXRDb2RlIjoiNWI3M2UzZjE5MjE4NjUwOTgxMjVlZGI1IiwicGFyZW50SWQiOiIxNzk1MjY2IiwidHlwZSI6IkFydGljbGUuTGVnYWxEb2N1bWVudCIsIl9lbnRpdHlUaXRsZSI6IlZcdTAxMDNuIGJcdTFlYTNuIHBoXHUwMGUxcCBxdXkiLCJjYXRlZ29yeUlkIjoiMTc5NTI2NiIsIl9lbnRpdHlUaXRsZUxDRiI6InZcdTAxMDNuIGJcdTFlYTNuIHBoXHUwMGUxcCBxdXkiLCJ0b3RhbEl0ZW1zIjowLCJ3aWRnZXRUZW1wbGF0ZUlkIjoiNWZmNDM4MjA1MTdjN2IxNzQ4N2UxNTcyIiwiaW1hZ2VTaXplUmF0aW8iOiIxNjo5IiwiZXh0cmFGaWVsZHMiOiJjb2RlIiwiaW5kZXgiOjIsInBhdGgiOiJDb250ZW50In0=')),{"module":"Content.Listing","page":"home","id":"10","modulePosition":"8","moduleParentId":"7"}),{ totalItems: 0, pageNo: 1, itemsPerPage: "5", orderBy: "sortOrder DESC", rootParentId: "1795266" });
+$('#module10 .is-load:first').click(); $('#title10').keypress(function(e){ if(e.which == 13){ VHV.App.modules[10].keyword = $('#title10').val(); }
+});
+;
+$('#categories12 .dropdown-icon').click(function(){ $(this).parent().find('.dropdown-menu').first().animate({ height:'toggle', },350);
+});
+$('#categories12 .toggle').click(function(){ $(this).find('.dropdown-menu').first().animate({ height:'toggle', },350);
+});
+$('#viewMore12').click(function(){ if($(this).hasClass('active')){ $(this).removeClass('active').text('Xem thêm'); $('#categories12 .categoryHidden').toggle(100); }
+else{ $(this).addClass('active').text('Rút gọn'); $('#categories12 .categoryHidden').toggle(100); }
+});
+;
+$('#categories13 .dropdown-icon').click(function(){ $(this).parent().find('.dropdown-menu').first().animate({ height:'toggle', },350);
+});
+$('#categories13 .toggle').click(function(){ $(this).find('.dropdown-menu').first().animate({ height:'toggle', },350);
+});
+$('#viewMore13').click(function(){ if($(this).hasClass('active')){ $(this).removeClass('active').text('Xem thêm'); $('#categories13 .categoryHidden').toggle(100); }
+else{ $(this).addClass('active').text('Rút gọn'); $('#categories13 .categoryHidden').toggle(100); }
+});
+;
+var playlistMedia = []; playlistMedia.push({ 'title' : VHV.notag("Video “Đừng để Thuốc lá điện tử\/Thuốc lá nung nóng (TLĐT\/TLNN) làm hỏng thế hệ tương lai”"), 'link':'/video/video-dung-de-thuoc-la-dien-tu-thuoc-la-nung-nong-tldt-tlnn-lam-hong-the-he-tuong-lai-.html' });
+VHV.load('3rdparty/jwplayer/jwplayer.js', function(){ VHV.load('3rdparty/jwplayer/jwplayer.html5.js', function(){ jwplayer.key="5qMQ1qMprX8KZ79H695ZPnH4X4zDHiI0rCXt1g=="; jwplayer("media-player14").setup({ autostart:false,
+repeat:true, playlist:[ { file: 'https://www.youtube.com/watch?v=8LGV7V4KdZY', image: "\/upload\/2005611\/20241010\/Cac_hinh_anh_TLDT_dep_hap_dan_nguoi_nhin_09880.jpg", aspectratio: '3:2', stretching: "fill" },
+] });
+setInterval(function(){ var index = jwplayer("media-player14").getPlaylistIndex(); for(var i in playlistMedia){ if(i == index){ currentIndex = index; $('#section-video14 .entry-title').html('<a href="'+playlistMedia[i].link+'" title="'+playlistMedia[i].title+'">'+playlistMedia[i].title+'</a>'); }
+}
+}, 1000);
+});
+});
+$(window).resize(function() { $("#section-video14 #media-player14").height(Math.round($('#section-video14 #media-player14').width() * 3/4)) });
+;
+VHV.using ($.extend(
+$.parseJSON(decode64('eyJsYXlvdXQiOiJDb250ZW50LkFydGljbGUuTmV3cy5saXN0VHlwZTEyIiwiaXRlbXNQZXJQYWdlIjoiNiIsInRvdGFsSXRlbXMiOjg0OSwib3JkZXJCeSI6InB1Ymxpc2hUaW1lIERFU0MiLCJwYWdlTm8iOjEsInNlcnZpY2UiOiJDb250ZW50LkFydGljbGUuc2VsZWN0QWxsIiwid2lkZ2V0Q29kZSI6IjViNzJhOTRiOTIxODY1NTQ3NTUwODExNCIsInBhcmVudElkIjoiMTAxNzk1MjY1IiwidHlwZSI6IkFydGljbGUuTmV3cyIsIl9lbnRpdHlUaXRsZSI6IlRpbiB0XHUxZWU5YyIsImNhdGVnb3J5SWQiOiIxMDE3OTUyNjUiLCJfZW50aXR5VGl0bGVMQ0YiOiJ0aW4gdFx1MWVlOWMiLCJ3aWRnZXRUZW1wbGF0ZUlkIjoiNjA1NTU5MjA5ZDcwOGQwODY4M2E2MmVmIiwiaW1hZ2VTaXplUmF0aW8iOiIzOjIiLCJsaW5lQ29udGVudCI6IjQiLCJsaW5lVGl0bGUiOiIyIiwiaGlkZGVuUmVhZE1vcmUiOiIxIiwiaGlkZGVuVGltZSI6IjEiLCJwYXRoIjoiQ29udGVudCJ9')),{"module":"Content.Listing","page":"home","id":"17","modulePosition":"13","moduleParentId":"16"}),'Content.Listing', { itemsPerPage: "6", filters: "", pageNo: 1, totalItems: 849, orderBy: "publishTime DESC", keyword: "", });
+;
+$(window).resize(function() { let boxUl = $('#menu-legal-document-defaul18 .list-menu').width(), widthTitle = $('#menu-legal-document-defaul18 .by-category-title').width(); let widthUl = boxUl - widthTitle - 80; let widthLI = 0; let width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth; $('#pills-tab.tpl-list-18').children().each(function () { widthLI += $(this).width(); if(widthLI > widthUl){ if(width > 1200){ $('#module18').find('.fluid-nav-backup').removeAttr('style'); $('#readmore-li18').append($(this)).removeAttr('style'); }
+if(width < 1200 && !$(this).parent().hasClass('overflow-x-scroll')) { $(this).parent().addClass('overflow-x-scroll'); }
+}else if($(this).parent().hasClass('overflow-x-scroll')){
+$(this).parent().removeClass('overflow-x-scroll'); }
+})
+});
+$(document).ready(function () { $('#pills-tab.tpl-list-18 > li > a').click(function (e) { e.preventDefault(); VHV.App.modules[18].parentId = $(this).attr('data-id'); VHV.App.modules[18].reload(); });
+});
+VHV.using ($.extend(
+$.parseJSON(decode64('eyJsYXlvdXQiOiJDb250ZW50LkFydGljbGUuTGVnYWxEb2N1bWVudC5kZWZhdWx0IiwiaXRlbXNQZXJQYWdlIjoiNSIsInRvdGFsSXRlbXMiOjQ0MCwib3JkZXJCeSI6InNvcnRPcmRlciBERVNDIiwicGFnZU5vIjoxLCJzZXJ2aWNlIjoiQ29udGVudC5BcnRpY2xlLnNlbGVjdEFsbCIsIndpZGdldENvZGUiOiI1YjczZTNmMTkyMTg2NTA5ODEyNWVkYjUiLCJwYXJlbnRJZCI6IjEwMTc5NTI2NiIsInR5cGUiOiJBcnRpY2xlLkxlZ2FsRG9jdW1lbnQiLCJfZW50aXR5VGl0bGUiOiJWXHUwMTAzbiBiXHUxZWEzbiBwaFx1MDBlMXAgcXV5IiwiY2F0ZWdvcnlJZCI6IjEwMTc5NTI2NiIsIl9lbnRpdHlUaXRsZUxDRiI6InZcdTAxMDNuIGJcdTFlYTNuIHBoXHUwMGUxcCBxdXkiLCJ3aWRnZXRUZW1wbGF0ZUlkIjoiNWZmNDM4MjA1MTdjN2IxNzQ4N2UxNTcyIiwiaW1hZ2VTaXplUmF0aW8iOiIxNjo5IiwiZXh0cmFGaWVsZHMiOiJjb2RlIiwiaW5kZXgiOjEsInBhdGgiOiJDb250ZW50In0=')),{"module":"Content.Listing","page":"home","id":"18","modulePosition":"14","moduleParentId":"16"}),{ totalItems: 440, pageNo: 1, itemsPerPage: "5", orderBy: "sortOrder DESC", rootParentId: "101795266" });
+$('#module18 .is-load:first').click(); $('#title18').keypress(function(e){ if(e.which == 13){ VHV.App.modules[18].keyword = $('#title18').val(); }
+});
+;
+$(window).resize(function() { let boxUl = $('#list-menu20').width(), widthTitle = $('#list-menu20 > .by-category-title').width(); let widthUl = boxUl - widthTitle - 80; let widthLI = 0; let width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth; $('#pills-tab.tpl-list-20').children().each(function () { widthLI += $(this).width(); if(widthLI > widthUl){ if(width > 1200){ $('#module20').find('.fluid-nav-backup').removeAttr('style'); $('#readmore-li20').append($(this)).removeAttr('style'); }
+if(width < 1200 && !$(this).parent().hasClass('overflow-x-scroll')) { $(this).parent().addClass('overflow-x-scroll'); }
+}else if($(this).parent().hasClass('overflow-x-scroll')){
+$(this).parent().removeClass('overflow-x-scroll'); }
+})
+});
+$(document).ready(function () { $('#pills-tab.tpl-list-20 > li > a').click(function (e) { e.preventDefault(); VHV.App.modules[20].parentId = $(this).attr('data-id'); VHV.App.modules[20].reload(); });
+});
+VHV.using ($.extend(
+$.parseJSON(decode64('eyJsYXlvdXQiOiJDb250ZW50LkFydGljbGUuTmV3cy5oaWdoTGlnaHRUeXBlMTIiLCJpdGVtc1BlclBhZ2UiOiI1IiwidG90YWxJdGVtcyI6NTQ4LCJvcmRlckJ5IjoicHVibGlzaFRpbWUgREVTQyIsInBhZ2VObyI6MSwic2VydmljZSI6IkNvbnRlbnQuQXJ0aWNsZS5zZWxlY3RBbGwiLCJ3aWRnZXRDb2RlIjoiNWI3MmE5NGI5MjE4NjU1NDc1NTA4MTE0IiwicGFyZW50SWQiOiIxMDE4MTk0NTIiLCJ0eXBlIjoiQXJ0aWNsZS5OZXdzIiwiX2VudGl0eVRpdGxlIjoiVGluIHRcdTFlZTljIiwiY2F0ZWdvcnlJZCI6IjEwMTgxOTQ1MiIsIl9lbnRpdHlUaXRsZUxDRiI6InRpbiB0XHUxZWU5YyIsIndpZGdldFRlbXBsYXRlSWQiOiI2MGJhZTQwZWRkNWQ3YzUyZDMzNTFlZDUiLCJpbWFnZVNpemVSYXRpbyI6IjM6MiIsIml0ZW1zSW5Sb3ciOiIxIiwiaW5kZXgiOjMsInBhdGgiOiJDb250ZW50In0=')),{"module":"Content.Listing","page":"home","id":"20","modulePosition":"16","moduleParentId":"16"}),{ itemsPerPage: "5", pageNo: 1, totalItems: 548, orderBy: "publishTime DESC", rootParentId: "101819452" });
+$('#module20 .is-load:first').click(); ;
+$(window).resize(function() { let boxUl = $('#list-menu22').width(), widthTitle = $('#list-menu22 > .by-category-title').width(); let widthUl = boxUl - widthTitle - 80; let widthLI = 0; let width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth; $('#pills-tab.tpl-list-22').children().each(function () { widthLI += $(this).width(); if(widthLI > widthUl){ if(width > 1200){ $('#module22').find('.fluid-nav-backup').removeAttr('style'); $('#readmore-li22').append($(this)).removeAttr('style'); }
+if(width < 1200 && !$(this).parent().hasClass('overflow-x-scroll')) { $(this).parent().addClass('overflow-x-scroll'); }
+}else if($(this).parent().hasClass('overflow-x-scroll')){
+$(this).parent().removeClass('overflow-x-scroll'); }
+})
+});
+$(document).ready(function () { $('#pills-tab.tpl-list-22 > li > a').click(function (e) { e.preventDefault(); VHV.App.modules[22].parentId = $(this).attr('data-id'); VHV.App.modules[22].reload(); });
+});
+VHV.using ($.extend(
+$.parseJSON(decode64('eyJsYXlvdXQiOiJDb250ZW50LkFydGljbGUuTmV3cy5oaWdoTGlnaHRUeXBlMTIiLCJpdGVtc1BlclBhZ2UiOiI1IiwidG90YWxJdGVtcyI6MzMsIm9yZGVyQnkiOiJwdWJsaXNoVGltZSBERVNDIiwicGFnZU5vIjoxLCJzZXJ2aWNlIjoiQ29udGVudC5BcnRpY2xlLnNlbGVjdEFsbCIsIndpZGdldENvZGUiOiI1YjcyYTk0YjkyMTg2NTU0NzU1MDgxMTQiLCJwYXJlbnRJZCI6IjEwMTgxOTQ2NiIsInR5cGUiOiJBcnRpY2xlLk5ld3MiLCJfZW50aXR5VGl0bGUiOiJUaW4gdFx1MWVlOWMiLCJjYXRlZ29yeUlkIjoiMTAxODE5NDY2IiwiX2VudGl0eVRpdGxlTENGIjoidGluIHRcdTFlZTljIiwid2lkZ2V0VGVtcGxhdGVJZCI6IjYwYmFlNDBlZGQ1ZDdjNTJkMzM1MWVkNSIsImltYWdlU2l6ZVJhdGlvIjoiMzoyIiwiaXRlbXNJblJvdyI6IjEiLCJpbmRleCI6NSwicGF0aCI6IkNvbnRlbnQifQ==')),{"module":"Content.Listing","page":"home","id":"22","modulePosition":"18","moduleParentId":"16"}),{ itemsPerPage: "5", pageNo: 1, totalItems: 33, orderBy: "publishTime DESC", rootParentId: "101819466" });
+$('#module22 .is-load:first').click();  
+  
+  
+  
+  
+  
+  
+function getCssVariableAsRgba(variableName, alpha = 1) {
+let hex = getComputedStyle(document.documentElement).getPropertyValue(variableName).trim();
+if (!hex || !hex.startsWith("#") || (hex.length !== 4 && hex.length !== 7)) {
+console.error("Giá trị màu không hợp lệ:", hex);
+return null;
+}
+let r, g, b;
+if (hex.length === 4) {
+r = parseInt(hex[1] + hex[1], 16);
+g = parseInt(hex[2] + hex[2], 16);
+b = parseInt(hex[3] + hex[3], 16);
+} else {
+r = parseInt(hex.slice(1, 3), 16);
+g = parseInt(hex.slice(3, 5), 16);
+b = parseInt(hex.slice(5, 7), 16);
+}
+return 'rgba('+r+','+g+','+b+', '+alpha+')';
+}
+function setCssVariable(variableName, value) {
+document.documentElement.style.setProperty(variableName, value);
+}
+setCssVariable("--brand-primary-10",getCssVariableAsRgba("--brand-primary", .1));
+setCssVariable("--brand-primary-15",getCssVariableAsRgba("--brand-primary", .15));
+setCssVariable("--brand-primary-20",getCssVariableAsRgba("--brand-primary", .2));
+setCssVariable("--brand-primary-30",getCssVariableAsRgba("--brand-primary", .3));
+setCssVariable("--brand-primary-35",getCssVariableAsRgba("--brand-primary", .35));
+$('.btn-action-primary, .btn-action-info, .excel-action, .btn-default').addClass('btn-secondary text-medium');
+</script>
+  
+  
+  
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/3rdparty/Bootstrap/dist/css/bootstrap-ie7.css?v=1.522"/>
+<![endif]-->
+</html>
+  
+ 

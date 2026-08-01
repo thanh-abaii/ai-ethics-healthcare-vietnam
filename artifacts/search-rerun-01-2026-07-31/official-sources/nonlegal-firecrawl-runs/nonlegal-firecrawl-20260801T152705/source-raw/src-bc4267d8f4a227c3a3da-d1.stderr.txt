@@ -1,0 +1,17 @@
+Scrape ID: 019fbc92-983d-75fd-9896-579c89f4b2f3
+'p_p_lifecycle' is not recognized as an internal or external command,
+operable program or batch file.
+'p_p_state' is not recognized as an internal or external command,
+operable program or batch file.
+'p_p_mode' is not recognized as an internal or external command,
+operable program or batch file.
+'p_p_col_id' is not recognized as an internal or external command,
+operable program or batch file.
+'p_p_col_count' is not recognized as an internal or external command,
+operable program or batch file.
+'_vanbanthuhoi_WAR_trangthietbiyteportlet_hoSoId' is not recognized as an internal or external command,
+operable program or batch file.
+'_vanbanthuhoi_WAR_trangthietbiyteportlet_redirectVanBanURL' is not recognized as an internal or external command,
+operable program or batch file.
+'_vanbanthuhoi_WAR_trangthietbiyteportlet_jspPage' is not recognized as an internal or external command,
+operable program or batch file.

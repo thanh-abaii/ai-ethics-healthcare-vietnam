@@ -1,0 +1,15 @@
+{
+  "Content-Type": "text/html; charset=utf-8",
+  "X-Akamai-Transformed": "9 - 0 pmb=mRUM,2",
+  "Vary": "Accept-Encoding",
+  "Expires": "Sat, 01 Aug 2026 09:47:13 GMT",
+  "Cache-Control": "max-age=0, no-cache, no-store",
+  "Pragma": "no-cache",
+  "Date": "Sat, 01 Aug 2026 09:47:13 GMT",
+  "Transfer-Encoding": "chunked",
+  "Connection": "Transfer-Encoding",
+  "Server-Timing": "ak_p; desc=\"1785577632399_387978373_221407735_42550_14120_150_536_-\";dur=1",
+  "Alt-Svc": "h3=\":443\"; ma=93600",
+  "Akamai-Cache-Status": "NotCacheable from child",
+  "Akamai-GRN": "0.85142017.1785577632.d3269f7"
+}

@@ -1,0 +1,539 @@
+ 
+<!DOCTYPE html><html lang="vi"><head>
+  
+<title>Tìm kiếm</title>
+  
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  
+  
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  
+<meta name="description" content="Tìm kiếm"/>
+<meta name="keywords" content=""/>
+<meta name="Author" content="Cục quản lý Khám chữa bệnh" />
+<meta name="copyright" content="Cục quản lý Khám chữa bệnh" />
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,300;1,400;1,500;1,600;1,700;1,800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet"> 
+  
+  
+<meta property="fb:app_id" content="1396997063955601"/>
+  
+  
+  
+  
+  
+<meta property="og:image" content="https://kcb.vn/upload/2005611/20210712/logo_header_e3e4f.png"/>
+<link rel="image_src" href="https://kcb.vn/upload/2005611/20210712/logo_header_e3e4f.png"/>
+  
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="kcb.vn" />
+<meta property="og:title" content="Tìm kiếm" />
+<meta property="og:description" content="" />
+  
+  
+  
+<link href="/upload/2005611/20220525/favicon_boyte_7edd15f48a.png" rel="shortcut icon" type="image/x-icon" />
+  
+<link rel="preload" href="/css/1.522204209/2005611/3324/style.css?204209" as="style">
+<link type="text/css" rel="stylesheet" href="/css/1.522204209/2005611/3324/style.css?204209"/>
+  
+<link rel="preload" as="script" href="/publish/js/lib2-1.522.min.js?204209">
+<!-- <link rel="stylesheet" type="text/css" href="/3rdparty/font-awesome-5.13.1/css/all.min.css"/> -->
+<link href="/3rdparty/vhv-font/vhv.css?1.522" rel="stylesheet" type="text/css">
+<link type="text/css" rel="stylesheet" href="/Common/css/newUI.css"/>
+  
+  
+  
+  
+</head><body  style="padding:0px;margin:0px;" >
+  
+  
+  
+  
+<style>
+input[type="password"]::-ms-reveal{
+display: none;
+}
+body #loader{
+top:50% !important;
+left: 50% !important;
+transform: translate(-50%, -50%);
+}
+</style>
+ 
+<div class="region-top"><div id="module4" class="ModuleWrapper  wrapper-header" ><div class="container">  <div id="module5" class="ModuleWrapper" ><div class="header-commerce"> <div class="banner-top row"> <div class="col-lg-8 col-md-8 col-xs-12 col-sm-12 logo-col"> <div class="logo"> <a title="Cục quản lý Khám chữa bệnh" href="https://kcb.vn/"> <img alt="Cục quản lý Khám chữa bệnh" src="/upload/2005611/20210712/logo_header_e3e4f.png">
+ </a> </div> <div class="logo-info ml-10"> <div class="governingUnit">Bộ y tế</div> <div class="title">Cục quản lý Khám chữa bệnh</div> <div class="companyName">Department of medical service administration - Ministry of health, Viet Nam</div> </div> </div> <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 search-column"> <div class="header-support d-inline-b a-middle"> <a class="rss mr-10" href="https://kcb.vn/page/sitemap">Site map</a> <span>|</span> <a class="contact ml-10" href="https://kcb.vn/page/contact">Liên hệ</a> </div> <div class="wrapper-search-language row"> <div class="header-search col-md-9"> <form id="form5" class="search-form" action="/"> <input type="hidden" name="site" value="2005611" /> <input type="hidden" name="page" value="search" /> <div class="search-form-inner d-table wp-100"> <div class="frm-row d-table-c a-middle"> <div class="d-table"> <input type="text" value="(\artificial intelligence\&quot; OR AI) AND (\&quot;post-implementation monitoring\&quot; OR \&quot;post-market surveillance\&quot; OR \&quot;incident reporting\&quot; OR \&quot;quality management\&quot; OR \&quot;effectiveness evaluation\&quot; OR audit) AND (Vietnam OR \&quot;Viet Nam\&quot;) AND (health OR hospital OR \&quot;provincial health department\&quot;)&quot;" placeholder="Tìm kiếm..." name="keyword" class="input-group-field form-control"> <span class="input-group-btn"> <button class="btn btn-search" title="Tìm kiếm"> <i class="vi vi-search"></i> </button> </span> </div> </div> </div> <input type="hidden" name="securityToken" value="23eae91a718db03bfc89c8dc13ad52223fc54f17e9712934b4fb26a0d5c973eb"><input type="hidden" name="submitFormId" value="5"><input type="hidden" name="moduleId" value="5"></form> </div> <div class="language col-md-3"> <select class="form-control" id="change-select5"> <option value="javascript:;">VN</option> <option value="javascript:;">EN</option> </select> </div> </div> </div> </div></div></div>  
+</div></div><div id="module6" class="ModuleWrapper" ><nav aria-label="Thực đơn" id="menu6" class="navigation-menu-default-type1 navigation-menu-default-type2 no-logo" style="overflow: hidden;">
+ <div class="navbar navbar-default"> <div class="container container-has-link">
+ <div class="row has-link-right relative">
+ <div class="navbar-header">   <div class="link-right mobile link-right-header"> <div class="wrapper-date-time"> <div class="time-news"> <div class="top-header clearfix"> <div class="time-header"> <div class="clock clearfix"> <div id="Date"></div> <ul class="list-inline"> <li id="hours"></li> <li id="point">:</li> <li id="min"></li> <li id="point">:</li> <li id="sec"></li> </ul> <span id="am-pm"></span> <div class="clear-both"></div> </div> </div> </div> </div> </div>     </div>     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse-6" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> </div> <div class="collapse navbar-collapse fluid-nav sidebar-collapse" id="bs-navbar-collapse-6">
+ <div class="intestine-collapse">       <ul id="fluid-nav-positive6" role="tablist" class="nav navbar-nav fluid-nav-positive">
+   <li  role="presentation" class="item home-page li-home" data-id="101795264" >
+ <a rel="noopener" href="/"  title="Trang chủ" >
+       <i class="vi vi-home" ></i>     <span class="title">Trang chủ</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101795265" style="display:none;">
+ <a rel="noopener" href="/tin-tuc"  title="Tin tức" >
+         <span class="title">Tin tức</span>     </a>     </li>   <li  role="presentation" class="item dropdown" data-id="101795266" style="display:none;">
+ <a rel="noopener" href="/van-ban"  title="Văn bản" >
+         <span class="title">Văn bản</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item dropdown has-child" data-id="101795515" >
+ <a rel="noopener" href="/van-ban/chi-dao-dieu-hanh"  title="Chỉ đạo điều hành" >
+         <span class="title">Chỉ đạo điều hành</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101795268" >
+ <a rel="noopener" href="/cong-van"  title="Công văn" >
+         <span class="title">Công văn</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819450" >
+ <a rel="noopener" href="/van-ban/chi-dao-dieu-hanh/chi-thi-quyet-dinh"  title="Chỉ thị, Quyết định" >
+         <span class="title">Chỉ thị, Quyết định</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819451" >
+ <a rel="noopener" href="/van-ban/chi-dao-dieu-hanh/van-ban-qppl"  title="Văn bản QPPL" >
+         <span class="title">Văn bản QPPL</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item" data-id="101795516" >
+ <a rel="noopener" href="/van-ban/van-ban-phap-quy"  title="Văn bản pháp quy" >
+         <span class="title">Văn bản pháp quy</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101795269" >
+ <a rel="noopener" href="/du-thao"  title="Dự thảo xin ý kiến" >
+         <span class="title">Dự thảo xin ý kiến</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item dropdown" data-id="101819452" style="display:none;">
+ <a rel="noopener" href="/cac-chuyen-muc-khac"  title="Lĩnh vực quản lý" >
+         <span class="title">Lĩnh vực quản lý</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101795271" >
+ <a rel="noopener" href="/chat-luong"  title="Quản lý chất lượng" >
+         <span class="title">Quản lý chất lượng</span>     </a>     </li>   <li  role="presentation" class="item dropdown has-child" data-id="101795273" >
+ <a rel="noopener" href="/hanh-nghe"  title="Quản lý hành nghề KCB" >
+         <span class="title">Quản lý hành nghề KCB</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="5264838" >
+ <a rel="noopener" href="/hanh-nghe/danh-sach-co-so-kbcb-du-dieu-kien-huong-dan-thuc-hanh"  title="Danh sách Cơ sở KBCB đủ điều kiện hướng dẫn thực hành" >
+         <span class="title">Danh sách Cơ sở KBCB đủ điều kiện hướng dẫn thực hành</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item" data-id="101797445" >
+ <a rel="noopener" href="/kham-chua-benh/can-thiep-som-tu-ky"  title="Phục hồi chức năng" >
+         <span class="title">Phục hồi chức năng</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819456" >
+ <a rel="noopener" href="/cac-chuyen-muc-khac/giam-dinh-y-khoa"  title="Giám định y khoa" >
+         <span class="title">Giám định y khoa</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819457" >
+ <a rel="noopener" href="/cac-chuyen-muc-khac/dieu-duong-ksnk-dinh-duong"  title="Điều dưỡng – KSNK- Dinh dưỡng" >
+         <span class="title">Điều dưỡng – KSNK- Dinh dưỡng</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819458" >
+ <a rel="noopener" href="https://hoinhap.kcb.vn/" target="_blank" title="Hội nhập" >
+         <span class="title">Hội nhập</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101796492" >
+ <a rel="noopener" href="/hma"  title="Hội nghị quản lý bệnh viện Châu Á" >
+         <span class="title">Hội nghị quản lý bệnh viện Châu Á</span>     </a>     </li>   <li  role="presentation" class="item" data-id="5274715" >
+ <a rel="noopener" href="/cac-chuyen-muc-khac/du-lich-y-te"  title="Du lịch Y tế" >
+         <span class="title">Du lịch Y tế</span>     </a>     </li>   <li  role="presentation" class="item dropdown has-child" data-id="101819460" >
+ <a rel="noopener" href="/cac-chuyen-muc-khac/chuong-trinh-cham-soc-suc-khoe"  title="Chương trình chăm sóc sức khỏe" >
+         <span class="title">Chương trình chăm sóc sức khỏe</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101819461" >
+ <a rel="noopener" href="https://vilaphoikhoe.kcb.vn/" target="_blank" title="Vì lá phổi khỏe Việt Nam" >
+         <span class="title">Vì lá phổi khỏe Việt Nam</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819462" >
+ <a rel="noopener" href="http://daithaoduong.kcb.vn/" target="_blank" title="Đái tháo đường" >
+         <span class="title">Đái tháo đường</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819463" >
+ <a rel="noopener" href="https://dotquy.kcb.vn/" target="_blank" title="Phòng chống đột quỵ" >
+         <span class="title">Phòng chống đột quỵ</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819465" >
+ <a rel="noopener" href="/cac-chuyen-muc-khac/chuong-trinh-cham-soc-suc-khoe/phong-chong-khang-thuoc"  title="Phòng chống kháng thuốc" >
+         <span class="title">Phòng chống kháng thuốc</span>     </a>     </li>     </ul>   </li>     </ul>   </li>   <li  role="presentation" class="item dropdown" data-id="101795267" style="display:none;">
+ <a rel="noopener" href="/kham-chua-benh"  title="Khám chữa bệnh" >
+         <span class="title">Khám chữa bệnh</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item dropdown has-child" data-id="101795286" >
+ <a rel="noopener" href="/kham-chua-benh/phuc-hoi-chuc-nang"  title="Phục hồi chức năng" >
+         <span class="title">Phục hồi chức năng</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101795511" >
+ <a rel="noopener" href="/kham-chua-benh/phuc-hoi-chuc-nang/giam-dinh"  title="Giám định" >
+         <span class="title">Giám định</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101795512" >
+ <a rel="noopener" href="/kham-chua-benh/phuc-hoi-chuc-nang/khac-phuc-hau-qua"  title="Khắc phục hậu quả" >
+         <span class="title">Khắc phục hậu quả</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101795513" >
+ <a rel="noopener" href="/kham-chua-benh/phuc-hoi-chuc-nang/hop-tac-quoc-te"  title="Hợp tác quốc tế" >
+         <span class="title">Hợp tác quốc tế</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101795514" >
+ <a rel="noopener" href="/kham-chua-benh/phuc-hoi-chuc-nang/kham-suc-khoe"  title="Khám sức khỏe" >
+         <span class="title">Khám sức khỏe</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item" data-id="101795287" >
+ <a rel="noopener" href="/kham-chua-benh/dieu-duong"  title="Điều dưỡng" >
+         <span class="title">Điều dưỡng</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item dropdown" data-id="101795272" style="display:none;">
+ <a rel="noopener" href="/thong-tin"  title="Thông tin" >
+         <span class="title">Thông tin</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101795270" >
+ <a rel="noopener" href="/ban-do-co-so-y-te"  title="Bản đồ cơ sở y tế" >
+         <span class="title">Bản đồ cơ sở y tế</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item dropdown" data-id="101819466" style="display:none;">
+ <a rel="noopener" href="/tai-lieu"  title="Tài liệu" >
+         <span class="title">Tài liệu</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="5261268" >
+ <a rel="noopener" href="/tai-lieu/tai-lieu-ve-cham-soc-mat"  title="Tài liệu về chăm sóc mắt" >
+         <span class="title">Tài liệu về chăm sóc mắt</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819467" >
+ <a rel="noopener" href="/tai-lieu/quy-trinh-ky-thuat"  title="Quy trình kỹ thuật" >
+         <span class="title">Quy trình kỹ thuật</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819468" >
+ <a rel="noopener" href="/tai-lieu/huong-dan-chan-doan-dieu-tri"  title="Hướng dẫn chẩn đoán, điều trị" >
+         <span class="title">Hướng dẫn chẩn đoán, điều trị</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819469" >
+ <a rel="noopener" href="/tai-lieu/tai-lieu-lien-quan-den-covid-19"  title="Tài liệu liên quan đến Covid-19" >
+         <span class="title">Tài liệu liên quan đến Covid-19</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819470" >
+ <a rel="noopener" href="/tai-lieu/tai-lieu-hoi-nghi-tap-huan"  title="Tài liệu Hội nghị, tập huấn" >
+         <span class="title">Tài liệu Hội nghị, tập huấn</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item" data-id="101795274" style="display:none;">
+ <a rel="noopener" href="/quy-trinh"  title="Quy trình kỹ thuật" >
+         <span class="title">Quy trình kỹ thuật</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101796520" style="display:none;">
+ <a rel="noopener" href="/phac-do"  title="Hướng dẫn chẩn đoán, điều trị" >
+         <span class="title">Hướng dẫn chẩn đoán, điều trị</span>     </a>     </li>   <li  role="presentation" class="item dropdown" data-id="101819472" style="display:none;">
+ <a rel="noopener" href="/dich-vu"  title="Dịch vụ" >
+         <span class="title">Dịch vụ</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101820650" >
+ <a rel="noopener" href="http://ktbv.kcb.vn" target="_blank" title="KIỂM TRA ĐÁNH GIÁ CHẤT LƯỢNG BỆNH VIỆN" >
+         <span class="title">KIỂM TRA ĐÁNH GIÁ CHẤT LƯỢNG BỆNH VIỆN</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101820651" >
+ <a rel="noopener" href="https://chatluongbenhvien.vn/" target="_blank" title="HÀI LÒNG NGƯỜI BỆNH VÀ NVYT" >
+         <span class="title">HÀI LÒNG NGƯỜI BỆNH VÀ NVYT</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819474" >
+ <a rel="noopener" href="https://cdc.kcb.vn/" target="_blank" title="Hệ thống thông tin quản lý khám chữa bệnh" >
+         <span class="title">Hệ thống thông tin quản lý khám chữa bệnh</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819464" >
+ <a rel="noopener" href="https://nkt.kcb.vn" target="_blank" title="Quản lý thông tin người khuyết tật" >
+         <span class="title">Quản lý thông tin người khuyết tật</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101819476" >
+ <a rel="noopener" href="http://icd10ev.kcb.vn/" target="_blank" title="ICD-10 Tập 1 (Song ngữ)" >
+         <span class="title">ICD-10 Tập 1 (Song ngữ)</span>     </a>     </li>   <li  role="presentation" class="item" data-id="5265406" >
+ <a rel="noopener" href="http://icd9ev.kcb.vn" target="_blank" title="ICD-9 CM Tập 3 (Song ngữ)" >
+         <span class="title">ICD-9 CM Tập 3 (Song ngữ)</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item dropdown" data-id="101820649" style="display:none;">
+ <a rel="noopener" href="/video"  title="Kênh Video" >
+         <span class="title">Kênh Video</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101821583" >
+ <a rel="noopener" href="https://www.youtube.com/channel/UCyqTNxm9KPR0T6e1raVrsuA" target="_blank" title="Kênh Video" >
+         <span class="title">Kênh Video</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item" data-id="101821587" style="display:none;">
+ <a rel="noopener" href="/gioi-thieu?categoryId=101821587"  title="Giới thiệu" >
+         <span class="title">Giới thiệu</span>     </a>     </li>   <li  role="presentation" class="item dropdown" data-id="101821692" style="display:none;">
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh"  title="LỊCH SỬ 70 NĂM HÌNH THÀNH VÀ PHÁT TRIỂN CỤC QUẢN LÝ KHÁM CHỮA BỆNH" >
+         <span class="title">LỊCH SỬ 70 NĂM HÌNH THÀNH VÀ PHÁT TRIỂN CỤC QUẢN LÝ KHÁM CHỮA BỆNH</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101821693" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/loi-gioi-thieu"  title="Lời giới thiệu" >
+         <span class="title">Lời giới thiệu</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821801" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/qua-trinh-hinh-thanh-va-phat-trien"  title="Quá trình hình thành và phát triển" >
+         <span class="title">Quá trình hình thành và phát triển</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821802" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/qua-trinh-hoat-dong"  title="Quá trình hoạt động" >
+         <span class="title">Quá trình hoạt động</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821803" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/danh-muc-van-ban-da-ban-hanh"  title="Danh mục văn bản đã ban hành" >
+         <span class="title">Danh mục văn bản đã ban hành</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821804" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/nhung-phan-thuong-cao-quy"  title="Những phần thưởng cao quý" >
+         <span class="title">Những phần thưởng cao quý</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821805" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/dinh-huong-chinh-sach-kham-chua-benh"  title="Định hướng chính sách khám chữa bệnh" >
+         <span class="title">Định hướng chính sách khám chữa bệnh</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821806" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/chuc-nang-nhiem-vu-hien-nay"  title="Chức năng nhiệm vụ hiện nay" >
+         <span class="title">Chức năng nhiệm vụ hiện nay</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821807" >
+ <a rel="noopener" href="/lich-su-60-nam-hinh-thanh-va-phat-trien-cuc-quan-ly-kham-chua-benh/co-cau-to-chuc-hien-nay"  title="Cơ cấu tổ chức hiện nay" >
+         <span class="title">Cơ cấu tổ chức hiện nay</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item dropdown" data-id="101821694" style="display:none;">
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc"  title="GIỚI THIỆU CÁC PHÒNG CỦA CỤC" >
+         <span class="title">GIỚI THIỆU CÁC PHÒNG CỦA CỤC</span>     <span class="caret" style="margin-left:5px;"></span>   </a>   <a class="dropdown-toggle" href="javascript:void(0);"><i class="vi vi-plus"></i></a>     <ul  class=" dropdown-menu">
+   <li  role="presentation" class="item" data-id="101821808" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/cac-dong-chi-lanh-dao-cuc-duong-nhiem"  title="Các đồng chí Lãnh đạo Cục đương nhiệm" >
+         <span class="title">Các đồng chí Lãnh đạo Cục đương nhiệm</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821809" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/van-phong-cuc"  title="Văn phòng Cục" >
+         <span class="title">Văn phòng Cục</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821810" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/phong-nghiep-vu"  title="Phòng Nghiệp vụ" >
+         <span class="title">Phòng Nghiệp vụ</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821811" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/phong-dieu-duong-tiet-che"  title="Phòng Điều dưỡng - Dinh dưỡng - Kiểm soát nhiễm khuẩn" >
+         <span class="title">Phòng Điều dưỡng - Dinh dưỡng - Kiểm soát nhiễm khuẩn</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821812" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/phong-phuc-hoi-chuc-nang-va-giam-dinh"  title="Phòng Phục hồi chức năng và Giám định" >
+         <span class="title">Phòng Phục hồi chức năng và Giám định</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821814" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/phong-quan-ly-hanh-nghe-kham-chua-benh"  title="Phòng Quản lý hành nghề khám, chữa bệnh" >
+         <span class="title">Phòng Quản lý hành nghề khám, chữa bệnh</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821815" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/phong-quan-ly-chat-luong-va-chuyen-giao-ky-thuat"  title="Phòng Quản lý Chất lượng và Chuyển giao kỹ thuật" >
+         <span class="title">Phòng Quản lý Chất lượng và Chuyển giao kỹ thuật</span>     </a>     </li>   <li  role="presentation" class="item" data-id="101821819" >
+ <a rel="noopener" href="/gioi-thieu-cac-phong-cua-cuc/trung-tam-phat-trien-nang-luc-quan-ly-kham-chua-benh"  title="Trung tâm Phát triển năng lực quản lý khám, chữa bệnh" >
+         <span class="title">Trung tâm Phát triển năng lực quản lý khám, chữa bệnh</span>     </a>     </li>     </ul>   </li>   <li  role="presentation" class="item" data-id="101796519" style="display:none;">
+ <a rel="noopener" href="/thu-vien-tai-lieu"  title="Tài liệu khác" >
+         <span class="title">Tài liệu khác</span>     </a>     </li>     </ul>   <div class="fluid-nav-backup nav-backup" style="display: none;"> <a id="fluid-nav-toggle6" class="fluid-nav-toggle dropdown-toggle" data-toggle="dropdown" href="javascript: void(0)"><i class="vi vi-dots-vertical" ></i></a> <ul id="fluid-nav-negative6" class="fluid-nav-negative dropdown-menu2 dropdown-menu-right" role="menu" style="display: none;"> </ul> </div> </div> </div>   <div class="link-right desktop text-center">     <a id="open-search6" class="btn-open-search" title="Tìm kiếm"><i class="vi vi-search" ></i></a>       </div>     <div id="div-search6" class="search"> <form id="form6" class="sear-form" method="post"> <input name="page" value="search" type="hidden" /> <div> <div class="input-inner">     <input class="form-control" fixedName="keyword6" name="keyword" placeholder="Tìm kiếm..." value="(\artificial intelligence\&amp;quot; OR AI) AND (\&amp;quot;post-implementation monitoring\&amp;quot; OR \&amp;quot;post-market surveillance\&amp;quot; OR \&amp;quot;incident reporting\&amp;quot; OR \&amp;quot;quality management\&amp;quot; OR \&amp;quot;effectiveness evaluation\&amp;quot; OR audit) AND (Vietnam OR \&amp;quot;Viet Nam\&amp;quot;) AND (health OR hospital OR \&amp;quot;provincial health department\&amp;quot;)&amp;quot;"/>
+   <button class="btn btn-submit show-in-pc" type="submit"><i class="vi vi-search"></i></button>   </div> </div> <input type="hidden" name="site" value="2005611" /> <input type="hidden" name="securityToken" value="23eae91a718db03bfc89c8dc13ad52223fc54f17e9712934b4fb26a0d5c973eb"><input type="hidden" name="submitFormId" value="6"><input type="hidden" name="moduleId" value="6"></form> </div>   </div> </div> </div></nav><style> .wrapper-date-time .top-header { padding: 0; background: #fff; }
+ .wrapper-date-time .top-header .clock { font-size: 1.5rem; font-weight: 600; }
+ .wrapper-date-time .top-header .clock #Date{ float: left; }
+ ul.list-inline{ float: left; margin-left: 10px; }
+ .wrapper-date-time .top-header .clock ul li { padding: 0; }
+ .wrapper-date-time .top-header .clock ul { margin-bottom: 0; }
+ /**/
+ @media(max-width: 768px){ .body-menu-action.overflow-hidden{ overflow: hidden; }
+ }
+ /**/
+ .image-logo-menu-scoll{ display: block !important; }
+ /**/
+ /**/
+ /**/
+ @media (max-width: 768px) { #menu6 .navbar-brand img{ .logo{ max-width:290px; }
+ }
+ #menu6 .navbar-collapse { position: fixed; z-index: 10000000001 !important; top: 0 !important; border: none; display: block; /**/
+ left: -280px; /**/
+ width: 280px; bottom: 0; height: 100%; padding-top: 20px; transition: all 0.3s; }
+ #menu6 .navbar-collapse.open-sidebar { /**/
+ left: 0; /**/
+ transition: all 0.3s; }
+ #menu6 .navbar-collapse .navbar-nav > li > a { color: #fff !important; border-top: 1px solid rgba(255, 255, 255, 0.3); }
+ .navbar-collapse .navbar-nav > li > .dropdown-toggle { color: #fff !important; }
+ #menu6 .navbar-collapse .navbar-nav > li.active > a { font-weight: bold; color: #fff !important; }
+ #menu6 .navbar-collapse .navbar-nav > li > .dropdown-menu { margin-left: 0; width: 100%; margin-bottom:0; }
+ body.overhidden{ position: relative; overflow-x: hidden; transition: all 0.3s; -webkit-transition: all 0.3s; }
+ body.overhidden:before{ content:""; display: inline-block; left: 0; bottom: 0; top: 0; right: 0; background: rgba(0, 0, 0, 0.8); z-index:1000; position:absolute; }
+ body.overhidden .navbar-header{ display: none; }
+ }
+   .navigation-menu-default-type1 .navbar-nav li a span{ white-space: break-spaces; }
+ @media(max-width: 768px) { .navigation-menu-default-type1.no-logo .navbar-default{ min-height: auto; }
+ .navigation-menu-default-type1.no-logo .navbar-default .navbar-header{ background: none; }
+ .navigation-menu-default-type1.no-logo .navbar-default .navbar-header .navbar-toggle{ background: rgba(245,245,245,0.66); }
+ .navigation-menu-default-type1 .navbar-collapse{ overflow-y: auto !important; }
+ }
+ @media(min-width: 769px){ .navigation-menu-default-type1 .fluid-nav-backup .dropdown-menu-right li a:hover{ color: var(--link-hover-color); }
+ .navigation-menu-default-type1 .fluid-nav-backup>a{ color: var(--text-color); }
+ .navigation-menu-default-type1 .hidden-desktop-time{ display: none; }
+ }
+</style></div></div><div class="region-full-content"></div><div id="whole-page" class="container"  ><div id="module7" class="ModuleWrapper table-seach partner pb-20" ><div class="table-seach partner pb-20"><div id="column1-7" class="column1 container ">
+  <div class="foverlay"></div>  <div class="columns-widget row">  <div class="col-md-12 col-xs-12 col-sm-12"><div id="module8" class="ModuleWrapper" ><div class="widget-space" style="height:20px;" class="clearfix"></div>
+</div><div id="module9" class="ModuleWrapper" ><div class="client-search-page search-page 1111 padding-top-xl padding-bottom-xl"> <div class="wrap-list-type"> <ul class="list-type clearfix"> <li> <a class="filters-link  active  Article" href="https://kcb.vn/page/search?&keyword=%28%5Cartificial+intelligence%5C%22+OR+AI%29+AND+%28%5C%22post-implementation+monitoring%5C%22+OR+%5C%22post-market+surveillance%5C%22+OR+%5C%22incident+reporting%5C%22+OR+%5C%22quality+management%5C%22+OR+%5C%22effectiveness+evaluation%5C%22+OR+audit%29+AND+%28Vietnam+OR+%5C%22Viet+Nam%5C%22%29+AND+%28health+OR+hospital+OR+%5C%22provincial+health+department%5C%22%29%22">Tất cả <span class="badge">0</span></a>
+ </li>   <li> <a class="filters-link" href="https://kcb.vn/page/search?&type=Article&keyword=%28%5Cartificial+intelligence%5C%22+OR+AI%29+AND+%28%5C%22post-implementation+monitoring%5C%22+OR+%5C%22post-market+surveillance%5C%22+OR+%5C%22incident+reporting%5C%22+OR+%5C%22quality+management%5C%22+OR+%5C%22effectiveness+evaluation%5C%22+OR+audit%29+AND+%28Vietnam+OR+%5C%22Viet+Nam%5C%22%29+AND+%28health+OR+hospital+OR+%5C%22provincial+health+department%5C%22%29%22">Bài viết</a>
+ </li>   </ul> </div> <div class="row">   <div id="searchFilters9" class="col-searchFilters col-md-3 col-sm-4 col-xs-12"> <div class="filters-sidebar"> <div class="filters-label">Tìm kiếm</div> <div id="filters9" class="search-filter-list">   </div> </div></div>   <div id="searchResult9" class="col-searchResult col-md-9 col-sm-8 col-xs-12">
+ <div class="search-result-wrapper"> <div class="search-result-list serch-list"> <div class="top-search">   <div class="search-keyword"> <span class="serch-keyword_label">Tìm theo từ khóa:</span> <div class="form-search-portal"> <form method="post" id="form9"> <div class="input-text">      <div class="relative form-filters"> <input class="input56913590 clear-text form-control form-control" id="input56913590" value="(\artificial intelligence\&amp;quot; OR AI) AND (\&amp;quot;post-implementation monitoring\&amp;quot; OR \&amp;quot;post-market surveillance\&amp;quot; OR \&amp;quot;incident reporting\&amp;quot; OR \&amp;quot;quality management\&amp;quot; OR \&amp;quot;effectiveness evaluation\&amp;quot; OR audit) AND (Vietnam OR \&amp;quot;Viet Nam\&amp;quot;) AND (health OR hospital OR \&amp;quot;provincial health department\&amp;quot;)&amp;quot;"  type="text" title=""  name="fields[keyword9]" class="form-control" onblur="var currentModule = VHV.App.modules[9], input=this, value = this.value;this.value=removeSpaces(this.value);" onchange="var currentModule = VHV.App.modules[9], input=this, value = this.value;$('#form9').submit();" placeholder="Từ khóa tìm kiếm" /> <a id="btn-clear56913590" class="btn-clear-form d-flex " href="javascript:void(0);" style="position: absolute;" title="Xóa"><i class="vi vi-x-large" style="line-height: 1;"></i></a> </div><style> /**/
+#input56913590.clear-text { /**/
+padding-right: 36px; /**/
+}
+.btn-clear-form{ /**/
+top:10px; right:12px; /**/
+}
+/*/*
+</style> <a href="javascript:void(0)" id="widget-search9" class="btn-search"><i class="vi vi-search"></i></a> </div> <input type="hidden" name="site" value="2005611" /> <div class="clear-both"></div> <input type="hidden" name="securityToken" value="23eae91a718db03bfc89c8dc13ad52223fc54f17e9712934b4fb26a0d5c973eb"><input type="hidden" name="submitFormId" value="9"><input type="hidden" name="moduleId" value="9"></form> </div> </div> </div>  <div class="p-20 text-center nodata-wrap9" style=""> <div>   <div class="mb-10"> <svg width="139" height="145" viewBox="0 0 139 145" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M69.4939 120C98.4668 120 121.954 96.4555 121.954 67.4118C121.954 38.3682 98.4668 14.8237 69.4939 14.8237C40.5209 14.8237 17.0337 38.3682 17.0337 67.4118C17.0337 96.4555 40.5209 120 69.4939 120Z" fill="#F3F4F6"/> <path d="M86.9087 12.6481C87.364 12.2317 87.3958 11.5247 86.9798 11.0691C86.5637 10.6134 85.8573 10.5816 85.402 10.998C84.9467 11.4144 84.9149 12.1213 85.331 12.577C85.7471 13.0327 86.4534 13.0645 86.9087 12.6481Z" fill="#EAEEF9"/> <g filter="url(#filter0_dd_1605_4812)"> <path d="M118.388 41.7558C118.946 40.5661 118.225 39.1703 116.931 38.9375L85.2331 33.2336C83.6717 32.9527 82.0919 33.621 81.2061 34.9372L69.4266 52.4414L57.3176 34.8928C56.4262 33.601 54.8617 32.9498 53.317 33.2278L21.6423 38.9274C20.3317 39.1632 19.6133 40.5901 20.2043 41.7834L29.2028 59.9524L21.3554 75.2522C20.1696 77.5641 21.4682 80.3752 23.9972 80.9711L28.8494 82.1143V94.2669C28.8494 96.2272 30.27 97.8986 32.2046 98.2146L69.4266 104.294L107.993 97.9424C108.959 97.7833 109.668 96.9481 109.668 95.969V82.1143L114.628 80.9456C117.123 80.3578 118.429 77.6083 117.308 75.3032L109.845 59.9524L118.388 41.7558Z" fill="white"/> <path d="M109.845 59.9525L69.4264 67.4635L29.2026 59.9525L69.4264 52.4414L109.845 59.9525Z" fill="url(#paint0_linear_1605_4812)"/> <path d="M69.4266 67.4634V104.294L30.527 97.9406C29.5597 97.7826 28.8494 96.9469 28.8494 95.9668V82.1144L53.0947 87.906C54.7474 88.3007 56.4691 87.6083 57.3882 86.1793L69.4266 67.4634Z" fill="url(#paint1_linear_1605_4812)"/> <path d="M109.845 59.9524L117.308 75.3033C118.429 77.6083 117.123 80.3579 114.628 80.9457L109.668 82.1144L85.4559 87.898C83.787 88.2967 82.0498 87.5866 81.138 86.1331L69.4265 67.4635L109.845 59.9524Z" fill="url(#paint2_linear_1605_4812)"/> <path d="M69.4266 67.4635L57.3883 86.1793C56.4691 87.6084 54.7474 88.3007 53.0948 87.906L28.8494 82.1144L23.9972 80.9711C21.4682 80.3753 20.1696 77.5641 21.3554 75.2522L29.2028 59.9524L69.4266 67.4635Z" fill="url(#paint3_linear_1605_4812)"/> </g> <path d="M63.5273 56.9905C59.974 50.0814 59.1618 41.6482 61.4969 34.1295C63.8319 26.6107 69.2126 20.108 76.0146 16.4502C78.1466 15.3326 80.4816 14.4181 82.9182 14.3165C85.3547 14.2149 87.8928 15.0277 89.5171 16.9582C91.1415 18.7871 91.4461 21.7337 90.1263 23.7658C88.705 25.6963 85.9638 26.4075 83.6288 25.8995C79.974 25.1882 76.9283 22.3433 76.0146 18.8887C75.1009 15.4342 76.3192 11.37 79.0603 9.03306C80.8877 7.40738 83.3243 6.59455 85.6593 5.88331C96.8268 2.63196 108.908 2.22554 120.279 4.66405" stroke="#CBD7E8" stroke-miterlimit="10" stroke-dasharray="4 4"/> <path d="M126.269 2.0224C126.168 3.54647 126.066 4.86734 124.949 5.17215C123.833 5.47697 123.325 4.46092 122.614 3.03845C121.904 1.71759 122.31 0.396723 123.528 0.0919089C124.746 -0.212906 126.472 0.193514 126.269 2.0224Z" fill="#DAE2EB"/> <path d="M125.153 9.13481C125.457 7.30593 125.762 6.39148 124.746 5.88346C123.63 5.37543 122.919 6.28988 121.802 7.50914C120.787 8.62679 121.396 10.1509 122.411 10.6589C123.528 11.2685 124.848 10.6589 125.153 9.13481Z" fill="#DAE2EB"/> <path d="M126.472 5.88329C126.371 6.59453 125.863 7.10255 125.152 7.20416C124.848 7.20416 124.543 7.20416 124.137 7.20416C122.716 7.00095 121.599 6.0865 121.701 5.17206C121.802 4.25762 123.122 3.74959 124.645 3.9528C124.949 3.9528 125.254 4.05441 125.457 4.15601C126.168 4.35922 126.574 5.07046 126.472 5.88329C126.472 5.88329 126.472 5.78169 126.472 5.88329Z" fill="#A7B0C1"/> <path d="M15.4075 33.8247C15.4075 32.0974 15.4075 30.4717 16.6257 29.9637C17.9455 29.4557 18.6562 30.6749 19.5699 32.3006C20.4836 33.8247 20.0775 35.3487 18.7577 35.8568C17.641 36.3648 15.4075 36.06 15.4075 33.8247Z" fill="#DAE2EB"/> <path d="M16.1173 25.493C15.9143 27.6267 15.6097 28.7444 16.9295 29.2524C18.2493 29.7604 18.96 28.6428 20.1782 27.0171C21.1935 25.5946 20.4828 23.8674 19.163 23.3593C17.8432 22.8513 16.3204 23.7658 16.1173 25.493Z" fill="#DAE2EB"/> <path d="M15 29.4557C15 28.6428 15.6091 28.0332 16.3198 27.9316C16.6244 27.83 17.0305 27.83 17.4365 27.9316C19.0609 28.0332 20.3807 28.9477 20.2792 29.9637C20.1777 30.9798 18.8579 31.691 17.2335 31.4878C16.9289 31.4878 16.6244 31.3862 16.3198 31.2846C15.5076 31.0814 15 30.2685 15 29.4557Z" fill="#A7B0C1"/> <path d="M21.8015 29.7606C32.2584 29.7606 51.5477 35.8569 51.8522 58.1084" stroke="#CBD7E8" stroke-miterlimit="10" stroke-dasharray="4 4"/> <path d="M130.752 46.2523C133.098 46.2523 135 44.3535 135 42.0113C135 39.669 133.098 37.7703 130.752 37.7703C128.406 37.7703 126.504 39.669 126.504 42.0113C126.504 44.3535 128.406 46.2523 130.752 46.2523Z" fill="#F3F4F6"/> <path d="M124.427 35.6112C126.03 35.6112 127.328 34.3145 127.328 32.7149C127.328 31.1153 126.03 29.8186 124.427 29.8186C122.825 29.8186 121.526 31.1153 121.526 32.7149C121.526 34.3145 122.825 35.6112 124.427 35.6112Z" fill="#F3F4F6"/> <path d="M27.3566 118.469C30.3321 118.469 32.7442 116.061 32.7442 113.091C32.7442 110.12 30.3321 107.712 27.3566 107.712C24.3811 107.712 21.969 110.12 21.969 113.091C21.969 116.061 24.3811 118.469 27.3566 118.469Z" fill="#F3F4F6"/> <defs> <filter id="filter0_dd_1605_4812" x="-0.00488281" y="33.1644" width="138.583" height="111.13" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"> <feFlood flood-opacity="0" result="BackgroundImageFix"/> <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/> <feMorphology radius="4" operator="erode" in="SourceAlpha" result="effect1_dropShadow_1605_4812"/> <feOffset dy="8"/> <feGaussianBlur stdDeviation="4"/> <feColorMatrix type="matrix" values="0 0 0 0 0.0627451 0 0 0 0 0.0941176 0 0 0 0 0.156863 0 0 0 0.03 0"/> <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1605_4812"/> <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/> <feMorphology radius="4" operator="erode" in="SourceAlpha" result="effect2_dropShadow_1605_4812"/> <feOffset dy="20"/> <feGaussianBlur stdDeviation="12"/> <feColorMatrix type="matrix" values="0 0 0 0 0.0627451 0 0 0 0 0.0941176 0 0 0 0 0.156863 0 0 0 0.08 0"/> <feBlend mode="normal" in2="effect1_dropShadow_1605_4812" result="effect2_dropShadow_1605_4812"/> <feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_1605_4812" result="shape"/> </filter> <linearGradient id="paint0_linear_1605_4812" x1="69.756" y1="52.6666" x2="69.756" y2="67.588" gradientUnits="userSpaceOnUse"> <stop stop-color="#D6E1F2"/> <stop offset="1" stop-color="#B1BED0"/> </linearGradient> <linearGradient id="paint1_linear_1605_4812" x1="49.138" y1="67.4634" x2="48.8661" y2="99.9178" gradientUnits="userSpaceOnUse"> <stop stop-color="#D2DCED"/> <stop offset="1" stop-color="#C3CEDB"/> </linearGradient> <linearGradient id="paint2_linear_1605_4812" x1="87.6618" y1="66.0959" x2="98" y2="96" gradientUnits="userSpaceOnUse"> <stop stop-color="#EDF0F6"/> <stop offset="1" stop-color="#FCFDFF"/> </linearGradient> <linearGradient id="paint3_linear_1605_4812" x1="44.2249" y1="59.9524" x2="44" y2="94.5" gradientUnits="userSpaceOnUse"> <stop stop-color="#EDF0F6"/> <stop offset="1" stop-color="#FBFCFE"/> </linearGradient> </defs> </svg> </div>     <div class="no-data-title text-bold">   <div class="no-data-title">  Không có dữ liệu </div>   </div>     </div></div><style> .btn.btn-primary.btn-back-to-home { background-color: var(--brand-primary); border-color: var(--brand-primary); border-radius: 20px; padding: 10px 20px; }
+ .no-data-title { color: #5a5a5a; }
+ .nodata-wrap9 { height: 100%; width: 100%; display: flex; display: -webkit-flex; align-items: center; -webkit-align-items: center; justify-content: center; -webkit-justify-content: center; }
+</style>   <div id="pagination9" class="default-pagination" style="text-align:center;"></div> </div> </div> </div> </div></div><style> .text-normal{ font-weight: normal; }
+ .padding-v-xs { padding-top: 0.5rem !important; padding-bottom: 0.5rem !important; }
+ .form-search-portal .btn-search{ background-color: transparent !important; color: #111 !important; }
+ /**/
+ .search-item-body .search-byType{ display: flex; display: -ms-flex; display: -webkit-flex; flex-wrap: wrap; -webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; }
+ .search-item-body .search-byType-item .item-desc-text{ overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; color:var(--text-color); }
+ .search-item-body .search-byType-item{ display: flex; display: -ms-flex; display: -webkit-flex; flex-wrap: wrap; -webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; width: 100%; }
+ .search-item-body .search-byType-item .item-desc{ flex: 1; -webkit-flex: 1; -ms-flex: 1; }
+ .product-grid-high-ligh .item-price{ display: inline-flex; }
+ .product-grid-high-ligh .item-price .product-sell-price{ margin-right: 15px; }
+ #module9 .product-grid-high-ligh2{ border: 1px solid #f1f1f1; }
+ #module9 .search-byType.row{ margin-left: -5px; margin-right: -5px; }
+ #module9 .search-byType.row > div{ padding-left: 5px; padding-right: 5px; }
+ #module9 .product-grid-high-ligh2{ height: 100%; }
+ .search-byType .item-title{ display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
+ .search-result-list .search-keyword .serch-keyword_label{ display: block; margin-bottom: 20px; }
+ .search-result-list .search-keyword .form-search-portal .input-text{ position: relative; }
+ .search-result-list .search-keyword .form-search-portal .form-control{ box-shadow: none; }
+ .search-result-list .search-keyword .form-search-portal .input-text .btn-search{ position: absolute; top: 2px; right: 0; width: 34px; height:34px; line-height: 34px; border: none; border-radius: 0; color:#fff; text-align: center; background-color: var(--brand-primary); border-left: 1px solid #ddd; }
+ .search-byType .item-desc{ color:#999; }
+ .input-text .btn-clear-form{ right: 40px; }
+</style></div></div>  </div></div></div><style>/**/
+</style>
+</div></div>
+<div class="region-bottom"><div id="module1" class="ModuleWrapper  wrapper-footer" ><div class="container">  <div id="module2" class="ModuleWrapper" ><div class="footer-intro"> <div class="row"> <div class="col-md-6 col-sm-12 logo-col"> <div class="logo"> <a title="Cục quản lý Khám chữa bệnh" href="https://kcb.vn/"> <img alt="Cục quản lý Khám chữa bệnh" src="/upload/2005611/20210712/logo_header_e3e4f.png">
+ </a> </div> <div class="logo-info ml-10"> <div class="governingUnit">Bộ y tế</div> <div class="title">Cục quản lý Khám chữa bệnh</div> <div class="companyName">Department of medical service administration - Ministry of health, Viet Nam</div> </div> </div> <div class="col-md-3 col-sm-6 contact"> <div class="footer-intro_inner"> <div class="adress"> <strong>Địa chỉ:</strong>138 A Giảng Võ, Phường Giảng Võ, Hà Nội </div> <ul class="list-inline"> <li> <strong>Điện thoại:</strong>024 6273 2093 </li> <li> <strong>Fax:</strong>024 6273 2093 </li> <li> <strong>Email:</strong>kcb@moh.gov.vn </li> </ul> </div> </div> <div class="col-right col-md-3 col-sm-6"> <div id="footer-map12" class="footer-defail">  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.09425292736!2d105.82341251493271!3d21.028914385998338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab7449177c59%3A0x83978bd59038ca0d!2zMTM4QSBQLiBHaeG6o25nIFbDtSwgS2ltIE3DoywgQmEgxJDDrG5oLCBIw6AgTuG7mWk!5e0!3m2!1svi!2s!4v1647416203538!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe> </div> </div> </div></div><style> .footer-intro .heading { text-transform: uppercase; font-weight: bold; font-size: 18px; margin-bottom: 10px; line-height: 24px; }
+ .footer-intro small { display: block; font-style: italic; margin-top: 10px; margin-bottom: 10px; }
+ .footer-intro ul li { margin-top: 10px; margin-bottom: 10px; display: block; }
+ .footer-intro .about { margin-bottom: 20px; }
+ .footer-defail>iframe{ height: 100%; width: 100%; }
+ @media (max-width:768px) { .footer-intro>div>div{ margin-bottom: 10px; }
+ }
+</style>
+</div>  
+</div></div><div id="module3" class="ModuleWrapper" ><div class="footer-copyright-social pt-10 pb-10"> <div class="container">
+ <div class="row">   <div class="col-xs-12 col-sm-4 col-md-4 col-right"> <div class="social"> <ul class="flex">   <li> <a href="http://facebook.com/" class="text-center " title="facebook"> <i class="vi vi-facbook-cricle"></i> </a> </li>     <li> <a href="https://www.google.com/" class="text-center " title="google" > <i class="vi vi-google"></i> </a> </li>     <li> <a rel="noopener" href="http://twitter.com/home?lang=vi" class="text-center " title="twitter"> <i class="vis vi-twitter-cricle"></i> </a> </li>         </ul> </div> </div>   <div class="col-xs-12  col-sm-8 col-md-8  col-left">
+ <p class="copy-right" style="margin-bottom: 0;">© Copyright 2021. Bộ y tế - Cục quản lý khám chữa bệnh</p> </div> </div> </div></div><style> .footer-copyright-social .social>ul.flex{ justify-content: flex-end; }
+ .footer-copyright-social .social>ul>li>a{ width: 34px; height: 34px; line-height: 34px; display: block; margin-left: 10px; }
+ .footer-copyright-social .social>ul>li:first-child>a{ margin-left: 0; }
+ .footer-copyright-social .col-left>p{ line-height: 34px; }
+ .footer-copyright-social{ /**/
+ /**/
+ }
+ @media (min-width:768px) { .footer-copyright-social>div>div>.col-right{ float: right; }
+ .footer-copyright-social>div>div>.col-left{ float: left; }
+ }
+ @media (max-width:425px) { .footer-copyright-social .social>ul.flex{ justify-content: center; }
+ .footer-copyright-social .col-left>p{ text-align: center; }
+ }
+</style>
+</div></div><div id="backToTop" class="vi vi-chevron-up" style="display:none;"></div> 
+<div id="footer-editer"></div>
+  
+  
+  
+</body>
+<!--[if lt IE 9]>
+<script src="/3rdparty/Bootstrap/js/ie8-responsive-file-warning.js"></script>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!--[if IE 6]>
+<script src="/3rdparty/fix_ie/DD_belatedPNG.js"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('.mask,img');
+</script>
+<![endif]-->
+  
+<script type="text/javascript">
+rootURL = location.protocol+'//'+location.host+'/';
+staticURL = '/';
+</script>
+  
+<script type="text/javascript" src="/publish/js/lib2-1.522.min.js?204209"></script>
+  
+<script type="text/javascript">
+  
+  
+$(document).ready(function() {
+$(window).scroll(function() {
+if($(window).scrollTop() != 0) {
+$('#backToTop').fadeIn();
+} else {
+$('#backToTop').fadeOut();
+}
+});
+$('#backToTop').click(function() {
+$('html, body').animate({
+scrollTop:0
+},500);
+});
+});
+  
+if(window.vhvInit)
+{
+vhvInit();
+}
+$.extend(VHV,{
+pageId: "search",
+itemId: "",
+inheritPageId: "base",
+checkPhone: "phoneVN",
+checkPassword: [],
+serverTime: 1785569135,
+domainRoot: '/',
+defaultCurrency: '$',
+defaultNumberFormat: "",
+language: 'vi',
+nationId: "",
+version:'1.522',
+clientVersion:'204209',
+pageVersion:'',
+ckeVersion:'4.15.0',
+  
+  
+loadingImage:'/Common/images/loading.gif',
+site:'2005611',
+href:'?'+decode64('c2l0ZT0yMDA1NjExJmFtcDtwYWdlPXNlYXJjaCZhbXA7a2V5d29yZD0lMjglNUNhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTVDJTIyJTIwT1IlMjBBSSUyOSUyMEFORCUyMCUyOCU1QyUyMnBvc3QtaW1wbGVtZW50YXRpb24lMjBtb25pdG9yaW5nJTVDJTIyJTIwT1IlMjAlNUMlMjJwb3N0LW1hcmtldCUyMHN1cnZlaWxsYW5jZSU1QyUyMiUyME9SJTIwJTVDJTIyaW5jaWRlbnQlMjByZXBvcnRpbmclNUMlMjIlMjBPUiUyMCU1QyUyMnF1YWxpdHklMjBtYW5hZ2VtZW50JTVDJTIyJTIwT1IlMjAlNUMlMjJlZmZlY3RpdmVuZXNzJTIwZXZhbHVhdGlvbiU1QyUyMiUyME9SJTIwYXVkaXQlMjklMjBBTkQlMjAlMjhWaWV0bmFtJTIwT1IlMjAlNUMlMjJWaWV0JTIwTmFtJTVDJTIyJTI5JTIwQU5EJTIwJTI4aGVhbHRoJTIwT1IlMjBob3NwaXRhbCUyME9SJTIwJTVDJTIycHJvdmluY2lhbCUyMGhlYWx0aCUyMGRlcGFydG1lbnQlNUMlMjIlMjklMjImYW1wO3A9MQ=='),
+defaultPortalPath:'',
+securityToken: '23eae91a718db03bfc89c8dc13ad52223fc54f17e9712934b4fb26a0d5c973eb',
+groupId: ''
+  
+  
+  
+  
+  
+  
+,currentAccountId: "" 
+,visitTimeLimit: 180 
+});
+$.extend(VHV.App, {
+portal:'2005611',
+site: 2005611 
+});
+VHV.init();
+VHV.User = {
+id: 0 
+  
+};
+ ;
+$('#search-menu5 a[data-id]').on('click',function(){ $('#form5 input[name="filters[categories]"]').val($(this).data('id')); $('#form5 .dropdown-toggle-text').text($(this).text()); });
+;
+VHV.load('3rdparty/jQuery/jqueryui/jquery-ui.min.js',function(){ $(document).ready(function() { var monthNames = [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12" ]; var dayNames= ["Chủ Nhật","Thứ Hai","Thứ Ba","Thứ Tư","Thứ Năm","Thứ Sáu","Thứ Bảy"]; var newDate = new Date(VHV.serverTime * 1000); newDate.setDate(newDate.getDate()); $('#Date').html(dayNames[newDate.getDay()] + ", " + newDate.getDate() + '/' + monthNames[newDate.getMonth()] + '/' + newDate.getFullYear()); setInterval( function() { var seconds = new Date(VHV.serverTime * 1000).getSeconds(); $("#sec").html(( seconds < 10 ? "0" : "" ) + seconds); },1000);
+setInterval( function() { var minutes = new Date(VHV.serverTime * 1000).getMinutes(); $("#min").html(( minutes < 10 ? "0" : "" ) + minutes); },1000);
+setInterval( function() { var hours = new Date(VHV.serverTime * 1000).getHours(); $("#hours").html(hours); }, 1000);
+});
+});
+$(document).ready(function () { var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth, widthUl = $('#fluid-nav-positive6').width(), widthLi = 0; if(width > 768) { $('#fluid-nav-positive6').children().each(function () { widthLi += $(this).width(); if (widthLi > widthUl - 25) { $('#module6').find('.fluid-nav-backup').removeAttr('style'); $('#fluid-nav-negative6').append($(this)); }
+$(this).removeAttr('style'); })
+}else{
+$('#fluid-nav-positive6').children().removeAttr('style'); }
+});
+$('.navigation-menu-default-type1:first').addClass('navigation-menu-default-type1-first'); $('#menu6 .has-child').parent().addClass('dropdown-menu-has-child'); $('#menu6 .has-child').parent().parent().addClass('dropdown-has-child'); $('#menu6').on('click','.item .dropdown-toggle', function(){ $(this).parent('li').toggleClass('open-menu-mobile'); $(this).parent('li').find('ul:first').slideToggle(); $(this).find('.vi').toggleClass('vi-minus-square vi-plus'); });
+$('#menu6').on('click','.navbar-toggle',function(){ $('body').toggleClass('overflow-hidden'); $('#backtotop').slideToggle(); });
+var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth; if($('#menu6 .navbar-default .navbar-collapse').hasClass('in')){ $('body').addClass('overflow-hidden'); }
+if(width > 768){ var height = $('#menu6 .navbar-default').outerHeight(); $('#menu6').css({ 'height': height });
+}
+$(window).scroll(function () { var top = $('#menu6').offset().top; var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth; $('#menu6').css({ 'height': $('#menu6 .navbar-default').outerHeight() });
+if (parseInt($(window).scrollTop()) > top) { if(width < 769){ var height = $('#menu6 .navbar-Base').outerHeight(); $('#menu6').css({ 'height': height });
+$('#menu6 .navbar-default .navbar-collapse').css({ 'top': height });
+$('body').addClass('body-menu-action'); }
+$('#menu6').addClass('has-fix-menu-default-type1'); }else {
+$('#menu6').removeClass('has-fix-menu-default-type1'); if(width < 769){ $('#menu6').css({ 'height': 'auto' });
+$('#menu6 .navbar-default .navbar-collapse').css({ 'top': 0 });
+$('body').removeClass('body-menu-action'); }
+}
+});
+$(document).ready(menuResize6); $(window).on('load',menuResize6); $(window).on('resize',menuResize6); function menuResize6() { var width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth; if(width > 768){ $('#menu6 .navbar-nav').addClass('fluid-nav-positive'); $('#menu6 .fluid-nav-backup').removeClass('hidden'); }else{
+$('#menu6 .navbar-nav').removeClass('fluid-nav-positive'); $('#menu6 .fluid-nav-backup').addClass('hidden'); $('#menu6 .navbar-nav').prepend($('#div-search6')); }
+};
+$(document).ready(function(){ $('#menu6 .back-to-top').click(function() { $('html, body').animate({ scrollTop:0 },500);
+});
+var width2 = $(window).width() || document.documentElement.clientWidth() || document.body.clientWidth(); if(width2 < 769){ $('#bs-navbar-collapse-6').removeClass('fluid-nav'); }else{
+$('#bs-navbar-collapse-6').addClass('fluid-nav'); }
+if($('#menu6').hasClass('navigation-menu-default-type1-first')){ $(window).resize(function(){ var width3 = $(this).width() || document.documentElement.clientWidth() || document.body.clientWidth(); if(width3 > 768){ if(!$('.navigation-menu-default-type1-first .navbar-collapse').hasClass('fluid-nav')){ location.reload(); }
+}else{
+if($('.navigation-menu-default-type1-first .navbar-collapse').hasClass('fluid-nav')){ location.reload(); }
+}
+});
+}
+setTimeout(function(){ $('#menu6').css('overflow',''); }, 200);
+});
+$('#menu6 .fluid-nav-backup .dropdown-toggle').click(function(){ $(this).parent().toggleClass('active'); $('#menu6 .fluid-nav-backup').addClass('open'); $(this).next('ul').slideToggle(); });
+$(document).mouseup(function (e) { var container = $('#menu6 .fluid-nav-backup'); var container2 = $('#menu6'); if (!container.is(e.target) && container.has(e.target).length === 0) { container.removeClass('active'); container.children('ul').hide(); }
+if (!container2.is(e.target) && container2.has(e.target).length === 0) { $('#div-search6').removeClass('active'); $('#open-search6').children().addClass('vi-search').removeClass('vi-x-small'); }
+});
+$('#menu6 .btn-open-search').click(function(){ $('#div-search6').toggleClass('active'); $(this).children().toggleClass('vi-search vi-x-small'); });
+$('#form6').submit(function(e){ var page = 'search'; var keyword = $('#form6 input[name=keyword6]').val(); if(keyword!="Tìm kiếm") { VHV.redirect("https://kcb.vn/page/search?"+'&keyword='+ encodeURIComponent(keyword)); }
+return false; });
+$('#menu6 .navbar-toggle').on('click',function(){ $('#menu6 .navbar-collapse').addClass('open-sidebar'); $('body').addClass('overhidden'); $('body').append('<a href="javascript:void(0);" id="close6" style="font-size: 2.8rem;color: #fff;position: fixed;top: 20px;left: 288px;z-index: 99999;"><i class="vi vi-x-circle" ></i></a>') });
+$('#close6').click(function(){ $('#menu6 .navbar-collapse').removeClass('in'); ('#menu6 .navbar-collapse').removeClass('open-sidebar'); $('body').removeClass('overhidden overflow-hidden'); $(this).remove(); });
+$(document).mouseup(function(e) { var container = $('#menu6 .navbar-collapse'); if (!container.is(e.target) && container.has(e.target).length === 0) { container.removeClass('in'); container.removeClass('open-sidebar'); $('body').removeClass('overhidden overflow-hidden'); $('#close6').remove(); }
+});
+;
+VHV.load('Common.Input.ClearText', function(){ (new VHV.Common.Input.ClearText($('#input56913590'), {"type":"Form.ClearText","class":"form-control","name":"keyword9","hideSearchBtn":"1","placeholder":"T\u1eeb kh\u00f3a t\u00ecm ki\u1ebfm","value":"(\\artificial intelligence\\&quot; OR AI) AND (\\&quot;post-implementation monitoring\\&quot; OR \\&quot;post-market surveillance\\&quot; OR \\&quot;incident reporting\\&quot; OR \\&quot;quality management\\&quot; OR \\&quot;effectiveness evaluation\\&quot; OR audit) AND (Vietnam OR \\&quot;Viet Nam\\&quot;) AND (health OR hospital OR \\&quot;provincial health department\\&quot;)&quot;","onblur":"this.value=removeSpaces(this.value);","onchange":"$('#form9').submit();","inputCount":56913590,"multiLanguage":false,"currency":"VND","mid":9})).draw(); });
+function handleSearchClick(element) { const input = $(element).siblings('input[type="text"]'); input.trigger('change'); }
+;
+VHV.using ($.extend(
+$.parseJSON(decode64('eyJsYXlvdXQiOiJQb3J0YWwuY2xpZW50U2VhcmNoIiwiaXRlbXNQZXJQYWdlIjoiMTIiLCJwYWdlTm8iOjEsInNlcnZpY2UiOiJDb250ZW50LlBvcnRhbC5DbGllbnRTZWFyY2guc2VhcmNoIiwid2lkZ2V0Q29kZSI6Ik11bHRpbWVkaWEiLCJrZXl3b3JkIjoiKFxcYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2VcXFwiIE9SIEFJKSBBTkQgKFxcXCJwb3N0LWltcGxlbWVudGF0aW9uIG1vbml0b3JpbmdcXFwiIE9SIFxcXCJwb3N0LW1hcmtldCBzdXJ2ZWlsbGFuY2VcXFwiIE9SIFxcXCJpbmNpZGVudCByZXBvcnRpbmdcXFwiIE9SIFxcXCJxdWFsaXR5IG1hbmFnZW1lbnRcXFwiIE9SIFxcXCJlZmZlY3RpdmVuZXNzIGV2YWx1YXRpb25cXFwiIE9SIGF1ZGl0KSBBTkQgKFZpZXRuYW0gT1IgXFxcIlZpZXQgTmFtXFxcIikgQU5EIChoZWFsdGggT1IgaG9zcGl0YWwgT1IgXFxcInByb3ZpbmNpYWwgaGVhbHRoIGRlcGFydG1lbnRcXFwiKVwiIiwidHlwZSI6IkFydGljbGUiLCJ0b3RhbEl0ZW1zIjowLCJpbmRleCI6MSwicGF0aCI6IkNvbnRlbnQifQ==')),{"module":"Content.Listing","page":"search","id":"9","modulePosition":"5","moduleParentId":"7"}),{ totalItems: 0, dontGoTop: true, pageNo: 1, itemsPerPage: 12, filters: [], tagText: ""});
+$('#form9').submit(function(){ var page = $('#form9 input[name="page"]').val(); var keyword = $('#form9 input[name="fields[keyword9]"]').val(); if(keyword!="Tìm kiếm") { VHV.redirect("https://kcb.vn/page/search?"+'&keyword='+ encodeURIComponent(keyword)); }
+return false;});
+$('#form9 .btn-search').click(function(){ $('#form9').submit();});
+$('#filters9 input').change(function(){ let tagText = ""; var filters = { };
+$('#filters9 input:checked').each(function(){ filters[$(this).data('code')] = filters[$(this).data('code')] ? filters[$(this).data('code')]+','+$(this).data('value') : $(this).data('value'); });
+VHV.App.modules[9].filters = filters; VHV.App.modules[9].tagText = tagText; VHV.App.modules[9].reload();});
+function removeSpaces(string) { return string.trim();}
+function keypress(e){ var keypressed = null; if (window.event) { keypressed = window.event.keyCode; }
+else { keypressed = e.which; }
+if (keypressed < 48 || keypressed > 57) { if (keypressed == 8 || keypressed == 127) { return; }
+return false; }
+}
+$(document).ready(function () { $('.client-search-page .collapse-content').on('click',function(){ let parentToggle = $(this).parents('.filters-item'); parentToggle.toggleClass('open-collapse'); $(this).find('i').toggleClass('vi vi-minus-square vi vi-plus-square'); parentToggle.find('.filters-item-detail').slideToggle(200); });
+});
+ 
+  
+  
+  
+  
+  
+  
+function getCssVariableAsRgba(variableName, alpha = 1) {
+let hex = getComputedStyle(document.documentElement).getPropertyValue(variableName).trim();
+if (!hex || !hex.startsWith("#") || (hex.length !== 4 && hex.length !== 7)) {
+console.error("Giá trị màu không hợp lệ:", hex);
+return null;
+}
+let r, g, b;
+if (hex.length === 4) {
+r = parseInt(hex[1] + hex[1], 16);
+g = parseInt(hex[2] + hex[2], 16);
+b = parseInt(hex[3] + hex[3], 16);
+} else {
+r = parseInt(hex.slice(1, 3), 16);
+g = parseInt(hex.slice(3, 5), 16);
+b = parseInt(hex.slice(5, 7), 16);
+}
+return 'rgba('+r+','+g+','+b+', '+alpha+')';
+}
+function setCssVariable(variableName, value) {
+document.documentElement.style.setProperty(variableName, value);
+}
+setCssVariable("--brand-primary-10",getCssVariableAsRgba("--brand-primary", .1));
+setCssVariable("--brand-primary-15",getCssVariableAsRgba("--brand-primary", .15));
+setCssVariable("--brand-primary-20",getCssVariableAsRgba("--brand-primary", .2));
+setCssVariable("--brand-primary-30",getCssVariableAsRgba("--brand-primary", .3));
+setCssVariable("--brand-primary-35",getCssVariableAsRgba("--brand-primary", .35));
+$('.btn-action-primary, .btn-action-info, .excel-action, .btn-default').addClass('btn-secondary text-medium');
+</script>
+  
+  
+  
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="/3rdparty/Bootstrap/dist/css/bootstrap-ie7.css?v=1.522"/>
+<![endif]-->
+</html>
+  
+ 

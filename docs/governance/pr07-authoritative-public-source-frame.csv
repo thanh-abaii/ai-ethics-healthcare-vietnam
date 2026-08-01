@@ -1,0 +1,17 @@
+source_id,source_class,authority_scope,selection_rule,status,notes
+VNLAW-01,NATIONAL_LEGAL,National,"Registered AI law seed and verified direct legal relation",READY_FOR_REGISTRY,134/2025/QH15
+VNLAW-02,NATIONAL_LEGAL,National,"Registered implementing-decree seed",READY_FOR_REGISTRY,142/2026/NĐ-CP
+VNLAW-03,NATIONAL_LEGAL,National,"Registered national ethics-framework seed",READY_FOR_REGISTRY,05/2026/TT-BKHCN
+VNLAW-04,NATIONAL_LEGAL,National,"Verified direct relation from VNLAW-03",READY_FOR_REGISTRY,55/2025/NĐ-CP
+MINISTRY-01,MINISTRY_OFFICIAL,National,"MoH or MoST document explicitly addressing AI ethics/governance in healthcare Vietnam",PENDING_RETRIEVAL,Slots MINISTRY-01 to MINISTRY-04: maximum 4 total
+MINISTRY-02,MINISTRY_OFFICIAL,National,"MoH or MoST document explicitly addressing AI ethics/governance in healthcare Vietnam",PENDING_RETRIEVAL,Slots MINISTRY-01 to MINISTRY-04: maximum 4 total
+MINISTRY-03,MINISTRY_OFFICIAL,National,"MoH or MoST document explicitly addressing AI ethics/governance in healthcare Vietnam",PENDING_RETRIEVAL,Slots MINISTRY-01 to MINISTRY-04: maximum 4 total
+MINISTRY-04,MINISTRY_OFFICIAL,National,"MoH or MoST document explicitly addressing AI ethics/governance in healthcare Vietnam",PENDING_RETRIEVAL,Slots MINISTRY-01 to MINISTRY-04: maximum 4 total
+INTL-01,INTERNATIONAL_OFFICIAL,Vietnam or global normative context,"WHO Viet Nam or UNESCO document directly relevant to Vietnam AI ethics/governance in health",PENDING_RETRIEVAL,Slots INTL-01 to INTL-03: maximum 3 total
+INTL-02,INTERNATIONAL_OFFICIAL,Vietnam or global normative context,"WHO Viet Nam or UNESCO document directly relevant to Vietnam AI ethics/governance in health",PENDING_RETRIEVAL,Slots INTL-01 to INTL-03: maximum 3 total
+INTL-03,INTERNATIONAL_OFFICIAL,Vietnam or global normative context,"WHO Viet Nam or UNESCO document directly relevant to Vietnam AI ethics/governance in health",PENDING_RETRIEVAL,Slots INTL-01 to INTL-03: maximum 3 total
+SENTINEL-01,IMPLEMENTATION_EXAMPLE,Local,"Official document with direct implementation evidence; descriptive only",PENDING_RETRIEVAL,One record per legacy sentinel type; slots SENTINEL-01 to SENTINEL-05
+SENTINEL-02,IMPLEMENTATION_EXAMPLE,Local,"Official document with direct implementation evidence; descriptive only",PENDING_RETRIEVAL,One record per legacy sentinel type; slots SENTINEL-01 to SENTINEL-05
+SENTINEL-03,IMPLEMENTATION_EXAMPLE,Local,"Official document with direct implementation evidence; descriptive only",PENDING_RETRIEVAL,One record per legacy sentinel type; slots SENTINEL-01 to SENTINEL-05
+SENTINEL-04,IMPLEMENTATION_EXAMPLE,Local,"Official document with direct implementation evidence; descriptive only",PENDING_RETRIEVAL,One record per legacy sentinel type; slots SENTINEL-01 to SENTINEL-05
+SENTINEL-05,IMPLEMENTATION_EXAMPLE,Local,"Official document with direct implementation evidence; descriptive only",PENDING_RETRIEVAL,One record per legacy sentinel type; slots SENTINEL-01 to SENTINEL-05

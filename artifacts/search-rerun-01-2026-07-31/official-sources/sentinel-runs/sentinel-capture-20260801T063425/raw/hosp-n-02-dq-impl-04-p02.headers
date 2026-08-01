@@ -1,0 +1,18 @@
+Date: Fri, 31 Jul 2026 23:52:21 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Server-Timing: cfCacheStatus;desc="HIT"
+Server-Timing: cfEdge;dur=11,cfOrigin;dur=0
+Age: 67
+engine: SharksMedia-kb8--sharks.vn
+Server: cloudflare
+sm-cache-status: hit
+ttl: 1785696850
+vary: Accept-Encoding
+cf-cache-status: HIT
+set-cookie: __cf_bm=p3sF0GsvTuchKfE3YXoAD5tVqkQBTVoM3Eb3.oEy7cE-1785541941.382173-1.0.1.1-YvgtScPA1F.BWmtxktae99LOkrgBJbp6j0yVBYVkdoWR9aOyBeMWrQLNwL6d9B8sme4mKpTcwZAyTPiasN5PkbYlX1vrgpee8lxtbEOoKATyn8hrmMO_7m6VNubrsDlq; HttpOnly; SameSite=None; Secure; Path=/; Domain=vinmec.com; Expires=Sat, 01 Aug 2026 00:22:21 GMT
+set-cookie: _cfuvid=i_7To7aiEXQ16LP7xtI9KAHuu7dpNQmM.TX87.rB6z0-1785541941.382173-1.0.1.1-3e8DsXNmXB_AwC4ccQF8Vx8ojPkeF_FdsqYHpReUaOw; HttpOnly; SameSite=None; Secure; Path=/; Domain=vinmec.com
+CF-RAY: a240842dac566dc4-SEA
+alt-svc: h3=":443"; ma=86400
+

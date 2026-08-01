@@ -1,0 +1,14 @@
+{
+  "run_id": "pdf-harvest-20260801T093450",
+  "completed_at_utc": "2026-08-01T02:36:08+00:00",
+  "total_candidate_urls": 16,
+  "pdf_files_captured": 16,
+  "html_doc_files_captured": 0,
+  "failed_downloads": 0,
+  "status": "RAW_LEGAL_PDF_HARVEST_COMPLETE_UNSCREENED",
+  "limitations": [
+    "Full-text PDFs and document detail HTML pages captured from official government portals.",
+    "Documents are raw and unscreened.",
+    "No screening, extraction, or PRISMA decision has been made."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Server": "nginx",
+  "Date": "Sat, 01 Aug 2026 04:10:09 GMT",
+  "Content-Type": "text/html;charset=UTF-8",
+  "Content-Length": "144466",
+  "Connection": "close",
+  "X-Content-Type-Options": "nosniff",
+  "X-XSS-Protection": "1",
+  "Set-Cookie": "Path=/; HttpOnly; Secure",
+  "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+  "Cache-Control": "private, no-cache, no-store, must-revalidate",
+  "Pragma": "no-cache",
+  "Liferay-Portal": "Liferay Portal Community Edition 6.2 CE GA3 (Newton / Build 6202 / January 15, 2015)",
+  "ETag": "\"8cce4a99\"",
+  "x_return": "1",
+  "X-Frame-Options": "ALLOWALL"
+}

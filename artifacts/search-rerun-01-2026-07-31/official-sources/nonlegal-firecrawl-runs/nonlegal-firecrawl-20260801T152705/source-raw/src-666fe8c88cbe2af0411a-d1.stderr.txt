@@ -1,0 +1,9 @@
+Scrape ID: 019fbc97-8977-7390-9e78-7e94f62d3b94
+'_dichvucong_WAR_oepdvcportlet_delta' is not recognized as an internal or external command,
+operable program or batch file.
+'_dichvucong_WAR_oepdvcportlet_cur' is not recognized as an internal or external command,
+operable program or batch file.
+'_dichvucong_WAR_oepdvcportlet_mvcPath' is not recognized as an internal or external command,
+operable program or batch file.
+'_dichvucong_WAR_oepdvcportlet_tthcId' is not recognized as an internal or external command,
+operable program or batch file.

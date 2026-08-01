@@ -1,0 +1,13 @@
+{
+  "Server": "nginx/1.18.0 (Ubuntu)",
+  "Date": "Sat, 01 Aug 2026 08:50:35 GMT",
+  "Content-Type": "application/pdf",
+  "Content-Length": "1814998",
+  "Last-Modified": "Thu, 02 Oct 2025 13:55:39 GMT",
+  "Connection": "close",
+  "ETag": "\"68de845b-1bb1d6\"",
+  "Expires": "Sun, 01 Aug 2027 08:50:35 GMT",
+  "Cache-Control": "max-age=31536000",
+  "Accept-Ranges": "bytes",
+  "Strict-Transport-Security": "max-age=15768000"
+}

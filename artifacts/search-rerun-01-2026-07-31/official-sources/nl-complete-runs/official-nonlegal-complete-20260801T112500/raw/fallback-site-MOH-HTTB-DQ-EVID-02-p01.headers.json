@@ -1,0 +1,19 @@
+{
+  "Content-Type": "text/html; charset=utf-8",
+  "Cache-Control": "private, max-age=0",
+  "Expires": "Sat, 01 Aug 2026 04:12:07 GMT",
+  "Vary": "Accept-Encoding",
+  "X-EventID": "6a6d7253d17948eba8c47abdba8c2471",
+  "UserAgentReductionOptOut": "A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=",
+  "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+  "Permissions-Policy": "unload=()",
+  "Content-Security-Policy": "script-src https: 'strict-dynamic' 'report-sample' 'wasm-unsafe-eval' 'nonce-6RLQjdFPehsLvWNg2Lz47uE+sBduXm5GQA65A9BFIg0='; base-uri 'self';",
+  "P3P": "CP=\"NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND\"",
+  "X-Display-Context": "full",
+  "Date": "Sat, 01 Aug 2026 04:13:07 GMT",
+  "Transfer-Encoding": "chunked",
+  "Connection": "Transfer-Encoding",
+  "Set-Cookie": "_SS=SID=0AF0BDC30DA267062CB8AA6B0CC5662A; domain=.bing.com; path=/",
+  "Alt-Svc": "h3=\":443\"; ma=93600",
+  "X-CDN-TraceID": "0.85f23517.1785557587.76a5bdcf"
+}

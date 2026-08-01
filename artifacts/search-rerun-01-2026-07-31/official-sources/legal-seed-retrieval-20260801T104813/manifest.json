@@ -1,0 +1,9 @@
+{
+  "run_id": "legal-seed-retrieval-20260801T104813",
+  "completed_at_utc": "2026-08-01T03:48:29+00:00",
+  "seed_count": 3,
+  "successful_seed_count": 3,
+  "status": "RAW_OFFICIAL_LEGAL_SEEDS_CAPTURED_NOT_SCREENED",
+  "scope_limit": "Registered seed retrieval only; no legal-effect inference, relation expansion, registry creation, deduplication, screening, extraction, or synthesis.",
+  "required_next_step": "Human legal-content verification and registered relation traversal before any evidence claim."
+}

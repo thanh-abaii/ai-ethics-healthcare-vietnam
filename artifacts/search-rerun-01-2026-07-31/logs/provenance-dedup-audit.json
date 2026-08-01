@@ -1,0 +1,26 @@
+{
+  "audit_type": "MASTER_INPUT_REGISTRY_COMPILATION_AND_CANONICALIZATION",
+  "generated_at_utc": "2026-08-01T16:57:54.101081+00:00",
+  "total_raw_manifestations": 445,
+  "source_channel_breakdown": {
+    "PUBMED": 88,
+    "OPENALEX": 347,
+    "LEGAL_OFFICIAL_PORTAL": 4,
+    "PR07_PUBLIC_SOURCE": 6
+  },
+  "total_canonical_records": 385,
+  "hard_identifier_duplicate_clusters": 60,
+  "title_year_review_candidates": 71,
+  "total_dedup_candidates": 131,
+  "total_registry_events": 1335,
+  "event_type_breakdown": {
+    "MANIFESTATION": 445,
+    "PROVENANCE": 445,
+    "CANONICALIZATION": 445
+  },
+  "integrity_failures": [],
+  "status": "PASS_READINESS_FOR_CANONICAL_MASTER_REGISTRY",
+  "screening_phase_status": "SCREENING_NOT_OPEN",
+  "search_status": "DIRECT_SEARCH_IN_PROGRESS",
+  "remediation_note": "Remediated previous run: excluded 223 candidate titles; locked exact 445 verified manifestations scope; fixed authority priority order; fixed query_id & normalized_url schema fields."
+}

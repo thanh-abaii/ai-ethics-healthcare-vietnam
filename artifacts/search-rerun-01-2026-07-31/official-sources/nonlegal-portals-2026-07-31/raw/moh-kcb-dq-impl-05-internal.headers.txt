@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 31 Jul 2026 14:10:07 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: INGRESSCOOKIE=1785507008.319.36.290869|c25d5bf0c0379c64f5c9c8beddc7c621; Path=/; Secure; HttpOnly
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: be=66; expires=Fri, 31 Jul 2026 15:10:07 GMT; Max-Age=3600; path=/; secure; HttpOnly
+Set-Cookie: AUTH_BEARER_default=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3ODU1MDcwMDcsImp0aSI6IlBFamFCcFQ3YTlucHFhbWtNRmNjWFFyUmxseDdoOS9NSUc2dnpWU2Z1a0E9IiwiaXNzIjoia2NiLnZuIiwibmJmIjoxNzg1NTA3MDA3LCJleHAiOjE3ODU1MTA2MDcsImRhdGEiOiJjc3JmVG9rZW58czo2NDpcImQxZDEzM2FmMTg2MDQ3YzBhMjEyNTVmMjI0NTUyYWZmODA0ZDdlNzdhOTEyZTcxZGJhMGNhZmE1NThmMDlhODNcIjtndWVzdElkfHM6MzI6XCI4NWNlYWVlODY2OWUwNGViOTFkODBmODFlZDJiODIyYVwiOyJ9.fyL19hXIh8cM1JL2MM0QUSVliJHxQlg7uxyWma58H7WPTQMBIynhzITrgDPEtus2_c8x0U3vcggtz53fonOFnw; path=/; secure; HttpOnly; SameSite=Lax
+X-Frame-Options: sameorigin
+Access-Control-Allow-Origin: kcb.vn
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, HEAD
+Access-Control-Allow-Headers: Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Requested-With
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+

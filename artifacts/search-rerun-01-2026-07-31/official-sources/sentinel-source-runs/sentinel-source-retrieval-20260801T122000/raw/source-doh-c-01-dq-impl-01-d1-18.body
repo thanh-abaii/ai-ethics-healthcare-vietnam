@@ -1,0 +1,4209 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+			<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html class="ltr" dir="ltr" lang="vi-VN">
+
+<head>
+	<style>
+		:root {
+			--main-color-background : #FFFFFF;
+			--main-color-text : #182940;
+			--main-color-border : rgba(224, 224, 224, 1);
+			--main-color-border-title : #0D4C92;
+			--main-home-text-color: rgba(13, 76, 146, 1);
+			--main-home-background-color: rgba(181, 224, 255, 1);
+			--main-home-menu-background-color: #1387DE;
+			--main-home-menu-background-linear-color: #0AB2F0;
+			--main-home-menu-background-search-color: #2C82B5;
+
+		}
+
+
+	</style>
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/bootstrap.min.css">
+	<title>Tìm kiếm - Trang thông tin điện tử Sở Y tế - Cổng thông tin thành phố Đà Nẵng</title>
+
+	<meta content="initial-scale=1.0, width=device-width" name="viewport" />
+	<link href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/icons/DNG_icon.png" rel="icon">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+
+
+
+
+
+
+
+
+<meta content="Display search results with a default set of facets." lang="vi-VN" name="description" />
+
+
+<link data-senna-track="temporary" href="https://soyte.danang.gov.vn/tim-kiem" rel="canonical" />
+<meta property="og:description" content="Display search results with a default set of facets.">
+<meta property="og:locale" content="vi_VN">
+<meta property="og:locale:alternate" content="vi_VN">
+<meta property="og:site_name" content="Trang thông tin điện tử Sở Y tế">
+<meta property="og:title" content="Tìm kiếm - Trang thông tin điện tử Sở Y tế - Cổng thông tin thành phố Đà Nẵng">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://soyte.danang.gov.vn/tim-kiem">
+<meta property="og:image" content="https://soyte.danang.gov.vn/documents/131507/0/SoYTe.png/1ae92045-fecf-cf35-3d2d-8731942ee69a?version=1.0&t=1741596535544&imagePreview=1">
+<meta property="og:image:alt" content="Trang thông tin điện tử Sở Y Tế">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:url" content="https://soyte.danang.gov.vn/documents/131507/0/SoYTe.png/1ae92045-fecf-cf35-3d2d-8731942ee69a?version=1.0&t=1741596535544&imagePreview=1">
+<meta property="og:image:height" content="5328">
+<meta property="og:image:width" content="7184">
+
+
+<link href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/favicon.ico" rel="icon" />
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/clay.css?browserId=chrome&amp;themeId=portalhomehomesyt_WAR_portalhomemultithemesyt&amp;minifierType=css&amp;languageId=vi_VN&amp;b=7307&amp;t=1782243866000" id="liferayAUICSS" rel="stylesheet" type="text/css" />
+
+
+
+<link data-senna-track="temporary" href="/o/frontend-css-web/main.css?browserId=chrome&amp;themeId=portalhomehomesyt_WAR_portalhomemultithemesyt&amp;minifierType=css&amp;languageId=vi_VN&amp;b=7307&amp;t=1623377010573" id="liferayPortalCSS" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+		<link data-senna-track="temporary" href="/combo?browserId=chrome&amp;minifierType=&amp;themeId=portalhomehomesyt_WAR_portalhomemultithemesyt&amp;languageId=vi_VN&amp;b=7307&amp;com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_dGivQb5hmcxL:%2Fcss%2Fmain.css&amp;com_liferay_portal_search_web_category_facet_portlet_CategoryFacetPortlet:%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_user_personal_bar_web_portlet_ProductNavigationUserPersonalBarPortlet:%2Fcss%2Fmain.css&amp;com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet:%2Fcss%2Fmain.css&amp;t=1782243866000" id="ea0e31f2" rel="stylesheet" type="text/css" />
+
+	
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		var Liferay = Liferay || {};
+
+		Liferay.Browser = {
+			acceptsGzip: function() {
+				return false;
+			},
+
+			
+
+			getMajorVersion: function() {
+				return 126;
+			},
+
+			getRevision: function() {
+				return '537.36';
+			},
+			getVersion: function() {
+				return '126';
+			},
+
+			
+
+			isAir: function() {
+				return false;
+			},
+			isChrome: function() {
+				return true;
+			},
+			isEdge: function() {
+				return false;
+			},
+			isFirefox: function() {
+				return false;
+			},
+			isGecko: function() {
+				return false;
+			},
+			isIe: function() {
+				return false;
+			},
+			isIphone: function() {
+				return false;
+			},
+			isLinux: function() {
+				return false;
+			},
+			isMac: function() {
+				return false;
+			},
+			isMobile: function() {
+				return false;
+			},
+			isMozilla: function() {
+				return false;
+			},
+			isOpera: function() {
+				return false;
+			},
+			isRtf: function() {
+				return true;
+			},
+			isSafari: function() {
+				return true;
+			},
+			isSun: function() {
+				return false;
+			},
+			isWebKit: function() {
+				return true;
+			},
+			isWindows: function() {
+				return true;
+			}
+		};
+
+		Liferay.Data = Liferay.Data || {};
+
+		Liferay.Data.ICONS_INLINE_SVG = true;
+
+		Liferay.Data.NAV_SELECTOR = '#navigation';
+
+		Liferay.Data.NAV_SELECTOR_MOBILE = '#navigationCollapse';
+
+		Liferay.Data.isCustomizationView = function() {
+			return false;
+		};
+
+		Liferay.Data.notices = [
+			
+
+			
+		];
+
+		Liferay.PortletKeys = {
+			DOCUMENT_LIBRARY: 'com_liferay_document_library_web_portlet_DLPortlet',
+			DYNAMIC_DATA_MAPPING: 'com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet',
+			ITEM_SELECTOR: 'com_liferay_item_selector_web_portlet_ItemSelectorPortlet'
+		};
+
+		Liferay.PropsValues = {
+			JAVASCRIPT_SINGLE_PAGE_APPLICATION_TIMEOUT: 0,
+			NTLM_AUTH_ENABLED: false,
+			UPLOAD_SERVLET_REQUEST_IMPL_MAX_SIZE: 2504857600
+		};
+
+		Liferay.ThemeDisplay = {
+
+			
+
+			
+				getLayoutId: function() {
+					return '5';
+				},
+
+				
+
+				getLayoutRelativeControlPanelURL: function() {
+					return '/group/syt/~/control_panel/manage?p_p_id=com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet';
+				},
+
+				getLayoutRelativeURL: function() {
+					return '/tim-kiem';
+				},
+				getLayoutURL: function() {
+					return 'https://soyte.danang.gov.vn/tim-kiem';
+				},
+				getParentLayoutId: function() {
+					return '0';
+				},
+				isControlPanel: function() {
+					return false;
+				},
+				isPrivateLayout: function() {
+					return 'false';
+				},
+				isVirtualLayout: function() {
+					return false;
+				},
+			
+
+			getBCP47LanguageId: function() {
+				return 'vi-VN';
+			},
+			getCanonicalURL: function() {
+
+				
+
+				return 'https\x3a\x2f\x2fsoyte\x2edanang\x2egov\x2evn\x2ftim-kiem';
+			},
+			getCDNBaseURL: function() {
+				return 'https://soyte.danang.gov.vn';
+			},
+			getCDNDynamicResourcesHost: function() {
+				return '';
+			},
+			getCDNHost: function() {
+				return '';
+			},
+			getCompanyGroupId: function() {
+				return '37640';
+			},
+			getCompanyId: function() {
+				return '37610';
+			},
+			getDefaultLanguageId: function() {
+				return 'vi_VN';
+			},
+			getDoAsUserIdEncoded: function() {
+				return '';
+			},
+			getLanguageId: function() {
+				return 'vi_VN';
+			},
+			getParentGroupId: function() {
+				return '131507';
+			},
+			getPathContext: function() {
+				return '';
+			},
+			getPathImage: function() {
+				return '/image';
+			},
+			getPathJavaScript: function() {
+				return '/o/frontend-js-web';
+			},
+			getPathMain: function() {
+				return '/c';
+			},
+			getPathThemeImages: function() {
+				return 'https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images';
+			},
+			getPathThemeRoot: function() {
+				return '/o/portal-home-multi-theme-syt';
+			},
+			getPlid: function() {
+				return '99';
+			},
+			getPortalURL: function() {
+				return 'https://soyte.danang.gov.vn';
+			},
+			getScopeGroupId: function() {
+				return '131507';
+			},
+			getScopeGroupIdOrLiveGroupId: function() {
+				return '131507';
+			},
+			getSessionId: function() {
+				return '';
+			},
+			getSiteAdminURL: function() {
+				return 'https://soyte.danang.gov.vn/group/syt/~/control_panel/manage?p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view';
+			},
+			getSiteGroupId: function() {
+				return '131507';
+			},
+			getURLControlPanel: function() {
+				return '/group/control_panel?refererPlid=99';
+			},
+			getURLHome: function() {
+				return 'https\x3a\x2f\x2fsoyte\x2edanang\x2egov\x2evn\x2fweb\x2fguest';
+			},
+			getUserEmailAddress: function() {
+				return '';
+			},
+			getUserId: function() {
+				return '37616';
+			},
+			getUserName: function() {
+				return '';
+			},
+			isAddSessionIdToURL: function() {
+				return false;
+			},
+			isImpersonated: function() {
+				return false;
+			},
+			isSignedIn: function() {
+				return false;
+			},
+			isStateExclusive: function() {
+				return false;
+			},
+			isStateMaximized: function() {
+				return true;
+			},
+			isStatePopUp: function() {
+				return false;
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		Liferay.AUI = {
+
+			
+
+			getAvailableLangPath: function() {
+				return 'available_languages.jsp?browserId=chrome&themeId=portalhomehomesyt_WAR_portalhomemultithemesyt&colorSchemeId=01&minifierType=js&languageId=vi_VN&b=7307&t=1784275195414';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=chrome&minifierType=&languageId=vi_VN&b=7307&t=1623376995526&';
+			},
+			getDateFormat: function() {
+				return '%d/%m/%Y';
+			},
+			getEditorCKEditorPath: function() {
+				return '/o/frontend-editor-ckeditor-web';
+			},
+			getFilter: function() {
+				var filter = 'raw';
+
+				
+					
+						filter = 'min';
+					
+					
+				
+
+				return filter;
+			},
+			getFilterConfig: function() {
+				var instance = this;
+
+				var filterConfig = null;
+
+				if (!instance.getCombine()) {
+					filterConfig = {
+						replaceStr: '.js' + instance.getStaticResourceURLParams(),
+						searchExp: '\\.js$'
+					};
+				}
+
+				return filterConfig;
+			},
+			getJavaScriptRootPath: function() {
+				return '/o/frontend-js-web';
+			},
+			getLangPath: function() {
+				return 'aui_lang.jsp?browserId=chrome&themeId=portalhomehomesyt_WAR_portalhomemultithemesyt&colorSchemeId=01&minifierType=js&languageId=vi_VN&b=7307&t=1623376995526';
+			},
+			getPortletRootPath: function() {
+				return '/html/portlet';
+			},
+			getStaticResourceURLParams: function() {
+				return '?browserId=chrome&minifierType=&languageId=vi_VN&b=7307&t=1623376995526';
+			}
+		};
+
+		Liferay.authToken = 'PkP2wIuu';
+
+		
+
+		Liferay.currentURL = '\x2ftim-kiem\x3fp_p_id\x3dcom_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet\x26p_p_lifecycle\x3d0\x26p_p_state\x3dmaximized\x26p_p_mode\x3dview\x26_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_mvcPath\x3d\x252Fview_content\x2ejsp\x26_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_assetEntryId\x3d873108\x26_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_type\x3ddocument_folder';
+		Liferay.currentURLEncoded = '\x252Ftim-kiem\x253Fp_p_id\x253Dcom_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet\x2526p_p_lifecycle\x253D0\x2526p_p_state\x253Dmaximized\x2526p_p_mode\x253Dview\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_mvcPath\x253D\x25252Fview_content\x2ejsp\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_assetEntryId\x253D873108\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_type\x253Ddocument_folder';
+	// ]]>
+</script>
+
+<script src="/o/js_loader_config?t=1782268980538" type="text/javascript"></script>
+<script data-senna-track="permanent" src="/combo?browserId=chrome&minifierType=js&languageId=vi_VN&b=7307&t=1623376995526&/o/frontend-js-aui-web/aui/aui/aui.js&/o/frontend-js-aui-web/liferay/modules.js&/o/frontend-js-aui-web/liferay/aui_sandbox.js&/o/frontend-js-aui-web/aui/attribute-base/attribute-base.js&/o/frontend-js-aui-web/aui/attribute-complex/attribute-complex.js&/o/frontend-js-aui-web/aui/attribute-core/attribute-core.js&/o/frontend-js-aui-web/aui/attribute-observable/attribute-observable.js&/o/frontend-js-aui-web/aui/attribute-extras/attribute-extras.js&/o/frontend-js-aui-web/aui/event-custom-base/event-custom-base.js&/o/frontend-js-aui-web/aui/event-custom-complex/event-custom-complex.js&/o/frontend-js-aui-web/aui/oop/oop.js&/o/frontend-js-aui-web/aui/aui-base-lang/aui-base-lang.js&/o/frontend-js-aui-web/liferay/dependency.js&/o/frontend-js-aui-web/liferay/util.js&/o/frontend-js-web/loader/config.js&/o/frontend-js-web/loader/loader.js&/o/frontend-js-web/liferay/dom_task_runner.js&/o/frontend-js-web/liferay/events.js&/o/frontend-js-web/liferay/lazy_load.js&/o/frontend-js-web/liferay/liferay.js&/o/frontend-js-web/liferay/global.bundle.js&/o/frontend-js-web/liferay/portlet.js&/o/frontend-js-web/liferay/workflow.js" type="text/javascript"></script>
+
+
+
+
+	
+
+	<script data-senna-track="temporary" src="/o/js_bundle_config?t=1782270126871" type="text/javascript"></script>
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		
+			
+				
+					Liferay.Portlet.register('com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet');
+				
+				
+			
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+	
+		
+
+			
+
+			
+		
+		
+	
+
+
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/main.css?browserId=chrome&amp;themeId=portalhomehomesyt_WAR_portalhomemultithemesyt&amp;minifierType=css&amp;languageId=vi_VN&amp;b=7307&amp;t=1782243866000" id="liferayThemeCSS" rel="stylesheet" type="text/css" />
+
+
+
+
+	<style data-senna-track="temporary" type="text/css">
+		.scrollToHome{
+    bottom: 85px !important;
+}
+	</style>
+
+
+
+
+
+	<style data-senna-track="temporary" type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+
+<link href="/o/commerce-frontend-js/styles/main.css" rel="stylesheet" type="text/css" /><style data-senna-track="temporary" type="text/css">
+</style>
+<script type="text/javascript">
+// <![CDATA[
+Liferay.SPA = Liferay.SPA || {};
+Liferay.SPA.cacheExpirationTime = -1;
+Liferay.SPA.clearScreensCache = false;
+Liferay.SPA.debugEnabled = false;
+Liferay.SPA.excludedPaths = ["/c/document_library","/documents","/image"];
+Liferay.SPA.loginRedirect = '';
+Liferay.SPA.navigationExceptionSelectors = ':not([target="_blank"]):not([data-senna-off]):not([data-resource-href]):not([data-cke-saved-href]):not([data-cke-saved-href])';
+Liferay.SPA.requestTimeout = 0;
+Liferay.SPA.userNotification = {
+	message: 'It looks like this is taking longer than expected.',
+	timeout: 30000,
+	title: 'Oops'
+};
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('frontend-js-spa-web@4.0.32/liferay/init.es', function(frontendJsSpaWeb4032LiferayInitEs) {
+try {
+(function() {
+var frontendJsSpaWebLiferayInitEs = frontendJsSpaWeb4032LiferayInitEs;
+frontendJsSpaWebLiferayInitEs.default.init(
+	function(app) {
+		app.setPortletsBlacklist({"com_liferay_site_navigation_directory_web_portlet_SitesDirectoryPortlet":true,"com_liferay_nested_portlets_web_portlet_NestedPortletsPortlet":true,"com_liferay_login_web_portlet_LoginPortlet":true,"com_liferay_login_web_portlet_FastLoginPortlet":true});
+		app.setValidStatusCodes([221,490,494,499,491,492,493,495,220]);
+	}
+);
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	if (window.Analytics) {
+		window._com_liferay_document_library_analytics_isViewFileEntry = false;
+	}
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+Liferay.on(
+	'ddmFieldBlur', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldBlurred',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					focusDuration: event.focusDuration,
+					formId: event.formId,
+					page: event.page
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFieldFocus', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldFocused',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					formId: event.formId,
+					page: event.page
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormPageShow', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'pageViewed',
+				'Form',
+				{
+					formId: event.formId,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormSubmit', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formSubmitted',
+				'Form',
+				{
+					formId: event.formId
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormView', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formViewed',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+// ]]>
+</script>
+
+
+
+
+
+
+
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/style.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/ace-responsive-menu.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/responsive.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/custom_style.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/styleVN.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/select2.min.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/jquery.datetimepicker.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/sweetalert2.min.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/responsive/screen-lt-576.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/responsive/screen-gt-576-768.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/responsive/screen-gt-768-992.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/responsive/screen-gt-992-1200.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/responsive/screen-gt-1200.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/responsive/screen-gt-1500.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/responsive/screen-gt-1920.css">
+	<link rel="stylesheet" href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/css/flatpickr.min.css">
+	<link href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+	<script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/jquery.mmenu.all.js"></script>
+	<script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/jquery-migrate-3.0.0.min.js"></script>
+	<script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/jquery.counterup.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
+    <script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/popper.min.js"></script>
+    <script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/ace-responsive-menu.js"></script>
+    <script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/simplebar.js"></script>
+    <script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/parallax.js"></script>
+    <script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/wow.min.js"></script>
+    <script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/slider.js"></script>
+    <script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/timepicker.js"></script>
+    <script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/script.js"></script>
+    <script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/main.js"></script>
+    <script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/news.js"></script>
+	<script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/bootstrap-table.min.js"></script>
+    <script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/sweetalert2.all.min.js"></script>
+	<script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/select2.min.js"></script>
+	<script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/flatpickr.min.js"></script>
+	<script type="text/javascript" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/vn.js"></script>
+
+
+</head>
+
+<body class="chrome controls-visible  yui3-skin-sam page-maximized signed-out public-page site">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<nav aria-label="Liên kết nhanh" class="quick-access-nav" id="jmko_quickAccessNav">
+		<h1 class="hide-accessible">Thực đơn</h1>
+
+		<ul>
+			
+				<li><a href="#main-content">Truy cập nội dung luôn</a></li>
+			
+
+			
+		</ul>
+	</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="wrapper" id="hcmPortalCityWeb">
+	<input type="hidden" id="isEnglishSite" value="false">
+		<div class="header-main" style="background-image: url(https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/soyte-background.png);background-size: cover; background-position: center;">
+			<div class="container">
+				<nav class="header-nav-banner info">
+					<a href="/web/syt" class="menu-logo-90">
+						<img  src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/icons/DNG_icon.png" alt="logo" class="menu-logo__image-90 DN-logo"/>
+							<div class="header-title mx-3">
+								<div class="ttdt-header-1">SỞ Y TẾ</div>
+								<div class="ttdt-header-2">
+									
+									THÀNH PHỐ ĐÀ NẴNG
+								</div>
+							</div>
+					</a>
+					<div id="icon-open-menu" class="icon-open-menu">
+						<img src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/icons/open-menu-icon.svg" />
+					</div>
+				</nav>
+			</div>
+		</div>
+		<header class="header-main-nav stricky main-menu slideIn animated ">
+			<div class="container header-nav-bar">
+				<div class="header-top-main">
+<div class="header-menu">
+	<ul class="menu-top mb-0">
+					<li class="menu-item">
+					<a href="https://soyte.danang.gov.vn/trang-chu" class="menu-link-item text-uppercase ">
+						Trang chủ
+					</a>
+			</li>
+			<li class="menu-item">
+					<a href="https://soyte.danang.gov.vn/gioi-thieu" class="menu-link-item text-uppercase ">
+						Giới thiệu
+					</a>
+						<img src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/icons/menu-down-icon.svg" alt="">
+						<ul id="" class="ace-menu-child" data-menu-style="horizontal">
+								<li style="padding:0" class="li-new-child">
+									<a href="https://soyte.danang.gov.vn/tong-quan" class="ha">
+										<span class="title text-uppercase">Tổng quan</span>
+									</a>
+								</li>
+								<li style="padding:0" class="li-new-child">
+									<a href="https://soyte.danang.gov.vn/so-do-to-chuc" class="ha">
+										<span class="title text-uppercase">Sơ đồ tổ chức</span>
+									</a>
+								</li>
+								<li style="padding:0" class="li-new-child">
+									<a href="https://soyte.danang.gov.vn/lanh-dao" class="ha">
+										<span class="title text-uppercase">Lãnh đạo</span>
+									</a>
+								</li>
+								<li style="padding:0" class="li-new-child">
+									<a href="https://soyte.danang.gov.vn/cac-don-vi-truc-thuoc" class="ha">
+										<span class="title text-uppercase">Các đơn vị trực thuộc</span>
+									</a>
+								</li>
+						</ul>
+			</li>
+			<li class="menu-item">
+					<a href="https://soyte.danang.gov.vn/lich-cong-tac" class="menu-link-item text-uppercase ">
+						Lịch công tác
+					</a>
+			</li>
+			<li class="menu-item">
+					<a href="https://soyte.danang.gov.vn/trang-tin-tuc-su-kien" class="menu-link-item text-uppercase ">
+						Tin tức sự kiện
+					</a>
+			</li>
+			<li class="menu-item">
+					<a href="https://soyte.danang.gov.vn/van-ban-qppl" class="menu-link-item text-uppercase ">
+						Văn bản QPPL
+					</a>
+						<img src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/icons/menu-down-icon.svg" alt="">
+						<ul id="" class="ace-menu-child" data-menu-style="horizontal">
+								<li style="padding:0" class="li-new-child">
+									<a href="https://vbpl.vn/TW/Pages/Home.aspx" class="ha">
+										<span class="title text-uppercase">Văn bản trung ương</span>
+									</a>
+								</li>
+								<li style="padding:0" class="li-new-child">
+									<a href="https://vbpl.vn/danang/Pages/Home.aspx" class="ha">
+										<span class="title text-uppercase">Văn bản thành phố</span>
+									</a>
+								</li>
+						</ul>
+			</li>
+			<li class="menu-item">
+					<a href="https://soyte.danang.gov.vn/lien-he" class="menu-link-item text-uppercase ">
+						Liên hệ
+					</a>
+			</li>
+	</ul>
+</div>
+<div id="page" class="stylehome1 h0">
+	<div class="mobile-menu">
+		<div class="header stylehome1">
+			<ul class="menu_bar_home2">
+				<li class="list-inline-item mr-2">
+					<a href="#mobile-menu">
+						<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none">
+							<path d="M23.3333 12.8334C22.689 12.8334 22.1667 13.3557 22.1667 14.0001C22.1667 14.6444 22.689 15.1667 23.3333 15.1667C23.9777 15.1667 24.5 14.6444 24.5 14.0001C24.5 13.3557 23.9777 12.8334 23.3333 12.8334Z" fill="#C8392B"/>
+							<path d="M4.59683 15.1667L18.7368 15.1667C19.3425 15.1667 19.8335 14.6758 19.8335 14.0701L19.8335 13.9301C19.8335 13.3244 19.3425 12.8334 18.7368 12.8334L4.59683 12.8334C3.99116 12.8334 3.50016 13.3244 3.50016 13.9301L3.50016 14.0701C3.50016 14.6758 3.99116 15.1667 4.59683 15.1667Z" fill="#C8392B"/>
+							<path d="M4.59667 9.33325L23.4033 9.33325C24.009 9.33325 24.5 8.84226 24.5 8.23658L24.5 8.09659C24.5 7.49091 24.009 6.99992 23.4033 6.99992L4.59667 6.99992C3.991 6.99992 3.5 7.49091 3.5 8.09658L3.5 8.23658C3.5 8.84226 3.991 9.33325 4.59667 9.33325Z" fill="#C8392B"/>
+							<path d="M4.59667 21L23.4033 21C24.009 21 24.5 20.509 24.5 19.9033L24.5 19.7633C24.5 19.1577 24.009 18.6667 23.4033 18.6667L4.59667 18.6667C3.991 18.6667 3.5 19.1577 3.5 19.7633L3.5 19.9033C3.5 20.509 3.991 21 4.59667 21Z" fill="#C8392B"/>
+						</svg>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+				</div>
+				<div class="d-flex" style="gap: 20px">
+                    <div class="header-search-bar">
+                        <input id="search-input-syt" type="text" placeholder="Nhập từ khóa">
+                        <button id="search-btn-syt"><img src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/icons/Vector.svg" class="search-icon"></button>
+                    </div>
+				</div>
+			</div>
+		</header>
+	<div style="min-height: 55vh" class="custom-by-portal-hcm">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="columns-max" id="main-content" role="main">
+	<div class="portlet-layout row">
+		<div class="col-md-12 portlet-column portlet-column-only" id="column-1">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_  portlet-static portlet-static-end portlet-barebone portlet-search-results " id="p_p_id_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_">
+		<span id="p_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+<section class="portlet" id="portlet_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet">
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Search Results</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="mb-2">
+		<h4 class="component-title">
+			<span class="asset-title d-inline">
+				26
+			</span>
+
+			
+		</h4>
+	</div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="aspect-ratio aspect-ratio-8-to-3 bg-light mb-4">
+		<div class="aspect-ratio-item-center-middle aspect-ratio-item-fluid card-type-asset-icon">
+			<div class="text-secondary">
+				<svg aria-hidden="true" class="lexicon-icon lexicon-icon-folder reference-mark user-icon-xl">
+					<use xlink:href="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/clay/icons.svg#folder" />
+				</svg>
+			</div>
+		</div>
+	</div>
+
+	
+
+	
+
+	<div class="small">
+		0 Các thư mục
+	</div>
+
+	
+
+	<div class="small">
+		0 Tài liệu
+	</div>
+
+	
+
+
+
+	
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+		</div>
+	</div>
+</div>
+
+<form action="#" aria-hidden="true" class="hide" id="hrefFm" method="post" name="hrefFm"><span></span><input hidden type="submit"/></form>
+
+	
+	</div>
+			<div style="background-color: #FFEFD2">
+				<div class="container lienket-website">
+					<div class="lienket-container">
+						<div class="lienket-dropdown-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_  portlet-static portlet-static-end portlet-decorate portlet-navigation " id="p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383358_">
+		<span id="p_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383358"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+<section class="portlet" id="portlet_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383358">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Navigation Menu</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<!DOCTYPE html>
+<html>
+<head>
+    <!-- Add Select2 CSS and JS -->
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <style>
+        li.lienket-li {
+            color: #000;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 130%;
+            letter-spacing: 0.024px;
+            margin-bottom: 16px;
+        }
+        .no-margin {
+            margin: 0 !important;
+        }
+
+        .lien-ket-website #lienKet {
+            background: #F6F6F6;
+
+        }
+        select.custom-select {
+            padding: 10px 12px;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 30px;
+            color: var(--cpblue-182940, #182940);
+            font-family: Roboto;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 130%;
+            letter-spacing: 0.175px;
+            border-radius: 6px;
+            border: 1px solid var(--cpgreyeeeeee, #EEE);
+            height: auto;
+            position: relative;
+            display: inline-block;
+            cursor: pointer;
+        }
+        .title-custom- {
+            background-color: #BCE6FE;
+            color: rgba(13, 76, 146, 1);
+
+            text-align-last: center;
+            padding: 15px;
+            font-family: Roboto;
+            font-size: 16px;
+            font-weight: 700;
+            line-height: 20.8px;
+            letter-spacing: 0.005em;
+            text-align: center;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+
+        }
+        .custom-select,
+        .custom-select option {
+            /*color: rgba(119, 119, 119, 0.6);*/
+            font-family: Roboto;
+            font-size: 14px;
+            font-weight: 500;
+            line-height: 18.2px;
+            letter-spacing: 0.0125em;
+            text-align: left;
+            text-underline-position: from-font;
+            text-decoration-skip-ink: none;
+        }
+
+
+        /* select2 css */
+        .website-lien-ket-bottom .select2-container--default .select2-selection--single {
+            padding: 10px 12px;
+            height: auto;
+            border-radius: 6px;
+            border: none !important;
+        }
+        .select2-container .select2-selection--single{
+            height: 40px !important;
+        }
+        .website-lien-ket-bottom .select2-container--default .select2-selection--single .select2-selection__rendered {
+            color: #444;
+            font-family: Roboto;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 20px !important;
+        }
+        .select2-container--default .select2-selection--single .select2-selection__rendered {
+            color: #444;
+            font-family: Roboto;
+            font-size: 16px;
+            font-weight: 400;
+        }
+        .select2-container--default .select2-search--dropdown .select2-search__field {
+            border-radius: 4px;
+            padding: 8px;
+        }
+        .select2-results__option {
+            padding: 8px 12px;
+            font-family: Roboto;
+            font-size: 14px;
+        }
+        .select2-selection__clear{
+            display: none !important;
+        }
+
+        .select2-container--default .select2-selection--single .select2-selection__arrow{
+            top: 8px
+        }
+        .wrapper-select-lienket{
+            padding: 17.5px 15px;
+        }
+        .select2-results__option[aria-label="Chọn liên kết"] {
+            display: none !important;
+        }
+        .lienket-dropdown-container .portlet-boundary_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_ {
+            width: 33.33% ;
+        }
+        @media screen and (max-width: 576px) {
+            .lienket-dropdown-container .portlet-boundary_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_ {
+                width: 100% !important;
+            }
+            .lienket-dropdown-container{
+                flex-direction: column;
+                width: 100% !important;
+            }
+        }
+
+        .bootstrap-table .fixed-table-container .table thead th[data-field="hoVaTen"] .th-inner{
+            width: unset !important ;
+        }
+        a:hover {
+            text-decoration: none !important;
+        }
+        .menu-item .menu-active{
+            color: #FFA300;
+        }
+        #main-content {
+            background-color: #EBFDFF;
+        }
+        .main_blog_post_content .mbp_thumb_post{
+            background-color: #EBFDFF;
+        }
+        #main-content .yui3-dd-drop{
+            background-color: #ffffff;
+        }
+        .footer-img .bg-footer{
+            margin-right: 0px;
+        }
+        .table-responsive::-webkit-scrollbar {
+            display: none; /* Chrome, Safari */
+        }
+        @media screen and (min-width: 1024px) and (max-width: 1366px) {
+            .menu-item .menu-link-item {
+                font-size: 12px !important;
+            }
+            .header-username{
+                font-size: 14px ;
+            }
+            .header-username .mb-0{
+                margin-top: 5px !important;
+            }
+        }
+        #title-detail {
+    margin-top: 0 !important;
+}
+        #title-detail .title-divvv{
+            margin-top: 0;
+        }
+    </style>
+</head>
+
+<body>
+<div class="website-lien-ket-bottom">
+    <select class="form-control my-3 custom-select" size="1" onchange="redirectToPage(this.value)">
+        <option>Website Sở Ban Ngành</option>
+                        <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://noivu.danang.gov.vn/" data-target="_blank">Sở Nội Vụ</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://socongthuong.danang.gov.vn/" data-target="_blank">Sở Công Thương Đà Nẵng</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://danang.edu.vn/" data-target="_blank">Sở Giáo dục và Đào tạo Đà Nẵng</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://taichinh.danang.gov.vn/" data-target="_blank">Sở Tài chính</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://snnmt.danang.gov.vn/" data-target="_blank">Sở Nông nghiệp và Môi trường</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://sotuphap.danang.gov.vn/" data-target="_blank">Sở Tư pháp</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://vhtt.danang.gov.vn/" data-target="_blank">Sở Văn hóa và Thể thao thành phố Đà Nẵng</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://sxd.danang.gov.vn/" data-target="_blank">Sở Xây dựng</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://dost.danang.gov.vn/" data-target="_blank">Sở Khoa học và Công nghệ Đà Nẵng</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://fad.danang.gov.vn/" data-target="_blank">Sở Ngoại vụ</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://www.ddif.com.vn/" data-target="_blank">Quỹ Đầu tư phát triển</option>
+    </select>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('.custom-select').select2({
+            placeholder: "Chọn liên kết",
+            allowClear: true,
+            width: '100%',
+            language: {
+                noResults: function() {
+                    return "Không tìm thấy kết quả";
+                },
+                searching: function() {
+                    return "Đang tìm kiếm..."
+                }
+            }
+        })
+    });
+
+    function redirectToPage(url) {
+        if (url) {
+            window.open(url, '_blank');
+        }
+    }
+</script>
+<script>
+$(function() {
+  // 1. Chọn menu Trang 1: <a class="ha"> trong .li-new-child
+  $('.li-new-child a.ha').each(function() {
+    var text = $(this).text().replace(/\s+/g, ' ').trim();
+    if (text === 'Văn bản trung ương' || text === 'Văn bản thành phố') {
+      $(this).attr('target', '_blank');
+    }
+  });
+
+  // 2. Chọn menu Trang 2: <a> trong .li-level-3-col, chứa span.span-level-3-col
+  $('.ul-level-2-col .li-level-3-col > a').each(function() {
+    // Lấy text từ chính thẻ <span> bên trong <a>
+    var span = $(this).find('.span-level-3-col').clone();
+    span.find('p').remove(); // xóa tooltip <p> bên trong span
+    var text = span.text().replace(/\s+/g, ' ').trim();
+
+    if (text === 'Văn bản trung ương' || text === 'Văn bản thành phố') {
+      $(this).attr('target', '_blank');
+    }
+  });
+});
+
+</script>
+
+</body>
+</html>
+			
+			
+		
+	
+	
+	
+	
+
+
+	
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_  portlet-static portlet-static-end portlet-decorate portlet-navigation " id="p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383584_">
+		<span id="p_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383584"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+<section class="portlet" id="portlet_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383584">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Navigation Menu</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+    <div class="website-lien-ket-bottom">
+        <select class="form-control my-3 custom-select" size="1" onchange="redirectToPage(this.value)">
+        <option>Website Quận Huyện</option>
+                        <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://haichau.danang.gov.vn/" data-target="_blank">UBND Quận Hải Châu</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://sontra.danang.gov.vn/" data-target="_blank">UBND Quận Sơn Trà</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://nguhanhson.danang.gov.vn/" data-target="_blank">UBND Quận Ngũ Hành Sơn</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://lienchieu.danang.gov.vn/" data-target="_blank">UBND Quận Liên Chiểu</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://hoavang.danang.gov.vn/" data-target="_blank">UBND Huyện Hòa Vang</option>
+                <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://hoangsa.danang.gov.vn/" data-target="_blank">UBND Huyện Hoàng Sa</option>
+    </select>
+    </div>
+    
+    <script>
+        $(document).ready(function () {
+          try {
+            var linkCheck = $('a[href="https://hoidap.danang.gov.vn/CD_TraCuu.aspx"]');
+            var linkInsertAfter = $('a[href="https://gopy.danang.gov.vn"]');
+        
+            if (linkCheck.length === 0 && linkInsertAfter.length > 0) {
+              var newLink = `
+                <a target="_blank" href="https://hoidap.danang.gov.vn/CD_TraCuu.aspx" title="Hỏi đáp" class="item d-flex align-items-center" 
+                   style="--bg-urll: url(/documents/131507/131575/background-blq-syt2.jpg); 
+                          --bg-linear: linear-gradient(180deg, rgb(255 156 156 / 0%) 0%, rgba(120, 187, 255, 0) 72.47%);">
+                  <img src="/documents/131507/131575/entypo_chat.png" alt="">
+                  <div class="flex-fill d-flex justify-content-center">
+                    <p class="mb-0"><span class="no-wrap" style="color: #2E2E2E;">HỎI ĐÁP</span></p>
+                  </div>
+                </a>
+              `;
+              linkInsertAfter.after(newLink);
+            }
+          } catch (e) {
+            console.error("Lỗi khi thêm link HỎI ĐÁP:", e);
+          }
+        });
+    </script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+          try {
+            var linkCheck = document.querySelector('a[href="https://hoidap.danang.gov.vn/CD_TraCuu.aspx"]');
+            var linkInsertAfter = document.querySelector('a[href="https://gopy.danang.gov.vn"]');
+      
+            if (!linkCheck && linkInsertAfter) {
+              var newLink = document.createElement("a");
+              newLink.setAttribute("target", "_blank");
+              newLink.setAttribute("href", "https://hoidap.danang.gov.vn/CD_TraCuu.aspx");
+              newLink.setAttribute("title", "Hỏi đáp");
+              newLink.className = "item d-flex align-items-center";
+              newLink.style.setProperty("--bg-urll", "url(/documents/131507/131575/background-blq-syt2.jpg)");
+              newLink.style.setProperty("--bg-linear", "linear-gradient(180deg, rgb(255 156 156 / 0%) 0%, rgba(120, 187, 255, 0) 72.47%)");
+      
+              newLink.innerHTML = `
+                <img src="/documents/131507/131575/entypo_chat+%282%29.png/3dd4eebd-885f-7a4f-eec2-61991ff2c8e1?t=1749521463361" alt="">
+                <div class="flex-fill d-flex justify-content-center">
+                  <p class="mb-0"><span class="no-wrap" style="color: #2E2E2E;">HỎI ĐÁP</span></p>
+                </div>
+              `;
+      
+              // Thêm newLink ngay sau linkInsertAfter
+              linkInsertAfter.parentNode.insertBefore(newLink, linkInsertAfter.nextSibling);
+            }
+          } catch (e) {
+            console.error("Lỗi khi thêm link HỎI ĐÁP:", e);
+          }
+        });
+      </script>
+
+</body>
+</html>
+			
+			
+		
+	
+	
+	
+	
+
+
+	
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_  portlet-static portlet-static-end portlet-decorate portlet-navigation " id="p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383586_">
+		<span id="p_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383586"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+<section class="portlet" id="portlet_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383586">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Navigation Menu</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<div class="website-lien-ket-bottom">
+    <select class="form-control my-3 custom-select" size="1" onchange="redirectToPage(this.value)">
+        <option>Liên kết khác</option>
+                    <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://www.moh.gov.vn/" data-target="_blank">Bộ Y Tế</option>
+            <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://mst.gov.vn/" data-target="_blank">Bộ Khoa học và Công nghệ</option>
+            <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://phuocninh.danang.gov.vn/" data-target="_blank">UBND phường Phước Ninh</option>
+            <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://thuanphuoc.danang.gov.vn/" data-target="_blank">UBND phường Thuận Phước</option>
+            <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://binhhien.danang.gov.vn/" data-target="_blank">UBND phường Bình Hiên</option>
+            <option class="custom-option-enabled" style="cursor: pointer !important; color: #2E2E2E !important;" value="https://hoacuongbac.danang.gov.vn/" data-target="_blank">UBND phường Hòa Cường Bắc</option>
+    </select>
+</div>
+			
+			
+		
+	
+	
+	
+	
+
+
+	
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+
+						</div>
+					</div>
+				</div>
+
+			</div>
+			<div class="footer-img">
+				<div class="container">
+					<div class="footer-container-info">
+						<div>
+							<a href="#">
+								<img s src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/icons/DNG_icon.png" alt="logo" class="menu-logo__image-90 DN-logo"/>
+							</a>
+						</div>
+						<div>
+							<div style="font-size: 20px;font-weight: 700;padding-bottom: 10px">TRANG THÔNG TIN ĐIỆN TỬ SỞ Y TẾ THÀNH PHỐ ĐÀ NẴNG</div>
+							<div class="footer-info-detail-container" >
+								<div class="footer-info-detail-1" >
+									<span>Địa chỉ: 168 Nguyễn Sinh Sắc, phường Hòa Khánh, thành phố Đà Nẵng</span>
+									<span>Điện thoại: 0236 3821206 - Fax: 0236 3826276 -  Email: syt@danang.gov.vn</span>
+									<span>Chịu trách nhiệm chính: BS CKII Trần Thanh Thủy - Giám đốc Sở Y tế</span>
+									<div style="gap: 10px;display: flex;align-items: center;">
+										<button onclick="window.open('/dang-nhap')" class="footer-btn">ĐĂNG NHẬP</button>
+										<div style="height: 15px;border-right: 1px solid #FFFFFF;"></div>
+										<button onclick="window.open('https://gopy.danang.gov.vn/', '_blank')" class="footer-btn">GÓP Ý</button>
+										<div style="height: 15px;border-right: 1px solid #FFFFFF;"></div>
+										<button onclick="window.location.href='/web/syt/lien-he'" class="footer-btn">LIÊN HỆ</button>
+										<div style="height: 15px;border-right: 1px solid #FFFFFF;"></div>
+										<button onclick="window.location.href='/web/syt/so-do-cong'" class="footer-btn">SƠ ĐỒ WEBSITE</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div>
+							<div><a href="https://tinnhiemmang.vn/danh-ba-tin-nhiem/soytedananggovvn-1637742283" target="_blank"><img src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/NCSC-SYT.jpg" alt="logo" class="download-logo"/></a></div>
+						</div>
+					</div>
+					<div class="footer-container-info-mobile">
+						<div style="gap: 10px;display: flex;align-items: center;border-bottom:1px solid #E0E0E04D; padding: 10px ">
+							<button onclick="window.open('/dang-nhap')" class="footer-btn">ĐĂNG NHẬP</button>
+							<div style="height: 15px;border-right: 1px solid #FFFFFF;"></div>
+							<button onclick="window.open('https://gopy.danang.gov.vn/', '_blank')" class="footer-btn">GÓP Ý</button>
+							<div style="height: 15px;border-right: 1px solid #FFFFFF;"></div>
+							<button onclick="window.location.href='/web/syt/lien-he'" class="footer-btn">LIÊN HỆ</button>
+							<div style="height: 15px;border-right: 1px solid #FFFFFF;"></div>
+							<button onclick="window.location.href='/web/syt/so-do-cong'" class="footer-btn">SƠ ĐỒ WEBSITE</button>
+						</div>
+						<div>
+							<a href="#">
+								<img  src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/icons/DNG_icon.png" alt="logo" class="menu-logo__image-90 DN-logo" style="height: 80px"/>
+							</a>
+						</div>
+						<div>
+							<div style="font-size: 20px;font-weight: 700;padding-bottom: 10px;padding-top: 20px">TRANG THÔNG TIN ĐIỆN TỬ SỞ Y TẾ <span>THÀNH PHỐ ĐÀ NẴNG</span> </div>
+							<div class="footer-info-detail-container" >
+								<div class="footer-info-detail-1" >
+									<span>Địa chỉ: 168 Nguyễn Sinh Sắc, phường Hòa Khánh, thành phố Đà Nẵng</span>
+									<span>Điện thoại: 0236 3821206 <br>Fax: 0236 3826276 <br>Email: syt@danang.gov.vn</span>
+									<span>Chịu trách nhiệm chính: BS CKII Trần Thanh Thủy - Giám đốc Sở Y tế</span>
+								</div>
+							</div>
+						</div>
+						<div>
+							<div><a href="https://tinnhiemmang.vn/danh-ba-tin-nhiem/soytedananggovvn-1637742283" target="_blank"><img src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/NCSC-SYT.jpg" alt="logo" class="download-logo"/></a></div>
+						</div>
+					</div>
+					<div class="footer-container-info-tablet">
+						<div>
+							<a href="#" style="padding: 10px;display: flex;justify-content: center;">
+								<img  src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/icons/DNG_icon.png" alt="logo" class="menu-logo__image-90 DN-logo" style="height: 80px"/>
+							</a>
+						</div>
+						<div>
+							<div style="font-size: 20px;font-weight: 500;padding-bottom: 10px;display: flex; flex-direction: column; align-items: center; color: white">TRANG THÔNG TIN ĐIỆN TỬ SỞ Y TẾ THÀNH PHỐ ĐÀ NẴNG</span></div>
+							<div class="footer-info-detail-container" style="color: white">
+								<div class="footer-info-detail-1" >
+									<span>Địa chỉ: 168 Nguyễn Sinh Sắc, phường Hòa Khánh, thành phố Đà Nẵng</span>
+									<span>Điện thoại: 0236 3821206 <br>Fax: 0236 3826276 <br>Email: syt@danang.gov.vn</span>
+									<span>Chịu trách nhiệm chính: BS CKII Trần Thanh Thủy - Giám đốc Sở Y tế</span>
+									<div style="gap: 10px;display: flex;align-items: center;border-bottom:1px solid #E0E0E04D; padding: 6px 0px">
+										<button onclick="window.open('/dang-nhap')" class="footer-btn" style="padding-left: 0px">ĐĂNG NHẬP</button>
+										<div style="height: 15px;border-right: 1px solid #FFFFFF;"></div>
+										<button onclick="window.open('https://gopy.danang.gov.vn/', '_blank')" class="footer-btn" style="padding-left: 0px">GÓP Ý</button>
+										<div style="height: 15px;border-right: 1px solid #FFFFFF;"></div>
+										<button onclick="window.location.href='/web/syt/lien-he'" class="footer-btn">LIÊN HỆ</button>
+										<div style="height: 15px;border-right: 1px solid #FFFFFF;"></div>
+										<button onclick="window.location.href='/web/syt/so-do-cong'" class="footer-btn">SƠ ĐỒ WEBSITE</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div style="display: flex; flex-direction: row; justify-content: center; gap:5px; padding: 10px; align-items: center"; >
+							<div><a href="https://tinnhiemmang.vn/danh-ba-tin-nhiem/soytedananggovvn-1637742283" target="_blank"><img src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/NCSC-SYT.jpg" alt="logo" class="download-logo"/></a></div>
+						</div>
+					</div>
+				</div>
+				<div class="row text-center bg-footer">
+					<div class="col-lg-12 col-md-12 col-sm-12 col-12" style="padding: 8px 48px;background-color: #1B6CCB;border-top: 1px solid #FFFFFF33;">
+						<span class="sdt-roboto-400-14 color-212529 color-white" style="padding: 0 5px">Ghi rõ nguồn phát hành soyte.danang.gov.vn khi sử dụng nội dung từ website này</span>
+					</div>
+				</div>
+			</div>
+			<div>
+			</div><div class="d-none" id="emcTracking" data-emcSiteId="8764"></div></div>
+			</div>
+<nav id="menu-mobile" class="stylehome1 d-none">
+	<ul >
+		<li>
+			<form action="/web/syt/tim-kiem" class="form form-search-mobile"
+				  data-fm-namespace="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_grfo_"
+				  id="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_grfo_fm"
+				  method="get"
+				  name="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_grfo_fm"
+				  style="width: 96%; margin: 5px;">
+				<fieldset class="fieldset search-bar">
+					<div class="">
+						<div class="header-main-mobile">
+							<a href="/" class="menu-logo-70" style="padding-bottom: 10px">
+								<img src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/icons/DNG_icon.png" alt="logo" class="menu-logo__image-70"/>
+							</a>
+						</div>
+							<div class="ttdt-header text-center text-white">
+								SỞ Y TẾ<br>
+								THÀNH PHỐ ĐÀ NẴNG
+							</div>
+						<div class="home1-advnc-search home9">
+							<ul class="h1ads_1st_list sasw_list  mb0">
+								<li class="list-inline-item search_area">
+									<div class="form-group mobile-search">
+										<button type="submit" class="menu-search__icon">
+											<i style="color: white" class="ri-search-line"></i>
+										</button>
+										<input class="form-control input-group-inset input-group-inset-before search-bar-keywords-input"
+											   data-qa-id="searchInput" name="q" title="Tìm kiếm..." placeholder="Nhập từ khóa" type="text" value=""/>
+										<input type="hidden" name="type" value="com.liferay.journal.model.JournalArticle">
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</fieldset>
+			</form>
+		</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_  portlet-static portlet-static-end portlet-barebone portlet-navigation " id="p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_">
+		<span id="p_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+<section class="portlet" id="portlet_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<h2 class="portlet-title-text">Navigation Menu</h2>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<style>
+    .sasw_list .search_area input::placeholder{
+        background: unset !important;
+        color:#ffffff !important;
+    }
+</style>
+<div class="mobile-menu-item-container">
+    		<li class="mobile-menu-item">
+			<div class="d-flex">
+					<a class="text-menu-item" href='https://soyte.danang.gov.vn/trang-chu' >
+						<p class="text-uppercase">Trang chủ</p>
+					</a>
+			</div>
+
+		</li>
+		<li class="mobile-menu-item">
+			<div class="d-flex">
+					<a class="text-menu-item" href='https://soyte.danang.gov.vn/gioi-thieu' >
+						<p class="text-uppercase">Giới thiệu</p>
+					</a>
+					<span style="width: 25px; align-content: space-evenly; cursor: pointer" onclick="toggleMobileChildMenu('#childMenu2')"><i style="color: white;" class="fa fa-caret-right btn-parent fa-angle-down"></i></span>
+			</div>
+
+				<ul class="submenu d-none" id="childMenu2">
+						<li><a href='https://soyte.danang.gov.vn/lanh-dao'  class="text-menu-item">Lãnh đạo</a></li>
+						<li><a href='https://soyte.danang.gov.vn/cac-don-vi-truc-thuoc'  class="text-menu-item">Các đơn vị trực thuộc</a></li>
+						<li><a href='https://soyte.danang.gov.vn/so-do-to-chuc'  class="text-menu-item">Sơ đồ tổ chức</a></li>
+				</ul>
+		</li>
+		<li class="mobile-menu-item">
+			<div class="d-flex">
+					<a class="text-menu-item" href='https://soyte.danang.gov.vn/lich-cong-tac' >
+						<p class="text-uppercase">Lịch công tác</p>
+					</a>
+			</div>
+
+		</li>
+		<li class="mobile-menu-item">
+			<div class="d-flex">
+					<a class="text-menu-item" href='https://soyte.danang.gov.vn/trang-tin-tuc-su-kien' >
+						<p class="text-uppercase">Tin tức sự kiện</p>
+					</a>
+			</div>
+
+		</li>
+		<li class="mobile-menu-item">
+			<div class="d-flex">
+					<a class="text-menu-item" href='https://soyte.danang.gov.vn/van-ban-qppl' >
+						<p class="text-uppercase">Văn bản QPPL</p>
+					</a>
+					<span style="width: 25px; align-content: space-evenly; cursor: pointer" onclick="toggleMobileChildMenu('#childMenu5')"><i style="color: white;" class="fa fa-caret-right btn-parent fa-angle-down"></i></span>
+			</div>
+
+				<ul class="submenu d-none" id="childMenu5">
+						<li><a href='https://vbpl.vn/TW/Pages/Home.aspx'  class="text-menu-item">Văn bản trung ương</a></li>
+						<li><a href='https://vbpl.vn/danang/Pages/Home.aspx'  class="text-menu-item">Văn bản thành phố</a></li>
+				</ul>
+		</li>
+		<li class="mobile-menu-item">
+			<div class="d-flex">
+					<a class="text-menu-item" href='https://soyte.danang.gov.vn/lien-he' >
+						<p class="text-uppercase">Liên hệ</p>
+					</a>
+			</div>
+
+		</li>
+</div>
+
+<style>
+    .mobile-menu-item-container{
+        padding: 0 25px;
+    }
+    .text-menu-item:hover{
+        color: #FFA300;
+    }
+    .header-main {
+        background-position: bottom !important;
+}
+</style>
+<script>
+    // URL Parameter Cleaner Script - Simple & Direct
+(function() {
+    'use strict';
+    
+    
+    // Danh sách các parameters cần loại bỏ
+    var parametersToRemove = [
+        'reloadpage',
+        'refresh',
+        'reload',
+        'timestamp',
+        'cache',
+        '_t',
+        'debug'
+    ];
+    
+    // URL đích sau khi clean
+    var targetURL = 'https://trangthongtinsoyte.sdtech.vn/group/syt/quan-ly-video';
+    
+    function cleanURL() {
+        try {
+            var currentURL = window.location.href;
+            var url = new URL(currentURL);
+            var hasChanges = false;
+            
+            // Loại bỏ các parameters không mong muốn
+            parametersToRemove.forEach(function(param) {
+                if (url.searchParams.has(param)) {
+                    url.searchParams.delete(param);
+                    hasChanges = true;
+                }
+            });
+            
+            // Nếu có thay đổi, redirect về URL đích
+            if (hasChanges) {
+                var cleanedURL = url.toString();
+                
+                // Nếu sau khi clean thì URL chỉ còn base path, redirect về target
+                if (cleanedURL === targetURL || 
+                    cleanedURL === targetURL + '?' || 
+                    cleanedURL === targetURL + '#') {
+                    window.location.href = targetURL;
+                } else {
+                    window.location.href = cleanedURL;
+                }
+            }
+            
+        } catch (e) {
+            
+            // Fallback method - dùng regex
+            fallbackCleanURL();
+        }
+    }
+    
+    function fallbackCleanURL() {
+        try {
+            var currentURL = window.location.href;
+            var originalURL = currentURL;
+            
+            // Loại bỏ từng parameter
+            parametersToRemove.forEach(function(param) {
+                var regex = new RegExp('[?&]' + param + '=([^&#]*)', 'gi');
+                currentURL = currentURL.replace(regex, '');
+            });
+            
+            // Clean up remaining & và ? thừa
+            currentURL = currentURL.replace(/[?&]$/, ''); // Remove trailing ? or &
+            currentURL = currentURL.replace(/[?]&/, '?'); // Replace ?& with ?
+            currentURL = currentURL.replace(/[&]{2,}/g, '&'); // Replace multiple & with single &
+            
+            if (currentURL !== originalURL) {
+                
+                // Nếu URL clean rồi thì về target
+                if (currentURL === targetURL || 
+                    currentURL === targetURL + '?' || 
+                    currentURL === targetURL + '#') {
+                    window.location.href = targetURL;
+                } else {
+                    window.location.href = currentURL;
+                }
+            }
+            
+        } catch (e) {
+        }
+    }
+    
+    // Tự động chạy khi script load
+    function autoClean() {
+        // Kiểm tra xem có parameters cần loại bỏ không
+        var currentSearch = window.location.search;
+        var currentURL = window.location.href;
+        
+        var needsCleaning = parametersToRemove.some(function(param) {
+            return currentSearch.includes(param + '=');
+        });
+        
+        if (needsCleaning) {
+            cleanURL();
+        } 
+    }
+    
+    // Utility functions
+    window.URLCleaner = {
+        clean: cleanURL,
+        addParameterToRemove: function(param) {
+            if (parametersToRemove.indexOf(param) === -1) {
+                parametersToRemove.push(param);
+            }
+        },
+        removeParameterFromList: function(param) {
+            var index = parametersToRemove.indexOf(param);
+            if (index > -1) {
+                parametersToRemove.splice(index, 1);
+            }
+        },
+        getParametersToRemove: function() {
+            return parametersToRemove.slice(); // Return copy
+        },
+        setTargetURL: function(url) {
+            targetURL = url;
+        },
+        status: function() {
+            return {
+                currentURL: window.location.href,
+                targetURL: targetURL,
+                parametersToRemove: parametersToRemove,
+                currentParameters: window.location.search
+            };
+        }
+    };
+    
+    // Chạy ngay khi load
+    if (document.readyState === 'loading') {
+        if (document.addEventListener) {
+            document.addEventListener('DOMContentLoaded', autoClean);
+        } else {
+            setTimeout(autoClean, 100);
+        }
+    } else {
+        autoClean();
+    }
+    
+    // Chạy ngay lập tức luôn
+    setTimeout(autoClean, 0);
+})();
+
+// Manual trigger function
+function cleanURL() {
+    if (window.URLCleaner) {
+        window.URLCleaner.clean();
+    }
+}
+
+// Force clean to target URL
+function goToCleanURL() {
+    window.location.href = 'https://trangthongtinsoyte.sdtech.vn/group/syt/quan-ly-video';
+}
+
+</script>
+<script>
+    $(document).ready(function() {
+        $('a[href="https://tinnhiemmang.vn/danh-ba-tin-nhiem/dananggovvn-1637728063"]').attr('href', 'https://tinnhiemmang.vn/danh-ba-tin-nhiem/soytedananggovvn-1637742283');
+        
+        $('a[href*="dananggovvn-1637728063"]').each(function() {
+            var currentHref = $(this).attr('href');
+            var newHref = currentHref.replace('dananggovvn-1637728063', 'soytedananggovvn-1637742283');
+            $(this).attr('href', newHref);
+        });
+    });
+</script>
+			
+			
+		
+	
+	
+	
+	
+
+
+	
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+	
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+	</ul>
+</nav>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+
+		
+
+		Liferay.currentURL = '\x2ftim-kiem\x3fp_p_id\x3dcom_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet\x26p_p_lifecycle\x3d0\x26p_p_state\x3dmaximized\x26p_p_mode\x3dview\x26_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_mvcPath\x3d\x252Fview_content\x2ejsp\x26_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_assetEntryId\x3d873108\x26_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_type\x3ddocument_folder';
+		Liferay.currentURLEncoded = '\x252Ftim-kiem\x253Fp_p_id\x253Dcom_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet\x2526p_p_lifecycle\x253D0\x2526p_p_state\x253Dmaximized\x2526p_p_mode\x253Dview\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_mvcPath\x253D\x25252Fview_content\x2ejsp\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_assetEntryId\x253D873108\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_type\x253Ddocument_folder';
+
+	// ]]>
+</script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// <![CDATA[
+			
+				function loadChatScript() {
+    if (document.getElementById("chative-script")) return;
+    const s = document.createElement("script");
+    s.id = "chative-script";
+    s.src = "https://messenger.svc.chative.io/static/v1.0/channels/sa4bddfb4-f369-42f1-9b12-d80f4a72c33f/messenger.js?mode=livechat";
+    s.async = true;
+    document.head.appendChild(s);
+}
+
+loadChatScript();
+
+if (!window._chativeNavigateBound) {
+    window._chativeNavigateBound = true;
+
+    Liferay.on("endNavigate", function () {
+        const cleanup = () => {
+            document.querySelectorAll('[id^="chative-"], .chative-widget, iframe[src*="chative"]').forEach(el => el.remove());
+            const oldScript = document.getElementById("chative-script");
+            if (oldScript) oldScript.remove();
+        };
+        cleanup();
+        setTimeout(() => {
+            loadChatScript();
+        }, 1500);
+    });
+}
+
+				
+
+				$(document).ready(function() {
+    
+    //ảnh lỗi => width =0 => thay ảnh mặc định
+    document.querySelectorAll('.sticker-img').forEach(function (img) {
+        img.onerror = function () {
+            this.src = '/documents/131507/0/SoYTe.png/1ae92045-fecf-cf35-3d2d-8731942ee69a';
+        };
+
+        if (!img.complete || img.naturalWidth === 0) {
+            img.src = '/documents/131507/0/SoYTe.png/1ae92045-fecf-cf35-3d2d-8731942ee69a';
+        }
+    });
+    document.querySelectorAll('.subtext-item').forEach(el => {
+        if (el.textContent.trim().startsWith('Vào ngày')) {
+            el.remove();
+        }
+    });
+
+    document.querySelectorAll('.pagination .dropdown-icon').forEach(el => {
+        el.classList.add('page-link');
+    });
+
+    // Thay đổi "Search ..." thành tiếng Việt
+    $('.form-control.input-group-inset.input-group-inset-after.search-bar-keywords-input')
+    .attr('placeholder', 'Tìm kiếm ...');
+
+
+    $('<style>')
+    .prop('type', 'text/css')
+    .html('.form-control.input-group-inset.input-group-inset-after.search-bar-keywords-input::placeholder { font-style: italic; }')
+    .appendTo('head');
+
+    // Thay đổi "Results for" thành tiếng Việt
+    var searchLabel = $('.search-total-label').html();
+    searchLabel = searchLabel.replace('Results for', 'kết quả cho');
+    $('.search-total-label').html(searchLabel);
+    
+    // Thay đổi "Entries" thành tiếng Việt
+    var entriesText = $('.dropdown-toggle.page-link').html();
+    entriesText = entriesText.replace('Entries', 'Mục');
+    $('.dropdown-toggle.page-link').html(entriesText);
+    
+    // Thay đổi "of" thành tiếng Việt
+    var paginationText = $('.pagination-results').html();
+    paginationText = paginationText.replace('of', 'trong');
+    $('.pagination-results').html(paginationText);
+    
+    //Thay background 
+    $('.sticker-secondary, .sticker-default').css({
+        'background-color': 'transparent',
+        'background-image': 'url(/documents/131507/0/SoYTe.png/1ae92045-fecf-cf35-3d2d-8731942ee69a)',
+        'background-size': 'cover',
+        'background-position': 'center',
+        'color': '#FFF'
+    });
+    
+    // xoá icon ở giữa image
+    $('svg.lexicon-icon.lexicon-icon-web-content, svg.lexicon-icon.lexicon-icon-page').remove();
+
+    //thay list trang thành ...
+    document.querySelectorAll('.dropdown.page-item').forEach(el => {
+        const div = document.createElement('div');
+        div.className = 'custom-pagination-points';
+        div.textContent = '...';
+        el.innerHTML = '';
+        el.appendChild(div);
+    });
+
+});
+
+// Thay ảnh lần 2
+$(window).on('load', function() {  
+
+    document.querySelectorAll('.sticker-img').forEach(function (img) {
+        img.onerror = function () {
+            this.src = '/documents/131507/0/SoYTe.png/1ae92045-fecf-cf35-3d2d-8731942ee69a';
+        };
+
+        if (!img.complete || img.naturalWidth === 0) {
+            img.src = '/documents/131507/0/SoYTe.png/1ae92045-fecf-cf35-3d2d-8731942ee69a';
+        }
+    });
+
+    document.querySelectorAll('.subtext-item').forEach(el => {
+        if (el.textContent.trim().startsWith('Vào ngày')) {
+            el.remove();
+        }
+    });
+
+    //Thay background lần 2 tránh lỗi
+    $('<style>')
+    .prop('type', 'text/css')
+    .html(`
+        .sticker-secondary, .sticker-default {
+            background-color: transparent !important;
+            background-image: url(/documents/131507/0/SoYTe.png/1ae92045-fecf-cf35-3d2d-8731942ee69a) !important;
+            background-size: cover !important;
+            background-position: center !important;
+            color: #FFF !important;
+        }
+    `)
+    .appendTo('head');
+    
+    //xoá icon ở giữa image
+    $('svg.lexicon-icon.lexicon-icon-web-content, svg.lexicon-icon.lexicon-icon-page').remove();
+    setTimeout(resizeStickers, 200);
+});
+
+function resizeStickers() {
+  if (window.innerWidth < 576) {
+    const col = document.querySelector(".list-group-item-flex");
+    if (col) {
+      const colWidth = col.offsetWidth; 
+      const newHeight = colWidth * 3 / 4;
+      document.querySelectorAll(".sticker")
+        .forEach(sticker => {
+          sticker.style.height = newHeight + "px";
+        });
+    }
+  } else {
+    document.querySelectorAll(".sticker")
+      .forEach(sticker => {
+        sticker.style.height = "";
+      });
+  }
+}
+			
+		// ]]>
+	</script>
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+		
+
+		
+	
+
+
+<script type="text/javascript">
+// <![CDATA[
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onDestroyPortlet = function () {
+		Liferay.detach('messagePosted', onMessagePosted);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+
+	var onMessagePosted = function (event) {
+		if (window.Analytics) {
+			Analytics.send('posted', 'Comment', {
+				className: event.className,
+				classPK: event.classPK,
+				commentId: event.commentId,
+				text: event.text,
+			});
+		}
+	};
+
+	Liferay.on('messagePosted', onMessagePosted);
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var pathnameRegexp = /\/documents\/(\d+)\/(\d+)\/(.+?)\/([^&]+)/;
+
+	function handleDownloadClick(event) {
+		if (event.target.nodeName.toLowerCase() === 'a' && window.Analytics) {
+			var anchor = event.target;
+			var match = pathnameRegexp.exec(anchor.pathname);
+
+			var fileEntryId =
+				anchor.dataset.analyticsFileEntryId ||
+				(anchor.parentElement &&
+					anchor.parentElement.dataset.analyticsFileEntryId);
+
+			if (fileEntryId && match) {
+				var getParameterValue = function (parameterName) {
+					var result = null;
+
+					anchor.search
+						.substr(1)
+						.split('&')
+						.forEach(function (item) {
+							var tmp = item.split('=');
+
+							if (tmp[0] === parameterName) {
+								result = decodeURIComponent(tmp[1]);
+							}
+						});
+
+					return result;
+				};
+
+				Analytics.send('documentDownloaded', 'Document', {
+					groupId: match[1],
+					fileEntryId: fileEntryId,
+					preview: !!window._com_liferay_document_library_analytics_isViewFileEntry,
+					title: decodeURIComponent(match[3].replace(/\+/gi, ' ')),
+					version: getParameterValue('version'),
+				});
+			}
+		}
+	}
+
+	Liferay.once('destroyPortlet', function () {
+		document.body.removeEventListener('click', handleDownloadClick);
+	});
+
+	Liferay.once('portletReady', function () {
+		document.body.addEventListener('click', handleDownloadClick);
+	});
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var onShare = function (data) {
+		if (window.Analytics) {
+			Analytics.send('shared', 'SocialBookmarks', {
+				className: data.className,
+				classPK: data.classPK,
+				type: data.type,
+				url: data.url,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('socialBookmarks:share', onShare);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('socialBookmarks:share', onShare);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	var onVote = function (event) {
+		if (window.Analytics) {
+			Analytics.send('VOTE', 'Ratings', {
+				className: event.className,
+				classPK: event.classPK,
+				ratingType: event.ratingType,
+				score: event.score,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('ratings:vote', onVote);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('ratings:vote', onVote);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();
+	if (window.svg4everybody && Liferay.Data.ICONS_INLINE_SVG) {
+		svg4everybody(
+			{
+				polyfill: true,
+				validate: function (src, svg, use) {
+					return !src || !src.startsWith('#');
+				}
+			}
+		);
+	}
+
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383358_',
+			portletId: 'com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383358',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d99\x26p_p_id\x3dcom_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383358\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Ftim-kiem\x253Fp_p_id\x253Dcom_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet\x2526p_p_lifecycle\x253D0\x2526p_p_state\x253Dmaximized\x2526p_p_mode\x253Dview\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_mvcPath\x253D\x25252Fview_content\x2ejsp\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_assetEntryId\x253D873108\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_type\x253Ddocument_folder\x26settingsScope\x3dportletInstance',
+			refreshURLData: {}
+		}
+	);
+
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383586_',
+			portletId: 'com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383586',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d99\x26p_p_id\x3dcom_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383586\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Ftim-kiem\x253Fp_p_id\x253Dcom_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet\x2526p_p_lifecycle\x253D0\x2526p_p_state\x253Dmaximized\x2526p_p_mode\x253Dview\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_mvcPath\x253D\x25252Fview_content\x2ejsp\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_assetEntryId\x253D873108\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_type\x253Ddocument_folder\x26settingsScope\x3dportletInstance',
+			refreshURLData: {}
+		}
+	);
+
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_',
+			portletId: 'com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d99\x26p_p_id\x3dcom_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dmaximized\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Ftim-kiem\x253Fp_p_id\x253Dcom_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet\x2526p_p_lifecycle\x253D0\x2526p_p_state\x253Dmaximized\x2526p_p_mode\x253Dview\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_mvcPath\x253D\x25252Fview_content\x2ejsp\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_assetEntryId\x253D873108\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_type\x253Ddocument_folder',
+			refreshURLData: {"_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_mvcPath":["\/view_content.jsp"],"_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_type":["document_folder"],"_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_assetEntryId":["873108"]}
+		}
+	);
+
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383584_',
+			portletId: 'com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383584',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d99\x26p_p_id\x3dcom_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_383584\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Ftim-kiem\x253Fp_p_id\x253Dcom_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet\x2526p_p_lifecycle\x253D0\x2526p_p_state\x253Dmaximized\x2526p_p_mode\x253Dview\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_mvcPath\x253D\x25252Fview_content\x2ejsp\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_assetEntryId\x253D873108\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_type\x253Ddocument_folder\x26settingsScope\x3dportletInstance',
+			refreshURLData: {}
+		}
+	);
+
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_',
+			portletId: 'com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d99\x26p_p_id\x3dcom_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Ftim-kiem\x253Fp_p_id\x253Dcom_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet\x2526p_p_lifecycle\x253D0\x2526p_p_state\x253Dmaximized\x2526p_p_mode\x253Dview\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_mvcPath\x253D\x25252Fview_content\x2ejsp\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_assetEntryId\x253D873108\x2526_com_liferay_portal_search_web_search_results_portlet_SearchResultsPortlet_type\x253Ddocument_folder\x26settingsScope\x3dportletInstance',
+			refreshURLData: {}
+		}
+	);
+Liferay.Loader.require('metal-dom/src/all/dom', 'frontend-js-web/liferay/toast/commands/OpenToast.es', function(metalDomSrcAllDom, frontendJsWebLiferayToastCommandsOpenToastEs) {
+try {
+(function() {
+var dom = metalDomSrcAllDom;
+var $ = AUI.$;var _ = AUI._;
+	var focusInPortletHandler = dom.delegate(
+		document,
+		'focusin',
+		'.portlet',
+		function(event) {
+			dom.addClasses(dom.closest(event.delegateTarget, '.portlet'), 'open');
+		}
+	);
+
+	var focusOutPortletHandler = dom.delegate(
+		document,
+		'focusout',
+		'.portlet',
+		function(event) {
+			dom.removeClasses(dom.closest(event.delegateTarget, '.portlet'), 'open');
+		}
+	);
+
+})();
+(function() {
+var toastCommands = frontendJsWebLiferayToastCommandsOpenToastEs;
+var $ = AUI.$;var _ = AUI._;
+			AUI().use(
+				'liferay-session',
+				function() {
+					Liferay.Session = new Liferay.SessionBase(
+						{
+							autoExtend: true,
+							redirectOnExpire: false,
+							redirectUrl: 'https\x3a\x2f\x2fsoyte\x2edanang\x2egov\x2evn\x2fweb\x2fguest',
+							sessionLength: 2690,
+							warningLength: 0
+						}
+					);
+
+					
+				}
+			);
+		
+})();
+} catch (err) {
+	console.error(err);
+}
+});AUI().use('liferay-menu', 'aui-base', function(A) {(function() {var $ = AUI.$;var _ = AUI._;
+	if (A.UA.mobile) {
+		Liferay.Util.addInputCancel();
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 0; i < liferayNotices.length; i++) {
+		Liferay.Util.openToast(liferayNotices[i]);
+	}
+
+})();});
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/js/main.js?browserId=chrome&amp;minifierType=js&amp;languageId=vi_VN&amp;b=7307&amp;t=1782243866000" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		AUI().use(
+			'aui-base',
+			function(A) {
+				var frameElement = window.frameElement;
+
+				if (frameElement && frameElement.getAttribute('id') === 'simulationDeviceIframe') {
+					A.getBody().addClass('lfr-has-simulation-panel');
+				}
+			}
+		);
+	// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('frontend-js-tabs-support-web@1.0.8/index', function(frontendJsTabsSupportWeb108Index) {
+try {
+(function() {
+var TabsProvider = frontendJsTabsSupportWeb108Index;
+TabsProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('frontend-js-alert-support-web@1.0.7/index', function(frontendJsAlertSupportWeb107Index) {
+try {
+(function() {
+var AlertProvider = frontendJsAlertSupportWeb107Index;
+AlertProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('frontend-js-collapse-support-web@1.0.10/index', function(frontendJsCollapseSupportWeb1010Index) {
+try {
+(function() {
+var CollapseProvider = frontendJsCollapseSupportWeb1010Index;
+CollapseProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('frontend-js-dropdown-support-web@1.0.8/index', function(frontendJsDropdownSupportWeb108Index) {
+try {
+(function() {
+var DropdownProvider = frontendJsDropdownSupportWeb108Index;
+DropdownProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('frontend-js-tooltip-support-web@3.0.4/index', function(frontendJsTooltipSupportWeb304Index) {
+try {
+(function() {
+var TooltipSupport = frontendJsTooltipSupportWeb304Index;
+TooltipSupport.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+// ]]>
+</script><script type="text/javascript">
+// <![CDATA[
+Liferay.Loader.require('remote-app-support-web@1.0.5/index', function(remoteAppSupportWeb105Index) {
+try {
+(function() {
+var RemoteAppSupport = remoteAppSupportWeb105Index;
+RemoteAppSupport.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+// ]]>
+</script><a class="scrollToHome" href="#"><img class="flaticon-arrows" src="https://soyte.danang.gov.vn/o/portal-home-multi-theme-syt/images/icons/backtotop.png"></a>
+<script type="text/javascript">
+	var s = document.getElementById('emcTracking');
+    var emcSiteId = s?.getAttribute('data-emcSiteId') || '';
+	var _govaq = window._govaq || [];
+	_govaq.push(['trackPageView']);
+	_govaq.push(['enableLinkTracking']);
+	(function () {
+		_govaq.push(['setTrackerUrl', 'https://f-emc.ngsp.gov.vn/tracking']);
+		_govaq.push(['setSiteId', emcSiteId]);
+		var d = document,
+				g = d.createElement('script'),
+				s = d.getElementById('emcTracking');
+		g.type = 'text/javascript';
+		g.async = true;
+		g.defer = true;
+		g.src = 'https://f-emc.ngsp.gov.vn/embed/gov-tracking.min.js';
+		s.parentNode.insertBefore(g, s);
+	})();
+</script>
+<script>
+
+	(function() {
+		const searchInputSyt = document.getElementById('search-input-syt');
+		const searchBtnSyt = document.getElementById('search-btn-syt');
+
+		searchBtnSyt.addEventListener('click', function() {
+			let query = searchInputSyt.value;
+			if (query) {
+				window.location.href = `/web/syt/tim-kiem?q=` + query;
+			} else {
+				alert("Vui lòng nhập từ khóa tìm kiếm!");
+			}
+		});
+		searchInputSyt.addEventListener('keypress', function(event) {
+			if (event.key === 'Enter') {
+				searchBtnSyt.click();
+			}
+		});
+	})();
+
+	(function() {
+		const openMenuIcon = document.getElementById('icon-open-menu');
+		const menuMobile = document.getElementById('menu-mobile');
+
+		openMenuIcon.addEventListener('click', function(event) {
+			event.stopPropagation();
+
+			menuMobile.style.display = 'block';
+			menuMobile.style.setProperty('display', 'block', 'important');
+
+			let overlay = document.createElement('div');
+			overlay.classList.add('menu-overlay');
+			menuMobile.appendChild(overlay);
+
+			overlay.addEventListener('click', function() {
+				menuMobile.style.display = 'none';
+				menuMobile.removeChild(overlay);
+			});
+		});
+		menuMobile.addEventListener('click', function(event) {
+			event.stopPropagation();
+		});
+	})();
+</script>
+</body>
+
+</html>
+
+		
+	
+

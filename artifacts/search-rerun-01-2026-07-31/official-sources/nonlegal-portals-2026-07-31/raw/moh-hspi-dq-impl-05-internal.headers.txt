@@ -1,0 +1,20 @@
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Location: /Error/Http404?aspxerrorpath=/news/find
+Server: Microsoft-IIS/10.0
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Fri, 31 Jul 2026 14:16:28 GMT
+Content-Length: 156
+
+HTTP/1.1 500 Internal Server Error
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Fri, 31 Jul 2026 14:16:29 GMT
+Content-Length: 1789
+

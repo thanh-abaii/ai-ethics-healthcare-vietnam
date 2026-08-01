@@ -1,0 +1,20 @@
+{
+  "run_id": "20260801T092029",
+  "captured_at_utc": "2026-08-01T02:20:29.354329+00:00",
+  "protocol_status": "RAW_LEGAL_PORTAL_CAPTURE_COMPLETE_UNSCREENED",
+  "query_count": 16,
+  "ledger_rows": 64,
+  "successful_raw_captures": 32,
+  "hash_algorithm": "SHA-256",
+  "portals_captured": [
+    "GOV-VB (vanban.chinhphu.vn)",
+    "GAZ (congbao.chinhphu.vn)",
+    "VBPL (vbpl.vn)",
+    "GOV-VB_UI_BACKEND (timkiem.chinhphu.vn)"
+  ],
+  "limitations": [
+    "Raw HTML and JSON transport evidence captured for legal queries.",
+    "Locators and document full-texts are unscreened and unextracted.",
+    "No screening, deduplication, citation chasing, or PRISMA decision has been made."
+  ]
+}

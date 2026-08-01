@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "C:\Users\DELL\Documents\2. Research & Writing\dao-duc-ai-tu-gia-tri-den-van-hanh\docs\research\ai-ethics-healthcare-vietnam\scripts\run_nonlegal_official_portals.py", line 236, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "C:\Users\DELL\Documents\2. Research & Writing\dao-duc-ai-tu-gia-tri-den-van-hanh\docs\research\ai-ethics-healthcare-vietnam\scripts\run_nonlegal_official_portals.py", line 180, in main
+    write_bytes(raw / f"{stem}.headers", headers)
+  File "C:\Users\DELL\Documents\2. Research & Writing\dao-duc-ai-tu-gia-tri-den-van-hanh\docs\research\ai-ethics-healthcare-vietnam\scripts\run_nonlegal_official_portals.py", line 109, in write_bytes
+    path.write_bytes(value)
+  File "C:\Users\DELL\AppData\Roaming\uv\python\cpython-3.11-windows-x86_64-none\Lib\pathlib.py", line 1067, in write_bytes
+    with self.open(mode='wb') as f:
+         ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Roaming\uv\python\cpython-3.11-windows-x86_64-none\Lib\pathlib.py", line 1044, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\DELL\\Documents\\2. Research & Writing\\dao-duc-ai-tu-gia-tri-den-van-hanh\\docs\\research\\ai-ethics-healthcare-vietnam\\artifacts\\search-rerun-01-2026-07-31\\official-sources\\nl-runs\\official-nonlegal-20260731T212700+0700\\raw\\moh-astt-dq-impl-01-p01.headers'

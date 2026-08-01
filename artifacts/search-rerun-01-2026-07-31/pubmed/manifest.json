@@ -1,0 +1,43 @@
+{
+  "run_id": "search-rerun-01-2026-07-31-pubmed",
+  "status": "FAIL_CLOSED_RAW_EXPORT_UNAVAILABLE",
+  "source": "PubMed official web interface",
+  "query_file": "query-verbatim.txt",
+  "attempt_timestamp_local": "2026-07-31T19:36:33.8355559+07:00",
+  "failure": "Automated PubMed UI endpoints returned a non-NBIB access-control response; Chrome direct navigation was blocked by client policy. No eligible raw export was obtained.",
+  "raw_record_count": null,
+  "screening_or_extraction": "NOT_STARTED",
+  "action_required": "Do not create a registry or PRISMA count from this attempt. Reattempt the official UI export in an accessible browser environment; retain this manifest and response files as failed-attempt provenance.",
+  "files": [
+    {
+      "file": "official-ui-export.headers.txt",
+      "bytes": 440,
+      "sha256": "1F0ACC811A4C8009C3DB5B958042B2B1817CF0346CDA37FA0D0412BA69A2A223"
+    },
+    {
+      "file": "official-ui-export.nbib",
+      "bytes": 5237,
+      "sha256": "D56F923A0583985E9E42CF517DB24039E31E81410BAD9EBD65D716D6D1EBD378"
+    },
+    {
+      "file": "official-ui-results.headers.txt",
+      "bytes": 440,
+      "sha256": "F1BAC76F707B324195B5EFF29B4F9AC59083A4E83A28D1D6A3E12DF02A568468"
+    },
+    {
+      "file": "official-ui-results.html",
+      "bytes": 5237,
+      "sha256": "12063EAFE50FAB64837C2ACB3424B7275A65A802E37EF57662E3BC9A18CDB796"
+    },
+    {
+      "file": "query-verbatim.txt",
+      "bytes": 1387,
+      "sha256": "2DA4544178B1FBFA64395C16CA65D919014D73F2C6D535B64217C068D4668BFA"
+    },
+    {
+      "file": "run-pubmed-official.ps1",
+      "bytes": 3591,
+      "sha256": "A025C38B137DBAB99A47B60371FB3F851BACA4FC5AEE5C15B4859A7C7E2EB830"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "run_id": "search-rerun-01-2026-07-31-pubmed-eutils-20260731T203132+0700",
+  "status": "FAIL_CLOSED_RAW_EXPORT_UNAVAILABLE",
+  "source": "NCBI E-utilities REST API",
+  "query_source": "frozen OSF search-strategy.md section 4.1",
+  "query_file": "pubmed-query-verbatim.txt",
+  "query_sha256": "2DA4544178B1FBFA64395C16CA65D919014D73F2C6D535B64217C068D4668BFA",
+  "started_at_local": "2026-07-31T20:31:32.8876060+07:00",
+  "steps": [],
+  "credential_configuration": {
+    "ncbi_api_key_present": false,
+    "ncbi_contact_email_present": false
+  },
+  "screening_or_extraction": "NOT_STARTED",
+  "failure": "NCBI_API_KEY_UNSET",
+  "raw_record_count": null,
+  "completed_at_local": "2026-07-31T20:31:32.9181138+07:00",
+  "files": [
+    {
+      "file": "pubmed-query-verbatim.txt",
+      "bytes": 1387,
+      "sha256": "2DA4544178B1FBFA64395C16CA65D919014D73F2C6D535B64217C068D4668BFA"
+    }
+  ]
+}

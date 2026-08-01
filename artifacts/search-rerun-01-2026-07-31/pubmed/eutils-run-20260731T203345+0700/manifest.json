@@ -1,0 +1,84 @@
+{
+  "run_id": "search-rerun-01-2026-07-31-pubmed-eutils-20260731T203345+0700",
+  "status": "RAW_EXPORT_CAPTURED_NOT_SCREENED",
+  "source": "NCBI E-utilities REST API",
+  "query_source": "frozen OSF search-strategy.md section 4.1",
+  "query_file": "pubmed-query-verbatim.txt",
+  "query_sha256": "2DA4544178B1FBFA64395C16CA65D919014D73F2C6D535B64217C068D4668BFA",
+  "started_at_local": "2026-07-31T20:33:46.0243520+07:00",
+  "steps": [
+    {
+      "step": "esearch",
+      "raw_response": "esearch-response.raw",
+      "parsed_json": "esearch-response.json",
+      "headers": "esearch-response.headers.txt",
+      "count": 88,
+      "webenv": "MCID_6a6ca43bff2ee8e14503bd38",
+      "query_key": "1",
+      "sha256": "B09F7859143FAE421A6E5F1237A7FC9EA7B10ED8B696E4599845A5F1BCB88F18"
+    },
+    {
+      "step": "batch",
+      "retstart": 0,
+      "retmax": 88,
+      "esummary_raw": "esummary-batch-000000-response.raw",
+      "esummary_sha256": "6DCDA599CE665BE7FFCBAB1BC60DF9DD7948F313FB5E161FCF018652C2CDBCDE",
+      "efetch_raw": "efetch-batch-000000-response.raw",
+      "efetch_sha256": "CFEA0E9C03B81233B618BE073B32FB0714809AFD09CC6339703C985272ABA705"
+    }
+  ],
+  "credential_configuration": {
+    "ncbi_api_key_present": true,
+    "ncbi_contact_email_present": true
+  },
+  "screening_or_extraction": "NOT_STARTED",
+  "raw_record_count": 88,
+  "completed_at_local": "2026-07-31T20:33:55.8167306+07:00",
+  "files": [
+    {
+      "file": "efetch-batch-000000-response.headers.txt",
+      "bytes": 800,
+      "sha256": "6EAC3D296BC76FEDFB56C3A29AF2191A783E45C3DDEB588BCCE614E84A8E021B"
+    },
+    {
+      "file": "efetch-batch-000000-response.raw",
+      "bytes": 1868701,
+      "sha256": "CFEA0E9C03B81233B618BE073B32FB0714809AFD09CC6339703C985272ABA705"
+    },
+    {
+      "file": "esearch-pmid-list.txt",
+      "bytes": 880,
+      "sha256": "9C52DB83D9563F1748D49F026D3A7A819CF692699547805CF7D46F69851A5831"
+    },
+    {
+      "file": "esearch-response.headers.txt",
+      "bytes": 808,
+      "sha256": "CE5FB1E83F732D08AB9102A565DCB143139535528A5AB1D0E4A4A7F721CF02DA"
+    },
+    {
+      "file": "esearch-response.json",
+      "bytes": 3567,
+      "sha256": "B09F7859143FAE421A6E5F1237A7FC9EA7B10ED8B696E4599845A5F1BCB88F18"
+    },
+    {
+      "file": "esearch-response.raw",
+      "bytes": 3567,
+      "sha256": "B09F7859143FAE421A6E5F1237A7FC9EA7B10ED8B696E4599845A5F1BCB88F18"
+    },
+    {
+      "file": "esummary-batch-000000-response.headers.txt",
+      "bytes": 808,
+      "sha256": "6D77D4A391A6DCEE85F28E70642617F561ABAA4F443B8849A2A4C039F33F4F0A"
+    },
+    {
+      "file": "esummary-batch-000000-response.raw",
+      "bytes": 192396,
+      "sha256": "6DCDA599CE665BE7FFCBAB1BC60DF9DD7948F313FB5E161FCF018652C2CDBCDE"
+    },
+    {
+      "file": "pubmed-query-verbatim.txt",
+      "bytes": 1387,
+      "sha256": "2DA4544178B1FBFA64395C16CA65D919014D73F2C6D535B64217C068D4668BFA"
+    }
+  ]
+}

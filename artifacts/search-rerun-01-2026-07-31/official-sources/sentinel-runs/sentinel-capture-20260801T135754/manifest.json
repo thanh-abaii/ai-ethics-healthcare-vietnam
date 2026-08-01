@@ -1,0 +1,13 @@
+{
+  "run_id": "sentinel-capture-20260801T135754",
+  "completed_at_utc": "2026-08-01T07:11:33+00:00",
+  "cases_captured": 9,
+  "total_page_attempts": 180,
+  "total_candidate_locators": 3460,
+  "status": "SENTINEL_CAPTURE_COMPLETE_NOT_SCREENED",
+  "next_steps": [
+    "Review locators",
+    "Deduplicate",
+    "Double-independent screening"
+  ]
+}

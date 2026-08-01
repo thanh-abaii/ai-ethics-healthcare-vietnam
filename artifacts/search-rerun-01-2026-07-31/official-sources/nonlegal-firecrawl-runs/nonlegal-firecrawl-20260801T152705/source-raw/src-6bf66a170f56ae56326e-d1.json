@@ -1,0 +1,3240 @@
+# MEGA PULSE TOWER 30+
+
+Thiết bị phẫu thuật với laser Tower 30W
+**Loại 2286006**
+
+# Hướng dẫn sử dụng
+
+\[Image: Im2\]
+**0124**
+
+**Công ty RICHARD WOLF GmbH** [www.richard-wolf.de](http://www.richard-wolf.de/) **\- [info@richard-wolf.de](mailto:info@richard-wolf.de)**
+
+**GA-A301** / vi / 2020-08 V3.0 / PK20-00691
+
+* * *
+
+## Các lưu ý chung, quan trọng trong quá trình sử dụng
+
+_Sản phẩm này và các phụ kiện của nó chỉ được phép sử dụng bởi các chuyên viên được đào tạo_ _có trình độ (xem Phần 3.1) và phải tuân thủ đúng mục đích và hướng dẫn sử dụng. Công việc_ _bảo dưỡng và sửa chữa chỉ có thể được thực hiện bởi các chuyên gia kỹ thuật được công ty_ _Richard Wolf GmbH ủy quyền._
+
+_Sản phẩm chỉ được sử dụng đi kèm với những phụ kiện và bộ phận thay thế được nêu trong_ _hướng dẫn sử dụng. Các kết nối, phụ kiện và_
+
+_bộ phận dễ bị mài mòn khác chỉ có thể được sử dụng nếu chúng được quy định rõ trong bản_ _hướng dẫn sử dụng và không làm giảm hiệu suất hoặc các tính năng an toàn._
+
+_Không được phép thay đổi sản phẩm trong mọi trường hợp._
+
+_Trước và sau mỗi lần sử dụng cũng như khi gửi lại sản phẩm để sửa chữa, sản phẩm và các_ _phụ kiện đi kèm phải được chuẩn bị theo đúng hướng dẫn sử dụng để bảo vệ bệnh nhân, người_ _dùng hoặc bên thứ ba._
+
+_Đảm bảo rằng nhiệt độ trong phòng phẫu thuật không vượt quá 30 °C (86 °F)._
+
+$$
+30;^{\\circ}C
+$$
+
+_Để đảm bảo sự thông gió cần thiết, thiết bị phải được bố trí cách tường và vách ngăn một_ _khoảng cách vừa đủ._
+
+_LUÔN LUÔN đeo kính chống tia laser._
+
+_Bảo vệ bệnh nhân khỏi bức xạ không mong muốn._
+
+_Bảo vệ tất cả người vận hành máy bằng cách yêu cầu họ sử dụng các trang thiết bị bảo vệ thích_ _hợp và bố trí tấm chắn bảo vệ trong phòng._
+
+_Chúng tôi đề nghị người dùng tham khảo kỹ trước phần "An toàn" của tài liệu hướng dẫn sử_ _dụng._
+
+_Chúng tôi không ngừng phát triển sản phẩm, vì vậy, sản phẩm có thể có sự khác biệt nhỏ so với_ _các hình minh họa và các thông tin kỹ thuật được nêu ra ở đây._
+
+**Hướng dẫn an toàn và các mức độ nguy hiểm**
+
+| Biên tuầnng | Phân loài mới nguy hiêm |
+| --- | --- |
+|  | CÂNH BÁO!ViacKhôngtuânthu cóthedănđếntừvonghoặcbjthurongrátnãng. |
+|  | THÂNTRQNG!ViacKhôngtuânthu cóthedănđếnthurongtíchnhoheaplàmhòngsànphâm. |
+|  | QUANTRQNG!ViacKhôngtuânthu cóthegayhurhòngsànphâmhoặcphahòngkhuvucxungquanh. |
+|  | GHICHU!Khuyénnghi chonguòi vậnhànhvèviécsùdungthietbjmộtcáchtóiuruvàcácthôngtinhũiuichkhác. |
+
+* * *
+
+## Nội dung
+
+1 TỔNG QUÁT ........................................................................................................ 6 **1.1 BIỂU TƯỢNG ........................................................................................................ 6** **1.2 THÔNG TIN NHÀ SẢN XUẤT ..................................................................................... 7** **1.3 MỤC ĐÍCH SỬ DỤNG THEO QUY ĐỊNH ...................................................................... 8** **1.4 THÔNG SỐ KỸ THUẬT SẢN PHẨM ............................................................................ 8** **1.5 KẾT HỢP ............................................................................................................ 10** **1.6 TƯƠNG THÍCH ĐIỆN TỪ (EMC) ............................................................................. 13** 2 MÔ TẢ SẢN PHẨM VÀ DỮ LIỆU KỸ THUẬT .................................................... 16 **2.1 MẶT TRƯỚC THIẾT BỊ .......................................................................................... 16** **2.2 MẶT SAU CỦA THIẾT BỊ........................................................................................ 17** **2.3 KẾ HOẠCH DÁN NHÃN ......................................................................................... 18** **2.4 SỢI LASER ......................................................................................................... 20** 3 THÔNG TIN VÀ HƯỚNG DẪN AN TOÀN CHO LASERS ................................. 21 **3.1 HƯỚNG DẪN VÀ ĐÀO TẠO NHÂN VIÊN Y TẾ ............................................................. 21** **3.2 CÀI ĐẶT ............................................................................................................. 21**
+3.2.1 LÀM ĐẦY MẠCH LÀM MÁT .................................................................................. 22
+3.2.2 CÀI ĐẶT KẾT NỐI CHO TÍN HIỆU TỪ XA ĐỂ NGẮT KẾT NỐI (DOOR INTERLOCK) .......... 23
+3.2.3 CÔNG TẮC CHÂN 1 BÀN ĐẠP ............................................................................. 24
+**3.3 YÊU CẦU KỸ THUẬT VÀ ĐIỀU KIỆN MÔI TRƯỜNG ..................................................... 24** **3.4 PHÂN LOẠI LASER THEO IEC / EN 60825-1 .......................................................... 25** **3.5 KHOẢNG CÁCH DANH NGHĨA ĐỂ TRÁNH NGUY HIỂM CHO MẮT (NOMINAL OCULAR** **HAZARD DISTANCE) .................................................................................................... 25** **3.6 KHU VỰC LÀM VIỆC ............................................................................................. 27** **3.7 NGUY CƠ ĐỐI VỚI MẮT VÀ DA ............................................................................... 27** **3.8 CẢNH BÁO VÀLOẠI CHẤT THẢI.............................................................................. 28** **3.9 NGUY CƠ HỎA HOẠN ........................................................................................... 29** **3.10 PHÁT THẢI KHÍ HOẶC HƠI ĐỘC ........................................................................... 29** 4 VẬN HÀNH MEGA PULSE TOWER 30+ ........................................................... 30 **4.1 SỰ CHUẨN BỊ ..................................................................................................... 30** **4.2 KẾT NỐI CỦA SỢI LASER ...................................................................................... 31** **4.3 BẬT THIẾT BỊ LASER ........................................................................................... 33** **4.4 KÍCH HOẠT XUNG LASER ..................................................................................... 35** **4.5 TẮT THIẾT BỊ LASER ............................................................................................ 35** **4.6 LOẠI BỎ SỢI LASER............................................................................................. 36** **4.7 NÚT DỪNG KHẨN CẤP LASER ............................................................................... 37**
+
+* * *
+
+**4.8 THÔNG TIN CHUNG VỀ VIỆC SỬ DỤNG SỢI LASER .................................................... 37** **4.9 XỬ LÝ CÁC SỢI LASER ......................................................................................... 40** 5 HƯỚNG DẪN VẬN HÀNH .................................................................................. 42 **5.1 NGUYÊN LÝ HOẠT ĐỘNG...................................................................................... 42** **5.2 LỰA CHỌN MENU VÀ CÁC CHỨC NĂNG TRÊN MÀN HÌNH CẢM ỨNG ............................ 43**
+5.2.1 MENU CHÍNH ................................................................................................... 44
+5.2.2 THÔNG TIN SỢI................................................................................................. 45
+5.2.3 CƯỜNG ĐỘ/ĐỘ SÁNG CỦA CHÙM CHIẾU THỬ ........................................................ 46
+5.2.4 CÀI ĐẶT ÂM THANH .......................................................................................... 46
+5.2.5 CÀI ĐẶT ỨNG DỤNG.......................................................................................... 46
+5.2.6 PROFILE ......................................................................................................... 47
+5.2.7 TRẠNG THÁI LASER READY/STANDBY ................................................................ 48
+**5.3 CHỨC NĂNG MENU .............................................................................................. 49**
+5.3.1 SỢI ................................................................................................................. 49
+5.3.2 ĐỘ SÁNG (CƯỜNG ĐỘ) LASER THÍ ĐIỂM .............................................................. 49
+5.3.3 GIAO THỨC ..................................................................................................... 50
+5.3.4 VIDEO............................................................................................................. 50
+5.3.5 THÔNG SỐ THIẾT BỊ .......................................................................................... 50
+DỊCH VỤ (CHỈ DÀNH CHO DỊCH VỤ KỸ THUẬT) ................................................................. 51
+CÀI ĐẶT GỐC .............................................................................................................. 52
+MÀN HÌNH HIỂN THỊ ..................................................................................................... 52
+ÂM THANH .................................................................................................................. 52
+THÔNG TIN THIẾT BỊ ..................................................................................................... 52
+NGÔN NGỮ ................................................................................................................. 53
+**5.4 THÔNG SỐ LASER ............................................................................................... 53** **5.5 TẮT HỆ THỐNG ................................................................................................... 57** **5.6 BẢO VỆ CHỐNG LẠI VIỆC SỬ DỤNG TRÁI PHÉP........................................................ 57** **5.7 MÔ TẢ CẢNH BÁO ............................................................................................... 57** 6 ỨNG DỤNG LÂM SÀNG .................................................................................... 59 **6.1 MỤC ĐÍCH SỬ DỤNG THEO QUY ĐỊNH .................................................................... 59**
+6.1.1 CÁC THÔNG SỐ ĐIỀU TRỊ LÂM SÀNG TRONG TÁN SỎI TIẾT NIỆU .............................. 60
+6.1.2 CÁC THÔNG SỐ ĐIỀU TRỊ LÂM SÀNG TRONG TIẾT NIỆU .......................................... 61
+**6.2 CẢNH BÁO CHUNG, BIỆN PHÁP AN TOÀN VÀ CÁC BIẾN CHỨNG CẦN CHÚ Ý KHI SỬ DỤNG** **BƯỚC SÓNG HOLMIUM ................................................................................................. 62**
+6.2.1 CẢNH BÁO CHUNG VỀ TIA LASER ....................................................................... 62
+6.2.2 NHỮNG BIỆN PHÁP AN TOÀN CHUNG KHI SỬ DỤNG HỆ THỐNG LASER ..................... 64
+6.2.3 CÁC BIẾN CHỨNG CHUNG CỦA PHẪU THUẬT LASER.............................................. 64
+6.2.4 BIẾN CHỨNG ĐỐI VỚI NỘI SOI NIỆU QUẢN (URS) .................................................. 65
+6.2.5 CÁC BIẾN CHỨNG CỦA NEPHROLITHOLAPAXY QUA DA (PCNL) ............................. 65
+6.2.6 CÁC BIẾN CHỨNG TRONG TIẾT NIỆU.................................................................... 65
+6.2.7 BIẾN CHỨNG CỦA TÁN SỎI NIỆU QUẢN ................................................................ 65
+6.2.8 CÁC BIÊN PHÁP AN TOÀN KHI TÁN SỎI NIỆU QUẢN ................................................ 65
+6.2.9 CÁC BIẾN CHỨNG CỦA PHẪU THUẬT TAI MŨI HỌNG .............................................. 66
+
+* * *
+
+6.2.10 CÁC BIẾN CHỨNG TRONG PHẪU THUẬT TỔNG QUÁT ........................................... 67
+6.2.11 BIẾN CHỨNG TIÊU HÓA .................................................................................... 67
+6.2.12 CÁC BIẾN CHỨNG NỘI SOI KHỚP ....................................................................... 67
+**6.3 CHỐNG CHỈ ĐỊNH ................................................................................................ 68**
+6.3.1 CHỐNG CHỈ ĐỊNH NỘI SOI NIỆU QUẢN (URS) ....................................................... 68
+6.3.2 CHỐNG CHỈ ĐỊNH ĐỐI VỚI NEPHROLITHOLAPAXY QUA DA (PCNL): ......................... 68
+6.3.3 CHỐNG CHỈ ĐỊNH VỚI TIẾT NIỆU .......................................................................... 68
+6.3.4 CHỐNG CHỈ ĐỊNH TÁN SỎI NIỆU QUẢN ................................................................. 68
+6.3.5 CHỐNG CHỈ ĐỊNH PHẪU THUẬT TAI MŨI HỌNG ...................................................... 69
+6.3.6 CHỐNG CHỈ ĐỊNH PHẪU THUẬT TỔNG QUÁT......................................................... 69
+6.3.7 CHỐNG CHỈ ĐỊNH CHO KHOA TIÊU HÓA................................................................ 69
+6.3.8 CHỐNG CHỈ ĐỊNH NỘI SOI KHỚP ......................................................................... 69
+7 TÁI XỬ LÝ VÀ BẢO TRÌ .................................................................................... 70 **7.1 TÁI XỬ LÝỊ MEGA PULSE TOWER 30+ VÀ CÁC PHỤ KIỆN CỦA NÓ ...................... 70** **7.2 TÁI XỬ LÝ SỢI LASER .......................................................................................... 71**
+7.2.1 TIỀN XỬ LÝ ...................................................................................................... 72
+7.2.2 KIỂM SOÁT VÀ CHUẨN BỊ SỢI LASER ................................................................... 73
+7.2.3 LÀM SẠCH VÀ DIỆT KHUẨN THỦ CÔNG ................................................................ 73
+7.2.4 KIỂM TRA LẦN CUỐI VÀ ĐÓNG GÓI ...................................................................... 74
+7.2.5 KHỬ TRÙNG .................................................................................................... 75
+7.2.6 CÁC THÔNG SỐ KHỬ TRÙNG .............................................................................. 75
+7.2.7 CÁC THÔNG SỐ KHỬ TRÙNG ĐÃ ĐƯỢC XÁC NHẬN ĐỐI VỚI KHỬTRÙNG BẰNG HƠI NƯỚC
+76
+**7.3 BẢO TRÌ ............................................................................................................ 77**
+7.3.1 KIỂM TRA TRỰC QUAN ...................................................................................... 77
+7.3.2 KHOẢNG THỜI GIAN BẢO TRÌ ............................................................................. 77
+7.3.3 KIỂM SOÁT AN TOÀN KỸ THUẬT ......................................................................... 78
+**7.4 XỬ LÝ SỰ CỐ ...................................................................................................... 79** **7.5 THAY THẾ BLAST SHIELD .................................................................................... 80** **7.6 PHỤ TÙNG VÀ CÁC SẢN PHẨM KHÁC ..................................................................... 81** **7.7 ĐỊA CHỈ ............................................................................................................. 82**
+
+* * *
+
+## 1 TỔNG QUÁT
+
+## 1.1 Biểu tượng
+
+| Biên tuông | Mở tà |
+| --- | --- |
+| CE0124 | Dău CE phù hφp vội Chi thi 93/42/EWG trên thiét bj y té hoặc Quy dính (EU) 2017/745 về thiét bj y té. |
+| Chi áp dụng, nếu sân phạm và/hoặc bao bi được đánh{dau băng{dau này}. |  |
+| .Các sân phạm có quy trình{danh giá phù hφp không{đuroc thu髥 bôi{don vij durog chi định thi{durog{danh{dau bàng{số hiêu nhăn diên CE mà không{с�n sốnhanut diên của{don vij durog chi định nhantern}. |  |
+| Số hiêu nhăn diên CE trên trang bia của huróng{dän sür dung nay chi áp dụng cho sân phạm chinh của Richard Wolf hoặc cho sân phạm có chất luồng cao nhật của Richard Wolf trong trương hpop nhêu sán phạm cung giã tri durog{mò tâ. Số hiël nhuran diên CE cua cac sân phạmKhắc của Richard Wolf{durç mô tả trong bàn huróng{dän sự dung nay, nếu có, chi{durog{ap dung tù so nhuran diên trên sân phạm và bao bi đó. |  |
+| AP | Loài thiét bj |
+|  | Làm theo huróng{dän sür dung |
+|  | Ngày sân xuất |
+| SN | Số sẽ-rí |
+| REF | Số{don hàng |
+|  | Nhà sân xuất |
+|  | Sản phạm{đuroc phần loài riêng biêt vối các loại rác tháikhác |
+|  | Làm theo huróng{dän sür dung |
+|  | Phàn ứng dung loài BF(Body Floating) |
+
+* * *
+
+| Hang 4 | Phàn loài laser phảu thuát |
+| --- | --- |
+| Hang 3R | Phàn loài laser múc tiêu |
+| NOHD(Khoảng cách nguy hiệu måt danh nghiña) | Khoảng cách danh nghiña để tránh nguy hiệu cho mãt(Nominal Ocular Hazard Distance) |
+| NOHA(Khu vức nguy hiệu danh nghiña cho mãt) | Khu vác nguy hiệu danh nghiña cho mãt |
+| MZB | Múc phoi sáng tố da cho phép |
+| OD | Mât độ quang học |
+| I | Ký hiêu cho laser xung |
+| L | Múc độ bào về của kinh chồng laser |
+| Vrms | Giá trị hiêu dōng RMS của diên áp |
+| WEEE | Chält thài diên và diên tùr |
+| CW | Ký hiêu cho laser sqi liên tUC(liên tUC) |
+| T | Ký hiêu cho c欴 chi T(thòi gian trê) |
+| EO | Khử trùng bàng ethylene oxide |
+| ∅ | Đυòng kính |
+| SMA | Loại đau nối cho sqi laser |
+| T on | Thời gian xung bật |
+| T off | Tạm dừng giura các xung |
+|  | Vị trí BÂT của công tác phím |
+|  | Vị trí TÂT của công tác phím |
+
+## 1.2 Thông tin nhà sản xuất
+
+**Công ty RICHARD WOLF GmbH** **75438 Knittlingen** **Pforzheimerstr. 32** **ĐỨC** **Điện thoại: +49 (0) 70 43 35-0** **Fax: +49 (0) 70 43 35-300** **E-mail: [info@richard-wolf.com](mailto:info@richard-wolf.com)** **Internet:** [www.richard-wolf.com](http://www.richard-wolf.com/)
+
+## Internet: [www.richard-wolf.com](http://www.richard-wolf.com/)
+
+\[Image: Im21\]
+
+* * *
+
+## 1.3 Mục đích sử dụng theo quy định
+
+**Mega Pulse Tower 30+ là máy laser Holmium YAG được** **sử dụng trong các thủ thuật mổ nội soi, mổ mở để rạch,** **cắt bỏ, hóa hơi, đông lại và cầm máu mô mềm trong các** **chuyên khoa y tế sau: tiết niệu, tán sỏi tiết niệu, tiêu** **hóa, nội soi khớp, nội soi, tai mũi họng và phẫu thuật** **tổng quát kết hợp với dụng cụ nội soi.**
+
+**Đặc biệt trong lĩnh vực tán sỏi, nó được dùng để làm vỡ** **các bọng nước, sỏi niệu quản và sỏi thận. Tia laser cũng** **có thể được sử dụng để rạch các đường dẫn lưu và** **đường dẫn hẹp cũng như để loại bỏ hoặc làm hóa hơi** **các khối u nhỏ và u xơ.**
+
+Mega Pulse Tower 30+ thuộc loại laser 4 và bức xạ laser
+nằm trong dải bước sóng 2100 nm.
+
+Bước sóng đặc biệt này được truyền qua ống dẫn sáng bằng
+sợi thủy tinh quang học và cho phép điều trị hiệu quả khi kết
+hợp với các thông số được chọn sẵn liên quan đến ứng
+dụng sao cho sự ảnh hưởng lên mô lân cận ở mức tối thiểu.
+
+## THẬN TRỌNG!
+
+**Thiết bị này chỉ được sử dụng bởi nhân viên y tế có** **trình độ chuyên môn phù hợp đã qua đào tạo cũng như** **có kinh nghiệm trong các lĩnh vực sau:**
+
+**tiết niệu nội soi khớp, tiết niệu, tán sỏi tiết niệu, phẫu** **thuật tai mũi họng, phẫu thuật cắt bỏ, phẫu thuật tổng** **quát, phẫu thuật tiêu hóa.**
+
+## 1.4 Thông số kỹ thuật sản phẩm
+
+Thiết bị laser này được phân loại như sau:
+
+| Loai | 2286006 (MEGA PULSE 30+) |
+| --- | --- |
+| Danh mục sàn phạm | Laser ph�a thuật dung trong y tẽ |
+| Phân loài theo Chì thị Thiét bj Y tẽ 93/42/EEC | Hạng IIb |
+| Phân loài laser theo IEC/EN 60825-1:2014 | Hạng 4 |
+| Phân loài laser thi diêm theo IEC/EN 60825-1:2014 | Hạng 3R |
+| Kết nối chính | 100-120 Vac; 50/60Hz; 16 A |
+| 200-240 Vac; 50/60Hz; 10 A |  |
+| Loại hình báo về chồng diên giặt | Hạng I |
+| Múc đ碍 báo về chồng lái sự xám nhập của chât lóng | IP 20(không được bào vẽ) |
+| Múc đ碍 báo về chồng diên giẏi | Loại BF |
+| Chu ky nhiem v\\uqu/ché đ碍 vận hành | Hoaq đ碍 lièn tUC |
+| Kích c応 | 260(R)X840(D)X920(C)mm |
+| Tr嶖ng lu巒ng | 60kg |
+| Nhiệt độ hoaq dtông | 10℃-30℃ |
+| Nhiệt độ báo quán | tõi thiêu 5℃/tõi da 40℃ |
+| Nhiệt độ v�n chuYěn(không có nuóc) | Tõi thiêu -5℃/tõi da 70℃ |
+
+* * *
+
+| Độ âm | 30% - 85% |
+| --- | --- |
+| Áp suất | từ 800 hPa đến 1060 hPa |
+| Hệ thống làm mát | Hệ thống làm mát nước tích hợp với bổ trao đội nhiệt nước/không khí |
+| Đặc tính laser |  |
+| Loại laser | Laser trạng thái răn Ho: YAG |
+| Buóc sóng | 2100 nm ± 20 nm |
+| Hiêu suất tối da | 30 W |
+| Năng luồng xung | 0,2-4,0 J |
+| Chế độ hoaq đông | Xung (đơn hoaq nhiều xung) |
+| Thời gian xung | 150-800 μs |
+| Tần số láp lại | 3-25 Hz |
+| Khấu độ so cúa sợi laser | NA=0,22 |
+| Truyèn chùm tia laser | Hệ thống cáp quang |
+| Chùm chiêu thủ (chùm ngãm) | Diode laser, mài xanhlá 532nm (có thể điều chình)<5mW |
+| Cầu chì | Bào vê quá dòng với đãt lai tự đông |
+
+Ghi chú 1: Trong thời gian sử dụng của thiết bị, các giá trị năng lượng laser có thể sai lệch so với các giá trị đã đưa ra tối đa là
+
+5%.
+
+Ghi chú 2: Thiết bị được trang bị hệ thống đo tích hợp điều chỉnh lượng phát thải thực tế. Không cần thiết phải hiệu chỉnh thiết
+bị.
+
+\| Điều kiện hoạt động của công tác chân \| -10℃ đến +60℃
+10% đến 100% độ âm tưng đối
+
+áp suất không khí 800hPa đến 1060hPa \|
+\| \-\-\- \| \-\-\- \|
+\| Điều kiện báo quàn/vận chuyen cho công tác chân \| -40℃ đến +70℃
+10% đến 100% độ âm tưng đối
+áp suất không khí 500hPa đến 1120hPa \|
+
+$$
+-10,^{\\circ}\\mathrm{C}
+$$
+
+## CẢNH BÁO!
+
+Thiết bị không thích hợp để sử dụng khi có hỗn hợp dễcháy.
+
+## QUAN TRỌNG!
+
+Hệ thống làm mát phải được làm trống để vận chuyển và bảo
+quản dưới +5°C.
+
+$$
++5^{\\circ}\\mathrm{C}
+$$
+
+## GHI CHÚ!
+
+_Để tránh hư hỏng trong quá trình vận chuyển sản phẩm, chúng_ _tôi khuyên bạn nên sử dụng bao bì gốc để vận chuyển._
+
+* * *
+
+## 1.5 Kết hợp
+
+Liên quan đến laser MEGA PULSE TOWER 30+, chỉ các sợi
+laser đã được công ty TNHH Richard Wolf phê duyệt có hệ
+thống phát hiện sợi quang mới được sử dụng.
+
+## THẬN TRỌNG!
+
+**Các sản phẩm có thể bị kết nối sai cách!** **Có thể xảy ra thương tích cho bệnh nhân, người dùng hoặc** **bên thứ ba cũng như có thể xảy ra hư hại sản phẩm.** **Các sản phẩm khác nhau chỉ có thể được sử dụng cùng** **nhau nếu mục đích sử dụng và dữ liệu kỹ thuật liên quan** **như chiều dài sử dụng, đường kính, điện áp đỉnh... tương** **thích với nhau.**
+
+**Tuân thủ hướng dẫn sử dụng khi kết hợp các sản phẩm.**
+
+* * *
+
+## 1.5.1
+
+**Yêu cầu chung đối với sản phẩm / thành phần của tổ hợp**
+Các yêu cầu chung phụ thuộc vào việc sản phẩm/thành phần bên
+trong hay bên ngoài môi trường bệnh nhân.
+\[Image: Im26\] \[Image: Im27\]
+
+| trong môi trường bênh nh�n |  | Không phài y tế khòng gian được sù dung | Yêu cấu/Biên pháp Dòng rò rí theo IEC/EN 60601-1 |
+| --- | --- | --- | --- |
+| trong môi trường bênh nh�n | bên ngào môi trường bênh nh�n | Không phài y tế khòng gian được sù dung | Yêu cấu/Biên pháp Dòng rò rí theo IEC/EN 60601-1 |
+| 1A |  |  |  |
+| MP |  |  |  |
+| ~MP |  |  |  |
+| ~ | - | - | - |
+| 2A |  |  |  |
+| MP |  |  |  |
+| ~ | MP |  |  |
+| ~ | - | - |  |
+| 3C |  |  |  |
+| MP |  |  |  |
+| ~ | - | MP or NMP |  |
+| ~ | a) Kết nối day dăn báo về chung, hoạch là |  |  |
+| b) Kết nối day dăn báo về bố sung |  |  |  |
+| (Tham khảo ýKIEN của nhà sân xuát tuông ủng), hoạch là |  |  |  |
+| c) Thiết bi phân tách bố sung |  |  |  |
+| (Tránh các vòng nốiだけ trong trưởng hạp có sự khác biêt tiêm ân) |  |  |  |
+
+Dấu phân cách bổ sung
+theo IEC/EN 60601-1
+
+**Thiết bị điện y tế (MP)** = **Thiết bị điện dùng trong y tế** theo IEC/EN 60601-1, UL 60601-1, CSA C22.2 số 601
+**Thiết bị điện phi y tế (NMP)** = **Thiết bị điện không dùng cho mục đích y tế** theo tiêu chuẩn IEC/EN/UL/IEC dành
+riêng cho sản phẩm hiện hành
+
+* * *
+
+## QUAN TRỌNG!
+
+Bất kỳ ai có trách nhiệm kết hợp sản phẩm theo một hệ thống đều
+phải đảm bảo rằng các tính năng hoạt động và các yêu cầu an toàn
+không bị ảnh hưởng tiêu cực, đồng thời phải chú ý kỹ đến các dữ liệu
+kỹ thuật, mục đích tương ứng và mục đích sử dụng.
+
+Các ảnh hưởng điện từ và các ảnh hưởng khác xảy ra giữa sản phẩm
+và các sản phẩm khác có thể dẫn đến lỗi hoặc trục trặc.
+
+Khi lựa chọn các thành phần hệ thống, hãy đảm bảo rằng chúng đáp
+ứng các yêu cầu cần thiết đối với môi trường mà chúng được sử dụng,
+cụ thể là IEC/EN 60601-1. Trong trường hợp có vướng mắc, nên hỏi
+nhà sản xuất của các thành phần hệ thống.
+
+Thiết bị kết nối điện giữa các thành phần khác nhau (ví dụ: đầu vào và
+đầu ra tín hiệu cho tín hiệu video, trao đổi dữ liệu, điều khiển, v.v.) và
+bệnh nhân không được phép tiếp xúc cùng một lúc.
+
+* * *
+
+## 1.6 Tương thích điện từ (EMC)
+
+**Để đảm bảo an toàn cho người sử dụng, bệnh nhân và bên thứ ba, chỉ được phép sử** **dụng những phụ kiện và phụ tùng thay thế do nhà sản xuất quy định.**
+
+**Các phụ kiện hoặc phụ tùng thay thế khác có thể dẫn đến gia tăng phát ra bức xạ điện** **từ hoặc giảm khả năng chống nhiễu.**
+F
+
+## QUAN TRỌNG!
+
+_Theo IEC 60601-1-2, các thiết bị điện y tế phải tuân theo các biện pháp an toàn đặc biệt liên_ _quan đến khả năng tương thích điện từ. Các ghi chú trên EMC phải được quan sát trong quá_ _trình cài đặt và vận hành. Thiết bị điện y tế có thể bị nhiễu bởi các thiết bị liên lạc di động và tần_ _số cao (ví dụ: điện thoại di động). Nếu cần thiết phải xếp chồng các thiết bị hoặc đặt chúng_ _cạnh nhau và xảy ra nhiễu tần số cao, thì các thiết bị phải được sử dụng đúng quy định._
+
+\| IEC 60601-1-2 bảng 201
+
+| Phương chấm và tuyến bộ củanhà sân xuát-Bức xaqi dійn tù |  |  |
+| --- | --- | --- |
+| Thiệt bj MegaPulse 30+và các phụKIEN cúa no được thiet kê để sử dụng trong môi trường dійn tù quy đinh duội dày.Khách hàng hoặc nguồn sù dung cuối cung cUA MegaPulse 30+và các phụKIEN clua no phải dàm bào răng viếc sù dụng trong một môi trường như vAY |  |  |
+| Kiem tra khí thài | Sự động nhật | Moi trường dійn tù-Chi dẃn |
+| Phát xạ tàn số võ tuyến-CISPR 11 | Nhóm 1 | MegaPulse 30+chì sư dụng năng lương tàn số võ tuyếncho chức năng bèn trong cUA no.Do đó, lươngkhí thaicUA no rât tháp và it có khả năng gây nhieu cho các thietbj diên tù gàn do |
+| Phát xạ tàn số võ tuyến-CISPR 11 | Hạng A | MegaPulse 30+không phù hορdể lάρ d饖 cho tát cácc toa nhà, chăng han như các toa nhà cho muc díich dâncu và những toa nhrà được két noi truc tiép với màngdiên ap tháp công công, nó chi dành cho các toa nhanh bènh viên với hệ thông chăm sóc d饖 biët. |
+| Phát xạ sóng haiIEC 61000-3-2 | N/A(P>1kW) | MegaPulse 30+không phù hορdể lάρ d饖 cho tát cácc toa nhà, chăng han như các toa nhà cho muc díich dâncu và những toa nhrà được két noi truc tiép với màngdiên ap tháp công công, nó chi dành cho các toa nhanh bènh viên với hệ thông chăm sóc d饖 biët. |
+| Dao động diên áp/phát xạ do nhápnháyIEC 61000-3-3 | Thòa mān | MegaPulse 30+không phù hορdể lάρ d饖 cho tát cácc toa nhà, chăng han như các toa nhà cho muc díich dâncu và những toa nhrà được két noi truc tiép với màngdiên ap tháp công công, nó chi dành cho các toa nhanh bènh viên với hệ thông chăm sóc d饖 biët. |
+| Thiệt bj phải được kет nói có diều kiên,trở kháng hē thông tói da cho phép Zmax tái diêm giaotiép cUA nguồn cung cấp cUA nguồn dùng là 0,070 Ohm |  |  |
+
+## IEC 60601-1-2 Bảng 202
+
+## Phương châm và tuyên bố của nhà sản xuất - Khả năng chống nhiễu điện từ
+
+Thiết bị MegaPulse 30+ được thiết kế để sử dụng trong môi trường điện từ quy định dưới đây. Khách hàng hoặc người sử
+dụng cuối cùng củaMegaPulse 30+ và các phụ kiện của nó phải đảm bảo sử dụng trong một môi trường như vậy
+
+| Kiêm tra nhiều | IEC 60601Mức độ kiểm tra | Mục đ碍 phù hορp | Moi trương diên tùr - Chi dân |
+| --- | --- | --- | --- |
+| Phóng tính diên (ESD)theo IEC 61000-4-2 | Phóng diên tiép xúc±8KVPhóng diên trong khôngkhí ±2,±4,±8,±15KV | Tuân thù | Sànnhà nên làm băng gỗ,bê tônghoặc gách men.Dói với sàn bàngvát liêu tông hορp,dô am tuồng dôiit nhật phài đакт30% |
+| R髟 loan/nộ phât diênthoaáng quanhanhtheo IEC 61000-4-4 | ±2KVđối với duồng daycung cáp diên luói±1KV cho các kết nôi tinhiêu | Tuân thủKhông áp dung | Nguồn cung cáp diên ap nguồnphải có chât luong dáp ứngduoccác ứng dụng thuurong mại và benthviến. |
+| Quá áp chuyển tiép(Surge)theo IEC 61000-4-5 | ±0,5,1 Dây dăn bénngoàiKV-dây dăn bénngoài±0,5,±1,±2KV Dây dănngoài-d饻 | Tuân thù | Nguồn cung cáp diên ap nguồnph販 có chât luong dáp ứngduoccác ứng dụng thuurong mại và benthviến. |
+| Giam diên áp,gian doangan và dao động trongdiên áp cung cáptheo IEC 61000-4-11 | 0%U$ _{T}$\*;1/2thoi gian ò0,45,90,135,180,225,270 và 315 dỔ0%U$_{T}$ _;1 chu kyvà70%U$\_{T}$_;25/30 chu kymộtpha: ò0 dỔ0%U$\_{T}$\*;250/300 chu ky | Tuân thù | Nguồn cung cáp diên ap nguồnph販 có chât luong dáp ứngduoccác ứng dụng thuurong mại và benthviến.Neu ngữ�i dung MegaPulse 30+yếu cuu các chúc năng liên tuc,ngay cá khi nguồn diên bj giándoạn,thị sàn phạm nèn duocr cápdiên tư ngữnl diên liên tuc hoặcpin du trư |
+
+* * *
+
+| Từ trướcòng ở tàn số mạch diên (50/60Hz) theo IEC 61000-4-8 | 30 A/m | N/A | Từ tr祖先òng ở tàn số người điện phải tr祖先ng với các gia trí phổ biên được tim thây trong möi tr祖先ng kinh doanh hoặc bênh viến |
+| --- | --- | --- | --- |
+
+\\*\\*\\*\\*\\* Lưu ý: Ut là điện áp đường dây trước khi áp dụng mức độ kiểm tra
+
+\| IEC 60601-1-2 bảng 204
+
+| Phương chàm và tuyến bộ của nhà sân xuát - Khả nạng chóng nhiều diên tù |  |  |  |
+| --- | --- | --- | --- |
+| Thiét bj MegaPulse 30+ được thiết kế để sử dụng trong một trưởng diên tù quý dịnh duôi đáy. Khách hàng hoác ngưovi dùng cuối của MegaPulse 30+ phải đâm bảo răng nó được sử dụng trong một m�i trường như vAY |  |  |  |
+| Kiem tra khả năng chóng nhiều | IEC 60601Mức độ kiểm tra | Mục độ phụ hορp | Mội trưởng diên tù - Chỉ dăn |
+| Tàn số caoIEC 61000-4-6 | 3Vrms150KHz đến80MHz | Tuân thù | Khоáng cach an toàn được khuyến nghiji gia cácphần của MegaPulse 30+, kẻ cả day diên, bổ dамcamt tay và di động, không được nhớ hon giá trijdução tinh trong phương trình tân số truyện.Khoang cach an toàn khuyến nghij.d=1,167\*sqrt(P) |
+| Tàn số cao buộc xạIEC 61000-4-3 | 3V/m80MHz đến2,7GHz | Tuân thù | d=1,167 _sqrt(P)từ 80MHz đến800MHzd=2,333_ sqrt(P)từ 800MHz đến2,5GHz |
+| Lưung nhiều tân sốcao được truyền{dântheo IEC 61000-4-6 | 6Veffa ở dài tânISM150kHz đến80MHz | Tuân thù | Trong đó P thể hiện định muc cóng suát dâu ra lônnhật của may phát tinh bằng watt(W)(thông tin donh sån xuát may phát cung cấp)và d khoäng cachan toàn khuyến nghijinh bằng mét(m)Cuồng đó tù trưởng của may phát vô tuyến tínhphải được xắc định ở tát các cát số theo diêu tratai chỗanh hơn mur tuán thu.bCó thể gây nhiều trong vùng lân c中国家 của các thiest bijdukung dành đầu bàng ký hiêu sau: |
+| Ghi chú 1:岀80MHz và 800MHz, áp dụng dai tân số cao honGhi chú 2: Nhưng phương chàm nàykhông được ap dung trong m�i trưởng hορp.Suur lan truyên diên tù bj anh huống bồisuer hấp thu và ph án xạ tù các cấu trúc,vaithe vÀ con nguòi. |  |  |  |
+
+a) Về mặt lý thuyết không thể dự đoán được chính xác cường độ từ trường của các thiết bị phát được lắp đặt cố định, chẳng
+hạn như các trạm gốc cho điện thoại (di động/ không dây) cũng như vô tuyến truyền thanh, radio nghiệp dư, sóng trung bình
+và VHF (sóng ngắn và dài). Cần phải khảo sát địa điểm điện từ để đánh giá môi trường điện từ do máy phát tần số cao tạo
+ra. Nếu cường độ từ trường đo được tại nơi sử dụng MegaPulse 30+ vượt quá mức tuân thủ tần số cao áp dụng ở trên, cần
+quan sát để đảm bảo MegaPulse 30+hoạt động bình thường.
+
+Trong trường hợp trục trặc, có thể cần các biện pháp bổ sung, chẳng hạn như điều chỉnh lại thiết bị hoặc chọn một vị trí
+khác cho MegaPulse 30+
+
+b) Trên dải tần từ 150 KHz - 80 MHz, cường độ từ trường phải dưới 3 V/m.
+
+* * *
+
+\| IEC 60601-1-2 Bàng 206
+
+| Khoảng cách an toàn được khuyến nghị gi�ura các thiệt bj truyèn thông di động tàn só cao và di động đối vớiMegaPulse30+ |  |  |  |
+| --- | --- | --- | --- |
+| Thiét bj MegaPulse 30+ được thiệt kê để sử dụng trong một truyện diên từ trong đó có büyük xạ tân só cao được kiêm soát. Khách hàng hoặc người dùng của MegaPulse 30+ có thể giúp ngăn chần nhiều diên từ bằng cach duy tri khoảng cach tôi thiêu giufer thiệt bj truyến thông tàn sô cao di động và di động (thiet bj phát) với MegaPulse 30+phù hóp với các khuyến ng伯爵 được liett kẻ duội dây, drua theo công suất đau ra tói da của thetiBT bj truyeny throgen. |  |  |  |
+| Công suất đAU ra tôi Da của may phátW | Khoảng cach tách biет liên quan đến tàn sÓ truyeny |  |  |
+| Công suất đAU ra tôi Da của may phátW | 150 KHz đến 80 MHzd=1,17\*sqrt(P)m | 80 MHz đến 800 MHzd=1,17\*sqrt(P)m | 800 MHz đến 2,5 GHzd=2,33\*sqrt(P)m |
+| 0,01 | 0,117 | 0,117 | 0,233 |
+| 0,1 | 0,370 | 0,370 | 0,740 |
+| 1 | 1,17 | 1,17 | 2,33 |
+| 10 | 3,70 | 3,70 | 7,40 |
+| 100 | 11,7 | 11,7 | 23,3 |
+|  |  |  |  |
+| Doi với may phát có công suất đAU ra tôi Da cao các gia trí đã liett kệ ở trên, khoảng cach tách biет được khuyến nghij d tính bàng mét(m) có thể được xác định bang cach sù dụng phuurong trinh áp dụng cho tàn sÓ truyeny, trong đó P dài dien cho công suất đAU lón nhật của may phát tinh bang watt(W) được dura ra bôinha sán xuát may phátGhi chú 1: ò 80 MHz và 800 MHz, áp dụng tân sÓ cao hornGhi chú 2: Những phuurong châm này không được áp dụng trong một trưởng hopf. Sự lan truyeny diên tù bj anh huồng bobier sự háp thư và ph�n xà tù các cấu trúc, vât th胳 và con nguovi. |  |  |  |
+
+| Xác định phuong tiên liên лạc không dây tân số cao |  |  |  |
+| --- | --- | --- | --- |
+| Dài tân số (MHz) | Tàn số kiểm tra (MHz) | Diêu ché | Mức độ đông nhát (V/m) |
+| 380-390 | 385 | Xunga-18Hz | 27 |
+| 430-470 | 450 | FM±5kHz để lêch hoặc xunga-18Hz | 28 |
+| 704-787 | 710,745,780 | Xunga-217Hz | 9 |
+| 800-960 | 810,870,930 | Xunga-18Hz | 28 |
+| 1700-1990 | 1720,1845,1970 | Xunga-217Hz | 28 |
+| 2400-2570 | 2450 | Xunga-217Hz | 28 |
+| 5100-5800 | 5240,5500,5785 | Xunga-217Hz | 9 |
+| LU'U Y: |  |  |  |
+| Căn duy tri khoảng cách an toàn tói thiêu là 30cm giũa sän phâm và các thiёт bj liên lắc tân só cao truyèn trong dài tân đã cho. |  |  |  |
+| Dieu này bao gõm diên thoại di động, WLAN, RFID và thiёт bj Bluetooth. Viếk khòng tuần thù có thể dãn đến giám các tính hoật dòng của sán phạm. |  |  |  |
+| a) Diêu ché xung được định nghĩa là tin hiêu sóng vuông với chu ky làm việc 50% |  |  |  |
+
+* * *
+
+## 2 MÔ TẢ SẢN PHẨM VÀ DỮ LIỆU KỸ THUẬT
+
+## 2.1 Mặt trước thiết bị
+
+1. Màn hình TFT và màn hình cảm ứng
+
+2. Nút dừng khẩn cấp cho tia laser
+
+3. Công tắc phím (BẬT/TẮT)
+
+4. Kết nối cho sợi quang laser
+
+
+* * *
+
+## 2.2 Mặt sau của thiết bị
+
+1. Nắp của mạch làm mát
+
+2. Máy thổi
+
+3. Dây điện
+
+4. Kết nối xả cho mạch làm mát
+
+5. Công tắc điện
+
+6. Kết nối khóa liên động
+
+7. Kết nối công tắc chân
+
+8. Đầu vào cáp
+
+9. Thiết bị giữ cho công tắc chân
+
+
+* * *
+
+## 2.3 Kế hoạch dán nhãn
+
+\| VISIBLE AND INVISIBLE LASER RADIATION / RAVONNEMENT LASER VISIBLE ET INVISIBLE
+RADIAZIONE LASER VISIBLE ED INVISIBLE
+Avoid eye or skin exposure to direct or scattered radiation. Class 4 laser product.
+Enfer toute expoison des yeux ou de la peau aux rayons directes ou diffusés.
+Argentine laser de Class 4.
+Exture l'aspiration dell'occhio e della pelle alla radiazione diretta o diffusa.
+Apparecchi laser di Class 4.
+Maximum Power / Puissance maximale / Massima potenza
+Public duration / Duration deImpulsation / Durée impulsante
+Wavelength / Longueur d'indice
+Class 3R <5mW @ 532nm
+Fasciae de visée
+Class 3R <5mW @ 532nm
+Luco Guida
+Standard / Conformement à la norme / In accord con la norma IECEN 60825-1-2014 \| Nhăn dán 1 (tinh nâng laze)
+Búc xạ laser nhín thải dy được và không nhín thải dy được
+Tránh dé mát hoác da tiép xúc vội búc xạ trUNC tiép hoác phàn tân. Laser häng 4.
+cóng suất tái da 30 W
+Thời luong xung 150 - 800 μs
+Buóc song 2100 nm
+Loài laser thi diem 3R<5mW@532nm
+
+Dy Quốc ph�n loai theo IECEN 60285-1:2014 \|
+\| \-\-\- \| \-\-\- \|
+\| LASER RADIATION
+AVOID EYE OR SKIN EXPOSURE TO DIRECT OR SCATTERED RADIATION
+CLASS 4 LASER PRODUCT
+CAUTION - LASER RADIATION WHEN OPEN AND INTERLOCKS DEFEATED \| Nhăn dán 2 (Đâu hiêu cành báo laser)
+Búc xạ laser
+Tranh dé mát hoác da tiép xúc vội búc xạ trUNC tiép hoác phàn tân. Laser häng 4.
+Thần trONG - Búc xạ laser khi mô náp và các khoa liên dòng an toàn két讳 với nhau. \|
+\| USE DEIONIZED
+OR BIDISTILLED
+WATER ONLY \| Nhăn dán 3
+Chì sù dương nước đãkhür ion hoặc nước cátt hai làn \|
+\| ATTENTION - HIGH VOLTAGE
+THE DEVICE CONTAINS A POTENTIALY DANGEROUS ELECTRICAL CHARGE.
+BEFORE WORKING ON THE DEVICE:
+
+- SWITCH OFF THE SUPPLY VOLTAGE
+- DISCONNECT EACH SOCKET
+- WAIT FOR 1 MIN. BEFORE OPENING THE DEVICE \| Nhăn dán 4
+  LUU Y ĐIÊN ÁP CAO
+  Thiêt bj mang dién áp tiêm án nguy hiém.
+  Trước khi mò thiêt bj:
+  -Tát nguồn diên
+  -Rút tât cá các phích câm
+  -Chò môt phút trước khi mò thiêt bj. \|
+  \| STOP \| Nhăn dán 5
+  Dáu hiêu cành báo laser \|
+  \| \| Nhăn dán 6
+  Nút dùng khán cấp \|
+
+## Nhãn dán 1 (tính năng laze)
+
+* * *
+
+\| MEGA PULSE TOWER 30+ RICHARD WOLF REF 2286006 100-120 Vac; 50/60Hz; 16 A 200-240 Vac; 50/60Hz; 10 A SN LHT xxxx-MMYY TYPE BF 60 kg MM/YYYY RICHARD WOLF GmbH 75438 Knittlingen Pforzheimerstr. 32 Germany CE 0124 WEEE DR \| Nhăn dán 7
+
+Nhăn d�n các giá trị kết nối \|
+\| \-\-\- \| \-\-\- \|
+\| LASER APERTURE \| Nhăn dán 8
+Mò laser \|
+\| Bộ ứng dụng sợi laser \| Nhăn dán 9
+Bộ ứng dụng sợi laser \|
+\| Nhăn dán 10
+Kết nối tin hiêu tùr xa để tát máy \| Nhăn dán 10
+Kết nối tin hiêu tùr xa để tát máy \|
+\| Nhăn dán 11
+(Kết nối công tác chân) \| Nhăn dán 11
+(Kết n/LICENSE công tác chân) \|
+\| Biếu tựng "Làm theo huróng dân sù dòng" \| Nhăn dán 12 \|
+\| I O \| Nhăn dán 13
+Công tác nguồn BÂT/TÄT \|
+\| Dùng đály về phía này \| Nhăn dán 14
+Dùng đály về phía này \|
+
+* * *
+
+## 2.4 Sợi laser
+
+Hệ thống laser được kết nối với một sợi laser. Sợi laser này được kết nối với nguồn laser
+thông qua một kết nối đặc biệt (SMA) nằm ở mặt trước của thiết bị.
+
+Cổng này có một bộ cảm biến vi mô ngăn thiết bị hoạt động nếu sợi laser không được kết
+nối đúng cách.
+
+Thông tin về việc sử dụng, tái sử dụng và khử trùng các sợi laser có thể được tìm thấy
+trong phần 7 của các hướng dẫn sử dụng này.
+
+## 1 Kết nối cho sợi laser (SMA 905)
+
+## 2 Sợi laser
+
+Các sợi laser sau đây phù hợp với hệ thống laser MEGA PULSE TOWER 30+:
+
+1. 200 mm sợi laser (vô trùng, sử dụng một lần hoặc sử dụng nhiều lần)
+
+2. 272 mm sợi laser (vô trùng, sử dụng một lần hoặc sử dụng nhiều lần)
+
+3. 365 mm sợi laser (vô trùng, sử dụng một lần hoặc sử dụng nhiều lần)
+
+
+$$
+3 6 5 \\mu \\mathrm {m}
+$$
+
+4. 550 mm sợi laser (vô trùng, sử dụng một lần hoặc sử dụng nhiều lần)
+
+$$
+5 5 0 \\mu \\mathrm {m}
+$$
+
+5. 800 mm sợi laser (vô trùng, sử dụng một lần hoặc sử dụng nhiều lần)
+
+6. 1000 mm sợi laser (vô trùng, sử dụng một lần hoặc sử dụng nhiều lần)
+
+
+$$
+1 0 0 0 \\mu \\mathrm {m}
+$$
+
+Tổng chiều dài của sợi là 3 m.
+
+**CẢNH BÁO!**
+
+**Bất kỳ thao tác bảo vệ sợi quang nào đều có thể dẫn đến phát xạ bức xạ** **laser không mong muốn.**
+
+Việc xoắn, kéo căng hoặc uốn cong quá mức có thể làm hỏng hoặc đứt sợi
+laser.
+
+Tránh sử dụng hệ thống khuếch tán quang trong đầu sợi quang.
+
+**CẢNH BÁO!**
+
+**Nếu sử dụng sợi laser hoặc đầu nối không phải do nhà sản xuất cung** cấp, thiết bị mất đi tính an toàn và các yêu cầu an toàn sẽ không được **thực hiện đúng.**
+
+* * *
+
+## 3 THÔNG TIN VÀ HƯỚNG DẪN AN TOÀN CHO LASERS
+
+## 3.1 Hướng dẫn và đào tạo nhân viên y tế
+
+## CẢNH BÁO!
+
+MEGA PULSE TOWER 30+ chỉ được phép sử dụng bở **i** nhân viên y tế có kinh nghiệm về tiết niệu, tán sỏi tiết niệu,tiêu hóa, nội soi khớp, phẫu thuật cắt u, tai mũi họng hoặcphẫu thuật tổng quát. Dựa trên kinh nghiệm chuyên môncủa mình, những nhân viên y tế này quyết định cách sửdụng thiết bị một cách chính xác tùy theo mục đích.Chúng tôi khuyến nghị tất cả nhân viên bên ngoài tiếp xúcvới thiết bị phải được thông báo về các tiêu chuẩn an toànlaser.
+
+## 3.2 Cài đặt
+
+## QUAN TRỌNG!
+
+Sự ngưng tụ nước có thể làm hỏng thiết bị.
+
+Một thiết bị laser lạnh (ví dụ sau khi vận chuyển) phải được để
+trong phòng mổ vài giờ trước khi sử dụng để thích ứng với điều
+kiện môi trường xung quanh.
+
+## CẢNH BÁO!
+
+Thiết bị không thích hợp để hoạt động trong môi trường dễcháy nổ **.**
+
+## QUAN TRỌNG!
+
+Điện áp nguồn phải phù hợp với điện áp được chỉ định trên biển
+báo. Chỉ kết nối thiết bị với ổ cắm điện bằng cáp nguồn được
+cung cấp hoặc cáp nguồn có cùng đặc tính.
+Đảm bảo rằng các khe làm mát không bị chặn hoặc bị che.
+
+* * *
+
+## 3.2.1 Làm đầy mạch làm mát F
+
+## QUAN TRỌNG!
+
+Chỉ sử dụng nước cất hai lần hoặc nước đã khử ion.
+
+Mạch làm mát được đổ đầy như sau:
+
+• M ở nắp đậy trên thành sau bằng cách trượt khóa (1) sang một
+bên trong khi giữ tay cầm (2)
+
+• N ối một chai phù hợp chứa nước đã được lọc sạch hoặc khử ion
+vào đầu nối nhanh (4).
+
+• Để làm cho việc đổ đầy dễ dàng hơn, hãy kết nối ống màu xanh
+lam với kết nối lỗ thông hơi "AIR PURGE".
+\[Image: Im55\]
+
+• Ki ểm tra mực nước thông qua vạch chia.
+
+• Đổ đầy nước vào bình. Không đổ đầy trên mức MAX.
+
+* * *
+
+• B ật thiết bị và kiểm tra lại mực nước.
+
+• Đổ đầy nước cho đến khi đạt được mức nước tối ưu.
+
+• Đóng nắp đổ nước ở phía sau.
+F
+
+## QUAN TRỌNG!
+
+Kiểm tra mực nước định kỳ thông qua vạch chia và nạp đầy
+nước khi cần thiết theo hướng dẫn ở trên.
+
+**3.2.2 Cài đặt kết nối cho tín hiệu từ xa để ngắt kết nối (Door Interlock)**
+
+Theo chỉ thị IEC/EN 60825-1, tất cả các thiết bị laser phải được
+trang bị kết nối cho tín hiệu từ xa để tắt máy. Đầu nối này phải
+được kết nối với một công tắc trên cửa ra vào của phòng để
+ngăn chặn tia laser phát ra khi cửa mở. Điều này là cần thiết để
+bảo vệ những người chưa được bảo vệ ở xung quanh tránh khỏi
+bức xạ laser khi cửa mở.
+
+Trên cửa ra vào của phòng laser, khách hàng phải cung cấp một
+công tắc tiếp xúc cửa phù hợp. Khi cửa đóng, công tắc cho phép
+phát xạ laser qua tiếp điểm đóng. Nếu có nhiều cửa ra vào, mỗi
+cửa phải có công tắc riêng, trong đó tất cả các tiếp điểm được
+đóng lần lượt.
+
+Tiếp điểm hoặc hàng tiếp điểm phải được đi dây bằng cáp phù
+hợp đi tới kết nối khóa liên động khi sản phẩm được lắp đặt.
+Kết nối khóa liên động trên laser được chỉ định như sau:
+
+Tiếp điểm A và B của công tắc nhỏ bên ngoài phải được kết nối
+với đường dây cửa.
+
+* * *
+
+## 3.2.3 Công tắc chân 1 bàn đạp
+
+Công tắc chân được sử dụng để kích hoạt bức xạ laser. Cáp công tắc chân phải được
+kết nối chắc chắn với ổ cắm công tắc chân ở phía sau thiết bị laser.
+\[Image: Im74\]
+
+## CẢNH BÁO!
+
+**Không bọc hoặc che công tắc chân bằng giấy bạc, túi nhựa hoặc những thứ tương tự,** **trừ khi điều này đã được nhà sản xuất chấp thuận. Việc sử dụng trái phép các túi/giấy** **đóng gói có thể chặn bàn đạp ở vị trí đặt xuống và gây ra phát xạ laser không mong** **muốn.**
+
+## 3.3 Yêu cầu kỹ thuật và điều kiện môi trường
+
+Hệ thống điện tại phòng mà MegaPulse TOWER 30+ được vận
+hành, phải đáp ứng các yêu cầu và thông số kỹ thuật của quốc
+gia.
+
+Các ổ cắm cần thiết phải được nối dây và lắp đặt cố định. Bảo vệ
+cầu chì và đường dây cung cấp cho thiết bị laser phải được thực
+hiện riêng biệt. Thiết bị laser phải được kết nối qua một đường
+dây điện riêng ( **không** sử dụng ổ cắm nhiều lỗ).
+
+Lắp đặt máy laser trên bề mặt chống trượt có thể chịu đựng
+được trọng lượng của thiết bị.
+
+Nhiệt độ môi trường xung quanh của thiết bị laser phải từ 18 °C
+đến 28 °C và độ ẩm không được vượt quá 85 %. Nhiệt độ môi
+trường tối đa cho phép là 30 °C (86 °F).
+
+$$
+18,^{\\circ}\\mathbf{C}
+$$
+
+$$
+28,^{\\circ}\\mathrm{C}
+$$
+
+$$
+30;^{\\circ}\\mathrm{C}
+$$
+
+Đảm bảo rằng phòng điều trị được thông gió đầy đủ. Do nhiệt
+phát ra từ tia laser, cần thông gió ít nhất 100 m³/h.
+
+## THẬN TRỌNG!
+
+**Nguy cơ gián đoạn quá trình làm việc khi máy ngừng hoạt** **động vì nhiệt độ quá cao.**
+
+**Khi lượng không khí lưu thông không đạt yêu cầu, chức** **năng bảo vệ quá nhiệt sẽ được kích hoạt và thiết bị trong** **quá trình sử dụng sẽ bị tắt.**
+
+**Duy trì khoảng cách với tường ít nhất 15 cm và không bao** **giờ che các khe làm mát. Các khe thông gió/lỗ thông gió** **trên tấm đế của thiết bị cũng phải để hở.**
+
+**Để tránh tích tụ nhiệt có thể xảy ra trong xe đẩy kín, các** **thiết bị phải được bố trí phù hợp và phải có các lỗ thoáng** **thoát nhiệt cho không khí nóng.**
+
+## THẬN TRỌNG!
+
+**Khởi động công tắc chân không chủ ý.**
+
+**Những ảnh hưởng của việc điều khiển công tắc chân có thể** **xảy ra bởi từ trường mạnh.**
+
+**Để chân công tắc tránh xa từ trường mạnh.**
+
+## THẬN TRỌNG!
+
+**Đặt thiết bị và công tắc chân bên ngoài khu vực vô trùng.**
+
+* * *
+
+## 3.4 Phân loại laser theo IEC / EN 60825-1
+
+Hệ thống laser MEGA PULSE TOWER 30+ là một thiết bị trị
+liệu với nguồn laser tích hợp. Các thông số hoạt động của
+nguồn laser cho phép xếp loại laser hạng 4 phù hợp với tiêu
+chuẩn IEC / EN 60825-1.
+
+Bức xạ laser được tạo ra bởi bộ cộng hưởng laser trong thiết bị
+được đưa vào thiết bị ghép sợi quang và được truyền từ đó qua
+sợi quang laser vào bệnh nhân với mục đích chữa bệnh.
+Tia laser nhắm mục tiêu (tia laser hoa tiêu) được ghép vào cùng
+một đường quang học để đảm bảo tính đồng trục.
+Các đặc tính của tia laser được nêu trong phần 1.4 của các
+hướng dẫn sử dụng này.
+
+## 3.5 Khoảng cách danh nghĩa để tránh nguy hiểm cho mắt (Nominal Ocular Hazard Distance)
+
+Đầu tiên, MPE (độ chiếu xạ tối đa cho phép), NOHD (khoảng
+cách danh định đối với nguy cơ gây hại cho mắt) và OD (mật độ
+quang học) được tính toán theo tiêu chuẩn IEC / EN 60825-1.
+
+Đầu tiên, MPE được tính toán (mức phơi sáng tối đa cho phép).
+Đây được hiểu là mức độ bức xạ mà con người có thể bị tia laser
+chiếu vào trong điều kiện bình thường mà không gây ra bất kỳ
+tác động tiêu cực nào. Mức MPE đại diện cho mức tối đa mà mắt
+hoặc da có thể được chiếu xạ mà không bị tổn thương tức thì
+hoặc lâu dài. Điều này phụ thuộc vào bước sóng của bức xạ, thời
+gian xung hoặc thời gian phơi nhiễm, mô có nguy cơ và độ phân
+giải của hình ảnh trên võng mạc trong trường hợp dải bức xạ từ
+400 nm đến 1400 nm.
+
+Trong dải bước sóng 2100 nm, định nghĩa như sau:
+
+## MPE=1000 \[W/m₂ \] với xung có thời lượng dưới 1 ms
+
+Sau đó, NOHD (khoảng cách danh nghĩa đối với nguy cơ tổn
+thương mắt) được đánh giá. Đây là khoảng cách mà tại đó sản
+lượng bức xạ hoặc mức tiếp xúc bức xạ tương ứng với mức độ
+tiếp xúc tối đa cho phép của giác mạc.
+
+NOHD là:
+
+$$
+Nmathit H mathit{D}=frac\ {{sqrtsqrt{\\frac{4P\_{0}}{\\pi\\mathit M P M}}}-a}{\\phi}
+$$
+
+Trong đó P0 đại diện cho công suất đỉnh của xung laser và a đại
+diện cho đường kính của chùm tia đầu ra và f sự phân kỳ của
+chùm tia.
+
+Cuối cùng, mật độ quang học của kính bảo vệ được đeo sẽ
+được tính toán.
+
+25
+
+* * *
+
+Nó được định nghĩa là:
+
+OD = log10 (H₀/MPE)
+
+H₀ là viết tắt của mức bức xạ dành cho mắt không được bảo vệ.
+Trong trường hợp này, giá trị này được tính là mức phơi nhiễm
+bức xạ (W/m²), xảy ra trung bình trên một điểm tròn có đường
+kính 7 mm theo khẩu độ giới hạn áp dụng cho mắt.
+
+| Buóc sóng | 2100 nm |
+| --- | --- |
+| Phân ky | 440 mrad |
+| Thòi gian xung | 100 giây |
+| MPE | 1000 W/m2 |
+| NOHD | 0,44m |
+| OD | 2 |
+
+Các giá trị NOHD cho thấy hệ thống laser phải ở trong phòng
+kín trong quá trình hoạt động, không có chùm tia laser trực tiếp,
+phản xạ hoặc truyền qua nào có thể thoát ra ngoài.
+
+**Các khe hở trong phòng lắp đặt có thể hấp thụ tia laser nên** **được che tối.**
+
+Các cửa ra vào được trang bị hệ thống khóa liên động phải làm
+bằng vật liệu không trong suốt (kính, nhựa, rèm, v.v.) và các
+cửa sổ phải được làm tối bằng hệ thống thích hợp không hấp
+thụ tia laser.
+
+26
+
+* * *
+
+## 3.6 Khu vực làm việc
+
+Thiết bị thuộc loại laser 4 và phải được sử dụng trong môi
+trường làm việc đặc biệt được xác định và giới hạn theo tiêu
+chuẩn quốc tế IEC / EN 60825-1.
+
+## QUAN TRỌNG!
+
+Thiết bị này được chứng nhận để sử dụng trong phòng phẫu
+thuật.
+
+**QUY TẮC TIẾP CẬN KHU VỰC LÀM VIỆC**
+
+Nhân viên/khách bên ngoài phải:
+
+• được nhân viên nội bộ hướng dẫn;
+
+• lu ôn đeo kính bảo vệ nếu bạn đang ở trong khu vực làm
+việc mà máy laser đang hoạt động;
+
+• được nhân viên nội bộ thông báo về laser, các nguy
+hiểm về điện và các nguy hiểm khác liên quan đến chức
+năng của laser trong khu vực làm việc (bức xạ laser,
+điện giật, v.v.).
+
+Nghiêm cấm việc xâm nhập nếu không có người vận hành máy
+trong khu vực làm việc.
+
+## 3.7 Nguy cơ đối với mắt và da
+
+Chùm tia laze do MEGA PULSE TOWER 30 + phát ra có thể
+dẫn đến mù lòa. Laser hoạt động với các bước sóng nhìn thấy
+được và không nhìn thấy được khác nhau. Năng lượng do hệ
+thống laser truyền vào mắt sẽ được hội tụ trực tiếp trên võng
+mạc. Việc võng mạc hấp thụ trực tiếp năng lượng laser có thể
+dẫn đến thị lực bị mờ tạm thời, tổn thương võng mạc, u xơ thần
+kinh tọa lâu dài và nhạy cảm ánh sáng lâu dài.
+
+## Có nguy cơ:
+
+• B ức xạ laser trực tiếp
+
+• B ức xạ laser phản xạ
+
+• B ức xạ laser khuếch tán
+
+## CẢNH BÁO!
+
+Nhân viên làm việc trong toàn bộ khu vực vận hàng máylaser bắt buộc phải mang thiết bị bảo hộ đầy đủ. Kính bảohộ phải được sử dụng theo chỉ thị quốc gia với các thôngsố kỹ thuật sau đây.
+
+## (Mức bảo vệ LB2):
+
+## o I 2100 nm LB2 cho nguồn laser Ho: YAG
+
+_Ngay cả khi đeo kính bảo vệ không bao giờ trực tiếp nhìn vào_ _chùm tia laze._
+
+## QUAN TRỌNG!
+
+Tất cả nhân viên trong khu vực hoạt động của tia laser phải đeo
+kính bảo hộ trước laser.
+
+27
+
+* * *
+
+Kiểm tra tính toàn vẹn và tình trạng của kính chắn laser trước
+mỗi lần sử dụng. Kính bảo vệ không được có bất kỳ hư hỏng cơ
+học nào.
+
+Trước khi đeo kính bảo vệ, hãy đảm bảo rằng chúng ở trong tình
+trạng hoàn hảo. Không sử dụng kính bảo vệ đã bị hỏng.
+Da thường chịu được sự tiếp xúc với bức xạ cao hơn, nhưng có
+thể bị bỏng nặng hơn hoặc ít hơn tùy thuộc vào cường độ tiếp
+xúc. Mặc quần áo bảo hộ phù hợp nếu cần thiết.
+
+Để tránh lẫn lộn, kính chắn laser phải được đánh dấu phù hợp.
+Cũng có thể sử dụng kính chắn laser với mức độ bảo vệ cao
+hơn (chẳng hạn như LB3, LB4, v.v.) hoặc kính có bộ lọc bảo vệ
+băng thông rộng từ cấp LB2 có bước sóng 2100 nm, cũng có
+thể được sử dụng.
+
+Nếu bạn nghi ngờ mình đã nhận được một thiết bị laser bị hỏng,
+hãy ngay lập tức:
+
+• T ắt tia laser;
+
+• Th ông báo cho người giám sát hoặc kỹ thuật viên an
+toàn laser của bạn.
+
+## 3.8 Cảnh báo vàloại chất thải
+
+Khi kết thúc vòng đời sử dụng của thiết bị và các phụ kiện của nó,
+bạn phải tiến hành theo các quy định của quốc gia hoặc địa
+phương liên quan đến việc xử lý rác thải điện và điện tử (chỉ thị
+WEEE).
+
+28
+
+* * *
+
+## 3.9 Nguy cơ hỏa hoạn
+
+\| \| Bức xạ laser do thiét bj này phát ra có thể lâm tan cháy, đột cháy hoặc hòa hơi hauft các vât liêu. Viếc sù dung thiét bj laser nay được giói h�n các ứng dung được chi định trong huóng dân sù dung.
+
+Nguy cơ hòa hoạn nàm trong bàn chât của phuông pháp diều trị bàng laser. Sự háp thu năng luồng của tia laser làm táng nhiệt độ của tát cà các vât liêu mà khòng phụ Thuoc vào thoi gian phát xa. Hiên tuông nay tao cơ sò cho nhière ung dung hưu ich trong y tế và ph�au thupt; đó cùng là lý do mà các ung dung như vây thuurng yêu cuau các biên pháp an toàn để tránh bät lura các vật liEU dê chály trong và xung quanh khu vúc diều trij.
+
+Căn có các biên pháp an toàn sau đấy khi sù dung tia laser:
+• Không sù dung các chât để cháy như rước hoặc axeton để chuân bj da trước khi diều trij. Sù dung xà phòng và nuóc néu cân thiët.
+• ThuOC me qua durong hô háp ho赘 thuóc mè dung tái chõ khong duroc de cháy.
+• Tránh sù dung các vât liEU de cháy như gác và khăn tám trong khu vUC diều trij. Nếu viếc sù dung chúng là cân thiët,khà năng dôt cháy của chüng phải duroc hnan ché bàng cách lam âm bàng nuÓc. Không có quàn año trong khu vUC diều trij.
+• Đãc biët cân chu ý đến nguy cơ viêm nhiem do khí noi sinh.
+
+• Truóc khi sù dung tia laser, dung moi và dung dích de cháy duộc sù dung dē lâm sach ho赘 tiět trùng phài bay hoì \|
+\| \-\-\- \| \-\-\- \|
+\| \| THÂN TRONG!
+Không sù dung thiét bj trong môi trưởng gi'au oxy. \|
+
+## 3.10 Phát thải khí hoặc hơi độc
+
+**THẬN TRỌNG!**
+
+**Khói và hơi nước do chùm tia laze tạo ra có thể chứa các**
+
+**hạt mô có thể sống được.**
+
+29
+
+* * *
+
+## 4 VẬN HÀNH MEGA PULSE TOWER 30+
+
+## QUAN TRỌNG!
+
+Việc đào tạo cho nhân viên sẽ phụ trách máy và việc đổ đầy
+mạch làm mát lần đầu tiên sẽ được tiến hành bới công ty TNHH
+Richard Wolf hoặc người được họ ủy quyền.
+
+## 4.1 Sự chuẩn bị
+
+• K ết nối dây điện với ổ cắm đầu vào chính trên thiết bị và với
+ổ điện chính.
+
+• Ch ỉ được phép sử dụng dây nguồn được cung cấp.
+
+• C ông tắc chính ở mặt sau của thiết bị ngắt hoàn toàn nguồn
+điện của thiết bị
+
+• K ết nối công tắc chân với ổ cắm công tắc chân trên thiết bị
+
+• K ết nối cáp nối cho tiếp điểm cửa với ổ cắm tiếp xúc cửa
+(kết nối để ngắt kết nối hoặc khóa liên động) ở phía sau của
+thiết bị.
+
+• K ết nối sợi laser của Richard Wolf ban đầu với thiết bị laser.
+
+• Để thực hiện việc này, hãy tháo vỏ bọc bảo vệ khỏi đầu nối
+sợi quang. Cắm phích cắm vào ổ cắm cho sợi laser và cố
+định nó bằng cách xoay nó theo chiều kim đồng hồ.
+
+• L àm sạch và tái xử lý: xem phần 4.9.
+
+## GHI CHÚ!
+
+_Bố trí các cáp kết nối cho nguồn điện, công tắc chân, tiếp điểm_ _cửa và các sợi laser sao cho chúng không gây nguy hiểm vấp_ _ngã hoặc nguy hiểm khác._
+
+## CẢNH BÁO!
+
+Để tránh điện giật, thiết bị chỉ được phép kết nối với nguồnđiện lưới có dây nối đất bảo vệ **.**
+
+30
+
+* * *
+
+## 4.2 Kết nối của sợi laser
+
+Sợi laser được kết nối với thiết bị laser thông qua một ổ cắm ở
+mặt trước của thiết bị. Để nhận được sợi laser, thiết bị bảo vệ cơ
+học phải được nâng lên. Chỉ các sợi có đầu nối SMA905 mới có
+thể được sử dụng trong máy MEGA PULSE 30+.
+
+Kết nối phải được thắt chặt theo chiều kim đồng hồ đến điểm
+cuối. Nếu sợi laser không được kết nối chính xác, hệ thống laser
+không thể phát ra chùm tia laser. Trong trường hợp này, một
+thông báo sẽ xuất hiện trên màn hình khi nhấn công tắc chân.
+
+thông qua hệ thống nhận dạng sợi quang tự động (RFID, **R** adio
+**F** requency **ID** entification), thiết bị laser có thể tự động phát hiện
+kích thước của sợi laser và số lần tái sử dụng hiện có.
+
+\| \| THÂN TRONG!
+
+Điều cuộc ky quan tròng là phải kết noi chặt chê sội laser về mật cơ học. Kết nối lông lèo có thể dăn đến mât nâng luồng. \|
+\| \-\-\- \| \-\-\- \|
+\| \| QUAN TRONG!
+Soi laser không được uón cong qua nhièreu hoặc quán qua chất, vi điều này có thể dăn đến dút. Bán kinh cong tôi thiêu la tùr 5 dén 15 cm, tüy thuốc vào loài sội (sội có 200, 272 μm = 5 cm, sội có 365 μm = 7,5 cm, sội có 550, 800 μm = 10 cm, sội có 1000 μm = 15 cm).
+Ngoài ra khi bào quân sội, không được làm giàm bán kinh uón. \|
+\| \| QUAN TRONG!
+Không tạo áp lực khi đua sội laser vào dụng cu, vi điều này sẽ làm hóng hoặc dût nó.
+Không được sử dụng các sội laser bij hòng.
+
+Kiem tra để{dâm bào ràng bao bì sội vô trùng còn nguyèn ven hoặc{dâm bào ràng vêt chúa võ trùng tiép theo khi mang ra khói phòngkhirurgkhôngbjmòhoặccótapchátco thénhìn thâydugric.
+Lây sội laser ra khởi bao bì trong diếu kiên võ trưng.
+• Chi kёт nối sội laser với thiět bij khi nó{dã tät.
+• Cộng tác phím ô vj trí 0=OFF.
+• Chi lây sội{dã tiет trùng ra khiourbao bì ngay trước khi sù dungvà{dât lên bè mật võ trùng.
+• Tháo vô bóc bào vê khiourd'au nối sội laser va giuur no ó nơi an toàn.
+• Truóc khi sù dung, hày{dám bào ràng sội laser khôngbjdût hoặccó cәnh sác. \|
+
+31
+
+* * *
+
+\| \| • Kết nối vô trùng sội laser với hệ thống laser và có định nó bàng cách xoay nó theo chiêu kim đông hổ. Đặc biên chú ý đến việc làm bản mép sội hoạch vùng phaudio thuật.
+• Cấm.phích cầm vào ở cạm dành cho sội laser và có định nó bàng cách xoay nó sang phải (theo chiêu kim đông hổ).
+
+• Bất thiёт bij laser. $\\odot$ = BẌT \|
+\| \-\-\- \| \-\-\- \|
+\| \| THÂN TRỔNG!
+Không nhận công tác chân khi kiểm tra hình dạng của chùmchiếu thư(chùm mực tiêu). \|
+\| \| QUAN TRỔNG!
+Khi kẹp sội laser bàng giác độ, không được xoăn cáp quang. \|
+
+32
+
+* * *
+
+## 4.3 Bật thiết bị laser
+
+• B ật nguồn điện (BẬT) bằng công tắc nguồn ở phía sau thiết bị
+(1).
+
+• Ch èn chìa khóa vào công tắc phím (2) được cung cấp và xoay
+sang vị trí 'I'.
+\[Image: Im73\]
+
+• M ột sợi laser phải được kết nối với hệ thống laser.
+
+• Ch ỉ những sợi đã được phê duyệt mới có thể được sử dụng
+trong MEGA Pulse Tower 30+.
+
+• Sau khi tự kiểm tra, thiết bị sẽ tự động chuyển sang chế độ chờ
+“Standby”.
+
+## QUAN TRỌNG!
+
+Chìa khóa phải được gỡ bỏ để tránh việc sử dụng trái phép.
+
+• Đường kính sợi quang được nhận dạng bằng công nghệ nhận
+dạng sợi quang tự động thông qua RFID và hiển thị trên màn
+hình. Kiểm tra xem đường kính hiển thị trên màn hình có tương
+ứng với đường kính của sợi laser được kết nối hay không.
+
+• C ác sợi laser được kết nối với tần suất cao hơn chu kỳ sử dụng
+cho phép sẽ tự động bị chặn.
+
+• Khi chuyển sang chế độ sẵn sàng "Ready", hãy đảm bảo rằng
+chùm tia hoa tiêu có thể nhìn thấy và có hình dạng tròn hoặc
+giống hình tròn, như được mô tả trong Phần 4.9.
+
+• H ướng sợi laser vào một bề mặt phẳng, sáng.
+
+• N ếu chùm tia mục tiêu (chùm chiếu thử) được truyền đi một
+cách chính xác, cũng phải được đảm bảo rằng không có điểm
+sáng hoặc vùng sáng nào dọc theo toàn bộ chiều dài của sợi.
+
+## THẬN TRỌNG!
+
+**Không kích hoạt tia laser nếu sợi laser bị hỏng.**
+
+## GHI CHÚ!
+
+_Nếu không thể bật thiết bị, hãy kiểm tra xem công tắc DỪNG KHẨN_ _CẤP có được kích hoạt hay không._
+
+33
+
+* * *
+
+• C ăn chỉnh đầu sợi với vùng cần điều trị.
+
+• Đầu sợi phải nhìn rõ và nhô ra ngoài khoảng 1 hoặc 2 cm so với
+đầu ống nội soi.
+
+• Ch ùm chiếu thứ đồng tâm với chùm điều trị.
+
+• Th ời gian xung và quy trình điều trị khác nhau tùy thuộc vào
+khoảng cách, thành phần và độ lớn của điểm cần áp dụng trong
+cơ thể.
+
+• MEGA PULSE TOWER 30+ có các chế độ hoạt động có thể
+chọn trước để tối ưu hóa hiệu quả ứng dụng:
+
+o Nguyên tử hóa đá
+
+o T án sỏi
+
+o Ablation (Cắt bỏ)
+
+o Đông lại
+
+• C ác chế độ hoạt động riêng lẻ có thể được chọn thông qua
+MENU CHÍNH. Để biết thêm thông tin chi tiết, hãy xem chương
+5.
+
+## GHI CHÚ!
+
+_Khi đã lựa chọn một chế độ hoạt động nhất định, thì cũng có thể đổi_ _sang các chế độ hoạt động khác trong giai đoạn phát tia laser. Có_ _nghĩ là nếu đang lựa chọn chức năng TÁN SỎI hoặc TÁN NHỎ SỎI_ _đã được chọn, thì cũng có thể chuyển sang chức năng cắt, loại bỏ_ _hoặc đông tụ. Hệ thống laser được cài đặt để có thể đề xuất sự kết_ _hợp hiệu quả nhất giữa năng lượng và tần số cho người dùng, có_ _tính đến thời gian xung, để đạt được sự phân mảnh của sỏi phù_ _hợp._
+
+Hệ thống laser vẫn giữ các đặc tính cắt của nó và do đó việc sử
+dụng laser không đúng cách có thể làm tổn thương mô cơ thể. Bằng
+cách tăng khoảng cách với vùng điều trị (làm mất nét), tác dụng
+đông máu cũng có thể đạt được ở chế độ cắt / tán sỏi / tán nhỏ sỏi
+(chế độ vận hành).
+
+Khi chọn chế độ vận hành “ĐÔNG LẠI”, hệ thống sẽ đề xuất các đặc
+tính của tia laser phù hợp với loại quy trình này.
+
+Nếu đầu sợi bị dính bẩn trong quá trình phẫu thuật (bị nhiễm bẩn
+bởi mô), thiết bị phải được đặt ở chế độ "STANDBY", sợi được lấy
+ra khỏi dụng cụ linh hoạt và đầu sợi được làm sạch bằng gạc vô
+trùng.
+
+Trong trường hợp này cần phải kiểm tra, mẫu chùm có chính xác
+không.
+
+34
+
+* * *
+
+## 4.4 Kích hoạt xung laser F
+
+• B ằng cách chạm nhẹ vào nút chế độ chờ “Standby”, thiết bị
+sẽ chuyển sang chế độ “ **Ready**” (sẵn sàng).
+
+• Ở trạng thái chuyển tiếp (khoảng 2 giây), biểu tượng laser sẽ
+nhấp nháy.
+
+• Khi nhấn công tắc chân, các xung laser với các giá trị được
+đặt trên màn hình cảm ứng sẽ được kích hoạt.
+
+• Để kích hoạt các xung laser, bàn đạp phải được nhấn trong ít
+nhất một giây.
+
+• B ằng cách chạm vào khu vực nút " **Ready**" (hoặc khu vực một
+nút khác) thiết bị sẽ quay về chế độ hoạt động " **Standby**"
+(Điều này sẽ không xảy ra nếu xung laser được kích hoạt).
+
+• N ếu không có xung laser nào được kích hoạt trong một
+khoảng thời gian dài hơn (khoảng 2 phút), thiết bị sẽ tự động
+chuyển từ " **Ready**" sang " **Standby**".
+
+## THẬN TRỌNG!
+
+**Ở chế độ “Ready”, có khả năng xung laser sẽ được kích hoạt** **nếu vô tình nhấn vào công tắc chân.**
+
+**Do đó, thiết bị laser nên được chuyển từ “Ready” sang** **“Standby” trong thời gian nghỉ điều trị.**
+
+## 4.5 Tắt thiết bị laser
+
+• V ới mục đích này, thiết bị laser phải ở chế độ hoạt động
+" **Standby**".
+
+• Để tắt thiết bị, xoay công tắc phím ngược chiều kim đồng hồ
+đến vị trí = T \[Image: Im77\] ẮT.
+
+$$
+\\bigcirc = T \\check {A} T
+$$
+
+• Ch úng tôi khuyên bạn nên tắt MEGA PULSE TOWER 30 +
+bằng công tắc nguồn để ngắt kết nối thiết bị laser khỏi nguồn
+điện.
+
+35
+
+* * *
+
+## THẬN TRỌNG!
+
+**Không bao giờ để thiết bị trong tình trạng không có người** **giám sát khi nó đang được bật.**
+
+**Khi không sử dụng thiết bị laser, hãy luôn bảo vệ thiết bị** **khỏi bị sử dụng trái phép bằng cách rút chìa khóa ra khỏi** **công tắc phím.**
+
+## QUAN TRỌNG!
+
+Công tắc dừng khẩn cấp chỉ nhằm mục đích ngắt phát xạ laser
+trong trường hợp khẩn cấp.
+
+Khi nhấn công tắc DỪNG KHẨN CẤP phát xạ tia laser sẽ dừng
+ngay lập tức.
+
+Tuy nhiên việc tắt kích hoạt thông thường của thiết bị laser phải
+luôn được thực hiện bằng cách sử dụng công tắc phím.
+
+## 4.6 Loại bỏ sợi laser
+
+• Ch ỉ tháo sợi laser khi thiết bị đã tắt.
+
+• C ông tắc phím phải ở vị trí 0 = OFF.
+
+• Th áo sợi laser khỏi thiết bị laser.
+
+• Th áo đầu nối sợi laser bằng cách xoay ngược chiều kim
+đồng hồ.
+
+• Đảm bảo rằng bạn không chạm ngón tay vào điểm vào sáng
+của phích cắm.
+
+• Đặt nắp bảo vệ lên sợi laser.
+
+• Lo ại bỏ các sợi laser sử dụng một lần trong bao bì của
+chúng.
+
+• C ác sợi laser có thể tái sử dụng vào quy trình tái xử lý được
+mô tả trong chương 7.
+
+• Đảm bảo rằng nắp trên ổ cắm sợi quang laser đã được đóng
+lại.
+
+## CẢNH BÁO!
+
+Đối với sản phẩm sử dụng một lần thì không được phép tá **i** sử dụng.
+
+Sản phẩm chỉ dùng một lần đã được vô trùng không đượcphép sử dụng khi:
+
+o Bao bì sản phẩm bị hư hỏng
+
+o Vượt quá hạn sử dụng
+
+36
+
+* * *
+
+## 4.7 Nút dừng khẩn cấp laser
+
+Nút dừng khẩn cấp laser được sử dụng để tắt phát xạ tia laser
+ngay lập tức trong trường hợp trục trặc hoặc xảy ra lỗi.
+
+Quá trình kích hoạt diễn ra bằng cách nhấn vào nút màu đỏ.
+Trước khi kích hoạt lại thiết bị, phải điều chỉnh nút dừng khẩn cấp
+màu đỏ bằng cách xoay nó theo chiều kim đồng hồ.
+
+## QUAN TRỌNG! F
+
+Khi kích hoạt nút dừng khẩn cấp không có nghĩa là đã ngắt kết
+nối thiết bị khỏi nguồn điện. Để thực hiện việc này, bạn phải tắt
+công tắc nguồn ở mặt sau của thiết bị.
+
+## 4.8 Thông tin chung về việc sử dụng sợi laser
+
+## THẬN TRỌNG!
+
+**Chỉ những sợi laser ở tình trạng hoàn hảo mới có thể được** **sử dụng để điều trị cho bệnh nhân.**
+
+**Trong trường hợp sợi có thể tái sử dụng, phải tuân theo các** **chỉ dẫn tái xử lý ở chương 7 của các hướng dẫn sử dụng này** **hoặc các thông số kỹ thuật của nhà sản xuất.**
+
+**Các sợi laser dùng một lần nên được xử lý theo quy định** **của địa phương.**
+
+## THẬN TRỌNG!
+
+**Ngay lập tức kiểm tra sản phẩm xem có hư hỏng, thiếu các** **thành phần hoặc có toàn vẹn hay không trước và sau mỗi** **lần sử dụng.**
+
+**Trong mọi trường hợp, các bộ phận bị thất lạc không được** **lưu lại trên hoặc trong cơ thể bệnh nhân!**
+
+## THẬN TRỌNG!
+
+**Sợi laser không được sử dụng trên hệ thần kinh trung ương** **hoặc hệ tuần hoàn trung ương.**
+
+## QUAN TRỌNG! F
+
+Không dùng lực hoặc lực quá mạnh để di chuyển sợi laser, vì sợi
+sẽ bị hỏng hoặc đứt. Các sợi laser đã bị hỏng không được phép
+sử dụng nữa.
+
+## QUAN TRỌNG! F
+
+Vật liệu hoặc dụng cụ phản xạ có thể gây ra độ sai lệch không
+kiểm soát được của chùm tia laze.
+
+Thủy tinh và các bề mặt kim loại có độ bóng cao có thể gây ra sự
+tán xạ nguy hiểm của bức xạ laser ngay cả ở khoảng cách vài
+mét.
+
+37
+
+* * *
+
+## QUAN TRỌNG!
+
+Kiểm tra đầu mút của sợi laser xem có thể có sót lại vật thể gì
+hoặc hư hỏng trong quá trình điều trị hay không. Bên cạnh sự hư
+hại thì sự bám dính máu và mô thừa cũng có thể dẫn đến quá
+nhiệt và đốt cháy đầu sợi và do đó làm giảm hiệu quả điều trị trên
+mô.
+
+Nếu cần thiết, khi tắt máy laser, hãy làm sạch sợi laser và chuẩn
+bị (sửa chữa) hoặc sử dụng một sợi laze mới.
+
+## THẬN TRỌNG!
+
+**Không thể loại trừ tổn thương mô không mong muốn cũng** **như sự hư hại đầu sợi laser, đầu mút của ống nội soi và các** **bộ phận của ống nội soi!**
+
+**Không kích hoạt tia laser cho đến khi đầu sợi laser xuất** **hiện hoàn toàn trong phạm vi quan sát của ống nội soi và** **tiếp xúc với khu vực dự định áp dụng.**
+
+## THẬN TRỌNG!
+
+**Phát triển nhiệt thông qua chùm tia laze có tính kết hợp cao!** **Nhiệt tạo ra bởi chùm tia laser ảnh hưởng đến sự ổn định** **của các bộ phận thiết bị.**
+
+**Không hướng chùm tia laser vào các bộ phận của thiết bị,** **đặc biệt là không hướng vào các bộ phận bằng nhựa. Chú ý** **khoảng cách an toàn vừa đủ.**
+
+## THẬN TRỌNG!
+
+**Không bao giờ nhìn thẳng vào chùm tia laze.**
+
+**Khi sử dụng quang học để quan sát hoặc điều chỉnh, hãy sử** **dụng các bộ lọc bảo vệ phù hợp với mức độ bảo vệ tương** **ứng nếu cần thiết.**
+
+## QUAN TRỌNG!
+
+Tuân thủ các chỉ thị chung của quốc gia về việc sử dụng tia
+laser.
+
+Người vận hành thiết bị laser phải đeo thiết bị bảo vệ cá nhân
+được quy định như kính chắn laser phù hợp.
+
+Các sản phẩm nhiệt phân bằng laser (khí, hơi, hạt và sol khí lây
+nhiễm) được tạo ra trong quá trình sử dụng phải được hút ở phía
+trên vùng laser bằng hệ thống hút với các bộ lọc phù hợp.
+
+38
+
+* * *
+
+## GHI CHÚ!
+
+_Trước khi sử dụng sợi laser lần đầu tiên, người dùng nắm được_ _kỹ tác động của tia laser trên mô._
+
+Khi bắt đầu điều trị, các thông số phù hợp với mỗi trường hợp áp
+dụng tương ứng phải được cung cấp, sau đó có thể được điều
+chỉnh trong khi liên tục theo dõi các tác động lên mô.
+
+Trong trường hợp phẫu thuật tiếp xúc, điều khiển sợi laser trên
+bề mặt mô mà không tạo áp lực lên sợi.
+
+Trong trường hợp có sự kết dính giữa mô và đầu sợi, sợi laser
+phải được tách ra khỏi mô ở công suất thấp.
+
+39
+
+* * *
+
+## 4.9 Xử lý các sợi laser
+
+## Làm sạch các sợi laser:
+
+Bất kỳ chất bẩn tích tụ nào trên đầu sợi laser do mô còn sót lại
+trong quá trình điều trị có thể được loại bỏ bằng một miếng gạc
+ngâm trong nước vô trùng ho c hydrogen peroxide.
+
+_**GHI CHÚ!**_
+
+_Để làm sạch sợi laser, hãy cài đặt thiết bị thành " **Standby**"._
+F
+
+## Chuẩn bị sợi laser (chỉ dành cho sợi laser sử dụng nhiều lần):
+
+_**GHI CHÚ!**_
+
+_Nếu thiết bị được sử dụng để chuẩn bị sợi laser không được vô_ _trùng, nó phải được làm sạch và khử trùng như một phần của_ _quá trình chuẩn bị phẫu thuật._
+
+## Kiểm tra chất lượng hình dạng chùm tia
+
+Chất lượng thực tế của mẫu chùm có thể được đánh giá bằng cách
+kiểm tra hình dạng của chùm chiếu thử;
+
+Để kiểm tra, hãy hướng sợi quang theo phương thẳng đứng vào
+bề mặt tối khi đã kích hoạt chùm tia nhắm (chùm chiếu thử).
+
+## GHI CHÚ!
+
+_Mang kính bảo vệ phù hợp trong quá trình này._
+
+Hình 10 mô phỏng một mẫu chùm đúng. Trong trường hợp này,
+chỉ cần tháo vỏ nhựa bên ngoài là đủ (xem bên dưới). Hình 6 cho
+thấy một ví dụ về mẫu chùm tia laser không chính xác. Trong
+trường hợp này, hãy tiến hành như sau:
+
+**Tháo lớp vỏ nhựa bên ngoài**.
+
+Trước khi tước sợi laser, điều chỉnh dụng cụ tách sợi theo đường
+kính sợi (A).
+
+Sử dụng dụng cụ tách sợi được cung cấp để bóc lớp vỏ nhựa
+bên ngoài từ 20 đến 40 mm (hình 7).
+\[Image: Im79\]
+
+40
+
+* * *
+
+Việc chuẩn bị đầu sợi quang phải được thực hiện bằng cách sử
+dụng một công cụ tách (chẳng hạn như mũi kim cương dùng để
+cắt thủy tinh), cách đầu mút của vỏ bọc nhựa khoảng 5 mm.
+
+Cẩn thận rạch nhẹ một đường ở sợi laser (hình 8) và do đó tạo ra
+điểm đứt xác định trước. Sau đó, tạo một điểm gấp tại vị trí này
+bằng cách uốn cong nhẹ và kéo về phía trước (hình 9).
+\[Image: Im80\]
+
+Sử dụng chùm chiếu thử để kiểm tra hình dạng chùm.
+
+Nếu phát hiện thấy bất thường, hãy lặp lại quá trình chuẩn bị.
+_**GHI CHÚ!**_
+
+_Nếu việc chuẩn sợi laser phải được tiến hành trong khu vực vô_ _trùng, cần chuẩn bị sẵn các dụng cụ có thể tiệt trùng thích hợp_ _(xem chương 7.6) ở dạng vô trùng trong khu vực vô trùng._
+
+**Xử lý sợi (chu kỳ ứng dụng):**
+
+Số chu kỳ ứng dụng của sợi laser (sợi laser sử dụng nhiều lần,
+tối đa 10 ứng dụng, sợi laser sử dụng một lần chỉ có một ứng
+dụng) được giảm xuống 1 lần sau **mỗi lần** phát hiện sợi **và** sau
+**lần đầu tiên** kích hoạt xung laser với công tắc chân.
+
+Thông qua việc tắt thiết bị laser sau khi kích hoạt xung laser đầu
+tiên (với công tắc nguồn, công tắc an toàn cửa, công tắc dừng
+khẩn cấp) hoặc sau lần kích hoạt đầu tiên người dùng chỉ ra việc
+cần phải thay đổi kích thước sợi hoặc phải loại bỏ sợi laser ra
+khỏi thiết bị, số lượng chu kỳ ứng dụng cũng giảm đi một lần.
+_**GHI CHÚ!**_
+
+_Sau một sự cố như vậy, sợi quang laser sử dụng một lần sẽ_ _không được sử dụng nữa!_
+
+Thông báo lỗi xuất hiện sau khi sử dụng sợi laser sử dụng một
+lần hoặc khi kết thúc các chu kỳ ứng dụng của sợi laser sử dụng
+nhiều lần.
+\[Image: Im81\]
+
+* * *
+
+## 5 HƯỚNG DẪN VẬN HÀNH
+
+## 5.1 Nguyên lý hoạt động
+
+MEGA PULSE TOWER 30+ là tia laser holmium YAG với bộ
+làm mát tích hợp; Do đó, nó không cần kết nối nước để làm mát.
+
+Hệ thống phát hiện sợi laser tự động có thể xác định liệu sợi
+laser đã được kết nối chính xác hay chưa và liệu nó có phải là sợi
+được công ty Richard Wolf chấp thuận hay không.
+
+Tính năng dò tìm sợi quang tự động cũng xác định được loại sợi
+quang được kết nối và hiển thị trường thông số cho sợi quang
+laser tương ứng. Điều này giúp tránh được việc sử dụng điện
+năng quá cao.
+
+Chùm tia màu xanh lá cây làm cho sự phân biệt mô dễ dàng hơn
+nhiều.
+
+**Để đảm bảo sự an toàn, các chức năng và thành phần quan** **trọng của thiết bị được giám sát một cách tự động.**
+
+**Trong trường hợp trục trặc hoặc lỗi, sẽ xuất hiện một thông** **báo trên màn hình cảm ứng, kèm theo tín hiệu âm thanh.**
+
+## CẢNH BÁO!
+
+Tất cả các biện pháp an toàn được mô tả trong các hướngdẫn sử dụng này phải được tuân thủ. Trong quá trình vậnhành máy laser luôn mang kính bảo hộ phù hợp với các yêucầu của tiêu chuẩn quốc gia.
+
+## CẢNH BÁO!
+
+Việc sử dụng điều khiển thiết bị không đúng cách hoặc thựchiện một quy trình không được chỉ định có thể dẫn đến phơ **i** nhiễm tia laser nguy hiểm.
+
+## QUAN TRỌNG!
+
+Tiêu chí bắt buộc khi thực hiện các kiểm tra chức năng của thiết
+bị là tình trạng kỹ thuật hoàn hảo và cấu trúc chính xác của các
+thiết bị. Điều này phải được đảm bảo trong khuôn khổ của việc
+kiểm tra trực quan.
+
+* * *
+
+## 5.2 Lựa chọn menu và các chức năng trên màn hình cảm ứng F
+
+**QUAN TRỌNG!**
+
+Không chạm vào bề mặt màn hình cảm ứng bằng các vật có
+cạnh sắc hoặc bẩn, vì điều này có thể làm giảm chất lượng
+hình ảnh hoặc làm hỏng bề mặt.
+
+Với màn hình cảm ứng, người dùng có thể cài đặt các thông
+số vận hành của thiết bị.
+
+Khi thiết bị được bật, màn hình “MegaPulse Tower 30+” sẽ
+hiển thị.
+
+Sau khi hoàn thành quá trình chạy thử tự động (autotest),
+trên màn hình sẽ xuất hiện menu chính.
+
+* * *
+
+## 5.2.1 Menu chính
+
+01. Tiếp cận bề mặt điều khiển chùm tia chiếu
+    thử
+
+02. Giá trị xung năng lượng đã chọn
+
+03. Truy cập vào bảng điều khiển âm thanh
+
+04. Giá trị tần số xung đã chọn
+
+05. Chế độ hoạt động / quyền truy cập vào bảng
+    điều khiển chế độ
+
+06. Đường kính của sợi kết nối
+
+    / Truy cập vào bảng điều khiển sợi quang
+
+07. Truy cập vào menu con
+
+08. Giá trị công suất đầu ra
+
+09. Nút READY / STANDBY
+
+10. Cấu hình đã chọn
+
+    / Truy cập vào giao diện kiểm soát cấu
+    hình
+
+11. Thanh cài đặt tần số
+
+12. Vùng cho thông báo hệ thống
+
+13. Thanh điều chỉnh năng lượng
+
+
+* * *
+
+## 5.2.2 Thông tin sợi
+
+Nếu sợi quang không được kết nối với hệ thống
+laser, thông báo "No fiber attached" ("Không có
+sợi quang nào được gắn vào") sẽ xuất hiện trong
+vùng thông báo hệ thống _(“Màn hình chính”5.2.1 -_ _n.11)_.
+
+## Hệ thống RFID ACTIVE
+
+Nếu một sợi quang RFID Richard Wolf được kết
+nối với một hệ thống RFID đang hoạt động, hệ
+thống sẽ phát hiện loại và số lần sử dụng sợi
+quang trước đó.
+
+Khi hệ thống RFID phát hiện ra sợi quang, bảng
+thông tin về sợi quang sẽ được hiển thị.
+
+Nếu một sợi quang không được phê duyệt được
+kết nối với hệ thống RFID, sợi quang sẽ không
+được nhận dạng.
+
+Nếu một sợi quang hết hạn (sử dụng một lần/sử
+dụng nhiều lần) được kết nối với hệ thống laser,
+một thông báo lỗi sẽ xuất hiện.
+
+Sau khi chạm vào vùng hiển thị thông tin sợi
+quang _(“Màn hình chính” 5.2.1 - n.6),_ bảng thông
+tin sợi quang được hiển thị.
+
+* * *
+
+## 5.2.3 Cường độ/độ sáng của chùm chiếu thử
+
+Khi chạm vào biểu tượng laser chiếu thử _(“Màn_ _hình chính” 5.2.1 - n.1),_ bề mặt kiểm soát độ sáng
+xuất hiện.
+
+Nhấn các nút (-) hoặc (+) để thay đổi cường độ
+ánh sáng của chùm chiếu thử.
+
+Nhấn nút (2) để chuyển từ chế độ nhấp nháy
+sang chế độ liên tục.
+
+## 5.2.4 Cài đặt âm thanh
+
+## 5.2.5 Cài đặt ứng dụng
+
+Khi chạm vào biểu tượng âm thanh _(“Màn hình_ _chính” 5.2.1 - n.3)_ xuất hiện Nút âm thanh.
+
+Có thể thay đổi âm lượng bằng cách nhấn các
+nút (-) hoặc (+) bằng cách di chuyển thanh
+trượt (3).
+
+Có thể bật hoặc tắt âm báo tin nhắn bằng nút (4).
+Nút (5) được sử dụng để bật và tắt âm khi ấn
+phím.
+
+Với 'Esc', màn hình ở bên trái.
+
+Khi chạm vào vùng CHẾ ĐỘ\*(“Màn hình\*
+_chính” 5.2.1 - n.5)_ xuất hiện Nút Application
+MODE (Chế độ hoạt động các ứng dụng).
+
+Các ứng dụng sau (chế độ hoạt động) khả
+dụng:
+
+o **Stone Dusting (Nguyên tử đá)**
+
+o **Tán sỏi**
+
+o **Ablation (Cắt bỏ)**
+
+o **Đông lại**
+
+Nhấn vào chế độ mong muốn rồi nhấn OK để
+xác nhận ứng dụng đã chọn hoặc "Esc" để
+quay lại màn hình chính mà không thực hiện
+bất kỳ thay đổi nào.
+
+* * *
+
+## 5.2.6 Profile
+
+Khi chạm vào Profile Name Area _(“Màn hình chính”_ _5.2.1 - n.10),_ xuất hiện Nút cấu hình.
+
+Chọn cấu hình mong muốn. #Nếu có nhiều cấu
+hình được lưu, vui lòng sử dụng các nút cuộn ở
+bên cạnh.
+
+Trang trước
+
+Dòng trên
+
+Dòng dưới
+
+Trang tiếp theo
+
+Theo lựa chọn của bạn:
+
+1. Áp dụng cấu hình đã chọn
+
+2. Chỉnh sửa tên của cấu hình đã chọn
+
+3. Xóa cấu hình đã chọn
+
+4. Quay lại màn hình chính
+
+
+Một bàn phím xuất hiện để chỉnh sửa tên mới.
+
+Sự kết hợp cụ thể của tần số/năng lượng được
+lưu cho từng loại sợi quang trong cấu hình đã
+chọn.
+
+Hệ thống giao thức ( _"Giao thức" 5.3.3_) sử dụng
+cấu hình đã chọn để lưu dữ liệu điều trị.
+
+* * *
+
+## 5.2.7 Trạng thái laser Ready/Standby
+
+Nút Ready/Standby hiển thị trạng thái hiện tại của
+hệ thống laser.
+
+Nếu chạm vào khu vực nút " **Standby**" thiết bị laser
+sẽ chuyển về chế độ " **Ready**".
+
+Nếu chạm vào khu vực nút " **Ready**" thiết bị laser
+sẽ chuyển về chế độ " **Stanby**".
+
+Ở lần đầu tiên chuyển từ chế độ Standby sang
+Ready, màn hình thông tin an toàn sẽ xuất hiện.
+
+## QUAN TRỌNG!
+
+_Trước khi sử dụng lại tia laser, vui lòng đọc và_ _quan sát chương 3 - LẮP ĐẶT THIẾT BỊ VÀ AN_ _TOÀN LASER!_
+
+## CẢNH BÁO!
+
+Tất cả nhân viên trong môi trường làm việccủa laser phải đeo thiết bị bảo hộ thích hợp.
+
+Bằng cách chạm vào màn hình, bạn rời khỏi màn
+hình hiển thị thông tin (cảnh báo an toàn).
+
+Nếu sợi quang bị thiếu hoặc sợi quang không hợp
+lệ đã được lắp vào, thông báo lỗi sẽ xuất hiện khi
+chạm vào nút “Standby”.
+
+* * *
+
+## 5.3 Chức năng menu
+
+Các giá trị về năng lượng và tần số có thể được
+đặt trong giới hạn cho phép bằng các nút ( **+**) và ( **-**
+) hoặc thanh trượt.
+
+Các giá trị đã chọn được hiển thị.
+
+**5.3.2 Độ sáng (cường độ) laser thí điểm**
+
+## 5.3.1 Sợi
+
+Nếu thiết bị ở chế độ “Ready”, hệ thống laser sẽ
+gửi một chùm tia laser qua sợi quang được kết
+nối khi nhấn công tắc chân.
+
+**Trước khi thay đổi giá trị tần số hoặc xung** **năng lượng, hệ thống laser nên được chuyển** **sang chế độ chờ.**
+
+Các giá trị tần số/năng lượng được cung cấp
+được hiển thị trên màn hình.
+
+Khi chạm vào nút menu _(“Menu chính” 5.2.1 - n.7),_
+Menu con sẽ hiển thị.
+
+Các chức năng có sẵn như sau:
+
+• C ấu hình
+
+• Giao thức
+
+• S ợi
+
+• Độ sáng (cường độ) laser thí điểm
+
+• Th ông số thiết bị
+
+• Video
+
+Cũng có thể truy cập vào "Sợi quang", "Độ sáng
+laser thử nghiệm", "Cấu hình" bằng các phím tắt
+từ màn hình chính _("Màn hình chính" 5.2.1)_.
+
+Nhấn "Esc" để chuyển sang màn hình chính.
+
+_Xem phần 5.2.2 - Thông tin sợi_
+
+_Xem phần 5.2.3 - Cường độ/độ sáng của chùm_ _tia chiếu thử_
+
+49
+
+* * *
+
+## 5.3.3 Giao thức
+
+| Treatment: | 1 / 29 | Date: | 15.2.2012 / 10:42:43 |
+| --- | --- | --- | --- |
+| Profile | PIPPO |  |  |
+| Fiber: | 1000 um |  |  |
+| Total duration: | 30 |  |  |
+| Laser On Time: |  |  |  |
+| Total energy: | 9.0 J |  |  |
+| Pulse rate: | 3 |  |  |
+| Standby |  | Menu |  |
+
+Nhấn các nút lên hoặc xuống (lên hoặc
+xuống) để chọn một giao thức phù hợp.
+Các giá trị sau được lưu trữ cho mỗi giao
+thức:
+
+• S ố lần điều trị
+
+• C ấu hình đã sử dụng
+
+• S ợi đã sử dụng
+
+• T ổng thời gian
+
+• Th ời gian tia laser được bật
+
+• T ổng năng lượng
+
+## 5.3.4 Video
+
+• Nh ịp tim
+
+Hệ thống laser lưu 30 giao thức cuối cùng.
+
+## 5.3.5 Thông số thiết bị
+
+Bằng cách chọn các thông số thiết bị trong
+menu con _(Menu chức năng 5.3),_ khu vực thông
+số thiết bị sẽ được hiển thị.
+
+Các chức năng sau có sẵn:
+
+• D ịch vụ _(chỉ dành cho dịch vụ kỹ thuật)_
+
+• C ài đặt gốc
+
+• M àn hình hiển thị
+
+• Âm thanh
+
+• Th ông tin thiết bị
+
+• Ng ôn ngữ
+
+Nhấn "Esc" để chuyển sang màn hình chính.
+
+50
+
+* * *
+
+**Dịch vụ (chỉ dành cho dịch vụ kỹ thuật)**
+
+Nếu không có mật khẩu dịch vụ, bạn có thể truy
+cập màn hình chẩn đoán bằng cách nhấn nút
+"Chẩn đoán".
+
+Nhấn "Esc" để chuyển sang màn hình chính.
+
+Nhập mật khẩu để mở phần bảng thông tin dịch vụ.
+
+51
+
+* * *
+
+**Cài đặt gốc**
+\[Image: Im165\]
+
+Nhấn OK sẽ đặt lại hệ thống laser về cài
+đặt gốc.
+
+• Ng ôn ngữ
+
+Quá trình này thay đổi các thông số sau:
+
+**Màn hình hiển thị**
+\[Image: Im167\]
+
+• Âm thanh
+
+• C ấu hình
+
+• Độ sáng màn hình
+
+• Độ sáng (cường độ) laser thí điểm
+
+Nhấn "Esc" sẽ thoát khỏi menu mà không
+thực hiện bất kỳ thay đổi nào.
+
+Có thể thay đổi độ sáng màn hình bằng các
+nút (-) hoặc (+) hoặc thanh trượt (3)
+
+## Âm thanh
+
+Nhấn "Esc" sẽ thoát khỏi menu mà không
+thực hiện bất kỳ thay đổi nào.
+
+**Thông tin thiết bị**
+\[Image: Im166\]
+
+Xem phần 5.2.4 - Cài đặt âm thanh
+
+Màn hình thông tin thiết bị hiển thị các thông
+số sau:
+
+• S ố thiết bị
+
+• Phi ên bản phần mềm (Fw)
+
+• Phi ên bản phần mềm (Sw)
+
+• Phi ên bản phần cứng (S)
+
+• S ử dụng đèn nháy
+
+Nhấn "Esc" để chuyển sang màn hình chính.
+
+52
+
+* * *
+
+**Ngôn ngữ**
+\[Image: Im173\]
+
+Chọn ngôn ngữ mong muốn và xác nhận lựa chọn
+bằng OK.
+
+Thoát khỏi menu mà không thực hiện bất kỳ thay
+đổi nào bằng cách nhấn "Esc".
+
+**5.4 Thông số laser**
+
+Các bảng dưới đây cho biết công suất đầu ra laser tối đa trong mọi kết hợp có thể (công
+suất=năng lượng\*tần số).
+
+**Độ lớn của sợi laser phải được xem xét khi xác định giới hạn hiệu suất.**
+
+Thời lượng xung phụ thuộc vào chế độ hoạt động đã chọn. (Ví dụ: trong chế độ hoạt động “TÁN
+SỎI”, hệ thống laser chọn khoảng thời gian xung ngắn nhất có thể, tùy thuộc vào thông số năng
+lượng và tần số đã chọn.)
+
+Cài đặt công suất đầu ra (năng lượng / tần số) cho sợi laser có đường kính ≤ 272 μm bị hạn chế
+do đặc tính kỹ thuật của chúng (sợi 200 μm: tối đa 12 W và tối đa 12 Hz; sợi 272 μm: tối đa 15
+W).
+
+| 200μmsoi |  |  |  |  |  | TÁN SÔI |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 200mJ | 300mJ | 400mJ | 500mJ | 600mJ | 700mJ | 800mJ | 1J | 1,2J | 1,5J | 1,8J | 2J | 2,5J | 3J | 3,5J |
+| 3Hz |  |  |  | 1,5W | 1,8W | 2.1W | 2,4W | 3W | 3,6W | 4,5W | 5,4W | 6W |  |  |  |
+| 5Hz |  |  |  | 2,5W | 3W | 3,5W | 4W | 5W | 6W | 7,5W | 9W | 10W |  |  |  |
+| 8Hz |  |  |  | 4W | 4,8W | 5,6W | 6,4W | 8W | 9,6W | 12W |  |  |  |  |  |
+| 10Hz |  |  |  | 5W | 6W | 7W | 8W | 10W | 12W |  |  |  |  |  |  |
+| 12Hz |  |  |  | 6W | 7,2W | 8,4W | 9,6W | 12W |  |  |  |  |  |  |  |
+| 15Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 20Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 25Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+53
+
+* * *
+
+MEGA PULSE TOWER 30+
+
+| 200μm sosi |  |  |  |  |  | SUJCÄT BÔ |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 200mJ | 300mJ | 400mJ | 500mJ | 600mJ | 700mJ | 800mJ | 1J | 1,2J | 1,5J | 1,8J | 2J | 2,5J | 3J | 3,5J |  |
+| 3Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8Hz |  |  |  | 4W | 4,8W | 5,6W | 6,4W | 8W | 9,6W | 12W |  |  |  |  |  |  |
+| 10Hz |  |  |  | 5W | 6W | 7W | 8W | 10W | 12W |  |  |  |  |  |  |  |
+| 12Hz |  |  |  | 6W | 7,2W | 8,4W | 9,6W | 12W |  |  |  |  |  |  |  |  |
+| 15Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 20Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 25Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+**TÁN NHỎ SỎI / ĐÔNG LẠI**
+
+| 200μm sσi |  |  |  |  |  | TAN NHO SOI/DONG LAI |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 200mJ | 300mJ | 400mJ | 500mJ | 600mJ | 700mJ | 800mJ | 1J | 1,2J | 1,5J | 1,8J | 2J | 2,5J | 3J | 3,5J |  |
+| 3Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5Hz |  |  |  | 2,5W | 3W | 3,5W | 4W | 5W | 6W | 7,5W | 9W | 10W |  |  |  |  |
+| 8Hz |  |  |  | 4W | 4,8W | 5,6W | 6,4W | 8W | 9,6W | 12W |  |  |  |  |  |  |
+| 10Hz |  |  |  | 5W | 6W | 7W | 8W | 10W | 12W |  |  |  |  |  |  |  |
+| 12Hz |  |  |  | 6W | 7,2W | 8,4W | 9,6W | 12W |  |  |  |  |  |  |  |  |
+| 15Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 20Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 25Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 272μmsoi |  |  |  |  | TÁN SÔI |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 200mJ | 300mJ | 400mJ | 500mJ | 600mJ | 700mJ | 800mJ | 1J | 1,2J | 1,5J | 1,8J | 2J | 2,5J | 3J | 3,5J |
+| 3Hz |  |  |  | 1,5W | 1,8W | 2,1W | 2,4W | 3W | 3,6W | 4,5W | 5,4W | 6W | 7,5W | 9W | 10,5W |
+| 5Hz |  |  |  | 2,5W | 3W | 3,5W | 4W | 5W | 6W | 7,5W | 9W | 10W | 12,5W | 15W |  |
+| 8Hz |  |  |  | 4W | 4,8W | 5,6W | 6,4W | 8W | 9,6W | 12W | 14,4W |  |  |  |  |
+| 10Hz |  |  |  | 5W | 6W | 7W | 8W | 10W | 12W | 15W |  |  |  |  |  |
+| 12Hz |  |  |  | 6W | 7,2W | 8,4W | 9,6W | 12W | 14,4W |  |  |  |  |  |  |
+| 15Hz |  |  |  | 7,5W | 9W | 10,5W | 12W | 15W |  |  |  |  |  |  |  |
+| 20Hz |  |  |  | 10W |  |  |  |  |  |  |  |  |  |  |  |
+| 25Hz | 5W | 7,5W | 10W |  |  |  |  |  |  |  |  |  |  |  |  |
+
+54
+
+* * *
+
+MEGA PULSE TOWER 30+
+
+| 272μmsoi |  |  |  |  | SU CATB0 |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 200mJ | 300mJ | 400mJ | 500mJ | 600mJ | 700mJ | 800mJ | 1J | 1,2J | 1,5J | 1,8J | 2J | 2,5J | 3J | 3,5J |
+| 3Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8Hz |  |  |  | 4W | 4,8W | 5.6W | 6,4W | 8W | 9,6W | 12W | 14,4W |  |  |  |  |
+| 10Hz |  |  |  | 5W | 6W | 7W | 8W | 10W | 12W | 15W |  |  |  |  |  |
+| 12Hz |  |  |  | 6W | 7,2W | 8,4W | 9,6W | 12W | 14,4W |  |  |  |  |  |  |
+| 15Hz |  |  |  | 7,5W | 9W | 10,5W | 12W | 15W |  |  |  |  |  |  |  |
+| 20Hz |  |  |  | 10W |  |  |  |  |  |  |  |  |  |  |  |
+| 25Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 272μm sợi |  |  |  |  | TÁN NHỂ SÔI/DONG LẝI |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 200mJ | 300mJ | 400mJ | 500mJ | 600mJ | 700mJ | 800mJ | 1J | 1.2J | 1.5J | 1.8J | 2J | 2.5J | 3J | 3.5J |
+| 3Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5Hz |  |  |  | 2.5W | 3W | 3.5W | 4W | 5W | 6W | 7.5W | 9W | 10W | 12.5W | 15W |  |
+| 8Hz |  |  |  | 4W | 4.8W | 5.6W | 6.4W | 8W | 9.6W | 12W | 14.4W |  |  |  |  |
+| 10Hz |  |  |  | 5W | 6W | 7W | 8W | 10W | 12W | 15W |  |  |  |  |  |
+| 12Hz |  |  |  | 6W | 7.2W | 8.4W | 9.6W | 12W | 14.4W |  |  |  |  |  |  |
+| 15Hz |  |  |  | 7.5W | 9W | 10.5W | 12W | 15W |  |  |  |  |  |  |  |
+| 20Hz |  |  |  | 10W |  |  |  |  |  |  |  |  |  |  |  |
+| 25Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 365-550-800-1000μm sqi |  |  |  |  |  | TÁN SÔI |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 200mJ | 300mJ | 400mJ | 500mJ | 600mJ | 700mJ | 800mJ | 1J | 1,2J | 1,5J | 1,8J | 2J | 2,5J | 3J | 3,5J | 4J |
+| 3Hz |  |  |  | 1,5W | 1,8W | 2,1W | 2,4W | 3W | 3,6W | 4,5W | 5,4W | 6W | 7,5W | 9W | 10,5W |  |
+| 5Hz |  |  |  | 2,5W | 3W | 3,5W | 4W | 5W | 6W | 7,5W | 9W | 10W | 12,5W | 15W | 17,5W | 20W |
+| 8Hz |  |  |  | 4W | 4,8W | 5,6W | 6,4W | 8W | 9,6W | 12W | 14,4W | 16W | 20W | 24W |  |  |
+| 10Hz |  |  |  | 5W | 6W | 7W | 8W | 10W | 12W | 15W | 18W | 20W | 25W | 30W |  |  |
+| 12Hz |  |  |  | 6W | 7,2W | 8,4W | 9,6W | 12W | 14,4W | 18W | 21,6W | 24W | 30W |  |  |  |
+| 15Hz |  |  |  | 7,5W | 9W | 10,5W | 12W | 15W | 18W | 22,5W |  |  |  |  |  |  |
+| 20Hz |  |  |  | 10W |  |  |  |  |  |  |  |  |  |  |  |  |
+| 25Hz | 5W | 7,5W | 10W |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+55
+
+* * *
+
+| 365-550-800-1000μm sσi |  |  |  |  |  | SUJ CÄT BÔ |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 200mJ | 300mJ | 400mJ | 500mJ | 600mJ | 700mJ | 800mJ | 1J | 1,2J | 1,5J | 1,8J | 2J | 2,5J | 3J | 3,5J |
+| 3Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8Hz |  |  |  | 4W | 4,8W | 5,6W | 6,4W | 8W | 9,6W | 12W | 14,4W | 16W | 20W | 24W |  |
+| 10Hz |  |  |  | 5W | 6W | 7W | 8W | 10W | 12W | 15W | 18W | 20W | 25W | 30W |  |
+| 12Hz |  |  |  | 6W | 7,2W | 8,4W | 9,6W | 12W | 14,4W | 18W | 21,6W | 24W | 30W |  |  |
+| 15Hz |  |  |  | 7,5W | 9W | 10,5W | 12W | 15W | 18W | 22,5W |  |  |  |  |  |
+| 20Hz |  |  |  | 10W |  |  |  |  |  |  |  |  |  |  |  |
+| 25Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+| 365-550-800-1000μm sơi |  |  |  |  |  | TÁN NHỂ SÔI/ĐÔNG LẤI |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 200mJ | 300mJ | 400mJ | 500mJ | 600mJ | 700mJ | 800mJ | 1J | 1,2J | 1,5J | 1,8J | 2J | 2,5J | 3J | 3,5J |  |
+| 3Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 5Hz |  |  |  | 2.5W | 3W | 3.5W | 4W | 5W | 6W | 7.5W | 9W | 10W | 12.5W | 15W |  |  |
+| 8Hz |  |  |  | 4W | 4.8W | 5.6W | 6.4W | 8W | 9.6W | 12W | 14.4W | 16W | 20W |  |  |  |
+| 10Hz |  |  |  | 5W | 6W | 7W | 8W | 10W | 12W | 15W | 18W | 20W | 25W |  |  |  |
+| 12Hz |  |  |  | 6W | 7.2W | 8.4W | 9.6W | 12W | 14.4W | 18W | 21.6W | 24W |  |  |  |  |
+| 15Hz |  |  |  | 7.5W | 9W | 10.5W | 12W | 15W | 18W | 22.5W |  |  |  |  |  |  |
+| 20Hz |  |  |  | 10W |  |  |  |  |  |  |  |  |  |  |  |  |
+| 25Hz |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+56
+
+* * *
+
+## 5.5 Tắt hệ thống
+
+Để tắt hệ thống laser ở chế độ vận hành READY (sẵn sàng),
+hãy nhấn nút STANDBY và sau đó xoay công tắc phím có
+biểu tượng '\[Image: Im174\]' sang trái.
+
+Để ngắt hoàn toàn thiết bị khỏi nguồn điện, tắt công tắc chính ở
+phía sau của thiết bị.
+
+## CẢNH BÁO!
+
+Nếu hệ thống được tắt bằng cách xoay công tắc phím màtrước đó không chuyển sang chế độ STANDBY, các thôngsố làm việc của ứng dụng cuối cùng sẽ được đặt lại. Trongtrường hợp này, không bật lại thiết bị ngay lập tức mà hãyđợi cho đến khi tụ điện được xả hết.
+
+## 5.6 Bảo vệ chống lại việc sử dụng trái phép
+
+Không bao giờ để thiết bị trong tình trạng không có người
+giám sát khi nó đang được bật.
+
+Khi không sử dụng thiết bị laser, hãy luôn bảo vệ thiết bị khỏi
+bị sử dụng trái phép bằng cách rút chìa khóa ra khỏi công tắc
+phím.
+
+## 5.7 Mô tả cảnh báo
+
+Có các màn hình báo động như sau:
+
+• **Báo động bằng đèn nháy**: Đèn nháy không sáng. Vui
+lòng thông báo cho dịch vụ.
+
+• **Báo động khẩu độ**: Thiết bị khẩu độ hoạt động không
+bình thường. Vui lòng thông báo cho dịch vụ.
+
+• **Báo động nhiệt độ nước**: Nhiệt độ nước quá cao. Vui
+lòng thông báo cho dịch vụ.
+
+• **Báo động lưu lượng nước**: Lưu lượng nước trong hệ
+thống làm mát quá thấp. Kiểm tra mạch nước làm mát
+trong hệ thống làm mát và mực nước của hệ thống.
+Vui lòng kiểm tra xem đường truyền có bị gián đoạn
+hoặc bị chèn ép hay không. Nếu mực nước quá thấp,
+bình chứa nước của thiết bị phải được đổ đầy lại bằng
+chất làm mát mới.
+
+• **Báo động khóa liên động quang học**: Sợi laser
+không được kết nối hoặc kết nối không chính xác. Vui
+lòng loại bỏ sợi quang và cố gắng kết nối lại.
+
+• **Báo động khóa liên động bên ngoài**: Đầu nối khóa
+liên động không được kết nối đúng cách hoặc hoàn
+
+57 toàn không được kết nối. Báo động này được hiển thị
+ở chế độ "READY". Vui lòng kiểm tra kết nối khóa liên
+động.
+
+• **Báo động công tắc chân**: Công tắc chân không được
+kết nối hoặc kết nối không chính xác. Báo động này
+được hiển thị ở chế độ "READY". Vui lòng kiểm tra kết
+nối công tắc chân.
+
+• **Cảnh báo năng lượng:** Cảnh báo này được kích hoạt
+khi điốt quang gặp sự dao động năng lượng và biến
+mất khi mức năng lượng ổn định.
+
+## QUAN TRỌNG!
+
+Tất cả các báo động dừng thiết bị.
+
+## THẬN TRỌNG!
+
+**Việc sử dụng các thiết bị điều khiển hoặc thực hiện các** **điều chỉnh cũng như các quy trình khác sai với quy định** **trong tài liệu hướng dẫn này có thể dẫn đến phơi nhiễm** **tia laser nguy hiểm.**
+
+58
+
+* * *
+
+## 6 ỨNG DỤNG LÂM SÀNG
+
+## 6.1 Mục đích sử dụng theo quy định
+
+**Mega Pulse Tower 30+ là máy laser Holmium YAG được** **sử dụng trong các thủ thuật mổ nội soi, mổ mở để rạch,** **cắt bỏ, hóa hơi, đông lại và cầm máu mô mềm trong các** **chuyên khoa y tế sau: tiết niệu, tán sỏi tiết niệu, tiêu hóa,** **nội soi khớp, nội soi, tai mũi họng và phẫu thuật tổng** **quát kết hợp với dụng cụ nội soi.**
+
+**Đặc biệt trong lĩnh vực tán sỏi, nó được dùng để làm vỡ** **các bọng nước, sỏi niệu quản và sỏi thận. Tia laser cũng** **có thể được sử dụng để rạch các đường dẫn lưu và** **đường dẫn hẹp cũng như để loại bỏ hoặc làm hóa hơi các** **khối u nhỏ và u xơ.**
+
+Mega Pulse Tower 30+ thuộc loại laser 4 và phát ra bức xạ
+laser có bước sóng 2100 nm.
+
+Bước sóng đặc biệt này được truyền qua ống dẫn sóng sợi
+quang (sợi thủy tinh)và cho phép điều trị hiệu quả khi kết hợp
+với các thông số được chọn sẵn liên quan đến ứng dụng sao
+cho sự ảnh hưởng lên mô lân cận ở mức tối thiểu.
+
+## CẢNH BÁO!
+
+**Sự cố của sản phẩm trong quá trình sử dụng điều trị.** **Để sử dụng điều trị, nên có sẵn một sản phẩm tương** **đương thứ hai.**
+
+## THẬN TRỌNG!
+
+**Thiết bị này chỉ được sử dụng bởi nhân viên y tế có trình** **độ chuyên môn phù hợp đã qua đào tạo cũng như có kinh** **nghiệm trong các lĩnh vực sau:**
+
+**tiết niệu nội soi khớp, tiết niệu, tán sỏi tiết niệu, phẫu** **thuật tai mũi họng, phẫu thuật cắt bỏ, phẫu thuật tổng** **quát, phẫu thuật tiêu hóa.**
+
+59
+
+* * *
+
+## 6.1.1 Các thông số điều trị lâm sàng trong tán sỏi tiết niệu
+
+Các xét nghiệm tiền lâm sàng và lâm sàng đã chỉ ra rằng sỏi tiết niệu có thể được phân mảnh
+một cách an toàn và hiệu quả khi cài đặt công suất 0,5 hoặc 0,6 Joule và tần số 5 hoặc 6
+Hertz. Sử dụng các thiết lập đầu ra cao đòi hỏi sự chú ý đặc biệt để tránh thủng niệu quản, đặc
+biệt là khi đầu sợi gần với thành niệu quản.
+
+Để phân mảnh hiệu quả, đầu sợi quang phải tiếp xúc trực tiếp với sỏi. Năng lượng laser nên
+được hướng đến mặt bên của viên sỏi hoặc các điểm dễ bị phá vỡ trên viên sỏi nếu có thể.
+Viên sỏi nên được giảm dần kích thước bằng cách loại bỏ từ từ các mảnh vỡ nhỏ. Nên rửa liên
+tục để rửa trôi sỏi vụn và làm mát vị trí xử lý. Bảng sau đây sẽ chỉ rõ năng lượng xung được
+khuyến nghị, tần số lặp lại và công suất trung bình để nội soi tán sỏi tiết niệu. Nên tránh sử
+dụng các cài đặt công suất cao hơn, đặc biệt nếu đầu sợi quang ở gần thành niệu quản, vì
+điều này có thể dẫn đến thủng niệu quản.
+
+## Các loại sỏi trong tiết niệu
+
+Bước sóng Ho: YAG thích hợp để nội soi tán sỏi tiết niệu (niệu đạo, niệu quản, bàng quang và
+thận) có chứa cystine, monohydrate và calcium oxalate.
+
+_**Các thông số điều trị lâm sàng được khuyến nghị**_
+
+| Sử dụng | Năng luận xung(Joules/xung) | Tần số lấp lại(Hertz) | Hiệu suất trung binh(Watt) | Đường kinh sợi khuyến nghị |
+| --- | --- | --- | --- | --- |
+| Số bàng quang | 0,5-2 | 3-12 | 7-20 | 550-1000μm |
+| SốNiêu dảo | 0,5-1 | 3-20 | 3-15 | 272-550μm |
+| Sốthân | 0,5-1,2 | 5-12 | 3-15 | 200-272μm |
+| PCNL | 0,8-2,5 | 3-12 | 7-25 | 365-1000μm |
+
+## GHI CHÚ!
+
+_Các thông số laser chỉ mang tính chỉ thị. Luôn bắt đầu với_ _mức năng lượng thấp và sau đó tăng dần lên cho đến khi đạt_ _được hiệu quả mong muốn trên mô. Năng lượng được truyền_ _qua nội soi vào môi trường lỏng. Sử dụng chế độ vận hành_ _“Stone Dusting” để lấy những mảnh đá nhỏ nhất có thể._
+
+60
+
+* * *
+
+## 6.1.2 Các thông số điều trị lâm sàng trong tiết niệu
+
+Bước sóng Ho: YAG đảm bảo cầm máu hiệu quả mà không làm tổn thương các mô xung
+quanh. Quá trình đông lại có thể được thực hiện bằng cách giảm mật độ năng lượng hoặc
+công suất trên mô mạch máu theo hai cách.
+
+Bảng sau đây cho thấy năng lượng xung được khuyến nghị, tốc độ lặp lại và công suất trung
+bình để cắt bỏ nội soi, đốt hơi, cắt bỏ, rạch và đông lại mô mềm trong các ứng dụng tiết niệu.
+
+_**Tiết niệu - Các thông số lâm sàng được khuyến nghị để điều trị¹**_
+
+| Sử dụng | Năng lượng xung(Joules/xung) | Tần số lắp lại(Hertz) | Hiệu suất trung binh(Watt) | Đường kinh sqi khuyến nghị |
+| --- | --- | --- | --- | --- |
+| Khối u bài quang | 0,8-1,5 | 10-15 | 8-15 | 365-800μm |
+| Kh係u niêu quàn | 0,5-1,2 | 10-15 | 5-15 | 272-550μm |
+| Rạch đương hęp | 0,8-1,5 | 8-15 | 8-20 | 365-800μm |
+
+## GHI CHÚ!
+
+_Các thông số laser chỉ mang tính chỉ thị. Luôn bắt đầu với_ _mức năng lượng thấp và sau đó tăng dần lên cho đến khi đạt_ _được hiệu quả mong muốn trên mô._
+
+1 _Năng lượng được truyền qua nội soi vào môi trường lỏng._
+
+61
+
+* * *
+
+## 6.2 Cảnh báo chung, biện pháp an toàn và các biến chứng cần chú ý khi sử dụng bước sóng holmium
+
+Các cảnh báo, biện pháp an toàn và biến chứng sau đây áp dụng cho tất cả các chuyên khoa phẫu
+thuật được mô tả trong chương này. Thông tin quan trọng liên quan cụ thể đến một chuyên khoa phẫu
+thuật cụ thể, chẳng hạn như **khoa tiết niệu**, vui lòng đọc phần liên quan sau trong chương này.
+
+## 6.2.1 Cảnh báo chung về tia laser
+
+**Trước khi sử dụng hệ thống laser MegaPulse 30+ trong môi trường lâm sàng, bác sĩ** **hoặc bác sĩ phẫu thuật phải nắm rõ các hiệu ứng phẫu thuật và điều trị đặc biệt do bước** **sóng 2.1 µm tạo ra. Những tác động này bao gồm đông lại, độ sâu của sự xâm nhập và** **cường độ cắt.**
+
+**Cho đến khi bác sĩ phẫu thuật hoàn toàn nắm rõ với các tương tác sinh học của năng** **lượng laser với các loại mô khác nhau, nên lựa chọn cẩn thận cài đặt công suất (Watt)** **và thời gian sử dụng laser. Khi không có quy định khác trong phần ứng dụng cụ thể,** **bác sĩ phẫu thuật nên bắt đầu với cài đặt công suất thấp nhất và chỉ chiếu tia laser trong** **thời gian ngắn vào mô. Bác sĩ phẫu thuật phải quan sát cẩn thận hiệu quả phẫu thuật** **được tạo ra và thay đổi cài đặt laser cho đến khi đạt được hiệu quả phẫu thuật mong** **muốn.**
+
+Các cảnh báo và biện pháp an toàn sau đây áp dụng cho tất cả các chuyên khoa phẫu thuật có trong
+sách hướng dẫn này. Để biết các cảnh báo và biện pháp an toàn ứng dụng cụ thể, vui lòng tham
+khảo phần cụ thể dành cho chuyên khoa phẫu thuật.
+
+• Việc cài đặt điều trị không chính xác có thể dẫn đến tổn thương mô nghiêm trọng; do đó,
+bạn nên sử dụng các cài đặt điều trị thấp nhất có thể cho đến khi bạn quen thuộc với các
+khả năng của thiết bị.
+
+• Cho đến khi một người hoàn toàn biết và hiểu được tương tác sinh học giữa năng lượng
+laser và mô, người đó phải tiến hành cực kỳ cẩn thận.
+
+• Cũng như phẫu thuật nội soi thông thường, các biến chứng và tác dụng không mong muốn
+(như lạnh, sốt, phù, chảy máu, viêm, hoại tử mô hoặc nhiễm trùng) có thể xảy ra sau khi điều
+trị. Trong những trường hợp nghiêm trọng, các biến chứng liên quan đến kỹ thuật hoặc các
+bệnh nền sẵn có thể dẫn đến tử vong của bệnh nhân.
+
+• Có thể xảy ra hiện tượng xuất hiện ánh lửa. Không được sử dụng thuốc mê qua đường hô
+hấp dễ cháy. Hàm lượng oxy trực tiếp tại vết mổ không được vượt quá 50%. Bệnh nhân phải
+được thông báo đầy đủ về các nguy cơ lóe tia lửa, thủng và chảy máu do tia laser đều có thể
+dẫn đến tử vong.
+
+• Khi xử lý khu vực quanh hậu môn hoặc gần đó, phải tính đến khả năng dễ cháy của khí
+mêtan.
+
+• Bất kỳ quy trình phẫu thuật nào cũng có nguy cơ nhiễm trùng và để lại sẹo. Do đó phải luôn
+luôn tiến hành chăm sóc thích hợp trước và sau phẫu thuật.
+
+• Tia laser chỉ nên được kích hoạt trên mô nằm trong tầm nhìn của bác sĩ phẫu thuật. Không
+kích hoạt tia laser nếu không nhìn thấy mục tiêu mong muốn.
+
+• Việc sử dụng tia laser trên các cấu trúc giải phẫu gần các cấu trúc quan trọng như động mạch
+lớn, tĩnh mạch, ruột, niệu quản, bàng quang, v.v. phải được thực hiện hết sức cẩn thận để
+tránh điều trị không mong muốn đối với các cấu trúc đó.
+
+• Tăng nguy cơ tán xạ ngược (phản xạ) và tán xạ chuyển tiếp (xuyên qua) khi tia laser được
+sử dụng ở chế độ không tiếp xúc (tức là đầu sợi quang không chạm vào mô).
+
+• **Trước khi bật hệ thống laser, nhân viên phòng phẫu thuật và bệnh nhân dù tỉnh** **hay mê đều phải đeo kính bảo vệ mắt phù hợp với năng lượng laser 2.1µm.**
+
+• **Nếu sử dụng năng lượng laser quá cao, có thể xảy ra thủng mô. Điều này có thể** **xảy ra khi sử dụng công suất laser quá cao hoặc sử dụng đúng công suất quá** **lâu, đặc biệt là trên mô bị bệnh.**
+
+• **Bắt đầu điều trị bằng laser với công suất thấp nhất và chỉ áp dụng trong thời** **gian ngắn cho đến khi bạn hoàn toàn quen thuộc với tác động của bước sóng** **được áp dụng trên mô.**
+
+62
+
+* * *
+
+• **Cũng như các phương pháp phẫu thuật không dùng tia laser thông thường,** **không có gì đảm bảo rằng việc điều trị bằng hệ thống tia laser MegaPulse 30+** **sẽ loại bỏ hoàn toàn căn bệnh này. Do đó, có thể phải điều trị lặp lại hoặc các** **liệu pháp thay thế.**
+
+• **Trong trường hợp chảy máu nhiều, tia laser có thể không giúp đông lại. Bác sĩ** **phẫu thuật phải chuẩn bị sẵn sàng để cầm máu bằng các thủ thuật thay thế** **không dùng laser, chẳng hạn như chỉ buộc hoặc thuốc đốt.**
+
+• **Có thể cần phải thay đổi cách tiếp cận hoặc quy trình phẫu thuật để kết hợp việc** **sử dụng tia laser vào quy trình.**
+
+• **Các cài đặt kết quả được khuyến nghị ít quan trọng hơn hiệu quả thực tế có thể** **nhìn thấy trên mô. Những thay đổi về kết cấu và màu sắc của mô là những dấu** **hiệu tốt nhất cho thấy tia laser đang ảnh hưởng đến vùng được nhắm đến như** **thế nào. Các cài đặt cụ thể cho phát xạ laser phụ thuộc vào mô và được quyết** **định bới bác sĩ phẫu thuật và chỉ định y tế tốt nhất.**
+
+\[Image: Im178\]
+
+Hệ thống laser này là một thiết bị phẫu thuật chỉ có thể được sử dụng bởi các bác sĩhoặc bác sỹ phẫu thuật đã được đào tạo về sử dụng laser trong các khóa học, dưới sựchỉ đạo và dẫn dắt bởi các bác sĩ hoặc bác sỹ phẫu thuật khác. Không thể khẳng địnhrằng việc điều trị bệnh bằng laser sẽ đảm bảo thành công.
+
+## CẢNH BÁO!
+
+Mật độ năng lượng khác nhau dẫn đến các hiệu ứng khác nhau trên mô. Việc sử dụngcác sợi laser có đường kính khác nhau với cùng công suất phát ra có thể đạt được cáckết quả khác nhau trên mô được chiếu xạ. Công suất laser được sử dụng khi thiết lậpcũng phải tính đến đường kính sợi quang.
+
+63
+
+* * *
+
+## 6.2.2 Những biện pháp an toàn chung khi sử dụng hệ thống laser
+
+## THẬN TRỌNG!
+
+‐ **Đặc biệt, những bệnh nhân đã từng gặp vấn đề với quy trình nội soi trước đây cần** **được điều trị cực kỳ cẩn thận.**
+
+‐ **Các mạch máu có đường kính tới 1 mm có thể dễ dàng đông lại bằng bước sóng** **Ho: YAG.**
+
+‐ **Đốt điện hoặc tạo đường khâu (nối) phải nhanh chóng và dễ dàng trong trường** **hợp động mạch hoặc tĩnh mạch chảy máu có đường kính lớn hơn mức có thể được** **đông máu bằng tia laser.**
+
+‐ **Cần đặc biệt thận trọng khi điều trị cho bệnh nhân vừa mới xạ trị. Những bệnh** **nhân này có nguy cơ bị thủng hoặc bào mòn mô cao hơn.**
+
+‐ **Điều trị bằng laser nên được ngừng ngay lập tức nếu bệnh nhân phát sinh bất kỳ** **vấn đề gì về tim phổi.**
+
+‐ **Công ty TNHH Richard Wolf không có thông tin lâm sàng về sự an toàn của điều** **trị bằng laser ở phụ nữ có thai hoặc đang cho con bú.**
+
+‐ **Vui lòng làm theo hướng dẫn đối với hệ thống điều khiển thích hợp (sợi laser).**
+
+## 6.2.3 Các biến chứng chung của phẫu thuật laser
+
+- C ác biến chứng tiềm ẩn được xác định trong phẫu thuật laser nội soi đồng nhất với
+  những biến chứng được xác định trong các thủ tục nội soi thông thường.
+
+- C ó khả năng bệnh nhân sẽ bị đau cấp tính ngay sau khi điều trị bằng laser, có thể kéo
+  dài đến 48 giờ.
+
+- Ngay sau liệu pháp với laser, bệnh nhân có thể bị sốt và tăng bạch cầu, thường có thể
+  liên quan đến sự phá hủy mô. Nói chung, các triệu chứng này giảm dần mà không cần
+  bất kỳ liệu pháp nào.
+
+- C ó khả năng khu vực được điều trị bằng cách cắt đốt bằng laser có thể bị chết hoặc bị
+  nhiễm trùng sau khi ngừng điều trị. Nếu có khả năng nhiễm trùng, cần tiến hành điều
+  trị thích hợp.
+
+
+-Đặc biệt, những bệnh nhân đã từng gặp vấn đề với quy trình nội soi trước đây cần
+được điều trị cực kỳ cẩn thận.
+
+- C ác mạch máu có đường kính lên đến 1 mm có thể dễ dàng đông lại bằng cách sử
+  dụng bước sóng Ho: YAG
+
+- Trong trường hợp tia laser không đủ để cầm máu động mạch hoặc tĩnh mạch đang
+  chảy máu, cần chuẩn bị sẵn sàng máy đốt điện hoặc chỉ khâu (trong trường hợp cần
+  buộc dây).
+
+- C ần đặc biệt thận trọng khi điều trị cho bệnh nhân vừa mới xạ trị. Những bệnh nhân
+  này có nguy cơ bị thủng hoặc bào mòn mô cao hơn.
+
+- Ng ừng ngay việc điều trị bằng laser nếu bệnh nhân xuất hiện các triệu chứng về tim
+  phổi.
+
+- C ông ty TNHH Richard Wolf không có bất kỳ thông tin lâm sàng nào liên quan đến sự
+  an toàn của điều trị bằng laser ở bệnh nhân mang thai hoặc cho con bú.
+
+
+## Các biến chứng sau đây có thể dẫn đến các vấn đề sức khỏe nghiêm trọng hoặc tử vong:
+
+- Ch ảy máu có thể xảy ra ở khu vực điều trị bằng laser. Để tránh các biến chứng, nên
+  kiểm tra giá trị hemocrit sau khi làm thủ thuật.
+
+64
+
+* * *
+
+- M ọi thủ thuật phẫu thuật đều có nguy cơ nhiễm trùng huyết. Nếu có khả năng nhiễm
+  trùng huyết, cần tiến hành các xét nghiệm thích hợp.
+
+- Sau khi kết thúc điều trị bằng laser, có thể xảy ra hiện tượng thủng mô. Để chẩn đoán
+  lỗ thủng, bệnh nhân cần được khám theo dõi cẩn thận với các xét nghiệm thích hợp
+  sau phẫu thuật.
+
+- Kh ông nên sử dụng tia laser trên bệnh nhân có sử dụng máy tạo nhịp tim.
+
+
+## 6.2.4 Biến chứng đối với nội soi niệu quản (URS)
+
+Các biến chứng nhỏ bao gồm sốt, tiểu máu toàn bộ và đau. Trong các tài liệu y văn có ghi
+nhận tỷ lệ biến chứng đáng kể (nhiễm trùng huyết, thủng niệu quản hoặc cắt đứt niệu quản
+là 3-11%).
+
+Chậm (nghẹt) đường tiết niệu là một biến chứng lâu dài được ước tính khoảng 1-3 %. Các
+lỗ thủng niệu quản trước đây là yếu tố nguy cơ chính.
+
+## 6.2.5 Các biến chứng của Nephrolitholapaxy qua da (PCNL)
+
+Các biến chứng sau đây là điển hình:
+
+- S ốt, nhiễm trùng huyết;
+
+- Ch ảy máu cần truyền máu
+
+- S ự hấp thụ của chất lỏng xả;
+
+- Th ủng ruột;
+
+- T ổn thương màng phổi;
+
+- H ẹp niệu quản
+
+- Suy thận;
+
+
+-Bản sửa đổi mở.
+
+## 6.2.6 Các biến chứng trong tiết niệu
+
+## THẬN TRỌNG!
+
+**Khi sử dụng laser nội soi, hãy đảm bảo rằng bàng quang không bị giãn căng quá** **mức. Bàng quang căng quá mức có thể dẫn đến hoại tử đông máu của các vùng cơ** **bề mặt và bên trong của thành bàng quang.**
+
+Tham khảo phần Các biến chứng chung của Ứng dụng Laser để biết thêm các biến chứng
+khác.
+
+## 6.2.7 Biến chứng của tán sỏi niệu quản
+
+Cũng như các thủ thuật tiết niệu khác, điều trị bằng laser có thể gây rò rỉ nước tiểu.
+
+- Vi ệc sử dụng ống nội soi mềm cũng liên quan đến tỷ lệ hẹp tương ứng; những giá trị
+  này có thể cải thiện nhờ những tối ưu hóa trong tương lai khi có sự phát triển của ống
+  soi niệu quản.
+
+- Trong một số trường hợp hiếm hoi, một quả thận có thể bị mất do thủ thuật hoặc do sỏi.
+
+- Tham khảo phần Các biến chứng chung của Ứng dụng Laser để biết thêm các biến
+  chứng khác.
+
+
+## 6.2.8 Các biên pháp an toàn khi tán sỏi niệu quản
+
+- Nên sử dụng tia laser với hệ thống dẫn sáng theo đường ngắm và tiếp xúc trực tiếp với
+  sỏi mục tiêu. Để giảm thiểu nguy cơ sỏi di chuyển vào trong niệu quản, năng lượng laser
+  nên được hướng vào mặt bên của viên sỏi chứ không phải cạnh đầu, nếu có thể. Duy trì
+
+65 mức năng lượng thấp và tỷ lệ lặp lại sẽ làm giảm khả năng di chuyển của sỏi có thể xảy
+ra.
+
+- Chú ý các nếp biểu mô phù nề có thể nằm giữa sợi quang và sỏi.
+
+- Rọ lấy sỏi có thể được sử dụng trên các mảnh sỏi lớn hơn, tương đối cứng hoặc có xu
+  hướng thoát ngược trong niệu quản. Việc sử dụng ống nội soi trong các thủ thuật laser
+  cho phép tạo ra tầm ngắm tuyệt vời và giảm thiểu chấn thương cho niệu quản trong quá
+  trình phân mảnh.
+
+- Rọ, dây dẫn hướng và các phụ kiện nội soi niệu quản khác có thể bị hỏng do tiếp xúc trực
+  tiếp với chùm tia laser điều trị.
+
+- Trong suốt quá trình tán sỏi, nên sử dụng bơm rửa để hấp thụ nhiệt sinh ra, di chuyển các
+  mảnh sỏi ra khỏi hệ tiết niệu và cải thiện hình ảnh trực tiếp. Hiệu suất rửa cần được điều
+  chỉnh cẩn thận để tránh sỏi chảy vào thận.
+
+
+## 6.2.9 Các biến chứng của phẫu thuật tai mũi họng
+
+Sưng màng mũi có thể làm tắc nghẽn đường thở trong mũi đến một tuần. Sau khi điều trị,
+bệnh nhân phải được thăm dò lại để loại bỏ bất kỳ mảnh vụn mô nào trong khoang mũi.
+
+- K ết quả của điều trị bằng laser, hốc mắt hoặc khoang nội sọ có thể bị đục. Để làm rõ lỗ
+  thủng, bệnh nhân phải được thăm khám cẩn thận bằng các xét nghiệm phù hợp sau khi
+  điều trị.
+
+- Tham khảo phần Các biến chứng chung của Ứng dụng Laser để biết thêm các biến
+  chứng khác.
+
+
+66
+
+* * *
+
+## 6.2.10 Các biến chứng trong phẫu thuật tổng quát
+
+Tham khảo phần Các biến chứng chung của Ứng dụng Laser để biết thêm các biến chứng
+khác.
+
+## 6.2.11 Biến chứng tiêu hóa
+
+-Ở một số bệnh nhân, căng tức đường tiêu hóa hoặc tràn khí màng phổi có thể xảy ra
+trong hoặc sau khi điều trị.
+
+- Do phù nề mô thứ phát, tình hình có thể xấu đi thay vì cải thiện ngay lập tức khi tiếp
+  nhận thức ăn vào thực quản. Bệnh nhân phải được giải thích rõ về những vấn đề tiềm
+  ẩn này trước khi điều trị.
+
+- Tham khảo phần Các biến chứng chung của Ứng dụng Laser để biết thêm các biến
+  chứng khác.
+
+
+## 6.2.12 Các biến chứng nội soi khớp
+
+Tham khảo phần Các biến chứng chung của Ứng dụng Laser để biết thêm các biến chứng
+khác.
+
+67
+
+* * *
+
+## 6.3 Chống chỉ định
+
+## 6.3.1 Chống chỉ định nội soi niệu quản (URS)
+
+- Xu h ướng chảy máu cấp tính, điều trị chống đông máu;
+
+- Nhi ễm trùng đường tiết niệu không được điều trị.
+
+
+## Khó tiếp cận sỏi do:
+
+o h ẹp niệu quản;
+
+o U tuyến tiền liệt;
+
+o Di lệch đường tiết niệu (ống dẫn nước tiểu, túi tinh, túi hồi tràng, đường tiết niệu
+lệch qua các đoạn ruột);
+
+o C ấy một niệu quản mới;
+
+o Nang niệu quản;
+
+o H ẹp niệu quản
+
+## 6.3.2 Chống chỉ định đối với nephrolitholapaxy qua da (PCNL):
+
+- Xu h ướng chảy máu cấp tính, điều trị chống đông máu;
+
+- Nhi ễm trùng đường tiết niệu không được điều trị.
+
+- Kh ối u trong khu vực tiếp cận;
+
+- C ó thai
+
+
+## Khó tiếp cận sỏi do:
+
+o B ất thường về xương;
+
+o B ất thường về thận;
+
+o L ồng ruột;
+
+o Tr àn dịch màng phổi.
+
+## 6.3.3 Chống chỉ định với tiết niệu
+
+Bước sóng Ho: YAG không được sử dụng cho những bệnh nhân:
+
+- kh ông thích hợp để điều trị nội soi;
+
+- kh ông dung nạp với thuốc gây mê;
+
+
+## 6.3.4 Chống chỉ định tán sỏi niệu quản
+
+Bước sóng Ho: YAG không được sử dụng cho những bệnh nhân:
+
+- kh ông thích hợp để điều trị nội soi;
+
+- kh ông dung nạp với thuốc gây mê;
+
+
+68
+
+* * *
+
+## 6.3.5 Chống chỉ định phẫu thuật tai mũi họng
+
+Bước sóng Ho: YAG không nên được sử dụng ở những bệnh nhân:
+
+- kh ông thích hợp để điều trị nội soi;
+
+- Ung thư nội sinh ác tính.
+
+
+## 6.3.6 Chống chỉ định phẫu thuật tổng quát
+
+Bước sóng Ho: YAG không được sử dụng cho những bệnh nhân:
+
+- kh ông thích hợp để điều trị nội soi;
+
+- kh ông dung nạp với thuốc gây mê;
+
+- b ị viêm phúc mạc nhiễm trùng
+
+- b ị tắc ruột.
+
+- b ị sốc nhiễm trùng;
+
+- trong trường hợp cắt bỏ các cơ quan được cung cấp nhiều máu (lá lách, gan).
+
+
+## 6.3.7 Chống chỉ định cho khoa tiêu hóa
+
+Bước sóng Ho: YAG không nên được sử dụng ở những bệnh nhân:
+
+- kh ông thích hợp để điều trị nội soi;
+
+- kh ông dung nạp với thuốc gây mê;
+
+- b ị tắc ruột.
+
+
+## 6.3.8 Chống chỉ định nội soi khớp
+
+Tham khảo phần Chống chỉ định chung cho Phẫu thuật bằng Laser ở phần trước trong
+chương này để biết thêm thông tin.
+
+69
+
+* * *
+
+## 7 TÁI XỬ LÝ VÀ BẢO TRÌ
+
+## 7.1 Tái xử lýị MEGA PULSE TOWER 30+ và các phụ kiện của nó CẢNH BÁO!
+
+Đảm bảo rằng không có hơi ẩm xâm nhập vào thiết bị **.**
+
+Nguy cơ điện giật.
+
+Tắt thiết bị và ngắt kết nối với nguồn điện trước khi tái xử lý **.**
+
+## QUAN TRỌNG!
+
+_Việc sử dụng các chất diệt khuẩn bề mặt không được nhà sản_ _xuất chỉ định cho các sản phẩm y tế có thể làm hỏng bề mặt của_ _thiết bị_.
+
+_**GHI CHÚ!**_
+
+_Các hóa chất được phê duyệt liên quan đến khả năng tương thích của_ _vật liệu để tái xử lý các sản phẩm của Richard Wolf được liệt kê trong_ _tài liệu GA-J055. Tài liệu này có thể được yêu cầu từ công ty TNHH_ _Richard Wolf hoặc tải xuống từ trang web của chúng tôi._
+
+## Richard Wolf trên Internet
+
+[www.richard-wolf.com/loesungen/aufbereitung/](http://www.richard-wolf.com/loesungen/aufbereitung/)
+
+Làm sạch/diệt khuẩn bề mặt của thiết bị sau khi sử dụng bằng chất diệt khuẩn bề mặt. Thông tin do
+nhà sản xuất hóa chất cung cấp phải được tuân thủ.
+
+Chỉ các chất diệt khuẩn bề mặt được chấp thuận cho các sản phẩm y tế mới được sử dụng.
+
+Ví dụ về các thành phần hoạt tính phù hợp:
+
+• Propanol
+
+• Ethanol
+
+• Didecyldimetylamoni clorua
+
+• Dimethylbenzylammoni clorua
+
+Ví dụ về các chất diệt khuẩn bề mặt phù hợp và đã được phê duyệt:
+
+| Nhà sân xuát | Tên trường mãi | Thành phàn hoẑt chât |
+| --- | --- | --- |
+| BODE Chemie, Hamburg | Bacillol®AF | Propanol/Ethanol |
+| B. Braun, Melsungen | Meliseptol®nhaqy câm | Propanol/didecyldimethylamoni clorua, chât hoẑt dông bè mǎt khòng ion |
+| Ecolab, Düsseldorf | Incidin™Khăn tàm côn | Propanol |
+| Schülke, Đức | antifect®N liquid | Propanol/Ethanol |
+| Schülke, Đức | Pursept®A Xpress | Ethanol |
+| Schülke, Đức | Microcide®chât lông nhaqy câm | Didecyldimethylamoni clorua,dimetylbenzylamoni clorua |
+
+## Tái xử lý bảng điều khiển và màn hình
+
+Tuân thủ thông tin do nhà sản xuất bảng điều khiển và màn hình cũng như nhà sản xuất chất diệt
+khuẩn cung cấp.
+
+70
+
+* * *
+
+## 7.2 Tái xử lý sợi laser
+
+## CẢNH BÁO!
+
+Đối với sản phẩm sử dụng một lần thì không được phép tá **i** sử dụng.
+
+Sản phẩm chỉ dùng một lần đã được vô trùng không đượcphép sử dụng khi:
+
+o Bao bì sản phẩm bị hư hỏng
+
+o Vượt quá hạn sử dụng
+
+Máy Laser được trang bị một hệ thống nhận dạng ngăn chặn
+việc tái sử dụng các sợi laser sử dụng một lần. Nếu người dùng
+cố gắng khử trùng sợi laser sử dụng một lần đã bị nhiễm bẩn
+nhưng chưa được sử dụng, hệ thống laser sẽ không thể phát
+hiện bất kỳ lần sử dụng nào trước đó. Đây là một sự vi phạm rõ
+ràng đối với các quy trình được nêu trong sách hướng dẫn này.
+
+## QUAN TRỌNG!
+
+Việc tiền xử lý, làm sạch và diệt khuẩn sợi laser phải được thực
+hiện bằng tay (quy trình làm sạch tự động có thể làm hỏng sợi
+laser).
+
+71
+
+* * *
+
+## 7.2.1 Tiền xử lý
+
+Để tránh làm nhiễm bẩn đầu nối sợi laser trong quá trình làm
+sạch, diệt khuẩn và khử trùng, hãy đặt vỏ bọc bảo vệ lên giá đỡ
+sợi quang ngay sau khi tháo sợi laser khỏi thiết bị laser.
+
+Ngay sau khi sử dụng (trong vòng 2 giờ), loại bỏ bụi bẩn khỏi
+dụng cụ bằng cách sử dụng nước chảy và dung dịch diệt khuẩn.
+Đầu nối sợi quang laser phải được rửa sạch trong ít nhất một
+phút. Chất diệt khuẩn không được chứa bất kỳ aldehyde nào (để
+ngăn máu dính vào dụng cụ hoặc sợi laser), chất diệt khuẩn phải
+được kiểm tra tính hiệu quả (phải có nhãn VAH/DGHM hoặc có
+sự chấp thuận của FDA hoặc nhãn CE) để diệt khuẩn dụng cụ và
+tương thích với dụng cụ (vui lòng tham khảo phần "Độ bền vật
+liệu").
+
+Luôn sử dụng một miếng vải mềm, đặc biệt sạch để loại bỏ bụi
+bẩn - không bao giờ dùng bàn chải hoặc len kim loại. Sau khi
+làm sạch sợi laser, cuộn sợi quang thành vòng (xem bên dưới để
+biết bán kính uốn cho phép) và quấn các đầu xung quanh vòng
+quấn hai hoặc ba lần và do đó cố định nó để ngăn sợi laser
+không cuộn.
+
+## QUAN TRỌNG!
+
+Bán kính cong tối thiểu là từ 5 đến 15 cm, tùy thuộc vào loại sợi
+(sợi có 200, 272 mm = 5 cm, sợi có 365 mm = 7,5 cm, sợi có
+550, 800 mm = 10 cm, sợi có 1000 mm = 15 cm).
+
+$$
+3 6 5 \\mu \\mathrm {m} = 7, 5
+$$
+
+$$
+8 0 0 \\mu \\mathrm {m} = 1 0
+$$
+
+$$
+1 0 0 0 \\mu m = 1 5 c m)
+$$
+
+Ngoài ra khi bảo quản sợi laser, không được làm giảm bán kính
+uốn.
+
+Việc diệt khuẩn trước đó chỉ nhằm mục đích bảo vệ những người
+có trách nhiệm và không có cách nào thay thế cho các bước diệt
+khuẩn tiếp theo sau khi làm sạch.
+
+Trong trường hợp điều trị trước được thực hiện trực tiếp trong
+phòng phẫu thuật, phải tuân thủ những điều sau:
+
+• S ợi laser phải được bảo vệ bằng cách gắn vỏ bọc bảo vệ.
+
+• Cu ộn sợi laser và quấn các đầu mút xung quanh vòng cuộn
+hai hoặc ba lần.
+
+• L ưu ý bán kính uốn của sợi laser.
+
+72
+
+* * *
+
+## 7.2.2 Kiểm soát và chuẩn bị sợi laser
+
+Kiểm tra mặt cuối cùng (mặt khớp nối, mặt kết nối) bằng kính
+hiển vi hoặc kính lúp thích hợp.
+
+Bề mặt trước phải không có vết xước, vụn, không bị biến dạng,
+thay đổi màu sắc và các hạt bụi bẩn. Không được phép tiếp tục
+sử dụng thiết khi có các khiếm khuyết để tránh làm hỏng sợi
+laser hoặc thiết bị laser. Trong trường hợp như vậy, không tiếp
+tục sử dụng sợi laser.
+
+Kiểm tra đầu mút của sợi bằng kính hiển vi hoặc kính lúp thích
+hợp. Đầu mút của sợi phải không có vết xước, mảnh vụn, biến
+dạng, thay đổi màu sắc và các hạt bụi bẩn.
+
+Nếu cần thiết, một thử nghiệm laser sẽ được thực hiện để kiểm
+tra chất lượng của mẫu chùm tia. Các yêu cầu từ phần _Xử lý các_ _sợi laser (chương 4.9)_ phải được xem xét.
+
+Nếu cần, đầu mút phải được chuẩn bị lại như mô tả trong phần
+4.9.
+
+## 7.2.3 Làm sạch và diệt khuẩn thủ công
+
+Khi chọn chất làm sạch và chất diệt khuẩn, hãy đảm bảo rằng:
+
+• c ác chất thích hợp để làm sạch hoặc diệt khuẩn dụng cụ
+làm bằng kim loại hoặc nhựa.
+
+• c ác chất thích hợp để làm sạch bằng sóng siêu âm
+(không tạo bọt).
+
+• ch ất diệt khuẩn đã được kiểm tra về tính hiệu quả và
+tương thích với chất tẩy rửa đã sử dụng trước đó.
+
+• c ác chất tương thích với dụng cụ.
+
+Nếu có thể, tránh sử dụng kết hợp các thành phần hoạt tính để
+làm sạch và diệt khuẩn. Cách chỉ nên được sử dụng nếu có ít ô
+nhiễm (không nhìn thấy bụi bẩn). Tuân thủ nồng độ và thời gian
+lưu lại do nhà sản xuất chất tẩy rửa và diệt khuẩn quy định.
+
+Để làm sạch sợi laser, vui lòng làm theo các bước dưới đây:
+
+1. Đặt từng sợi laser đã cuộn lại vào một giỏ tái xử lý có
+   đường kính vừa đủ. Đảm bảo rằng đầu sợi không bị hỏng
+   do giỏ tái xử lý.
+
+2. Đặt giỏ tái xử lý với sợi laser trong thời gian xử lý đã chỉ
+   định trong bể làm sạch sao cho sợi được bao phủ đủ
+   (nếu cần, sử dụng bộ đỡ được cung cấp cho
+
+
+xử lý siêu âm).
+
+3. Sau đó, lấy giỏ tái xử lý với sợi laser ra khỏi bể làm sạch
+   và rửa kỹ bằng nước ít nhất ba lần.
+
+4. Kiểm tra sợi laser (xem phần 7.2.2 Kiểm tra và chuẩn bị
+   sợi laser).
+
+
+Tiến hành như sau để diệt khuẩn sợi laser:
+
+73
+
+* * *
+
+5. Đặt giỏ tái xử lý với sợi laser trong thời gian xử lý đã quy
+   định trong bể diệt khuẩn sao cho sợi laser được bao phủ
+   đầy đủ.
+
+6. Sau đó, lấy giỏ tái xử lý với sợi laser ra khỏi bể diệt
+   khuẩn và rửa kỹ bằng nước ít nhất năm lần.
+
+7. Sử dụng không khí đã được lọc, thổi khô sợi laser từ
+   trong ra ngoài.
+
+8. Tiến hành bước tiếp theo ( _Kiểm tra lần cuối và đóng gói_)
+   sớm nhất có thể.
+
+
+## 7.2.4 Kiểm tra lần cuối và đóng gói
+
+Trước khi đóng gói sợi laser, hãy kiểm tra xem nó có dấu vết của
+bụi bẩn, ăn mòn trên đầu nối, hư hỏng hoặc vết nứt trên vỏ bảo
+vệ hay không. Không sử dụng các sợi laser bị hư hỏng. Một sợi
+laser bị bẩn phải được làm sạch và diệt khuẩn một lần nữa.
+Việc kiểm tra lần cuối phải đảm bảo rằng đầu mút không bị hư
+hại trong quá trình làm sạch và diệt khuẩn. Nếu đầu mút bị hỏng,
+tất cả các bước dưới đây sẽ phải được thực hiện lặp lại _Tái xử lý -_ _kiểm tra và chuẩn bị sợi laser_. Quá trình làm sạch và diệt khuẩn
+sau đó cũng phải được lặp lại.
+
+Tia laser không cần bôi trơn - không sử dụng dầu.
+
+Sau khi hoàn thành việc kiểm tra cuối cùng cho kết quả tích cực,
+đặt sợi laser (đã được bao bọc) trong một vỏ bọc đủ lớn dùng
+một lần (bao bì đơn hoặc kép) và thực hiện khử trùng bằng hơi
+nước theo tiêu chuẩn EN ISO 11607-1:2009.
+
+74
+
+* * *
+
+## 7.2.5 Khử trùng
+
+Sợi laser sử dụng nhiều lần đã được phát triển và thử nghiệm
+cho quy trình khử trùng bằng hơi nước. Các phương pháp khử
+trùng khác không được phép.
+
+## 7.2.6 Các thông số khử trùng
+
+CẢNH BÁO!
+
+KHÔNG ĐƯỢC PHÉP khử trùng qua loa.
+
+## CẢNH BÁO!
+
+KHÔNG ĐƯỢC PHÉP tiến hành quy trình khử trùng bằngkhông khí nóng bằng cách sử dụng bức xạ, formaldehydehoặc ethylene oxide hoặc khử trùng bằng huyết tương.
+
+## CẢNH BÁO!
+
+Các thông số liệt kê dưới đây đã được xác nhận là PHÙ HỢPcho việc khử trùng và tái sử dụng sợi quang. Khách hàng cótrách nhiệm đảm bảo rằng việc khử trùng ở dạng thực tếđược thực hiện với thiết bị, vật liệu và nhân viên phù hợpcủa thiết bị tái xử lý sao cho đạt được kết quả cần thiết.Điều này thông thường đòi hỏi sự thẩm định và giám sát cóhệ thống trong suốt quá trình.
+
+* * *
+
+## 7.2.7 Các thông số khử trùng đã được xác nhận đối với khửtrùng bằng hơi nước
+
+• M áy tiệt trùng bằng hơi nước theo tiêu chuẩn EN
+13060:2004+A2:2010 (ANSI/AAMI ST 55:2010 cho Hoa Kỳ)
+và/hoặc EN 285:2006+A2:2009 (ANSI/AAMI ST 8:2008 cho
+Hoa Kỳ);
+
+• Quy trình được kiểm chứng theo tiêu chuẩn EN ISO
+17665:2006;
+
+• Nhiệt độ khử trùng tối đa 138°C (280°F) (cộng với dung sai
+theo tiêu chuẩn EN ISO 17665:2006);
+
+• Th ời gian khử trùng (khoảng thời gian sản phẩm được khử
+trùng tiếp xúc với nhiệt độ khử trùng) 5 phút ở 134°C (273°F).
+
+Sau khi khử trùng, bảo quản sợi laser ở nơi khô ráo và sạch sẽ
+(không có bụi).
+
+## Sử dụng và thải bỏ
+
+Các sợi laser được cung cấp có thể được khử trùng lại tối đa
+chín lần (tổng số lần ứng dụng: 10 bao gồm cả lần khử trùng đầu
+tiên), trừ khi nhà sản xuất chỉ định rõ ràng khác và chỉ khi sợi
+không bị hư hại và đã sử dụng quy trình khử trùng phù hợp.
+
+## CẢNH BÁO!
+
+Không được phép tái khử trùng vượt quá số lần mà nhà sảnxuất cho phép.
+
+## CẢNH BÁO!
+
+Các sợi này phải được xử lý như chất thải bệnh viện theocác hướng dẫn quốc gia.
+
+* * *
+
+## 7.3 Bảo trì
+
+## QUAN TRỌNG!
+
+Trong trường hợp có bất kỳ thắc mắc nào hoặc nếu có trao đổi
+qua thư từ, vui lòng luôn trích dẫn số sản phẩm và số sê-ri được
+ghi trên bảng tên. Tài liệu bổ sung có sẵn từ nhà sản xuất theo
+yêu cầu
+
+## C nh báo:
+
+**• Thiết bị laser phải được đóng lại. Chỉ nhân viên được** **nhà sản xuất ủy quyền mới có thể mở các tấm bên** **ngoài.**
+
+**• Ch ỉ nhân viên kỹ thuật được nhà sản xuất ủy quyền mới** **có thể thao tác trên các bộ phận bên trong thiết bị.**
+
+## 7.3.1 Kiểm tra trực quan F
+
+## GHI CHÚ!
+
+Kiểm tra bằng mắt tất cả các thành phần trước và sau mỗi lần sử
+dụng.
+
+• Ki ểm tra thiết bị và các phụ kiện của thiết bị xem có bị hư
+hỏng, các bộ phận có đầy đủ, vệ sinh và hoàn thiện hay
+không.
+
+• Ki ểm tra tất cả cáp kết nối, ống và đường dây xem có thể bị
+hư hỏng không.
+
+• Kh ông được phép để chất lỏng rò rỉ ra khỏi thiết bị.
+
+• Ki ểm tra mực nước qua cửa sổ kiểm tra thích hợp.
+
+• T ất cả các nhãn dán cần thiết để đảm bảo
+
+việc sử dụng an toàn và đúng mục đích cũng như các số
+hiệu phải được chuẩn bị đầy đủ và dễ đọc.
+
+• C ác nhãn hiệu và số hiệu bị thiếu hoặc không đọc được có
+thể gây nên lỗi ứng dụng và lỗi tái xử lý và do đó phải được
+tái sản xuất.
+
+## 7.3.2 Khoảng thời gian bảo trì F
+
+## QUAN TRỌNG!
+
+Để tránh các sự cố hoặc hư hỏng có thể xảy ra do lão hóa và hao
+mòn của thiết bị và các phụ kiện của thiết bị, việc bảo dưỡng
+phải được thực hiện trong khoảng thời gian thích hợp.
+
+Tùy thuộc vào tần suất sử dụng, nhưng ít nhất mỗi năm một lần,
+chuyên viên phải kiểm tra an toàn về chức năng và hoạt động
+của thiết bị.
+
+* * *
+
+## 7.3.3 Kiểm soát an toàn kỹ thuật F
+
+## QUAN TRỌNG!
+
+Người vận hành phải có phạm vi kiểm tra và đánh giá an toàn kỹ
+thuật cần thiết được thực hiện trong thời hạn yêu cầu.
+
+Việc kiểm tra kỹ thuật an toàn chỉ có thể được thực hiện bởi nhà
+sản xuất hoặc những người có kiến thức đặc biệt được nhà sản
+xuất ủy quyền.
+
+Kết quả của việc kiểm tra này phải được ghi lại và đính kèm vào
+sổ thiết bị (tập tài liệu kèm theo).
+
+Không được sử dụng thiết bị và các phụ kiện nếu các giá trị yêu
+cầu không được hiển thị hoặc nếu các chức năng không được
+đáp ứng.
+
+**\- Thời gian kiểm soát:** cứ **12 tháng một lần (mỗi năm một** **lần).**
+
+## \- Phạm vi kiểm soát an toàn kỹ thuật:
+
+• Ki ểm tra bằng mắt sự đầy đủ của máy móc, vết bẩn và
+các khiếm khuyết liên quan đến tuổi tác.
+
+o Đánh giá các nhãn dán.
+
+o Kiểm tra tất cả các dây cáp điện và kết nối xem có
+bị hư hỏng và kết nối đúng không.
+
+o Kiểm tra độ kín của hệ thống làm mát.
+
+• Ki ểm soát an toàn điện theo tiêu chuẩn EN / IEC 60601-
+1 hoặc thay thế bằng tiêu chuẩn IEC / EN 62353.
+
+o Kiểm tra dây dẫn bảo vệ.
+
+o Kiểm tra dòng điện rò rỉ.
+
+• Ki ểm tra chức năng theo hướng dẫn vận hành.
+
+• Ki ểm soát năng lượng xung.
+
+• Trao đổi nước làm mát (nước đã được chưng cất hai lần
+hoặc nước đã khử ion) và bộ lọc DI (khử ion).
+
+• Ki ểm tra và hãy thay đèn nháy nếu cần (khuyến nghị).
+
+* * *
+
+## 7.4 Xử lý sự cố F
+
+## QUAN TRỌNG!
+
+Nếu lỗi không thể được khắc phục với sự trợ giúp của bảng
+thông tin này, hãy liên hệ với dịch vụ khách hàng kỹ thuật hoặc
+gửi thiết bị đến để sửa chữa.
+
+Trong mọi trường hợp, bạn không nên tự sửa chữa thiết bị.
+
+| Văn đề | Nguyễnnhàn có thể | Khắc phức |
+| --- | --- | --- |
+| Viêc xoay công tác phim không có tác động rõ ràng | • Nguồn cung cấp chính không được két noi |  |
+| • Cộng tác chính chúa được bât |  |  |
+| • Đã nhằm nüt dưng kh�n cáp | • Kiem tra kết noi diên luói |  |
+| • Kích hoaq nút dùng khän cáp |  |  |
+| Lối đến nháy | Thiệt hại đói với đèn hoặc thiêt bijdiên tù công suát | Goi cho dich vú khách hang |
+| Sự có dòng nuóc | • Bể chura không dày |  |
+| • Voi nuóc bj ngật kет noi | Goi cho dich vú khách hang |  |
+| Nhiệt độ nuóc sai | • Bộ làm mát hoакт động không binh thuurng |  |
+| • Nhiệt độ môi trường cao hョン muc cho phép | • Kiem tra nhiệt độ phong trongphòng phâu thuật |  |
+| • Đàm bào khoáng cach vừa dûgiura mật sau của thiёт bj vàturong |  |  |
+| Lội khấu độ | Vij trí của gỗ bén trong khôngchính xác | Goi cho dich vú khách hang |
+| Lội sợi | Láp{dät sợi laser vào nguồn laserkhông chính xác | • Kět noi sợi quang một cachchính xác; |
+| • Goi cho dich vú khách hang |  |  |
+| Lội công tác chân | Công tác chân két noi khôngchính xác | Kiem tra công tác chân |
+| Lội khóa liên{d疡 | Kết noi khóa liên{d疡 kétnoi không chính xác | Thực hiện kết noi khóa liên{d疡một cachchính xác |
+| Lội năng lưng | Sự thay{d疡 của các thông so cóng suất trong quá trình phát tia laser | Chò môt vai giấy dế ön định trò lại.Neu nảng lưng tiép túc dao{d疡,hagy göjdich vú khách hang |
+| Giá tri näng lưng trên mànhình không khóp với hiêuúng trên mô | Sợi laser bj hu:hóng | Thay the sợi laser. Nếu nâng lưngtiép tuc thayĐết bát thuurng, hagy goidich vú khách hang |
+
+* * *
+
+## 7.5 Thay thế Blast Shield
+
+## CẢNH BÁO!
+
+_**Quá trình này phải được thực hiện bằng tay sạch và hết sức thận trọng để tránh làm**_ _**hỏng quang học của thiết bị. Blast Shield phải được thay thế như sau:**_
+
+_**1\. Tắt thiết bị và ngắt kết nối khỏi nguồn điện**_
+
+_**2\. Mở nắp bảo vệ Blast Shield**_
+
+_**3\. Tháo Blast Schied bằng cách mở nút vặn**_
+
+_**4\. Kiểm tra kính bảo vệ xem có bị hư hỏng không**_
+
+_**5\. Nếu bị hỏng, hãy thay toàn bộ Blast Shield. Đảm bảo rằng bạn không chạm vào**_ _**kính bảo vệ bằng tay không.**_
+
+\[Image: Im179\]
+
+## 6\. Đóng cửa bảo vệ.
+
+_**7\. Nếu cần hỗ trợ vui lòng liên hệ dịch vụ**_
+
+* * *
+
+## 7.6 Phụ tùng và các sản phẩm khác
+
+**Sơi laser**
+
+| Durong kinh | Sù dương một làn | Sù dương nhiều làn |
+| --- | --- | --- |
+| 200μm | 487501200 | 87501200 |
+| 272μm | 487501272 | 87501272 |
+| 365μm | 4875013650 | 875013650 |
+| 550μm | 487501550 | 87501550 |
+| 800μm | 487501800 | 87501800 |
+| 1000μm | 4875011000 | 875011000 |
+
+| Kinh chăn laser | OBM003603 |
+| --- | --- |
+| Kim tuot sợi, (cho đuarng kinh 200-272μm), có thể háp tiêt trùng | AGM000053 |
+| Kim tuot s讶, (cho đuarng kinh 365-400μm), có thể háp tiêt trùng | AGM000078 |
+| Kim tuot s讶, (cho đuarng kinh 550-600μm), có thể háp tiêt trùng | AGM000052 |
+| Kim tuot s讶, (cho đuarng kinh 800μm), có thể tiêt trùng | AGM000064 |
+| Bộ cát bàng góm có miêng silicon | AGM000080 |
+| Kim tuot s讶, (Ø0,3-1,0mm) | 2286523 |
+| Kim tuot s讶, (Ø0,1-0,4mm) | 2286527 |
+| Bộ chia khoá | 2286525 |
+| Phích cám tiép xúc cùa | 2286520 |
+| Bộ lọc nước | 2286521 |
+| Công tắc chàn 1 bàn đạp | 2030122 |
+| Giò tái xử lý s讶 laser | 85843030 |
+| Blast Shield with mounting | OAM001523 |
+| Hộp phụKIEN cho MegaPulse | KBM000103 |
+
+* * *
+
+## 7.7 Địa chỉ
+
+\| ĐUỆC
+Công ty RICHARD WOLF GmbH
+75438 Knittlingen
+Pforzheimerstr. 32
+Điện thoại: +49(0)704335-0
+Fax:+49(0)704335-300
+NHÀ SẢN XUÂT
+[info@richard-wolf.com](mailto:info@richard-wolf.com) [www.richard-wolf.com](http://www.richard-wolf.com/) \| Hoa Ký
+Richard Wolf
+Medical Instruments Corp.
+353 Corporate Woods Parkway
+Vernon Hills, Illinois 60061
+Điện thoại:+18479131113
+Số fax:+18479131488
+sales& [marketing@richardwolfusa.com](mailto:marketing@richardwolfusa.com)
+
+[www.richardwolfusa.com](http://www.richardwolfusa.com/) \|
+\| \-\-\- \| \-\-\- \|
+\| VUONG QUỐC ANH
+RICHARD WOLF UK Ltd.
+Waterside Way
+Wimbledon
+SW17 0HB
+Điện thoại:+442089447447
+Fax:+442089441311
+[admin@richardwolf.uk.com](mailto:admin@richardwolf.uk.com) [www.richardwolf.uk.com](http://www.richardwolf.uk.com/) \| Bǐ/HÀ LAN
+N.V.Nói soi
+RICHARD WOLF Belgium SA
+Khu công nghiép Drongen
+Landegemstraat 6
+9031 Gent Drongen
+Điện thoại:+3292808100
+Fax:+3292829216
+[endoscopy@richardwolf.be](mailto:endoscopy@richardwolf.be) [www.richard-wolf.be](http://www.richard-wolf.be/) \|
+\| PHÁP
+RICHARD WOLF France SARL
+Rue Daniel Berger
+Z.A.C. La Neuvillette
+51100 Reims
+Điện thoại:+33326870289
+Số fax:+33326876033
+[endoscopes@richardwolf.fr](mailto:endoscopes@richardwolf.fr) \| AO
+RICHARD WOLF Austria
+Ges.m.b.H.
+Wilhelminenstrasse 93 a
+1160 Wien
+Điện thoại:+4314055151
+Fax:+431405515145
+[info@richard-wolf.at](mailto:info@richard-wolf.at) [www.richard-wolf.at](http://www.richard-wolf.at/) \|
+\| Văn phòng tiép thị
+UAE
+RICHARD WOLF Trung Đồng
+P O. Box 500283
+AL Thuraya Tower 1
+Tăng 9",
+Phòng 904, Dubai
+Điện thoại:+97143681920
+Fax:+97143686112
+[middle.east@richard-wolf.com](mailto:middle.east@richard-wolf.com) [www.richard-wolf.com](http://www.richard-wolf.com/) \| ÂN Đỗ
+RICHARD WOLF India Private Ltd.
+JMD Pacific Square
+Số 211 A, Second Floor
+Behind 32nd Milestone
+Gurgaon - 122 001
+National Capitol Region
+Điện thoại:+911244315700
+Fax:+911244315705
+[india@richard-wolf.com](mailto:india@richard-wolf.com) [www.richard-wolf.com](http://www.richard-wolf.com/) \|
+
+Đố **i t** á **c d** ị **ch v** ụ\\*\\*:\\*\\*
+ELvation Medical GmbH
+Ludwig-Wolf-Str. 6
+75249 Kieselbronn - ĐỨC
+
+Điện thoại: +49 (0) 7231 5636 48
+Fax: +49 (0) 7231 5636 36
+[service@elvation.de](mailto:service@elvation.de)

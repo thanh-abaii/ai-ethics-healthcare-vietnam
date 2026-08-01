@@ -1,0 +1,21 @@
+Content-Type: text/html; charset=utf-8
+X-Akamai-Transformed: 9 37489 0 pmb=mRUM,2
+Vary: Accept-Encoding
+Expires: Sat, 01 Aug 2026 07:07:29 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sat, 01 Aug 2026 07:07:29 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: AKA_A2=A; expires=Sat, 01-Aug-2026 08:07:29 GMT; path=/; domain=gov.vn; secure; HttpOnly
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=157
+Server-Timing: origin; dur=233
+Alt-Svc: h3=":443"; ma=93600
+Link: <https://bachmai.gov.vn/_next/static/media/1a634e73dfeff02c-s.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://bachmai.gov.vn/_next/static/media/06ffe538503857c9-s.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://bachmai.gov.vn/_next/static/media/97a51e9355588d47-s.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://bachmai.gov.vn/_next/static/media/d88c3b2e8ac146cf-s.p.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://bachmai.gov.vn/_next/static/media/4120b0a488381b31-s.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://bachmai.gov.vn/_next/static/media/1e41be92c43b3255-s.p.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://bachmai.gov.vn/_next/static/media/c9a21b8e54ee94b6-s.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://bachmai.gov.vn/_next/static/media/c59220c5a9b01ae7-s.woff2>;rel="preload";as="font";type="font/woff2";crossorigin
+Link: <https://apicms.bachmai.gov.vn>;rel="preconnect"
+Akamai-Cache-Status: NotCacheable from child
+Akamai-GRN: 0.85142017.1785568049.cc588d2
+Server-Timing: ak_p; desc="1785568048961_387978373_214272210_38972_16076_135_537_-";dur=1
+

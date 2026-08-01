@@ -1,0 +1,848 @@
+ <!DOCTYPE html> <html lang="vi"> <head> <!-- head to scrape:on --> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1"><title>
+	Tỷ lệ đuối nước chưa giảm đủ nhanh – Bộ Y tế, WHO v&#224; c&#225;c đối t&#225;c k&#234;u gọi h&#224;nh động nh&#226;n Ng&#224;y Thế giới Ph&#242;ng, chống Đuối nước
+</title> <link rel="shortcut icon" href="/favicon.ico"> <link rel="manifest" href="/manifest.json"> <link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png"> <meta name="theme-color" content="#007eb4" /> <link rel="preconnect" href="https://fonts.googleapis.com" /> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /> <link rel="preconnect" href="https://use.fontawesome.com" crossorigin /> <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" /> <link rel="dns-prefetch" href="https://kendo.cdn.telerik.com" /> <link rel="prefetch" href="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.all.min.js"> <link rel="prefetch" href="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.timezones.min.js"> <link rel="preconnect" href="https://cdn.who.int" /> <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"> <link href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" type="text/css" /> <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/grid.min.css?v=14.0.7729.22978' > <!-- head to scrape:off --> <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/origin.min.css?v=14.0.7729.22978' ><link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/main.min.css?v=14.0.7729.22978' > <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/print.min.css?v=14.0.7729.22978' media='print'> <!-- Fundraise Up: the new standard for online giving --> <script>
+        (function (w, d, s, n, a) {
+            if (!w[n]) {
+                var l = 'call,catch,on,once,set,then,track,openCheckout'
+                    .split(','), i, o = function (n) {
+                        return 'function' == typeof n ? o.l.push([arguments]) && o
+                            : function () { return o.l.push([n, arguments]) && o }
+                    }, t = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s); j.async = !0; j.src = 'https://cdn.fundraiseup.com/widget/' + a + '';
+                t.parentNode.insertBefore(j, t); o.s = Date.now(); o.v = 5; o.h = w.location.href; o.l = [];
+                for (i = 0; i < 8; i++)o[l[i]] = o(l[i]); w[n] = o
+            }
+        })(window, document, 'script', 'FundraiseUp', 'AMEEWKFZ');</script> <!-- End Fundraise Up --> 
+            <script>
+                var lang = document.documentElement.lang; 
+                window.dataLayer = window.dataLayer || []; 
+                window.dataLayer.push({'language': lang });
+                window.dataLayer.push({
+  "pagetype": "webpage",
+  "targetaudience": "general-audience",
+  "targetcountry": "global",
+  "healthtopic": "none"
+});</script> <script>
+                    (function() {
+                    function deleteCookie(cookieName,domain) {
+                        document.cookie = cookieName + '=;expires=Mon Jan 01 1900 00:00:00 ; path=/; domain=' + domain;
+                    }
+                    function loadAndTrack(canTrack) {
+                        if (!canTrack) {
+                            var domain = location.hostname.replace(/^www\./i, '.');
+                            //GA
+                            deleteCookie('_ga', domain);
+                            deleteCookie('_gat', domain);
+                            deleteCookie('_gid', domain);
+                            //Clarity
+                            deleteCookie('_clck', domain);
+                            deleteCookie('_clsk', domain);
+                            //Google Adsense
+                            deleteCookie('_gcl_au', domain);
+                        }
+                        else{
+                            //Fire GTM
+                            //Google Tag Manager
+                                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                                })(window,document,'script','dataLayer','GTM-5QFSQRT');
+                            //End Google Tag Manager
+                        }
+                        return;
+                    }
+
+                    if (window.TrackingConsentManager) {
+                        TrackingConsentManager.addEventListener('ConsentChanged', loadAndTrack);
+                        loadAndTrack(TrackingConsentManager.canTrackCurrentUser());
+                    }
+                    else {
+                        loadAndTrack(true);
+                    }
+                    })();
+                </script><meta property="og:locale" content="vi_VN" /><style type="text/css" media="all">@media (min-width:1020px){#sf-top-header{background-color:#000}.sfPageEditor #sf-top-header{background-color:inherit}#sf-top-header ul li a{color:#fff!important}#sf-top-header ul.rdCommands li a{color:#000!important}.sfPageEditor #sf-top-header ul li a{color:inherit}#sf-top-header div.navigation-search>span>i{color:#fff!important}#sf-top-header #sf-geo-navigation-container ul.sf-primary-geo-navigation .has-children>a:after{filter:brightness(0) invert(1)}#sf-top-header #search-form .search-button .fa{font-size:22px;color:#008dc9}#sf-top-header #search-form .search-button{min-height:48px;background-color:#efefef;color:#fff;text-align:center}#sf-top-header select{font:400 12px/1.3 sans-serif;-webkit-appearance:none;appearance:none;line-height:1;outline:0;background-repeat:no-repeat,no-repeat,no-repeat,no-repeat;background-size:1px 100%,20px 22px,20px 22px,20px 100%;background-position:right 20px center,right bottom,right bottom,right bottom;color:#fff!important;font-size:15px;font-weight:700;line-height:28px;min-width:110px;height:44px;padding:.65em 24px .55em 8px;cursor:pointer;background-color:#000;border:0 #000}#sf-top-header select:hover{background-image:linear-gradient(var(--accentFg),var(--accentFg)),linear-gradient(-135deg,transparent 50%,var(--accentFg) 50%),linear-gradient(-225deg,transparent 50%,var(--accentFg) 50%),linear-gradient(var(--accentFg) 42%,var(--accentBg) 42%)}#sf-top-header select:active{background-image:linear-gradient(var(--accentFg),var(--accentFg)),linear-gradient(-135deg,transparent 50%,var(--accentFg) 50%),linear-gradient(-225deg,transparent 50%,var(--accentFg) 50%),linear-gradient(var(--accentFg) 42%,var(--accentBg) 42%);color:var(--accentBg);border-color:var(--accentFg);background-color:var(--accentFg)}#sf-top-header .select-selected.select-arrow-active:after{border-color:transparent transparent #fff transparent;top:7px}#sf-top-header .select-items div,.select-selected{color:#fff;padding:8px 16px;border:1px solid transparent;border-color:transparent transparent rgba(0,0,0,.1) transparent;cursor:pointer}#sf-top-header .select-items{position:absolute;background-color:#1e90ff;top:100%;left:0;right:0;z-index:99}#sf-top-header .select-hide{display:none}#sf-top-header .select-items div:hover,.same-as-selected{background-color:rgba(0,0,0,.1)}#sf-top-header select option,#sf-top-header select option:active,#sf-top-header select option:focus{background:linear-gradient(#000,#000);background-color:#fff!important;color:#000!important}#sf-top-header select .selected{background:linear-gradient(#000,#000);background-color:#fff!important;color:#008dc9!important}#sf-top-header #search2 .closebtn{display:none}#sf-top-header div#search2{max-width:450px;max-height:48px}#sf-top-header .col-md-8{display:flex;flex-direction:row;max-height:48px;justify-content:flex-end}.sfPageEditor #sf-top-header .col-md-8{display:block;flex-direction:inherit;max-height:inherit;justify-content:inherit}#sf-top-header #sf-geo-navigation-container ul.sf-primary-geo-navigation>li>a{min-height:48px;max-height:48px}#sf-top-header #search-form input[type=text]{min-height:48px;padding:0 0;font-size:16px}#sf-top-header #search-form input[type=text]{border-radius:0!important;border:0!important;background-color:transparent;color:#000}#sf-top-header #search-form .search-button{border-radius:0!important;background-color:transparent}#sf-top-header #search-form .search-button:hover{background-color:inherit}#sf-top-header #search-form input[type=text]:focus{border-radius:0!important;border:0!important;outline:-webkit-focus-ring-color auto 0}#sf-top-header .language-selector>i.fa-language{color:#fff;margin-left:0!important;font-size:16px;padding-left:0}#sf-top-header .language-selector>i.fa-language{content:url(/ResourcePackages/WHO/assets/dist/images/Translation.svg);vertical-align:middle;filter:brightness(0) invert(1);height:24px;margin-top:-4px}#sf-top-header .navigation-search i.fa-search{vertical-align:middle;filter:brightness(0) invert(1);position:initial;top:auto;left:auto;transform:inherit;height:48px;width:24px;margin-right:8px;display:flex;justify-content:center;align-items:center;font-size:24px}#sf-top-header div.language-selector i.fa-angle-down{color:#fff;margin-left:-22px;content:url(/ResourcePackages/WHO/assets/dist/images/arrow-down-blue.svg);vertical-align:middle;height:22px;filter:brightness(0) invert(1);margin-top:-4px;pointer-events:none}.right-to-left #sf-top-header div.language-selector i.fa-angle-down{margin-left:22px;margin-top:4px}#sf-top-header #search-form .search-button:hover{background-color:transparent}#sf-top-header #search-form .search-button i:hover{color:#008dc9}#sf-top-header #search2 .wrapper{height:48px;background-color:#efefef}#sf-top-header #search2 .wrapper:hover{border-bottom:5px solid #008dc9}#sf-top-header #search2 .wrapper:focus-within{border-bottom:5px solid #008dc9}#sf-top-header{font-size:15px!important;line-height:18px}#sf-top-header div.language-selector i{color:#fff}#sf-top-header .language-selector{min-width:220px}.search-open{overflow:inherit!important}.search-open #sf-top-header{display:block}.search-open #sf-top-header .search-overlay{position:inherit;top:inherit;left:inherit;z-index:inherit;width:inherit;height:inherit;overflow-x:inherit;opacity:0;visibility:inherit;background-color:inherit;background-color:inherit}.search-open #sf-top-header{display:block}#sf-top-header .language-selector{padding-left:48px!important}#sf-top-header .sf-secondary-geo-navigation-container{top:48px}.search-open{overflow:hidden}.search-open #sf-top-header{display:block}.search-open #sf-top-header .search-overlay{position:fixed;top:0;left:0;z-index:2000;width:100%;height:100%;overflow-x:hidden;opacity:1;visibility:visible;background-color:#20313b;background-color:rgba(32,49,59,.9);transition:.5s}.search-open #sf-top-header #search-form{display:block}.search-open #sf-top-header .search-overlay{position:relative;top:inherit;left:inherit;z-index:inherit;width:inherit;height:inherit;overflow-x:inherit;opacity:inherit;visibility:inherit;background-color:inherit;background-color:inherit;transition:.5s}#sf-top-header .search-overlay .wrapper{position:relative;top:inherit;width:inherit;max-width:inherit;padding:inherit;margin:inherit;right:inherit;left:inherit;-ms-transform:inherit;transform:inherit}#sf-top-header .navigation-search span{height:48px;vertical-align:middle;align-items:center;justify-content:center}#sf-top-header .navigation-search{display:flex;height:48px;margin-left:4px}.search-open #sf-top-header .navigation-search{display:none}#search-form label{float:right}.right-to-left #sf-top-header div#search2{padding-left:48px}.right-to-left #search-form label{padding-right:24px!important}.k-ie .language-selector i{margin-top:6px!important}.k-ie #sf-top-header #sf-geo-navigation-container ul.sf-primary-geo-navigation .has-children>a::after{content:"\f107"!important;font-family:"Font Awesome 5 Free";margin-top:2px!important;padding-left:8px!important}.k-ie #sf-top-header #sf-geo-navigation-container ul.sf-primary-geo-navigation .has-children.open>a::after{margin-top:-1px!important}.language-selector.language-selector-header{display:none}}@media (max-width:1019.5px){.search-open #sf-top-header .language-selector{display:none!important}.search-open #sf-top-header #sf-geo-navigation-container{display:none!important}#sf-top-header .navigation-search span{display:none!important}.slicknav_addition select{font:400 12px/1.3 sans-serif;-webkit-appearance:none;appearance:none;color:var(--baseFg);border:1px solid var(--baseFg);line-height:1;outline:0;border-radius:var(--radius);background-color:var(--baseBg);background-repeat:no-repeat,no-repeat,no-repeat,no-repeat;background-size:1px 100%,20px 22px,20px 22px,20px 100%;background-position:right 20px center,right bottom,right bottom,right bottom;color:#fff!important;font-size:18px;font-weight:700;line-height:18px;min-width:110px;height:44px;padding:.65em 24px .55em 8px;cursor:pointer;padding-left:20px}.slicknav_addition .select-selected.select-arrow-active:after{border-color:transparent transparent #fff transparent;top:7px}.select-selected,.slicknav_addition .select-items div{color:#fff;padding:8px 16px;border:1px solid transparent;border-color:transparent transparent rgba(0,0,0,.1) transparent;cursor:pointer}.slicknav_addition .select-items{position:absolute;background-color:#1e90ff;top:100%;left:0;right:0;z-index:99}.slicknav_addition .select-hide{display:none}.same-as-selected,.slicknav_addition .select-items div:hover{background-color:rgba(0,0,0,.1)}.slicknav_addition select option,.slicknav_addition select option:active,.slicknav_addition select option:focus{background:linear-gradient(#000,#000);background-color:#fff!important;color:#000!important}.slicknav_addition select option .selected{background:linear-gradient(#000,#000);background-color:#fff!important;color:#008dc9!important}.slicknav_addition i.fas.fa-language{display:none}li.slicknav_addition.sf-lang-selector label{width:100%;position:relative}li.slicknav_addition.sf-lang-selector label select{min-width:100%}li.slicknav_addition .fa-angle-down{font-size:24px;position:absolute;top:10px;right:25px}.right-to-left .fa-angle-down{font-size:24px;position:absolute;top:10px!important;left:24px!important;right:inherit!important}}.right-to-left .fa-angle-down{font-size:24px;position:absolute;top:10px!important;left:24px!important;right:inherit!important}.sf-lang-selector.list-inline select{font-size:16px;font-weight:700;line-height:18px;min-width:110px;height:35px;padding:0 24px 0 8px;cursor:pointer;padding-left:20px}.sf-lang-selector.list-inline select:hover{background-image:linear-gradient(var(--accentFg),var(--accentFg)),}.sf-lang-selector.list-inline select:active{background-image:linear-gradient(var(--accentFg),var(--accentFg)),color: var(--accentBg);border-color:var(--accentFg);background-color:var(--accentFg)}.sf-lang-selector.list-inline select option,.sf-lang-selector.list-inline select option:active,.sf-lang-selector.list-inline select option:focus{background:linear-gradient(#000,#000);background-color:#fff!important;color:#000!important}.sf-lang-selector.list-inline select option .selected{background:linear-gradient(#000,#000);background-color:#fff!important;color:#008dc9!important}.sf-lang-selector.list-inline select option .selected{background:linear-gradient(#000,#000);background-color:#fff!important;color:#008dc9!important}#sf-top-header #search-form .search-button:focus{outline:0;box-shadow:none}@media (min-width:1020px){#sf-top-header span.srchaction i,#sf-top-header span.srchtoggle i{width:24px;font-size:24px;color:#fff!important;cursor:pointer}#sf-top-header .sf-search-input-wrapper input{height:48px;border:0;border-radius:0;padding:0 24px 0 24px;color:#000;font-size:15px;line-height:normal;letter-spacing:normal;font-weight:400;font-style:normal;font-stretch:normal;background-color:transparent}#sf-top-header .sf-search-input-wrapper input:focus{border-radius:0!important;border:0!important;outline:-webkit-focus-ring-color auto 0}#sf-top-header span.srchaction:focus{border-radius:0!important;border:0!important;outline:-webkit-focus-ring-color auto 0}#sf-top-header .srchaction-wrapper:focus{border-radius:0!important;border:0!important;outline:-webkit-focus-ring-color auto 0}#sf-top-header .form-group.sf-search-input-wrapper{display:flex;flex-direction:row;align-items:center;height:48px}#sf-top-header span.srchaction{padding-left:24px;padding-right:0;border:none;float:left;transition:all .3s ease;box-shadow:none;min-height:48px;text-align:center;display:flex;flex-direction:row;align-items:center}#sf-top-header span.srchaction i{color:#008dc9!important}#sf-top-header .srchaction-wrapper{display:none}.search-open #sf-top-header .srchaction-wrapper{display:flex;height:48px;padding-bottom:5px;background-color:#efefef}.search-open #sf-top-header span.srchtoggle{display:none}#sf-top-header .navigation-search{display:none!important}.search-open #sf-top-header .srchaction-wrapper:focus{border-bottom:solid 5px #008dc9!important}.search-open #sf-top-header .srchaction-wrapper:focus-within{border-bottom:solid 5px #008dc9!important}.search-open #sf-top-header .srchaction-wrapper:hover{border-bottom:solid 5px #008dc9!important}}@media (max-width:1019.5px){#sf-top-header .sf-search-input-wrapper{display:none!important}.search-open{overflow:inherit!important}}.right-to-left .sf-search-input-wrapper{padding-left:24px}.right-to-left .srchaction{padding-right:24px;padding-left:0}.ui-autocomplete.ui-front.sf-autocomplete{z-index:999}.right-to-left #sf-top-header span.srchaction{padding-left:0;padding-right:24px}span.srchtoggle{z-index:3}#sf-top-header .srchaction-wrapper{display:flex;opacity:0;transition:.3s all ease;width:0;height:48px}.search-open #sf-top-header .srchaction-wrapper{width:280px;opacity:1}#sf-top-header span.srchtoggle{display:block!important;opacity:1;transition:1s opacity ease}.search-open #sf-top-header span.srchtoggle{transition:.3s opacity ease;opacity:0}.language-selector{z-index:4}
+#sf-top-header .srchaction-wrapper {
+    overflow: hidden;
+}</style><meta property="og:title" content="Tỷ lệ đuối nước chưa giảm đủ nhanh – Bộ Y tế, WHO v&#224; c&#225;c đối t&#225;c k&#234;u gọi h&#224;nh động nh&#226;n Ng&#224;y Thế giới Ph&#242;ng, chống Đuối nước" /><meta property="og:description" content="H&#224; Nội, ng&#224;y 25 th&#225;ng 7 năm 2025 -&#160;D&#249; đ&#227; đạt được nhiều tiến bộ quan trọng trong việc cứu sống người d&#226;n khỏi đuối nước, nhưng tỷ lệ tử vong do đuối nước vẫn chưa giảm như kỳ vọng – Cục B&#224; mẹ v&#224; Trẻ em thuộc Bộ Y tế v&#224; Tổ chức Y tế Thế giới (WHO) cho biết nh&#226;n Ng&#224;y Thế giới Ph&#242;ng, chống đuối nước 25 th&#225;ng 7.Đuối nước vẫn l&#224; nguy&#234;n nh&#226;n h&#224;ng đầu g&#226;y tử vong ở trẻ em tại Việt Nam, đặc biệt trong độ tuổi từ 5 đến 14. Mặc d&#249; đ&#227; đạt được nhiều tiến bộ trong c&#244;ng t&#225;c ph&#242;ng, chống đuối nước, song tỷ lệ tử vong do đuối nước vẫn chưa giảm nhanh như mong đợi. Nh&#226;n Ng&#224;y Thế giới Ph&#242;ng, chống Đuối nước 25/7/2025, Cục B&#224; mẹ v&#224; Trẻ em (Bộ Y tế), Tổ chức Y tế Thế giới (WHO) v&#224; tổ chức Chiến dịch v&#236; Trẻ em Kh&#244;ng thuốc l&#225; (CTFK) k&#234;u gọi c&#225;c cấp, c&#225;c ng&#224;nh v&#224; to&#224;n x&#227; hội tăng cường h&#224;nh động nhằm bảo vệ trẻ em khỏi nguy cơ tử vong do đuối nước.Chủ đề của Ng&#224;y Thế giới Ph&#242;ng, chống Đuối nước năm nay tại Việt Nam l&#224;: “C&#249;ng h&#224;nh động để kh&#244;ng c&#242;n trẻ em bị đuối nước” – nhấn mạnh vai tr&#242; phối hợp li&#234;n ng&#224;nh v&#224; h&#224;nh động của to&#224;n x&#227; hội để giảm thiểu nguy cơ tử vong do đuối nước ở trẻ em.Theo WHO, thống k&#234; năm 2021 cho thấy tr&#234;n to&#224;n cầu c&#243; khoảng 300.000 trường hợp tử vong do đuối nước, 57% l&#224; trẻ em v&#224; thanh thiếu ni&#234;n, v&#224; 92% số ca xảy ra tại c&#225;c quốc gia c&#243; thu nhập thấp v&#224; trung b&#236;nh. Tại Việt Nam, trong c&#249;ng năm, ghi nhận 4.019 ca tử vong do đuối nước, trong đ&#243; 40% l&#224; trẻ em dưới 14 tuổi, khiến đuối nước trở th&#224;nh một trong những nguy&#234;n nh&#226;n h&#224;ng đầu g&#226;y tử vong ở nh&#243;m tuổi n&#224;y.Tiến sĩ, B&#225;c sĩ Trần Đăng Khoa, Ph&#243; Cục trưởng Cục B&#224; mẹ v&#224; Trẻ em – Bộ Y tế, cho biết:“Việt Nam đ&#227; đạt được nhiều kết quả t&#237;ch cực trong ph&#242;ng, chống đuối nước trẻ em, song vẫn c&#242;n nhiều th&#225;ch thức. Bộ Y tế đ&#227; c&#243; văn bản gửi Ủy ban nh&#226;n d&#226;n c&#225;c tỉnh/th&#224;nh phố trực thuộc Trung ương đề nghị ưu ti&#234;n nguồn lực, thực hiện c&#225;c giải ph&#225;p hữu hiệu, tăng cường truyền th&#244;ng, th&#250;c đẩy hợp t&#225;c đa ng&#224;nh v&#224; mở rộng c&#225;c m&#244; h&#236;nh hiệu quả ph&#242;ng, chống đuối nước cho trẻ em.Mỗi trường hợp tử vong do đuối nước l&#224; một bi kịch nhưng c&#243; thể ph&#242;ng tr&#225;nh. Ch&#250;ng t&#244;i k&#234;u gọi cha, mẹ, nh&#224; trường, cộng đồng v&#224; ch&#237;nh quyền địa phương c&#249;ng h&#224;nh động ph&#242;ng, chống đuối nước cho trẻ em, đặc biệt tại v&#249;ng n&#244;ng th&#244;n v&#224; khu vực c&#243; nhiều ao, hồ, s&#244;ng, suối… để hướng tới mục ti&#234;u kh&#244;ng c&#242;n trẻ em bị đuối nước.Nh&#226;n dịp n&#224;y, ch&#250;ng t&#244;i một lần nữa đề nghị c&#225;c cấp ch&#237;nh quyền: Tăng đầu tư cho c&#225;c chương tr&#236;nh ph&#242;ng, chống đuối nước trẻ em, đặc biệt ở c&#225;c địa phương c&#243; nguy cơ cao; Tăng cường gi&#225;o dục cộng đồng về kỹ năng an to&#224;n trong m&#244;i trường nước, kỹ năng sơ cứu v&#224; quản l&#253;, gi&#225;m s&#225;t trẻ; Mở rộng chương tr&#236;nh dạy bơi v&#224; kỹ năng an to&#224;n trong m&#244;i trường nước cho trẻ em tại trường học v&#224; cộng đồng; Đẩy mạnh hợp t&#225;c li&#234;n ng&#224;nh v&#224; quốc tế, lồng gh&#233;p nội dung ph&#242;ng, chống đuối nước v&#224;o ch&#237;nh s&#225;ch ph&#225;t triển bền vững.”Tiến sĩ Angela Pratt, Trưởng Đại diện WHO tại Việt Nam, chia sẻ:“Mỗi ca tử vong do đuối nước l&#224; một mất m&#225;t kh&#244;ng thể chấp nhận. Bất kỳ ai cũng c&#243; thể bị đuối nước – nhưng kh&#244;ng n&#234;n để ai phải thiệt mạng v&#236; một nguy&#234;n nh&#226;n c&#243; thể ngăn chặn. C&#243; rất nhiều giải ph&#225;p hiệu quả v&#224; chi ph&#237; thấp đ&#227; được chứng minh. Ch&#250;ng ta cần mở rộng quy m&#244; c&#225;c can thiệp n&#224;y để giảm thiểu nguy cơ, bảo vệ trẻ em v&#224; x&#226;y dựng một m&#244;i trường sống an to&#224;n hơn cho tất cả mọi người.”B&#224; Đo&#224;n Thu Huyền, Đại diện CTFK tại Việt Nam, ph&#225;t biểu:“Đuối nước c&#243; thể xảy ra chỉ trong khoảnh khắc, nhưng với nhận thức đ&#250;ng v&#224; h&#224;nh động kịp thời, ch&#250;ng ta c&#243; thể thay đổi kết cục. Đuối nước ho&#224;n to&#224;n c&#243; thể ph&#242;ng tr&#225;nh được.”C&#225;c giải ph&#225;p hiệu quả được khuyến nghị d&#224;nh cho cơ quan chức năng:Lắp đặt r&#224;o chắn tại c&#225;c khu vực c&#243; nguy cơ đuối nước;Bố tr&#237; nh&#226;n vi&#234;n cứu hộ tại bể bơi, b&#227;i biển c&#244;ng cộng;Tổ chức tập huấn kỹ năng cứu hộ v&#224; sơ cứu cho cộng đồng;Duy tr&#236; hoạt động t&#236;m kiếm, cứu nạn thường xuy&#234;n;Cung cấp cảnh b&#225;o thời tiết miễn ph&#237;, dễ tiếp cận cho người d&#226;n.C&#225;c h&#224;nh động c&#225; nh&#226;n v&#224; gia đ&#236;nh c&#243; thể thực hiện:Học bơi – trang bị kỹ năng sống c&#242;n cho bản th&#226;n v&#224; trẻ em;Gi&#225;m s&#225;t trẻ em – kh&#244;ng để trẻ ở gần nước một m&#236;nh, kể cả trong thời gian ngắn;Kh&#244;ng uống rượu bia gần nước – lu&#244;n tỉnh t&#225;o khi ở gần khu vực c&#243; nguy cơ;Ch&#250; &#253; m&#244;i trường – theo d&#245;i thời tiết, điều kiện nước trước khi bơi hoặc đi thuyền;Sử dụng thiết bị an to&#224;n – mặc &#225;o phao khi đi thuyền, đặc biệt với trẻ nhỏ.Dưới sự chỉ đạo của Ch&#237;nh phủ v&#224; sự hỗ trợ của c&#225;c tổ chức quốc tế như Quỹ từ thiện Bloomberg v&#224; tổ chức CTFK, h&#224;ng chục ngh&#236;n trẻ em Việt Nam đ&#227; được đ&#224;o tạo bơi v&#224; kỹ năng an to&#224;n trong m&#244;i trường nước.WHO đ&#227; hỗ trợ x&#226;y dựng v&#224; triển khai Chương tr&#236;nh Quốc gia ph&#242;ng, chống tai nạn thương t&#237;ch trẻ em giai đoạn 2021–2030 v&#224; Kế hoạch phối hợp li&#234;n ng&#224;nh về ph&#242;ng, chống đuối nước trẻ em giai đoạn 2022–2030. Dựa tr&#234;n bằng chứng to&#224;n cầu, WHO khuyến nghị: Tăng cường phối hợp li&#234;n ng&#224;nh trong c&#244;ng t&#225;c ph&#242;ng chống đuối nước; N&#226;ng cao nhận thức cộng đồng về nguy cơ v&#224; c&#225;c biện ph&#225;p ph&#242;ng, chống đuối nước; X&#226;y dựng kế hoạch quốc gia về ph&#242;ng, chống đuối nước; Thu thập v&#224; sử dụng dữ liệu để hoạch định ch&#237;nh s&#225;ch hiệu quả.Th&#244;ng tin d&#224;nh cho bi&#234;n tập vi&#234;nCục B&#224; mẹ v&#224; Trẻ em (Bộ Y tế) l&#224; cơ quan chuy&#234;n m&#244;n gi&#250;p Bộ Y tế quản l&#253; nh&#224; nước v&#224; chỉ đạo thực hiện c&#225;c hoạt động bảo vệ, chăm s&#243;c sức khỏe b&#224; mẹ, trẻ em v&#224; vị th&#224;nh ni&#234;n. Cục được th&#224;nh lập tr&#234;n cơ sở s&#225;p nhập Vụ Sức khỏe B&#224; mẹ – Trẻ em (Bộ Y tế) v&#224; Cục Trẻ em (Bộ Lao động – Thương binh v&#224; X&#227; hội), nhằm tăng cường t&#237;nh thống nhất trong quản l&#253;, điều phối c&#225;c ch&#237;nh s&#225;ch v&#224; chương tr&#236;nh chăm s&#243;c, bảo vệ trẻ em v&#224; phụ nữ.Trong lĩnh vực ph&#242;ng, chống đuối nước trẻ em, Cục B&#224; mẹ v&#224; Trẻ em chủ tr&#236; x&#226;y dựng, ban h&#224;nh v&#224; hướng dẫn thực hiện c&#225;c chương tr&#236;nh, t&#224;i liệu chuy&#234;n m&#244;n; phối hợp với c&#225;c Bộ, ng&#224;nh v&#224; tổ chức quốc tế triển khai c&#225;c m&#244; h&#236;nh can thiệp hiệu quả; đồng thời tăng cường truyền th&#244;ng n&#226;ng cao nhận thức cộng đồng, đặc biệt l&#224; cha, mẹ, người chăm s&#243;c trẻ về ph&#242;ng chống đuối nước. Cục cũng l&#224; đầu mối x&#226;y dựng c&#225;c ch&#237;nh s&#225;ch, kế hoạch h&#224;nh động quốc gia về ph&#242;ng, chống tai nạn thương t&#237;ch trẻ em, trong đ&#243; đuối nước l&#224; một nội dung trọng t&#226;m.Tổ chức Y tế Thế giới (WHO) tại Việt NamĐược th&#224;nh lập v&#224;o năm 1948, WHO l&#224; cơ quan của Li&#234;n Hợp Quốc c&#243; nhiệm vụ kết nối c&#225;c quốc gia, đối t&#225;c v&#224; người d&#226;n nhằm th&#250;c đẩy sức khỏe, bảo vệ an to&#224;n v&#224; phục vụ những nh&#243;m dễ bị tổn thương – để mọi người, ở mọi nơi đều c&#243; thể đạt được mức sức khỏe cao nhất c&#243; thể.Năm 2021, Đại hội đồng Li&#234;n Hợp Quốc đ&#227; th&#244;ng qua Nghị quyết đầu ti&#234;n về ph&#242;ng, chống đuối nước, nhấn mạnh mối li&#234;n hệ giữa đuối nước v&#224; ph&#225;t triển bền vững, c&#244;ng bằng x&#227; hội, sức khỏe đ&#244; thị, biến đổi kh&#237; hậu, giảm thiểu rủi ro thi&#234;n tai, cũng như sức khỏe v&#224; ph&#250;c lợi trẻ em. Nghị quyết k&#234;u gọi WHO điều phối c&#225;c nỗ lực ph&#242;ng, chống đuối nước đa ng&#224;nh trong hệ thống Li&#234;n Hợp Quốc v&#224; chọn ng&#224;y 25 th&#225;ng 7 l&#224; Ng&#224;y Thế giới Ph&#242;ng, chống Đuối nước.Tại Việt Nam, WHO đồng h&#224;nh c&#249;ng Ch&#237;nh phủ trong c&#244;ng t&#225;c ph&#242;ng, chống đuối nước – với sự hỗ trợ qu&#253; b&#225;u từ tổ chức Bloomberg Philanthropies v&#224; Campaign for Tobacco-Free Kids.Tổ chức Campaign For Tobacco-Free Kids (CTFK)Campaign For Tobacco-Free Kids l&#224; một tổ chức phi ch&#237;nh phủ của Hoa Kỳ, được th&#224;nh lập v&#224;o năm 1997.Tại Việt Nam, tổ chức n&#224;y đang phối hợp với c&#225;c bộ, ng&#224;nh, địa phương v&#224; trường đại học để triển khai nhiều chương tr&#236;nh về y tế c&#244;ng cộng &#160;bao gồm: ph&#242;ng, chống t&#225;c hại của thuốc l&#225;; ph&#242;ng, chống đuối nước cho trẻ em; ph&#242;ng, chống thương t&#237;ch &#160;giao th&#244;ng đường bộ; &#160;th&#250;c đẩy dinh dưỡng l&#224;nh mạnh cho trẻ em.&#160;" /><meta property="og:image" content="/ResourcePackages/WHO/assets/whofallback.jpg" /><meta name="twitter:card" content="summary_large_image" /><link rel="canonical" href="https://www.who.int/vietnam/vi/news/detail/25-07-2025-drowning-rates-not-reducing-fast-enough--says-the-moh--who-and-partners-on-world-drowning-prevention-day" /><meta name="description" content="Hà Nội, ngày 25 tháng 7 năm 2025 - Dù đã đạt được nhiều tiến bộ quan trọng trong việc cứu sống người dân khỏi đuối nước, nhưng tỷ lệ tử vong do đuối nước vẫn chưa giảm như kỳ vọng – Cục Bà mẹ và Trẻ em thuộc Bộ Y tế và Tổ chức Y tế Thế giới (WHO) cho biết nhân Ngày Thế giới Phòng, chống đuối nước 25 tháng 7.Đuối nước vẫn là nguyên nhân hàng đầu gây tử vong ở trẻ em tại Việt Nam, đặc biệt trong độ tuổi từ 5 đến 14. Mặc dù đã đạt được nhiều tiến bộ trong công tác phòng, chống đuối nước, song tỷ lệ tử vong do đuối nước vẫn chưa giảm nhanh như mong đợi. Nhân Ngày Thế giới Phòng, chống Đuối nước 25/7/2025, Cục Bà mẹ và Trẻ em (Bộ Y tế), Tổ chức Y tế Thế giới (WHO) và tổ chức Chiến dịch vì Trẻ em Không thuốc lá (CTFK) kêu gọi các cấp, các ngành và toàn xã hội tăng cường hành động nhằm bảo vệ trẻ em khỏi nguy cơ tử vong do đuối nước.Chủ đề của Ngày Thế giới Phòng, chống Đuối nước năm nay tại Việt Nam là: “Cùng hành động để không còn trẻ em bị đuối nước” – nhấn mạnh vai trò phối hợp liên ngành và hành động của toàn xã hội để giảm thiểu nguy cơ tử vong do đuối nước ở trẻ em.Theo WHO, thống kê năm 2021 cho thấy trên toàn cầu có khoảng 300.000 trường hợp tử vong do đuối nước, 57% là trẻ em và thanh thiếu niên, và 92% số ca xảy ra tại các quốc gia có thu nhập thấp và trung bình. Tại Việt Nam, trong cùng năm, ghi nhận 4.019 ca tử vong do đuối nước, trong đó 40% là trẻ em dưới 14 tuổi, khiến đuối nước trở thành một trong những nguyên nhân hàng đầu gây tử vong ở nhóm tuổi này.Tiến sĩ, Bác sĩ Trần Đăng Khoa, Phó Cục trưởng Cục Bà mẹ và Trẻ em – Bộ Y tế, cho biết:“Việt Nam đã đạt được nhiều kết quả tích cực trong phòng, chống đuối nước trẻ em, song vẫn còn nhiều thách thức. Bộ Y tế đã có văn bản gửi Ủy ban nhân dân các tỉnh/thành phố trực thuộc Trung ương đề nghị ưu tiên nguồn lực, thực hiện các giải pháp hữu hiệu, tăng cường truyền thông, thúc đẩy hợp tác đa ngành và mở rộng các mô hình hiệu quả phòng, chống đuối nước cho trẻ em.Mỗi trường hợp tử vong do đuối nước là một bi kịch nhưng có thể phòng tránh. Chúng tôi kêu gọi cha, mẹ, nhà trường, cộng đồng và chính quyền địa phương cùng hành động phòng, chống đuối nước cho trẻ em, đặc biệt tại vùng nông thôn và khu vực có nhiều ao, hồ, sông, suối… để hướng tới mục tiêu không còn trẻ em bị đuối nước.Nhân dịp này, chúng tôi một lần nữa đề nghị các cấp chính quyền: Tăng đầu tư cho các chương trình phòng, chống đuối nước trẻ em, đặc biệt ở các địa phương có nguy cơ cao; Tăng cường giáo dục cộng đồng về kỹ năng an toàn trong môi trường nước, kỹ năng sơ cứu và quản lý, giám sát trẻ; Mở rộng chương trình dạy bơi và kỹ năng an toàn trong môi trường nước cho trẻ em tại trường học và cộng đồng; Đẩy mạnh hợp tác liên ngành và quốc tế, lồng ghép nội dung phòng, chống đuối nước vào chính sách phát triển bền vững.”Tiến sĩ Angela Pratt, Trưởng Đại diện WHO tại Việt Nam, chia sẻ:“Mỗi ca tử vong do đuối nước là một mất mát không thể chấp nhận. Bất kỳ ai cũng có thể bị đuối nước – nhưng không nên để ai phải thiệt mạng vì một nguyên nhân có thể ngăn chặn. Có rất nhiều giải pháp hiệu quả và chi phí thấp đã được chứng minh. Chúng ta cần mở rộng quy mô các can thiệp này để giảm thiểu nguy cơ, bảo vệ trẻ em và xây dựng một môi trường sống an toàn hơn cho tất cả mọi người.”Bà Đoàn Thu Huyền, Đại diện CTFK tại Việt Nam, phát biểu:“Đuối nước có thể xảy ra chỉ trong khoảnh khắc, nhưng với nhận thức đúng và hành động kịp thời, chúng ta có thể thay đổi kết cục. Đuối nước hoàn toàn có thể phòng tránh được.”Các giải pháp hiệu quả được khuyến nghị dành cho cơ quan chức năng:Lắp đặt rào chắn tại các khu vực có nguy cơ đuối nước;Bố trí nhân viên cứu hộ tại bể bơi, bãi biển công cộng;Tổ chức tập huấn kỹ năng cứu hộ và sơ cứu cho cộng đồng;Duy trì hoạt động tìm kiếm, cứu nạn thường xuyên;Cung cấp cảnh báo thời tiết miễn phí, dễ tiếp cận cho người dân.Các hành động cá nhân và gia đình có thể thực hiện:Học bơi – trang bị kỹ năng sống còn cho bản thân và trẻ em;Giám sát trẻ em – không để trẻ ở gần nước một mình, kể cả trong thời gian ngắn;Không uống rượu bia gần nước – luôn tỉnh táo khi ở gần khu vực có nguy cơ;Chú ý môi trường – theo dõi thời tiết, điều kiện nước trước khi bơi hoặc đi thuyền;Sử dụng thiết bị an toàn – mặc áo phao khi đi thuyền, đặc biệt với trẻ nhỏ.Dưới sự chỉ đạo của Chính phủ và sự hỗ trợ của các tổ chức quốc tế như Quỹ từ thiện Bloomberg và tổ chức CTFK, hàng chục nghìn trẻ em Việt Nam đã được đào tạo bơi và kỹ năng an toàn trong môi trường nước.WHO đã hỗ trợ xây dựng và triển khai Chương trình Quốc gia phòng, chống tai nạn thương tích trẻ em giai đoạn 2021–2030 và Kế hoạch phối hợp liên ngành về phòng, chống đuối nước trẻ em giai đoạn 2022–2030. Dựa trên bằng chứng toàn cầu, WHO khuyến nghị: Tăng cường phối hợp liên ngành trong công tác phòng chống đuối nước; Nâng cao nhận thức cộng đồng về nguy cơ và các biện pháp phòng, chống đuối nước; Xây dựng kế hoạch quốc gia về phòng, chống đuối nước; Thu thập và sử dụng dữ liệu để hoạch định chính sách hiệu quả.Thông tin dành cho biên tập viênCục Bà mẹ và Trẻ em (Bộ Y tế) là cơ quan chuyên môn giúp Bộ Y tế quản lý nhà nước và chỉ đạo thực hiện các hoạt động bảo vệ, chăm sóc sức khỏe bà mẹ, trẻ em và vị thành niên. Cục được thành lập trên cơ sở sáp nhập Vụ Sức khỏe Bà mẹ – Trẻ em (Bộ Y tế) và Cục Trẻ em (Bộ Lao động – Thương binh và Xã hội), nhằm tăng cường tính thống nhất trong quản lý, điều phối các chính sách và chương trình chăm sóc, bảo vệ trẻ em và phụ nữ.Trong lĩnh vực phòng, chống đuối nước trẻ em, Cục Bà mẹ và Trẻ em chủ trì xây dựng, ban hành và hướng dẫn thực hiện các chương trình, tài liệu chuyên môn; phối hợp với các Bộ, ngành và tổ chức quốc tế triển khai các mô hình can thiệp hiệu quả; đồng thời tăng cường truyền thông nâng cao nhận thức cộng đồng, đặc biệt là cha, mẹ, người chăm sóc trẻ về phòng chống đuối nước. Cục cũng là đầu mối xây dựng các chính sách, kế hoạch hành động quốc gia về phòng, chống tai nạn thương tích trẻ em, trong đó đuối nước là một nội dung trọng tâm.Tổ chức Y tế Thế giới (WHO) tại Việt NamĐược thành lập vào năm 1948, WHO là cơ quan của Liên Hợp Quốc có nhiệm vụ kết nối các quốc gia, đối tác và người dân nhằm thúc đẩy sức khỏe, bảo vệ an toàn và phục vụ những nhóm dễ bị tổn thương – để mọi người, ở mọi nơi đều có thể đạt được mức sức khỏe cao nhất có thể.Năm 2021, Đại hội đồng Liên Hợp Quốc đã thông qua Nghị quyết đầu tiên về phòng, chống đuối nước, nhấn mạnh mối liên hệ giữa đuối nước và phát triển bền vững, công bằng xã hội, sức khỏe đô thị, biến đổi khí hậu, giảm thiểu rủi ro thiên tai, cũng như sức khỏe và phúc lợi trẻ em. Nghị quyết kêu gọi WHO điều phối các nỗ lực phòng, chống đuối nước đa ngành trong hệ thống Liên Hợp Quốc và chọn ngày 25 tháng 7 là Ngày Thế giới Phòng, chống Đuối nước.Tại Việt Nam, WHO đồng hành cùng Chính phủ trong công tác phòng, chống đuối nước – với sự hỗ trợ quý báu từ tổ chức Bloomberg Philanthropies và Campaign for Tobacco-Free Kids.Tổ chức Campaign For Tobacco-Free Kids (CTFK)Campaign For Tobacco-Free Kids là một tổ chức phi chính phủ của Hoa Kỳ, được thành lập vào năm 1997.Tại Việt Nam, tổ chức này đang phối hợp với các bộ, ngành, địa phương và trường đại học để triển khai nhiều chương trình về y tế công cộng  bao gồm: phòng, chống tác hại của thuốc lá; phòng, chống đuối nước cho trẻ em; phòng, chống thương tích  giao thông đường bộ;  thúc đẩy dinh dưỡng lành mạnh cho trẻ em. " /></head> <body class="sf-body "> <a class="visually-hidden-focusable" href="#content">Skip to main content</a> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QFSQRT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script src="/ScriptResource.axd?d=6DQe8ARl7A9TiuWej5ttChzH_bH_8oN_s_nT_Gi4bPGf8e5n2fEMKPjzLdvKHVty-4ZMcWf8z4wR7Uoe9uwfRcpGME2zu76GUYKLUjE5oVOWl9suUmdsLOBTG0SyiZPAlK9FJAXJhhse1qDM4EhvGTqNsxl81NUrAtHLeXR4O4h0ZoaW0&amp;t=ffffffff844ef973" type="text/javascript"></script><script src="/ScriptResource.axd?d=74FHISOx3fOPKwLxL0RMYsy5CZ1ciqpScg89mHaoCwqm0f3BwT2yIdaPnYAdmSwbYEK1ZSsInvrc-K4nfMcj996OJpQwEQ_jiE7tNvBDDNTsWHMs1V-SmrapMyE1jEszh3aIe8dDrVFevv5g4Az8_4JW2NKXOBG4ECPm9aUN8Tqvcq1P0&amp;t=ffffffff844ef973" type="text/javascript"></script><script src="/ScriptResource.axd?d=BipRCKUteAIr0PTUVR7xo6LCrTtac4Cof8FsWeF6Rs8EdDSOktcsIs7LNHQe0q9fjlWLg7K_ACXChvDiB89LssRRoiAaWPfFtKZ5o-YMiaG0eBABoldv--hS66lgbT7E3_ovT6krZJ6OXhPP-uxrsovsKl2AJ6Y1yCcYG8mHshUopGyI0&amp;t=ffffffff844ef973" type="text/javascript"></script> <div class="sf-main-site main-site main"> <!-- header:on --> <!--noindex--><!--stopindex--> <header> <div id="sf-top-header" class="sf-top-header top-header"> <div class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"> 
+<div id="TopHeader_TD9F2A204012_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+</div>
+
+
+ <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-md-4" data-sf-element="Geo Navigation" data-placeholder-label="Geo Navigation"> 
+
+
+
+
+    <div id="sf-geo-navigation-container">
+        <nav class="sf-geo-navigation" aria-label="Khu vực">
+            
+            <ul class="sf-primary-geo-navigation">
+                
+
+                <li class=" sf-no-logo">
+                    <a href="https://www.who.int//" class="mobile nav-logo">
+                            <img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" alt="Tổ chức Y tế Thế giới" />
+                    </a>
+                    <a href="https://www.who.int//" class="desktop">To&#224;n cầu</a>
+                </li>
+
+                
+                <li class=" has-children">
+                    <a href="#">Khu vực</a>
+
+                    <div class="sf-secondary-geo-navigation-container">
+                        <div class="sf-secondary-geo-navigation-wrapper">
+                            <div class="sf-geo-navigation-title">
+                                <div class="nav-header">
+                                    <span class="nav-logo">
+                                            <img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" alt="Tổ chức Y tế Thế giới" />
+                                    </span>
+
+
+                                    <span class="nav-title">C&#225;c website của WHO khu vực</span>
+
+                                    <div class="nav-back-btn"><i class="fas fa-angle-left"></i></div>
+                                </div>
+
+
+                            </div>
+
+                            <ul class="sf-secondary-geo-navigation sf-secondary-geo-navigation-region row">
+                                        <li class=" col-md-4">
+                                            <a href="https://www.who.int/southeastasia//">
+
+                                                <span>Đ&#244;ng Nam &#193;</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://www.who.int/europe//">
+
+                                                <span>Ch&#226;u &#194;u</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://www.who.int/westernpacific//">
+
+                                                <span>T&#226;y Th&#225;i B&#236;nh Dương</span>
+                                            </a>
+                                        </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+                    <li class="active has-children">
+                        <a href="#">Quốc gia</a>
+
+                        <div class="sf-secondary-geo-navigation-container">
+                            <div class="sf-secondary-geo-navigation-wrapper">
+                                <div class="sf-geo-navigation-title">
+                                    <div class="nav-header">
+                                        <span class="nav-logo">
+                                                <img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" alt="Tổ chức Y tế Thế giới" />
+                                        </span>
+
+                                        <span class="nav-title">C&#225;c quốc gia, l&#227;nh thổ v&#224; v&#249;ng trong WHO Khu vực T&#226;y Th&#225;i B&#236;nh Dương</span>
+                                        <div class="nav-back-btn"><i class="fas fa-angle-left"></i></div>
+                                    </div>
+                                </div>
+
+                                <ul class="sf-secondary-geo-navigation sf-secondary-geo-navigation-country">
+
+                                        <li class="">
+
+                                                <a href="https://www.who.int/americansamoa//">Samoa thuộc Mỹ</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/australia//">&#218;c</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/brunei//">Vương quốc Bru-n&#226;y</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/cambodia//">Cam-pu-chia</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/china//">Trung Quốc</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/cookislands//">Quần đảo Cook</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/fiji//">Fiji</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/frenchpolynesia//">Polynesia thuộc Ph&#225;p</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/guam//">L&#227;nh thổ Guam (Hoa Kỳ)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/hongkongchina//">Đặc khu h&#224;nh ch&#237;nh Hồng K&#244;ng (Trung Quốc)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/indonesia//"></a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/japan//">Nhật</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/kiribati//">Kiribati</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/laos//">Cộng h&#242;a D&#226;n chủ Nh&#226;n d&#226;n L&#224;o</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/macaochina//">Đặc khu h&#224;nh ch&#237;nh Ma Cao (Trung Quốc)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/malaysia//">Malaysia</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/marshallislands//">Đảo Marshall</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/micronesia//">Micronesia (Li&#234;n bang)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/mongolia//">M&#244;ng Cổ</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/nauru//">Nauru</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/newcaledonia//">T&#226;n Thế Giới (Ph&#225;p)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/newzealand//">New Zealand</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/niue//">Niue</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/northernmarianaislands//">Thịnh vượng chung Quần đảo Bắc Mariana (Hoa Kỳ)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/palau//">Palau</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/papuanewguinea//">Papua New Guinea</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/philippines//">Philippines</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/pitcairnislands//">Pitcairn, Henderson, Ducie v&#224; Oeno (Anh)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/republicofkorea//">H&#224;n Quốc</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/samoa//">Samoa</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/singapore//">Singapore</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/solomonislands//">Quần đảo Solomon</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/tokelau//">Tokelau</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/tonga//">Tonga</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/tuvalu//">Tuvalu</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/vanuatu//">Vanuatu</a>
+                                        </li>
+                                        <li class="active">
+
+                                                <a href="https://www.who.int/vietnam/vi/">Việt Nam</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/wallisandfutuna//">L&#227;nh thổ quần đảo Wallis v&#224; Futuna</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+            </ul>
+        </nav>
+    </div>
+ </div> <div class="sf_colsIn col-md-8" data-sf-element="Language Selector & Search" data-placeholder-label="Language Selector & Search"> <!--Navigation search:on--> <!--Navigation search:off--> 
+
+<div class="form-inline">
+<div class="form-group sf-search-input-wrapper" role="search">
+    <div class="srchaction-wrapper">
+        <span class="srchaction">
+            <i id="221bb79b-acfd-4f36-b5ff-9de5a77c89ad" class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i>
+        </span>
+        <input type="search" title="Search input" placeholder="Search" id="161549f4-aeef-4ebb-a64b-3b09d039289e" class="form-control" value="" aria-autocomplete="both" aria-describedby='SearchInfo-1' />
+    </div>
+    
+    <!--Toggle search:start-->
+    <span class="srchtoggle">
+        <i class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i>
+    </span>
+    <!--Toggle search:end-->    
+    <span id='SearchInfo-1' aria-hidden="true" hidden>When autocomplete results are available use up and down arrows to review and enter to select.</span>
+</div>
+
+<input type="hidden" data-sf-role="resultsUrl" value="/vietnam/vi/news/detail" />
+<input type="hidden" data-sf-role="indexCatalogue" value="wallis-funtuna-content-search-index" />
+<input type="hidden" data-sf-role="wordsMode" value="AnyWord" />
+<input type="hidden" data-sf-role="disableSuggestions" value='true' />
+<input type="hidden" data-sf-role="minSuggestionLength" value="3" />
+<input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
+<input type="hidden" data-sf-role="language" value="vi" />
+<input type="hidden" data-sf-role="siteId" value="bad9ef31-b8f9-4c48-b98f-345320b3367a" />
+<input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
+<input type="hidden" data-sf-role="searchTextBoxId" value='#161549f4-aeef-4ebb-a64b-3b09d039289e' />
+<input type="hidden" data-sf-role="searchButtonId" value='#221bb79b-acfd-4f36-b5ff-9de5a77c89ad' />
+</div>
+
+
+
+
+
+<div class="sf-lang-selector language-selector">
+    <i class="fas fa-language" aria-hidden="true"></i>
+    <label for="language-selector">
+        Select language
+    </label>
+            <select onChange="openLink(value)" id="language-selector" name="language-selector">
+    <option disabled selected>Select language</option>
+
+        <option value="en" lang="en" >English</option>
+        <option value="vi" lang="vi" class=selected>Ti&#234;́ngViệt</option>
+</select>
+
+<i class="fas fa-angle-down" aria-hidden="true"></i>
+
+</div>
+
+<style>
+    li.slicknav_addition.sf-lang-selector {
+        width: 100%;
+        position: relative
+    }
+
+        li.slicknav_addition.sf-lang-selector select {
+            min-width: 100%
+        }
+
+    #search-form label {
+        visibility: hidden
+    }
+
+    .language-selector label {
+        width: 0 !important;
+        height: 0;
+        display: inline-block;
+        overflow: hidden
+    }
+</style>
+
+
+ 
+ </div> </div> </div> </div> <!-- logo:on --> <div id="sf-main-header" class="main-header"> <div class="container"> <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-md-12" data-sf-element="Logos" data-placeholder-label="Logos Geo Navigation"> 
+
+
+
+
+    <div id="sf-geo-navigation-sites-container">
+        <nav class="sf-geo-navigation-sites" aria-label="Khu vực">
+            
+            <div id="ysf-primary-geo-navigation-sites" class="sf-primary-geo-navigation-sites">
+                
+                <div class="global-site">
+                    <a href="https://www.who.int//">
+                            <img src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" class="svg" alt="Tổ chức Y tế Thế giới" />
+                    </a>
+                </div>
+
+
+                    <div class="region-and-country-site">
+                        <div class="region-site">
+
+                                <a href="https://www.who.int/westernpacific//" class="font-weight-normal">
+                                    T&#226;y Th&#225;i B&#236;nh Dương
+                                </a>
+                        </div>
+
+                        <div class="country-site">
+
+                                <a href="https://www.who.int/vietnam/vi/">
+                                    Việt Nam
+                                </a>
+                        </div>
+                    </div>
+
+            </div>
+        </nav>
+    </div>
+ <div class="header-logo logos-container"> <a href="/vietnam/vi" title="Trang chủ" class="primary-logo"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-blue.svg" alt="Trang chủ" class="logo svg" /> </a> </div> </div> <!--Donate button starts--> <!--Donate button ends--> </div> </div> 
+ </div> <!-- logo:off --> <!--Mobile donate button starts--> <!--Mobile donate button ends--> <div id="navigationToScrape" class="navigation"> 
+
+
+
+<div class="row sf-simple-nav-row">
+    
+    <nav class="sf-simple-nav-container nav-container" id="fa9d7af8497a4d7aa71be01e82ed7e61" role="navigation">
+        <ul class="sf-simple-nav nav">
+        <li class=" home">
+            <a href="/vietnam/vi" target="_self">Trang chủ</a>
+        </li>
+        <li class="">
+            <a href="/vietnam/vi/health-topics" target="_self">C&#225;c chủ đề y tế</a>
+        </li>
+        <li class="">
+            <a href="/vietnam/vi/our-work" target="_self">C&#244;ng việc của ch&#250;ng t&#244;i</a>
+        </li>
+        <li class="active">
+            <a href="/vietnam/vi/news" target="_self">Tin tức</a>
+        </li>
+        <li class="">
+            <a href="/vietnam/vi/emergencies" target="_self">C&#225;c trường hợp khẩn cấp</a>
+        </li>
+        <li class="">
+            <a href="/vietnam/vi/about" target="_self">Về ch&#250;ng t&#244;i</a>
+        </li>
+        </ul>
+    </nav>
+</div>
+
+
+
+
+ </div> </header> <!--/noindex--><!--startindex--> <!-- header:off --> <section class="sf-content content" id="content" role="main" tabindex="-1"> 
+<div id="PageContent_TA51A0481002_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+
+
+
+    <!--noindex--><!--stopindex-->
+    <nav id="2fa77f510f3448ec8db7e11b8f3c3ef1" aria-label="You are here">
+        <ul class="sf-breadscrumb breadcrumb">
+                    <li><a href="/vietnam/vi">Trang chủ</a><span aria-hidden="true">/</span></li>
+                    <li><a href="/vietnam/vi/news">Tin tức</a><span aria-hidden="true">/</span></li>
+                    <li class="active">Chi ti&#234;́t</li>
+        </ul>
+    </nav>
+    <!--/noindex--><!--startindex-->
+    <script type="application/ld+json">
+    {"itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.who.int/vietnam/vi","name":"Trang chủ"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.who.int/vietnam/vi/news","name":"Tin tức"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.who.int/vietnam/vi/news/detail","name":"Chi tiết"}}],"itemListOrder":"ItemListOrderAscending","@context":"http://schema.org","@type":"BreadcrumbList"}
+    </script>
+
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_TA51A0481001_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Body content"><div id="PageContent_T0643CD2A001_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="PageContent_T0643CD2A002_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Images">
+
+
+
+
+
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_T0643CD2A006_Col00" class="sf_colsIn col-md-1" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_T0643CD2A006_Col01" class="sf_colsIn col-md-10" data-sf-element="Column 2" data-placeholder-label="Column 2"><div class="row sf-detail-content" data-sf-element="Row">
+    <div id="PageContent_T0643CD2A004_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Item header">
+
+    <div class="sf-item-header-wrapper" >
+        <h1 >Tỷ lệ đuối nước chưa giảm đủ nhanh – Bộ Y tế, WHO v&#224; c&#225;c đối t&#225;c k&#234;u gọi h&#224;nh động nh&#226;n Ng&#224;y Thế giới Ph&#242;ng, chống Đuối nước</h1>
+    <div class="date">
+        <span class="timestamp">25 July 2025</span>
+        
+            <div class="sf-tags-list">
+                <div class="sf-tags-list-item">Tin tức mới</div>
+            </div>
+                            
+
+
+
+<div id="readTime">
+    Reading time:
+    <span class="minutes"></span>
+    <span class="wordCount"></span>
+</div>
+
+<script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/reading-time.min.js?v=14.0.7729.22978'></script>
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', (event) => {
+        new ReadingTime(270, 'min', 'words', 'Less than a minute');
+    })
+</script>
+        
+    </div>
+    </div>
+
+
+
+
+
+<script type="application/ld+json">
+    {"author":{"@type":"Organization","name":"World Health Organization: WHO","logo":{"@type":"ImageObject","url":"https://www.who.int/Images/SchemaOrg/schemaOrgLogo.jpg","width":250,"height":60}},"headline":"Tỷ lệ đuối nước chưa giảm đủ nhanh – Bộ Y tế, WHO và các đối tác kêu gọi hành động nhân Ngày Thế giới Phòng, chống Đuối nước","description":"<p><em>H&agrave; Nội, ng&agrave;y 25 th&aacute;ng 7 năm 2025 -&nbsp;</em><strong></strong><em>D&ugrave; đ&atilde; đạt được nhiều tiến bộ quan trọng trong việc cứu sống người d&acirc;n khỏi đuối nước, nhưng tỷ lệ tử vong do đuối nước vẫn chưa giảm </em><em>như kỳ vọng</em><em> &ndash; Cục B&agrave; mẹ v&agrave; Trẻ em thuộc Bộ Y tế v&agrave; Tổ chức Y tế Thế giới (WHO) cho biết nh&acirc;n Ng&agrave;y Thế giới Ph&ograve;ng, chống đuối nước 25 th&aacute;ng 7.<strong></strong></em><br /></p><p>Đuối nước vẫn l&agrave; nguy&ecirc;n nh&acirc;n h&agrave;ng đầu g&acirc;y tử vong ở trẻ em tại Việt Nam, đặc biệt trong độ tuổi từ 5 đến 14. Mặc d&ugrave; đ&atilde; đạt được nhiều tiến bộ trong c&ocirc;ng t&aacute;c ph&ograve;ng, chống đuối nước, song tỷ lệ tử vong do đuối nước vẫn chưa giảm nhanh như mong đợi. Nh&acirc;n Ng&agrave;y Thế giới Ph&ograve;ng, chống Đuối nước 25/7/2025, Cục B&agrave; mẹ v&agrave; Trẻ em (Bộ Y tế), Tổ chức Y tế Thế giới (WHO) v&agrave; tổ chức Chiến dịch v&igrave; Trẻ em Kh&ocirc;ng thuốc l&aacute; (CTFK) k&ecirc;u gọi c&aacute;c cấp, c&aacute;c ng&agrave;nh v&agrave; to&agrave;n x&atilde; hội tăng cường h&agrave;nh động nhằm bảo vệ trẻ em khỏi nguy cơ tử vong do đuối nước.<br /></p><p>Chủ đề của Ng&agrave;y Thế giới Ph&ograve;ng, chống Đuối nước năm nay tại Việt Nam l&agrave;: <strong>&ldquo;C&ugrave;ng h&agrave;nh động để kh&ocirc;ng c&ograve;n trẻ em bị đuối nước&rdquo;</strong> &ndash; nhấn mạnh vai tr&ograve; phối hợp li&ecirc;n ng&agrave;nh v&agrave; h&agrave;nh động của to&agrave;n x&atilde; hội để giảm thiểu nguy cơ tử vong do đuối nước ở trẻ em.<br /></p><p>Theo WHO, thống k&ecirc; năm 2021 cho thấy tr&ecirc;n to&agrave;n cầu c&oacute; khoảng 300.000 trường hợp tử vong do đuối nước, 57% l&agrave; trẻ em v&agrave; thanh thiếu ni&ecirc;n, v&agrave; 92% số ca xảy ra tại c&aacute;c quốc gia c&oacute; thu nhập thấp v&agrave; trung b&igrave;nh. Tại Việt Nam, trong c&ugrave;ng năm, ghi nhận 4.019 ca tử vong do đuối nước, trong đ&oacute; 40% l&agrave; trẻ em dưới 14 tuổi, khiến đuối nước trở th&agrave;nh một trong những nguy&ecirc;n nh&acirc;n h&agrave;ng đầu g&acirc;y tử vong ở nh&oacute;m tuổi n&agrave;y.<br /></p><p><strong>Tiến sĩ, B&aacute;c sĩ Trần Đăng Khoa, Ph&oacute; Cục trưởng Cục B&agrave; mẹ v&agrave; Trẻ em &ndash; Bộ Y tế, cho biết:</strong></p><p>&ldquo;Việt Nam đ&atilde; đạt được nhiều kết quả t&iacute;ch cực trong ph&ograve;ng, chống đuối nước trẻ em, song vẫn c&ograve;n nhiều th&aacute;ch thức. Bộ Y tế đ&atilde; c&oacute; văn bản gửi Ủy ban nh&acirc;n d&acirc;n c&aacute;c tỉnh/th&agrave;nh phố trực thuộc Trung ương đề nghị ưu ti&ecirc;n nguồn lực, thực hiện c&aacute;c giải ph&aacute;p hữu hiệu, tăng cường truyền th&ocirc;ng, th&uacute;c đẩy hợp t&aacute;c đa ng&agrave;nh v&agrave; mở rộng c&aacute;c m&ocirc; h&igrave;nh hiệu quả ph&ograve;ng, chống đuối nước cho trẻ em.<br /></p><p>Mỗi trường hợp tử vong do đuối nước l&agrave; một bi kịch nhưng c&oacute; thể ph&ograve;ng tr&aacute;nh. Ch&uacute;ng t&ocirc;i k&ecirc;u gọi cha, mẹ, nh&agrave; trường, cộng đồng v&agrave; ch&iacute;nh quyền địa phương c&ugrave;ng h&agrave;nh động ph&ograve;ng, chống đuối nước cho trẻ em, đặc biệt tại v&ugrave;ng n&ocirc;ng th&ocirc;n v&agrave; khu vực c&oacute; nhiều ao, hồ, s&ocirc;ng, suối&hellip; để hướng tới mục ti&ecirc;u kh&ocirc;ng c&ograve;n trẻ em bị đuối nước.<br /></p><p>Nh&acirc;n dịp n&agrave;y, ch&uacute;ng t&ocirc;i một lần nữa đề nghị c&aacute;c cấp ch&iacute;nh quyền: Tăng đầu tư cho c&aacute;c chương tr&igrave;nh ph&ograve;ng, chống đuối nước trẻ em, đặc biệt ở c&aacute;c địa phương c&oacute; nguy cơ cao; Tăng cường gi&aacute;o dục cộng đồng về kỹ năng an to&agrave;n trong m&ocirc;i trường nước, kỹ năng sơ cứu v&agrave; quản l&yacute;, gi&aacute;m s&aacute;t trẻ; Mở rộng chương tr&igrave;nh dạy bơi v&agrave; kỹ năng an to&agrave;n trong m&ocirc;i trường nước cho trẻ em tại trường học v&agrave; cộng đồng; Đẩy mạnh hợp t&aacute;c li&ecirc;n ng&agrave;nh v&agrave; quốc tế, lồng gh&eacute;p nội dung ph&ograve;ng, chống đuối nước v&agrave;o ch&iacute;nh s&aacute;ch ph&aacute;t triển bền vững.&rdquo;<br /></p><p><strong>Tiến sĩ Angela Pratt, Trưởng Đại diện WHO tại Việt Nam, chia sẻ:</strong></p><p>&ldquo;Mỗi ca tử vong do đuối nước l&agrave; một mất m&aacute;t kh&ocirc;ng thể chấp nhận. Bất kỳ ai cũng c&oacute; thể bị đuối nước &ndash; nhưng kh&ocirc;ng n&ecirc;n để ai phải thiệt mạng v&igrave; một nguy&ecirc;n nh&acirc;n c&oacute; thể ngăn chặn. C&oacute; rất nhiều giải ph&aacute;p hiệu quả v&agrave; chi ph&iacute; thấp đ&atilde; được chứng minh. Ch&uacute;ng ta cần mở rộng quy m&ocirc; c&aacute;c can thiệp n&agrave;y để giảm thiểu nguy cơ, bảo vệ trẻ em v&agrave; x&acirc;y dựng một m&ocirc;i trường sống an to&agrave;n hơn cho tất cả mọi người.&rdquo;</p><p><strong>B&agrave; Đo&agrave;n Thu Huyền, Đại diện CTFK tại Việt Nam, ph&aacute;t biểu:</strong></p><p>&ldquo;Đuối nước c&oacute; thể xảy ra chỉ trong khoảnh khắc, nhưng với nhận thức đ&uacute;ng v&agrave; h&agrave;nh động kịp thời, ch&uacute;ng ta c&oacute; thể thay đổi kết cục. Đuối nước ho&agrave;n to&agrave;n c&oacute; thể ph&ograve;ng tr&aacute;nh được.&rdquo;</p><p><em>C&aacute;c giải ph&aacute;p hiệu quả được khuyến nghị d&agrave;nh cho cơ quan chức năng:</em></p><ul><li>Lắp đặt r&agrave;o chắn tại c&aacute;c khu vực c&oacute; nguy cơ đuối nước;</li><li>Bố tr&iacute; nh&acirc;n vi&ecirc;n cứu hộ tại bể bơi, b&atilde;i biển c&ocirc;ng cộng;</li><li>Tổ chức tập huấn kỹ năng cứu hộ v&agrave; sơ cứu cho cộng đồng;</li><li>Duy tr&igrave; hoạt động t&igrave;m kiếm, cứu nạn thường xuy&ecirc;n;</li><li>Cung cấp cảnh b&aacute;o thời tiết miễn ph&iacute;, dễ tiếp cận cho người d&acirc;n.</li></ul><p><em>C&aacute;c h&agrave;nh động c&aacute; nh&acirc;n v&agrave; gia đ&igrave;nh c&oacute; thể thực hiện:</em></p><ul><li>Học bơi &ndash; trang bị kỹ năng sống c&ograve;n cho bản th&acirc;n v&agrave; trẻ em;</li><li>Gi&aacute;m s&aacute;t trẻ em &ndash; kh&ocirc;ng để trẻ ở gần nước một m&igrave;nh, kể cả trong thời gian ngắn;</li><li>Kh&ocirc;ng uống rượu bia gần nước &ndash; lu&ocirc;n tỉnh t&aacute;o khi ở gần khu vực c&oacute; nguy cơ;</li><li>Ch&uacute; &yacute; m&ocirc;i trường &ndash; theo d&otilde;i thời tiết, điều kiện nước trước khi bơi hoặc đi thuyền;</li><li>Sử dụng thiết bị an to&agrave;n &ndash; mặc &aacute;o phao khi đi thuyền, đặc biệt với trẻ nhỏ.</li></ul><p>Dưới sự chỉ đạo của Ch&iacute;nh phủ v&agrave; sự hỗ trợ của c&aacute;c tổ chức quốc tế như Quỹ từ thiện Bloomberg v&agrave; tổ chức CTFK, h&agrave;ng chục ngh&igrave;n trẻ em Việt Nam đ&atilde; được đ&agrave;o tạo bơi v&agrave; kỹ năng an to&agrave;n trong m&ocirc;i trường nước.<br /></p><p>WHO đ&atilde; hỗ trợ x&acirc;y dựng v&agrave; triển khai Chương tr&igrave;nh Quốc gia ph&ograve;ng, chống tai nạn thương t&iacute;ch trẻ em giai đoạn 2021&ndash;2030 v&agrave; Kế hoạch phối hợp li&ecirc;n ng&agrave;nh về ph&ograve;ng, chống đuối nước trẻ em giai đoạn 2022&ndash;2030. Dựa tr&ecirc;n bằng chứng to&agrave;n cầu, WHO khuyến nghị: Tăng cường phối hợp li&ecirc;n ng&agrave;nh trong c&ocirc;ng t&aacute;c ph&ograve;ng chống đuối nước; N&acirc;ng cao nhận thức cộng đồng về nguy cơ v&agrave; c&aacute;c biện ph&aacute;p ph&ograve;ng, chống đuối nước; X&acirc;y dựng kế hoạch quốc gia về ph&ograve;ng, chống đuối nước; Thu thập v&agrave; sử dụng dữ liệu để hoạch định ch&iacute;nh s&aacute;ch hiệu quả.<br /></p><p><strong>Th&ocirc;ng tin d&agrave;nh cho bi&ecirc;n tập vi&ecirc;n</strong></p><p>Cục B&agrave; mẹ v&agrave; Trẻ em (Bộ Y tế) l&agrave; cơ quan chuy&ecirc;n m&ocirc;n gi&uacute;p Bộ Y tế quản l&yacute; nh&agrave; nước v&agrave; chỉ đạo thực hiện c&aacute;c hoạt động bảo vệ, chăm s&oacute;c sức khỏe b&agrave; mẹ, trẻ em v&agrave; vị th&agrave;nh ni&ecirc;n. Cục được th&agrave;nh lập tr&ecirc;n cơ sở s&aacute;p nhập Vụ Sức khỏe B&agrave; mẹ &ndash; Trẻ em (Bộ Y tế) v&agrave; Cục Trẻ em (Bộ Lao động &ndash; Thương binh v&agrave; X&atilde; hội), nhằm tăng cường t&iacute;nh thống nhất trong quản l&yacute;, điều phối c&aacute;c ch&iacute;nh s&aacute;ch v&agrave; chương tr&igrave;nh chăm s&oacute;c, bảo vệ trẻ em v&agrave; phụ nữ.<br /></p><p>Trong lĩnh vực ph&ograve;ng, chống đuối nước trẻ em, Cục B&agrave; mẹ v&agrave; Trẻ em chủ tr&igrave; x&acirc;y dựng, ban h&agrave;nh v&agrave; hướng dẫn thực hiện c&aacute;c chương tr&igrave;nh, t&agrave;i liệu chuy&ecirc;n m&ocirc;n; phối hợp với c&aacute;c Bộ, ng&agrave;nh v&agrave; tổ chức quốc tế triển khai c&aacute;c m&ocirc; h&igrave;nh can thiệp hiệu quả; đồng thời tăng cường truyền th&ocirc;ng n&acirc;ng cao nhận thức cộng đồng, đặc biệt l&agrave; cha, mẹ, người chăm s&oacute;c trẻ về ph&ograve;ng chống đuối nước. Cục cũng l&agrave; đầu mối x&acirc;y dựng c&aacute;c ch&iacute;nh s&aacute;ch, kế hoạch h&agrave;nh động quốc gia về ph&ograve;ng, chống tai nạn thương t&iacute;ch trẻ em, trong đ&oacute; đuối nước l&agrave; một nội dung trọng t&acirc;m.</p><p><strong>Tổ chức Y tế Thế giới (WHO) tại Việt Nam</strong></p><p>Được th&agrave;nh lập v&agrave;o năm 1948, WHO l&agrave; cơ quan của Li&ecirc;n Hợp Quốc c&oacute; nhiệm vụ kết nối c&aacute;c quốc gia, đối t&aacute;c v&agrave; người d&acirc;n nhằm th&uacute;c đẩy sức khỏe, bảo vệ an to&agrave;n v&agrave; phục vụ những nh&oacute;m dễ bị tổn thương &ndash; để mọi người, ở mọi nơi đều c&oacute; thể đạt được mức sức khỏe cao nhất c&oacute; thể.<br /></p><p>Năm 2021, Đại hội đồng Li&ecirc;n Hợp Quốc đ&atilde; th&ocirc;ng qua Nghị quyết đầu ti&ecirc;n về ph&ograve;ng, chống đuối nước, nhấn mạnh mối li&ecirc;n hệ giữa đuối nước v&agrave; ph&aacute;t triển bền vững, c&ocirc;ng bằng x&atilde; hội, sức khỏe đ&ocirc; thị, biến đổi kh&iacute; hậu, giảm thiểu rủi ro thi&ecirc;n tai, cũng như sức khỏe v&agrave; ph&uacute;c lợi trẻ em. Nghị quyết k&ecirc;u gọi WHO điều phối c&aacute;c nỗ lực ph&ograve;ng, chống đuối nước đa ng&agrave;nh trong hệ thống Li&ecirc;n Hợp Quốc v&agrave; chọn ng&agrave;y 25 th&aacute;ng 7 l&agrave; Ng&agrave;y Thế giới Ph&ograve;ng, chống Đuối nước.<br /></p><p>Tại Việt Nam, WHO đồng h&agrave;nh c&ugrave;ng Ch&iacute;nh phủ trong c&ocirc;ng t&aacute;c ph&ograve;ng, chống đuối nước &ndash; với sự hỗ trợ qu&yacute; b&aacute;u từ tổ chức Bloomberg Philanthropies v&agrave; Campaign for Tobacco-Free Kids.</p><p><strong>Tổ chức Campaign For Tobacco-Free Kids (CTFK)</strong></p><p>Campaign For Tobacco-Free Kids l&agrave; một tổ chức phi ch&iacute;nh phủ của Hoa Kỳ, được th&agrave;nh lập v&agrave;o năm 1997.</p><p>Tại Việt Nam, tổ chức n&agrave;y đang phối hợp với c&aacute;c bộ, ng&agrave;nh, địa phương v&agrave; trường đại học để triển khai nhiều chương tr&igrave;nh về y tế c&ocirc;ng cộng &nbsp;bao gồm: ph&ograve;ng, chống t&aacute;c hại của thuốc l&aacute;; ph&ograve;ng, chống đuối nước cho trẻ em; ph&ograve;ng, chống thương t&iacute;ch &nbsp;giao th&ocirc;ng đường bộ; &nbsp;th&uacute;c đẩy dinh dưỡng l&agrave;nh mạnh cho trẻ em.&nbsp;</p>","datePublished":"2025-07-25T07:00:00.0000000+00:00","image":"https://www.who.int/images/default-source/wpro/countries/viet-nam/news/who_drowning-prevention.jpg?sfvrsn=a0a32712_1","publisher":{"@type":"Organization","name":"World Health Organization: WHO","logo":{"@type":"ImageObject","url":"https://www.who.int/Images/SchemaOrg/schemaOrgLogo.jpg","width":250,"height":60}},"dateModified":"2025-07-25T07:00:00.0000000+00:00","mainEntityOfPage":"https://www.who.int/vietnam/vi/news/detail/25-07-2025-drowning-rates-not-reducing-fast-enough--says-the-moh--who-and-partners-on-world-drowning-prevention-day","@context":"http://schema.org","@type":"NewsArticle"};
+</script>
+
+    </div>
+    <div id="PageContent_T0643CD2A004_Col01" class="sf_colsIn col-sm-4 col-md-4" data-sf-element="Column 2" data-placeholder-label="Toolbox">
+
+
+<div class="social-share--add-this follow-us--header">
+    <div class="sf_colsIn container">
+        <div class="addthis_inline_follow_toolbox">
+            <p class="label">Theo d&#245;i ch&#250;ng t&#244;i</p>
+        </div>
+        </div>
+    </div>
+
+
+
+
+<!--noindex--><!--stopindex-->
+<div class="language-selector language-selector-page">
+    <div class="sf-lang-selector list-inline">
+            <div class="sf-lang-selector">
+                <label>
+
+                    <select onChange="openLink(value)">
+                        <option value="" selected="selected">- Select language -</option>
+                            <option lang="en" value="en" >English</option>
+                    </select>
+                </label>
+            </div>
+    </div>
+</div>
+<!--/noindex--><!--startindex-->
+
+
+
+
+
+    </div>
+</div>
+<div class="row sf-detail-content" data-sf-element="Row">
+    <div id="PageContent_T0643CD2A003_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Body">
+    <article class="sf-detail-body-wrapper" >
+        <div ><p><em>H&agrave; Nội, ng&agrave;y 25 th&aacute;ng 7 năm 2025 -&nbsp;</em><strong></strong><em>D&ugrave; đ&atilde; đạt được nhiều tiến bộ quan trọng trong việc cứu sống người d&acirc;n khỏi đuối nước, nhưng tỷ lệ tử vong do đuối nước vẫn chưa giảm </em><em>như kỳ vọng</em><em> &ndash; Cục B&agrave; mẹ v&agrave; Trẻ em thuộc Bộ Y tế v&agrave; Tổ chức Y tế Thế giới (WHO) cho biết nh&acirc;n Ng&agrave;y Thế giới Ph&ograve;ng, chống đuối nước 25 th&aacute;ng 7.<strong></strong></em><br /></p><p>Đuối nước vẫn l&agrave; nguy&ecirc;n nh&acirc;n h&agrave;ng đầu g&acirc;y tử vong ở trẻ em tại Việt Nam, đặc biệt trong độ tuổi từ 5 đến 14. Mặc d&ugrave; đ&atilde; đạt được nhiều tiến bộ trong c&ocirc;ng t&aacute;c ph&ograve;ng, chống đuối nước, song tỷ lệ tử vong do đuối nước vẫn chưa giảm nhanh như mong đợi. Nh&acirc;n Ng&agrave;y Thế giới Ph&ograve;ng, chống Đuối nước 25/7/2025, Cục B&agrave; mẹ v&agrave; Trẻ em (Bộ Y tế), Tổ chức Y tế Thế giới (WHO) v&agrave; tổ chức Chiến dịch v&igrave; Trẻ em Kh&ocirc;ng thuốc l&aacute; (CTFK) k&ecirc;u gọi c&aacute;c cấp, c&aacute;c ng&agrave;nh v&agrave; to&agrave;n x&atilde; hội tăng cường h&agrave;nh động nhằm bảo vệ trẻ em khỏi nguy cơ tử vong do đuối nước.<br /></p><p>Chủ đề của Ng&agrave;y Thế giới Ph&ograve;ng, chống Đuối nước năm nay tại Việt Nam l&agrave;: <strong>&ldquo;C&ugrave;ng h&agrave;nh động để kh&ocirc;ng c&ograve;n trẻ em bị đuối nước&rdquo;</strong> &ndash; nhấn mạnh vai tr&ograve; phối hợp li&ecirc;n ng&agrave;nh v&agrave; h&agrave;nh động của to&agrave;n x&atilde; hội để giảm thiểu nguy cơ tử vong do đuối nước ở trẻ em.<br /></p><p>Theo WHO, thống k&ecirc; năm 2021 cho thấy tr&ecirc;n to&agrave;n cầu c&oacute; khoảng 300.000 trường hợp tử vong do đuối nước, 57% l&agrave; trẻ em v&agrave; thanh thiếu ni&ecirc;n, v&agrave; 92% số ca xảy ra tại c&aacute;c quốc gia c&oacute; thu nhập thấp v&agrave; trung b&igrave;nh. Tại Việt Nam, trong c&ugrave;ng năm, ghi nhận 4.019 ca tử vong do đuối nước, trong đ&oacute; 40% l&agrave; trẻ em dưới 14 tuổi, khiến đuối nước trở th&agrave;nh một trong những nguy&ecirc;n nh&acirc;n h&agrave;ng đầu g&acirc;y tử vong ở nh&oacute;m tuổi n&agrave;y.<br /></p><p><strong>Tiến sĩ, B&aacute;c sĩ Trần Đăng Khoa, Ph&oacute; Cục trưởng Cục B&agrave; mẹ v&agrave; Trẻ em &ndash; Bộ Y tế, cho biết:</strong></p><p>&ldquo;Việt Nam đ&atilde; đạt được nhiều kết quả t&iacute;ch cực trong ph&ograve;ng, chống đuối nước trẻ em, song vẫn c&ograve;n nhiều th&aacute;ch thức. Bộ Y tế đ&atilde; c&oacute; văn bản gửi Ủy ban nh&acirc;n d&acirc;n c&aacute;c tỉnh/th&agrave;nh phố trực thuộc Trung ương đề nghị ưu ti&ecirc;n nguồn lực, thực hiện c&aacute;c giải ph&aacute;p hữu hiệu, tăng cường truyền th&ocirc;ng, th&uacute;c đẩy hợp t&aacute;c đa ng&agrave;nh v&agrave; mở rộng c&aacute;c m&ocirc; h&igrave;nh hiệu quả ph&ograve;ng, chống đuối nước cho trẻ em.<br /></p><p>Mỗi trường hợp tử vong do đuối nước l&agrave; một bi kịch nhưng c&oacute; thể ph&ograve;ng tr&aacute;nh. Ch&uacute;ng t&ocirc;i k&ecirc;u gọi cha, mẹ, nh&agrave; trường, cộng đồng v&agrave; ch&iacute;nh quyền địa phương c&ugrave;ng h&agrave;nh động ph&ograve;ng, chống đuối nước cho trẻ em, đặc biệt tại v&ugrave;ng n&ocirc;ng th&ocirc;n v&agrave; khu vực c&oacute; nhiều ao, hồ, s&ocirc;ng, suối&hellip; để hướng tới mục ti&ecirc;u kh&ocirc;ng c&ograve;n trẻ em bị đuối nước.<br /></p><p>Nh&acirc;n dịp n&agrave;y, ch&uacute;ng t&ocirc;i một lần nữa đề nghị c&aacute;c cấp ch&iacute;nh quyền: Tăng đầu tư cho c&aacute;c chương tr&igrave;nh ph&ograve;ng, chống đuối nước trẻ em, đặc biệt ở c&aacute;c địa phương c&oacute; nguy cơ cao; Tăng cường gi&aacute;o dục cộng đồng về kỹ năng an to&agrave;n trong m&ocirc;i trường nước, kỹ năng sơ cứu v&agrave; quản l&yacute;, gi&aacute;m s&aacute;t trẻ; Mở rộng chương tr&igrave;nh dạy bơi v&agrave; kỹ năng an to&agrave;n trong m&ocirc;i trường nước cho trẻ em tại trường học v&agrave; cộng đồng; Đẩy mạnh hợp t&aacute;c li&ecirc;n ng&agrave;nh v&agrave; quốc tế, lồng gh&eacute;p nội dung ph&ograve;ng, chống đuối nước v&agrave;o ch&iacute;nh s&aacute;ch ph&aacute;t triển bền vững.&rdquo;<br /></p><p><strong>Tiến sĩ Angela Pratt, Trưởng Đại diện WHO tại Việt Nam, chia sẻ:</strong></p><p>&ldquo;Mỗi ca tử vong do đuối nước l&agrave; một mất m&aacute;t kh&ocirc;ng thể chấp nhận. Bất kỳ ai cũng c&oacute; thể bị đuối nước &ndash; nhưng kh&ocirc;ng n&ecirc;n để ai phải thiệt mạng v&igrave; một nguy&ecirc;n nh&acirc;n c&oacute; thể ngăn chặn. C&oacute; rất nhiều giải ph&aacute;p hiệu quả v&agrave; chi ph&iacute; thấp đ&atilde; được chứng minh. Ch&uacute;ng ta cần mở rộng quy m&ocirc; c&aacute;c can thiệp n&agrave;y để giảm thiểu nguy cơ, bảo vệ trẻ em v&agrave; x&acirc;y dựng một m&ocirc;i trường sống an to&agrave;n hơn cho tất cả mọi người.&rdquo;</p><p><strong>B&agrave; Đo&agrave;n Thu Huyền, Đại diện CTFK tại Việt Nam, ph&aacute;t biểu:</strong></p><p>&ldquo;Đuối nước c&oacute; thể xảy ra chỉ trong khoảnh khắc, nhưng với nhận thức đ&uacute;ng v&agrave; h&agrave;nh động kịp thời, ch&uacute;ng ta c&oacute; thể thay đổi kết cục. Đuối nước ho&agrave;n to&agrave;n c&oacute; thể ph&ograve;ng tr&aacute;nh được.&rdquo;</p><p><em>C&aacute;c giải ph&aacute;p hiệu quả được khuyến nghị d&agrave;nh cho cơ quan chức năng:</em></p><ul><li>Lắp đặt r&agrave;o chắn tại c&aacute;c khu vực c&oacute; nguy cơ đuối nước;</li><li>Bố tr&iacute; nh&acirc;n vi&ecirc;n cứu hộ tại bể bơi, b&atilde;i biển c&ocirc;ng cộng;</li><li>Tổ chức tập huấn kỹ năng cứu hộ v&agrave; sơ cứu cho cộng đồng;</li><li>Duy tr&igrave; hoạt động t&igrave;m kiếm, cứu nạn thường xuy&ecirc;n;</li><li>Cung cấp cảnh b&aacute;o thời tiết miễn ph&iacute;, dễ tiếp cận cho người d&acirc;n.</li></ul><p><em>C&aacute;c h&agrave;nh động c&aacute; nh&acirc;n v&agrave; gia đ&igrave;nh c&oacute; thể thực hiện:</em></p><ul><li>Học bơi &ndash; trang bị kỹ năng sống c&ograve;n cho bản th&acirc;n v&agrave; trẻ em;</li><li>Gi&aacute;m s&aacute;t trẻ em &ndash; kh&ocirc;ng để trẻ ở gần nước một m&igrave;nh, kể cả trong thời gian ngắn;</li><li>Kh&ocirc;ng uống rượu bia gần nước &ndash; lu&ocirc;n tỉnh t&aacute;o khi ở gần khu vực c&oacute; nguy cơ;</li><li>Ch&uacute; &yacute; m&ocirc;i trường &ndash; theo d&otilde;i thời tiết, điều kiện nước trước khi bơi hoặc đi thuyền;</li><li>Sử dụng thiết bị an to&agrave;n &ndash; mặc &aacute;o phao khi đi thuyền, đặc biệt với trẻ nhỏ.</li></ul><p>Dưới sự chỉ đạo của Ch&iacute;nh phủ v&agrave; sự hỗ trợ của c&aacute;c tổ chức quốc tế như Quỹ từ thiện Bloomberg v&agrave; tổ chức CTFK, h&agrave;ng chục ngh&igrave;n trẻ em Việt Nam đ&atilde; được đ&agrave;o tạo bơi v&agrave; kỹ năng an to&agrave;n trong m&ocirc;i trường nước.<br /></p><p>WHO đ&atilde; hỗ trợ x&acirc;y dựng v&agrave; triển khai Chương tr&igrave;nh Quốc gia ph&ograve;ng, chống tai nạn thương t&iacute;ch trẻ em giai đoạn 2021&ndash;2030 v&agrave; Kế hoạch phối hợp li&ecirc;n ng&agrave;nh về ph&ograve;ng, chống đuối nước trẻ em giai đoạn 2022&ndash;2030. Dựa tr&ecirc;n bằng chứng to&agrave;n cầu, WHO khuyến nghị: Tăng cường phối hợp li&ecirc;n ng&agrave;nh trong c&ocirc;ng t&aacute;c ph&ograve;ng chống đuối nước; N&acirc;ng cao nhận thức cộng đồng về nguy cơ v&agrave; c&aacute;c biện ph&aacute;p ph&ograve;ng, chống đuối nước; X&acirc;y dựng kế hoạch quốc gia về ph&ograve;ng, chống đuối nước; Thu thập v&agrave; sử dụng dữ liệu để hoạch định ch&iacute;nh s&aacute;ch hiệu quả.<br /></p><p><strong>Th&ocirc;ng tin d&agrave;nh cho bi&ecirc;n tập vi&ecirc;n</strong></p><p>Cục B&agrave; mẹ v&agrave; Trẻ em (Bộ Y tế) l&agrave; cơ quan chuy&ecirc;n m&ocirc;n gi&uacute;p Bộ Y tế quản l&yacute; nh&agrave; nước v&agrave; chỉ đạo thực hiện c&aacute;c hoạt động bảo vệ, chăm s&oacute;c sức khỏe b&agrave; mẹ, trẻ em v&agrave; vị th&agrave;nh ni&ecirc;n. Cục được th&agrave;nh lập tr&ecirc;n cơ sở s&aacute;p nhập Vụ Sức khỏe B&agrave; mẹ &ndash; Trẻ em (Bộ Y tế) v&agrave; Cục Trẻ em (Bộ Lao động &ndash; Thương binh v&agrave; X&atilde; hội), nhằm tăng cường t&iacute;nh thống nhất trong quản l&yacute;, điều phối c&aacute;c ch&iacute;nh s&aacute;ch v&agrave; chương tr&igrave;nh chăm s&oacute;c, bảo vệ trẻ em v&agrave; phụ nữ.<br /></p><p>Trong lĩnh vực ph&ograve;ng, chống đuối nước trẻ em, Cục B&agrave; mẹ v&agrave; Trẻ em chủ tr&igrave; x&acirc;y dựng, ban h&agrave;nh v&agrave; hướng dẫn thực hiện c&aacute;c chương tr&igrave;nh, t&agrave;i liệu chuy&ecirc;n m&ocirc;n; phối hợp với c&aacute;c Bộ, ng&agrave;nh v&agrave; tổ chức quốc tế triển khai c&aacute;c m&ocirc; h&igrave;nh can thiệp hiệu quả; đồng thời tăng cường truyền th&ocirc;ng n&acirc;ng cao nhận thức cộng đồng, đặc biệt l&agrave; cha, mẹ, người chăm s&oacute;c trẻ về ph&ograve;ng chống đuối nước. Cục cũng l&agrave; đầu mối x&acirc;y dựng c&aacute;c ch&iacute;nh s&aacute;ch, kế hoạch h&agrave;nh động quốc gia về ph&ograve;ng, chống tai nạn thương t&iacute;ch trẻ em, trong đ&oacute; đuối nước l&agrave; một nội dung trọng t&acirc;m.</p><p><strong>Tổ chức Y tế Thế giới (WHO) tại Việt Nam</strong></p><p>Được th&agrave;nh lập v&agrave;o năm 1948, WHO l&agrave; cơ quan của Li&ecirc;n Hợp Quốc c&oacute; nhiệm vụ kết nối c&aacute;c quốc gia, đối t&aacute;c v&agrave; người d&acirc;n nhằm th&uacute;c đẩy sức khỏe, bảo vệ an to&agrave;n v&agrave; phục vụ những nh&oacute;m dễ bị tổn thương &ndash; để mọi người, ở mọi nơi đều c&oacute; thể đạt được mức sức khỏe cao nhất c&oacute; thể.<br /></p><p>Năm 2021, Đại hội đồng Li&ecirc;n Hợp Quốc đ&atilde; th&ocirc;ng qua Nghị quyết đầu ti&ecirc;n về ph&ograve;ng, chống đuối nước, nhấn mạnh mối li&ecirc;n hệ giữa đuối nước v&agrave; ph&aacute;t triển bền vững, c&ocirc;ng bằng x&atilde; hội, sức khỏe đ&ocirc; thị, biến đổi kh&iacute; hậu, giảm thiểu rủi ro thi&ecirc;n tai, cũng như sức khỏe v&agrave; ph&uacute;c lợi trẻ em. Nghị quyết k&ecirc;u gọi WHO điều phối c&aacute;c nỗ lực ph&ograve;ng, chống đuối nước đa ng&agrave;nh trong hệ thống Li&ecirc;n Hợp Quốc v&agrave; chọn ng&agrave;y 25 th&aacute;ng 7 l&agrave; Ng&agrave;y Thế giới Ph&ograve;ng, chống Đuối nước.<br /></p><p>Tại Việt Nam, WHO đồng h&agrave;nh c&ugrave;ng Ch&iacute;nh phủ trong c&ocirc;ng t&aacute;c ph&ograve;ng, chống đuối nước &ndash; với sự hỗ trợ qu&yacute; b&aacute;u từ tổ chức Bloomberg Philanthropies v&agrave; Campaign for Tobacco-Free Kids.</p><p><strong>Tổ chức Campaign For Tobacco-Free Kids (CTFK)</strong></p><p>Campaign For Tobacco-Free Kids l&agrave; một tổ chức phi ch&iacute;nh phủ của Hoa Kỳ, được th&agrave;nh lập v&agrave;o năm 1997.</p><p>Tại Việt Nam, tổ chức n&agrave;y đang phối hợp với c&aacute;c bộ, ng&agrave;nh, địa phương v&agrave; trường đại học để triển khai nhiều chương tr&igrave;nh về y tế c&ocirc;ng cộng &nbsp;bao gồm: ph&ograve;ng, chống t&aacute;c hại của thuốc l&aacute;; ph&ograve;ng, chống đuối nước cho trẻ em; ph&ograve;ng, chống thương t&iacute;ch &nbsp;giao th&ocirc;ng đường bộ; &nbsp;th&uacute;c đẩy dinh dưỡng l&agrave;nh mạnh cho trẻ em.&nbsp;</p></div>
+    </article>
+
+
+
+    </div>
+    <div id="PageContent_T0643CD2A003_Col01" class="sf_colsIn col-sm-4 col-md-4" data-sf-element="Column 2" data-placeholder-label="Related">
+        <p class="section-header">Media Contacts</p>
+
+
+<div class="list-view author-list vertical-list vertical-list--image">
+            <div class="list-view--item vertical-list-item">
+                <div class="table-cell">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="/images/default-source/wpro/countries/viet-nam/about-us/img_2823_1.tmb-768v.jpg?Culture=en&amp;sfvrsn=ed2173ba_1" style="background-image: url('/images/default-source/wpro/countries/viet-nam/about-us/img_2823_1.tmb-549v.jpg?Culture=en&amp;sfvrsn=ed2173ba_1')"></div>
+                    </div>
+                </div>
+
+                <div class="table-cell info">
+                    <p class="heading"> Trần Thị Loan</p>
+
+                    <p class="person-title">
+                        Đầu mối Truyền th&#244;ng
+                    </p>
+                                            <div>
+                            <strong>Mobile:</strong>
+
+                            <a href="tel:+84 91 5413814 " dir="ltr">+84 91 5413814 </a>
+                        </div>
+                                            <div>
+                            <strong>Email:</strong>
+
+                            <a href="mailto:wpvnmmedia@who.int?Subject=RE">wpvnmmedia@who.int</a>
+                        </div>
+                </div>
+            </div>
+</div>
+
+
+    </div>
+</div>
+<div class="row sf-detail-content" data-sf-element="Row">
+    <div id="PageContent_T0643CD2A005_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Related multimedia">
+    </div>
+    <div id="PageContent_T0643CD2A005_Col01" class="sf_colsIn col-sm-4 col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+    </div>
+    <div id="PageContent_T0643CD2A006_Col02" class="sf_colsIn col-md-1" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+</div>
+
+</div>
+
+    </div>
+</div>
+ </section> <!-- footer:on --> <!--noindex--><!--stopindex--> <footer id="sf-footer"> <div class="main-footer"> 
+
+<script type="text/javascript">
+$(document).ready(function() {
+ $("#ysf-primary-geo-navigation-sites .country-site a:contains('Guam (USA)')")
+    .first()
+    .text("Guam (USA) *");
+  
+   $("#ysf-primary-geo-navigation-sites .country-site a:contains('American Samoa (USA)')")
+    .first()
+    .text("American Samoa (USA) *");
+
+
+ $("#ysf-primary-geo-navigation-sites .country-site a:contains('Northern Mariana Islands (USA)')")
+    .first()
+    .text("Northern Mariana Islands (USA) *");
+  
+ $('#sf-geo-navigation-container .sf-secondary-geo-navigation-country a')
+    .filter(function () {
+      return $.trim($(this).text()) === 'Guam (USA)';
+    })
+    .text('Guam (USA) *');
+
+
+ $('#sf-geo-navigation-container .sf-secondary-geo-navigation-country a')
+    .filter(function () {
+      return $.trim($(this).text()) === 'American Samoa (USA)';
+    })
+    .text('American Samoa (USA) *');
+
+   $('#sf-geo-navigation-container .sf-secondary-geo-navigation-country a')
+    .filter(function () {
+      return $.trim($(this).text()) === 'Northern Mariana Islands (USA)';
+    })
+    .text('Northern Mariana Islands (USA) *');
+
+});
+
+</script>
+
+<script type="text/javascript">
+$(document).on("click", 'li.has-children > a:contains("Countries")', function () {
+
+  var $li = $(this).closest("li.has-children");
+  var $container = $li.find(".sf-secondary-geo-navigation-container").first();
+  var $wrapper = $li.find(".sf-secondary-geo-navigation-wrapper").first();
+
+  // Only append if container is visible/open
+  if ($container.is(":visible")) {
+
+    if ($wrapper.find(".__countries-click-note").length === 0) {
+      $wrapper.append('<p>&nbsp;</p><p class="__countries-click-note"><small><i>* In 2025, the United Nations Secretary General, as depository of the WHO Constitution, circulated a notification from the United States of America of its intention to withdraw from the World Health Organization with a stated effective date of 22 January 2026. This notification is pending consideration by WHO’s Governing Bodies. References to the United States of America or its territories within the WHO context, including any display or otherwise of its national flag or insignia, should be understood as subject to, and without prejudice to, such consideration by WHO’s Governing Bodies.</i></small></p>');
+    }
+  }
+});
+
+
+$(document).on("click", "a:contains('Regions')", function () {
+  $(".sf-secondary-geo-navigation-wrapper").find(".__who-note").remove();
+});
+</script>
+<div id="Footer_TD9F2A204001_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="Footer_T75121FDA153_Col00" class="sf_colsIn col-md-9" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="main-navigation--wrapper" id="91081df24d2c41b793f522c13dcca6f6" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/vietnam/vi/footer/quick-links" target="_self">Li&#234;n kết nhanh</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/vietnam/vi/footer/quick-links/newsroom" target="_self">Trung t&#226;m Truyền th&#244;ng</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/quick-links/publications-and-information-resources" target="_self">Ấn phẩm v&#224; t&#224;i nguy&#234;n th&#244;ng tin</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/quick-links/careers-in-who-viet-nam" target="_self">Nghề nghiệp tại WHO Việt Nam</a>
+
+    </li>
+            </ul>
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/regional-links" target="_self">Li&#234;n kết khu vực</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/vietnam/vi/footer/regional-links/data" target="_blank">Dữ liệu</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/regional-links/publications" target="_blank">Ấn phẩm</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/regional-links/campaigns" target="_blank">Chiến dịch</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/regional-links/careers" target="_self">Nghề nghiệp﻿</a>
+
+    </li>
+            </ul>
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/help" target="_self">Trợ giúp</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/vietnam/vi/footer/help/contact-us" target="_blank">Li&#234;n hệ với ch&#250;ng t&#244;i</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/help/email-scams" target="_blank">Cảnh b&#225;o lừa đảo qua email</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/help/integrity-hotline" target="_blank">Đường d&#226;y n&#243;ng</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Footer_T75121FDA153_Col01" class="sf_colsIn col-sm-3 col-md-3 centered-on-mobile" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+</div>
+ 
+
+
+<div id="sf-footer-logo-container">
+    <div class="sf-footer-logo">
+
+    </div>
+</div>
+
+
+ <div class="footer-logo"> <a href="/vietnam/vi" title="Trang chủ"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg" alt="Trang chủ" class="logo" /> </a> </div> </div> <div class="bottom-footer"> <div class="container"> <div class="row"> <div class="col-md-4"> 
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><a href="http://who.int/about/privacy/en/">Privacy legal notice</a></div>
+</div>
+ </div> <div class="col-md-4"> 
+
+
+<div class="social-share--add-this follow-us--footer">
+    <div class="addthis_inline_follow_toolbox"></div>
+</div>
+
+ </div> <div class="col-md-4 copyright"> <span>
+                                ©
+                            </span>
+
+                            2026
+
+                            
+
+
+
+<div class="sf-content-block content-block" >
+    <div >WHO</div>
+</div>
+ </div> </div> </div> </div> </footer> <!--/noindex--><!--startindex--> <!-- footer:off --> </div> <script>
+        window.__define = window.define;
+        window.__require = window.require;
+        window.define = undefined;
+        window.require = undefined;
+    </script> <script src="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.all.min.js" type="text/javascript"></script><script src="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.timezones.min.js" type="text/javascript"></script><script src="/ResourcePackages/WHO/assets/dist/scripts/responsivelylazy.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollToPlugin.min.js" type="text/javascript"></script><script src="/ResourcePackages/WHO/assets/dist/scripts/parallax.min.js?package=WHO" type="text/javascript"></script><script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Search/Mvc/Scripts/SearchBox/Search-box.min.js?package=WHO&amp;v=LTE4MjAwODMz" type="text/javascript"></script><script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Navigation/Mvc/Scripts/LanguageSelector/language-selector.min.js?package=WHO&amp;v=Mzc1NDg4OTQ0" type="text/javascript"></script><script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5803f964fe6c9599" type="text/javascript"></script><script src="/Frontend-Assembly/SitefinityWebApp/Mvc/Scripts/LanguageSelectorAdvanced/language-selector.min.js?package=WHO&amp;v=LTE4MjAwODMz" type="text/javascript"></script><script src="/Mvc/Scripts/ContentBlock/content-block.min.js?package=WHO" type="text/javascript"></script><script type="application/json" id="PersonalizationTracker">
+	{"IsPagePersonalizationTarget":false,"IsUrlPersonalizationTarget":false,"PageId":"216e8968-b242-441e-9219-62a3d12fe390"}
+</script><script type="text/javascript" src="/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPuVWylniiuH85dElS4-sTWByH4RE8E5E1AceaaoCFAJqZaJ0XO7-0paGWvgZTYHK6HfSMq7_7jIhS9QthTeHBDUU0pberHuOZvwLatBEXp3F8dWshLi8dFLqd-R5ePILXLxt9fP0bczWzQjlYINayIOpB5YnfTHc2ZyRpWOgtz7dNZw0Q5MPTr0UAPNLDUP5XStYynM1&amp;t=639135871100000000">
+
+</script><input data-sf-role='en' type='hidden' value='https://www.who.int/vietnam/home/25-07-2025-drowning-rates-not-reducing-fast-enough--says-the-moh--who-and-partners-on-world-drowning-prevention-day'><input data-sf-role='vi' type='hidden' value='https://www.who.int/vietnam/vi/home/25-07-2025-drowning-rates-not-reducing-fast-enough--says-the-moh--who-and-partners-on-world-drowning-prevention-day'><script type="text/javascript">
+$( document ).ready(function() {
+	var searchInput = $("#sf-top-header .sf-search-input-wrapper input");
+	$(document).on("click", ".srchtoggle", function() {
+	    $("body").toggleClass("search-open");
+	    searchInput.focus();
+	});
+});
+$(document).click(function(event) { 
+  var $target = $(event.target);
+  if((!$target.closest('#sf-top-header').length && $('#sf-top-header').is(":visible"))&&(!$target.closest('.navigation-search').length)) {
+    $(".search-open").removeClass("search-open")
+  }        
+});
+</script><input data-custom-language-selector='en' type='hidden' value='https://www.who.int/vietnam/vi/news/detail/25-07-2025-drowning-rates-not-reducing-fast-enough--says-the-moh--who-and-partners-on-world-drowning-prevention-day'><script type="text/javascript">
+$(document).ready(function () {
+   if(window.location.href.indexOf("/vietnam/vi") > -1) {
+   $("#donate-div").attr("style", "display: none !important");
+$("#donate-div-mob").attr("style", "display: none !important");
+  }
+});
+</script> <!-- js to scrape:on --> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/slicknav.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/auto-complete.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/match-height.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/lazy.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/modernizr-custom.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/select2.full.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/accordion-footer-list.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/main.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/main-navigation.min.js?v=14.0.7729.22978'></script><script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/geo-navigation.min.js?v=14.0.7729.22978'></script> <!-- js to scrape:off --> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/image-resolution.min.js?v=14.0.7729.22978'></script> <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "WebPage",
+            "name": "Chi ti&#234;́t",
+            "description": ""
+            }
+        </script> <script>
+        // Picture element HTML5 shiv
+        document.createElement("picture");
+    </script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/picturefill.min.js?v=14.0.7729.22978'></script> <script>
+        window.define = window.__define;
+        window.require = window.__require;
+        window.__define = undefined;
+        window.__require = undefined;
+    </script> </body> </html>

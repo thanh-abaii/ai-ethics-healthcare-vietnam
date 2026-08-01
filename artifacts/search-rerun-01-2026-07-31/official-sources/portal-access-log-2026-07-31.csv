@@ -1,0 +1,5 @@
+"portal","homepage_url","retrieval_utc","http_status","status","limitation"
+"GOV-VB","https://vanban.chinhphu.vn/","2026-07-31T13:55:00Z","200","ACCESSIBLE","Homepage only; this run did not automate the ASP.NET legal-document search."
+"GAZ","https://congbao.chinhphu.vn/","2026-07-31T13:55:00Z","200","ACCESSIBLE","Homepage only; this run did not complete query-specific pagination."
+"VBPL","https://vbpl.vn/","2026-07-31T13:55:00Z","TLS_ERROR","FAIL_CLOSED","Client TLS negotiation failed; no substitute portal was used."
+"MST","https://mst.gov.vn/","2026-07-31T13:55:00Z","200","ACCESSIBLE_PARTIAL","Internal news-search raw pages captured in mst-query-run-2026-07-31.csv; it is not a legal-document portal completion."

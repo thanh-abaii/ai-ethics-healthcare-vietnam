@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Cache-Control: private, max-age=0
+Expires: Fri, 31 Jul 2026 14:06:47 GMT
+Vary: User-Agent
+X-EventID: 6a6cac330384499fbc72620846eeb930
+UserAgentReductionOptOut: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Permissions-Policy: unload=()
+Content-Security-Policy: script-src https: 'strict-dynamic' 'report-sample' 'wasm-unsafe-eval' 'nonce-bBytShw4UEdlFF9iJfxMRBTkrHEJ97xRwgBs2KtSHkY='; base-uri 'self';
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+X-Display-Context: full
+Date: Fri, 31 Jul 2026 14:07:47 GMT
+Transfer-Encoding:  chunked
+Connection: keep-alive
+Connection: Transfer-Encoding
+Set-Cookie: MUID=14A518D931C16D2321FA0F7E30D76CB5; domain=.bing.com; expires=Wed, 25-Aug-2027 14:07:47 GMT; path=/; secure; SameSite=None
+Set-Cookie: MUIDB=14A518D931C16D2321FA0F7E30D76CB5; expires=Wed, 25-Aug-2027 14:07:47 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=F=1&SID=09C66477E0F86581062173D0E1EE64B5; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: _EDGE_V=1; domain=.bing.com; expires=Wed, 25-Aug-2027 14:07:47 GMT; path=/; HttpOnly
+Set-Cookie: __Host-XY=CfDJ8A8rLfEh4ZdMhJ19YNJ4FtSiwNArLeVf3fHXFfelk2JE-42JYQLFiZI5-IoU5xTvwQcI9N7g_X9hRldBkkSYytNUDKEgWRHnBKBDCmg82KShifsU1f_EIl1d4tTyUmxXtCkVtlTtNS4lut_v0GPKQQQjx243xmGXwM4HaJUL72nXPxd2P3eFQoZyZrqrEDtAQXShLZZNz_Dr7oD4xZ4Yg9YClztf-0gK_xp4nYY1rV37N9MYnFNZwlMP8B3DGx3wAQ; expires=Sat, 01-Aug-2026 21:07:47 GMT; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: SRCHHPGUSR=V=CfDJ8A8rLfEh4ZdMhJ19YNJ4FtTKHvhDOz3VAl9c6p6J3lFi4DtgKXTko66OSK9N_cd_QigIyH13Ed0ua1V7p2xEZCKrm4NDD2cmrXJV0J8TDrSeuWXs9YGvllnX3HKn_-lJNmZo7zXshK8V0a-IARFfbaI&SRCHLANG=en&IG=21EF758D2BD54C18B2D9BCDC9ADD4FCD; domain=.bing.com; expires=Mon, 31-Jul-2028 14:07:47 GMT; path=/
+Set-Cookie: SRCHD=AF=NOFORM; domain=.bing.com; expires=Mon, 31-Jul-2028 14:07:47 GMT; path=/
+Set-Cookie: SRCHUID=V=2&GUID=AA5FB34AF91F4941BFD9DDB34243FAB0&dmnchg=1; domain=.bing.com; expires=Mon, 31-Jul-2028 14:07:47 GMT; path=/
+Set-Cookie: SRCHUSR=DOB=20260731; domain=.bing.com; expires=Mon, 31-Jul-2028 14:07:47 GMT; path=/
+Set-Cookie: _SS=SID=09C66477E0F86581062173D0E1EE64B5; domain=.bing.com; path=/
+Alt-Svc: h3=":443"; ma=93600
+X-CDN-TraceID: 0.c723d517.1785506867.1799fb13
+

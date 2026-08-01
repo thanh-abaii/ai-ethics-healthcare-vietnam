@@ -1,0 +1,10 @@
+{
+  "Server": "nginx/1.18.0 (Ubuntu)",
+  "Content-Type": "text/html; charset=UTF-8",
+  "Connection": "close",
+  "Cache-Control": "no-cache",
+  "Date": "Sat, 01 Aug 2026 08:42:29 GMT",
+  "Set-Cookie": "emr_session=eyJpdiI6IkhOd3ZEV1Zrdy9Wb0c3Z05BVjNqblE9PSIsInZhbHVlIjoiUVljMGh5OW81VlRCbFhxaXhyYlpLWjA2aEJwK2xpQnd3TXBuaDNac2VDQUJiS0xMSmpXcVJxY092VEM0enk1TUdvS3B2cFZQbDhIZ0NQeW5BQ2ZUcW5nenBNVVY0NTZRRy9icE1aU0VxSUxLOXBwZTNKdHZpeEFIaENzUnVDNTIiLCJtYWMiOiI3MTJhMjAwMjkwYmY3MjYyZTk5NGM3ODBiY2JlMDQ5ZmEyN2Q3YWZhM2I2M2YxNTA4OTJkMWQxMTczZTdjZDY0IiwidGFnIjoiIn0%3D; expires=Sat, 01 Aug 2026 10:42:29 GMT; Max-Age=7200; path=/; httponly; samesite=lax",
+  "Last-Modified": "Saturday, 01-Aug-2026 08:42:29 GMT",
+  "Strict-Transport-Security": "max-age=15768000"
+}

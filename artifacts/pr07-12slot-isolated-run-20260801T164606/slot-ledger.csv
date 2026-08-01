@@ -1,0 +1,13 @@
+slot_id,slot_class,status,rationale,acquired_url,terminal_reached
+MINISTRY-01,MINISTRY,RETRIEVED,Acquired official target from asttmoh.vn under query DQ-IMPL-02,https://asttmoh.vn/,YES
+MINISTRY-02,MINISTRY,RETRIEVED,Acquired official target from imda.moh.gov.vn under query DQ-IMPL-04,https://imda.moh.gov.vn/,YES
+MINISTRY-03,MINISTRY,UNRETRIEVABLE,All direct locators returned HTTP 403 / WAF bot blocking or connection error after 3 retries,NONE,YES
+MINISTRY-04,MINISTRY,UNRETRIEVABLE,All direct locators returned HTTP 403 / WAF bot blocking or connection error after 3 retries,NONE,YES
+INTL-01,INTL,RETRIEVED,Acquired official target from www.who.int/vietnam under query DQ-IMPL-03,https://www.who.int/vietnam/,YES
+INTL-02,INTL,UNRETRIEVABLE,All direct locators returned HTTP 403 / WAF bot blocking or connection error after 3 retries,NONE,YES
+INTL-03,INTL,RETRIEVED,Acquired official target from www.who.int/vietnam under query DQ-IMPL-03,https://www.who.int/vietnam/,YES
+SENTINEL-01,SENTINEL,UNRETRIEVABLE,All direct locators returned HTTP 403 / WAF bot blocking or connection error after 3 retries,NONE,YES
+SENTINEL-02,SENTINEL,RETRIEVED,Acquired official target from soyte.danang.gov.vn under query DQ-IMPL-01,https://soyte.danang.gov.vn/,YES
+SENTINEL-03,SENTINEL,RETRIEVED,Acquired official target from medinet.gov.vn under query DQ-IMPL-01,https://medinet.gov.vn/,YES
+SENTINEL-04,SENTINEL,RETRIEVED,Acquired official target from bachmai.gov.vn under query DQ-IMPL-01,https://bachmai.gov.vn/,YES
+SENTINEL-05,SENTINEL,RETRIEVED,Acquired official target from vinmec.com under query DQ-IMPL-01,https://vinmec.com/,YES

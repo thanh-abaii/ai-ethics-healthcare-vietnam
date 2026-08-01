@@ -1,0 +1,18 @@
+{
+  "Server": "nginx",
+  "Date": "Sat, 01 Aug 2026 04:43:53 GMT",
+  "Content-Type": "text/html; charset=UTF-8",
+  "Transfer-Encoding": "chunked",
+  "Connection": "close",
+  "Vary": "Accept-Encoding",
+  "Set-Cookie": "AUTH_BEARER_default=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE3ODU1NTk0MzMsImp0aSI6InBOYnhUSWN0ZStVVlVvTEQ5WkgxVVpjeWc3SWRJcHdNN3ZCcHUrR2ZZcDg9IiwiaXNzIjoia2NiLnZuIiwibmJmIjoxNzg1NTU5NDMzLCJleHAiOjE3ODU1NjMwMzMsImRhdGEiOiJjc3JmVG9rZW58czo2NDpcIjk2ZjQyYWM1NTE3OTM1ZjA0MTA4ZDQ2NTFjNjI1YzZkZTM2ZTBlMDViNjVhM2JmN2QxM2ZmMWMwZWU3NTkzNDRcIjtndWVzdElkfHM6MzI6XCJmZGVjMjk2YmMyY2MwMjgyZGI3ZTcyOGMxYzk4MTI3ZVwiOyJ9.7GdNPKpLaj_laJbJoQ9e8gDqAZdn0xVELr55M4nZiKYWdtSVDllE1mT1BsoAYVwSvHcyPjsjaSRqT3Gk7giuQg; path=/; secure; HttpOnly; SameSite=Lax",
+  "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+  "Cache-Control": "no-store, no-cache, must-revalidate",
+  "Pragma": "no-cache",
+  "X-Frame-Options": "sameorigin",
+  "Access-Control-Allow-Origin": "kcb.vn",
+  "Access-Control-Allow-Credentials": "true",
+  "Access-Control-Allow-Methods": "GET, POST, HEAD",
+  "Access-Control-Allow-Headers": "Accept,Authorization,Cache-Control,Content-Type,DNT,If-Modified-Since,Keep-Alive,Origin,User-Agent,X-Requested-With",
+  "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload"
+}

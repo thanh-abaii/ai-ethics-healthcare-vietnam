@@ -1,0 +1,28 @@
+{
+  "artifacts": [
+    {
+      "file": "request.json",
+      "bytes": 399,
+      "sha256": "eabce12bcbafc68d293a6613a3572f66e4891bd9288967f7c7159da2f5d6a3fb"
+    },
+    {
+      "file": "response-body.html",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "response-headers.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": "transport-stderr.txt",
+      "bytes": 58,
+      "sha256": "fd28073aa2fee7cf83137b8a84efed8dd2284bf46091a89f10082db62c399595"
+    }
+  ],
+  "status": "FAIL_CLOSED_RETRIEVAL_FAILED",
+  "requested_url": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=175587",
+  "item_id": "175587",
+  "curl_exit_code": 28
+}

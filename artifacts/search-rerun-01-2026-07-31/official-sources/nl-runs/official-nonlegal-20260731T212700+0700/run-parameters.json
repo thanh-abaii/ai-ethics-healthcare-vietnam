@@ -1,0 +1,22 @@
+{
+  "run_id": "official-nonlegal-20260731T212700+0700",
+  "started_at": "2026-07-31T14:20:00+00:00",
+  "catalog": "C:\\Users\\DELL\\Documents\\2. Research & Writing\\dao-duc-ai-tu-gia-tri-den-van-hanh\\docs\\research\\ai-ethics-healthcare-vietnam\\artifacts\\search-rerun-01-2026-07-31\\official-sources\\nonlegal-portals-2026-07-31\\query-catalog.csv",
+  "catalog_sha256": "089F7546463AE213D3E630844448451F7B98905328159E6230161A6E67D1F1F5",
+  "channels": [
+    "MOH",
+    "MOH-ASTT",
+    "MOH-KCB",
+    "MOH-HTTB",
+    "MOH-NHIC",
+    "MOH-PC",
+    "MOH-HSPI",
+    "UNESCO-RAM",
+    "WHO-VNM"
+  ],
+  "max_pages": 5,
+  "timeout_seconds": 12,
+  "stop_rule": "50 results or 5 internal pages; stop at cap or two consecutive pages with no new candidate URL; fallback site: requires separately recorded discovery run",
+  "depth": 2,
+  "scope": "transport/candidate-locator capture only; no screening, source acquisition, extraction, citation chasing, or PRISMA count"
+}

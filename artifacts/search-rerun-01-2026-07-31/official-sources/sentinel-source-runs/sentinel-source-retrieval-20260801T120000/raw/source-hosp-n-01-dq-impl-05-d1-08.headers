@@ -1,0 +1,18 @@
+Content-Type: text/html; charset=utf-8
+X-Akamai-Transformed: 9 28519 0 pmb=mRUM,2
+Vary: Accept-Encoding
+Expires: Sat, 01 Aug 2026 05:03:34 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sat, 01 Aug 2026 05:03:34 GMT
+Transfer-Encoding: chunked
+Connection: close
+Connection: Transfer-Encoding
+Server-Timing: cdn-cache; desc=MISS
+Server-Timing: edge; dur=164
+Server-Timing: origin; dur=199
+Alt-Svc: h3=":443"; ma=93600
+Akamai-Cache-Status: NotCacheable from child
+Akamai-GRN: 0.71965468.1785560613.204442b9
+Server-Timing: ak_p; desc="1785560613111_1750374001_541344441_36294_14306_133_552_-";dur=1
+

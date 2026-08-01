@@ -1,0 +1,9 @@
+{
+  "Set-Cookie": "TSbc0fe6d4078=08a5ec0864ab2000cb40cce81ce5da48ddf525b3f2202019e84177e2cbfe00a86b18aad3f3c1d1f6081e3c162f183001d496fb028193d4c1ce5344d27e060b66b3cf221810aa7a7fdecff40817467a2967d16833244da9b672a8049de2e22d61233c903ab72046ba3bfef55ea24d2d0bc290048a081d2a40383f47c2ecae7d6c210c46d001066be779092918edc4c4d0048b4518b5f18d9ce084e62bc17f8b6e1d51eb653ea4116495751c1ca96d402b864e446bd22066fcfa47f4c8f68ee7c55cf8d9fbea0c7f16630ef781a86b5fb01793548adce59f7078046442eff233b05d5ee114403d1aab8fe2d6d2e573f5e5402e173ee484e718c6e2972a48cd42489e56d0b16eb4ca449145b005208eee829e019840ef8ecc5ce6c27b28e94fd3dcabd1de2a86af2dbda7195e81d1b4c7ce5264f3c3aea7b00bba5c0263b673b26b4faf9731ec6f082878adbc6324d2169de07018f4d2e718950e675b506d5b66bc; Max-Age=30; Path=/",
+  "Cache-Control": "no-store, must-revalidate, no-cache, max-age=0",
+  "Content-Type": "text/html",
+  "Content-Length": "45291",
+  "X-Frame-Options": "SAMEORIGIN",
+  "X-XSS-Protection": "1; mode=block",
+  "X-Content-Type-Options": "nosniff"
+}

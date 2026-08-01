@@ -1,0 +1,916 @@
+ <!DOCTYPE html> <html lang="vi"> <head> <!-- head to scrape:on --> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1"><title>
+	Đ&#227; đến l&#250;c phải h&#224;nh động quyết liệt hơn để l&#224;m sạch kh&#244;ng kh&#237; v&#236; sức khỏe người d&#226;n
+</title> <link rel="shortcut icon" href="/favicon.ico"> <link rel="manifest" href="/manifest.json"> <link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png"> <meta name="theme-color" content="#007eb4" /> <link rel="preconnect" href="https://fonts.googleapis.com" /> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /> <link rel="preconnect" href="https://use.fontawesome.com" crossorigin /> <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" /> <link rel="dns-prefetch" href="https://kendo.cdn.telerik.com" /> <link rel="prefetch" href="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.all.min.js"> <link rel="prefetch" href="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.timezones.min.js"> <link rel="preconnect" href="https://cdn.who.int" /> <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"> <link href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" type="text/css" /> <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/grid.min.css?v=14.0.7729.22978' > <!-- head to scrape:off --> <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/origin.min.css?v=14.0.7729.22978' ><link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/main.min.css?v=14.0.7729.22978' > <link rel='stylesheet' href='/ResourcePackages/WHO/assets/dist/styles/print.min.css?v=14.0.7729.22978' media='print'> <!-- Fundraise Up: the new standard for online giving --> <script>
+        (function (w, d, s, n, a) {
+            if (!w[n]) {
+                var l = 'call,catch,on,once,set,then,track,openCheckout'
+                    .split(','), i, o = function (n) {
+                        return 'function' == typeof n ? o.l.push([arguments]) && o
+                            : function () { return o.l.push([n, arguments]) && o }
+                    }, t = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s); j.async = !0; j.src = 'https://cdn.fundraiseup.com/widget/' + a + '';
+                t.parentNode.insertBefore(j, t); o.s = Date.now(); o.v = 5; o.h = w.location.href; o.l = [];
+                for (i = 0; i < 8; i++)o[l[i]] = o(l[i]); w[n] = o
+            }
+        })(window, document, 'script', 'FundraiseUp', 'AMEEWKFZ');</script> <!-- End Fundraise Up --> 
+            <script>
+                var lang = document.documentElement.lang; 
+                window.dataLayer = window.dataLayer || []; 
+                window.dataLayer.push({'language': lang });
+                window.dataLayer.push({
+  "pagetype": "webpage",
+  "targetaudience": "general-audience",
+  "targetcountry": "global",
+  "healthtopic": "none"
+});</script> <script>
+                    (function() {
+                    function deleteCookie(cookieName,domain) {
+                        document.cookie = cookieName + '=;expires=Mon Jan 01 1900 00:00:00 ; path=/; domain=' + domain;
+                    }
+                    function loadAndTrack(canTrack) {
+                        if (!canTrack) {
+                            var domain = location.hostname.replace(/^www\./i, '.');
+                            //GA
+                            deleteCookie('_ga', domain);
+                            deleteCookie('_gat', domain);
+                            deleteCookie('_gid', domain);
+                            //Clarity
+                            deleteCookie('_clck', domain);
+                            deleteCookie('_clsk', domain);
+                            //Google Adsense
+                            deleteCookie('_gcl_au', domain);
+                        }
+                        else{
+                            //Fire GTM
+                            //Google Tag Manager
+                                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                                })(window,document,'script','dataLayer','GTM-5QFSQRT');
+                            //End Google Tag Manager
+                        }
+                        return;
+                    }
+
+                    if (window.TrackingConsentManager) {
+                        TrackingConsentManager.addEventListener('ConsentChanged', loadAndTrack);
+                        loadAndTrack(TrackingConsentManager.canTrackCurrentUser());
+                    }
+                    else {
+                        loadAndTrack(true);
+                    }
+                    })();
+                </script><meta property="og:locale" content="vi_VN" /><style type="text/css" media="all">@media (min-width:1020px){#sf-top-header{background-color:#000}.sfPageEditor #sf-top-header{background-color:inherit}#sf-top-header ul li a{color:#fff!important}#sf-top-header ul.rdCommands li a{color:#000!important}.sfPageEditor #sf-top-header ul li a{color:inherit}#sf-top-header div.navigation-search>span>i{color:#fff!important}#sf-top-header #sf-geo-navigation-container ul.sf-primary-geo-navigation .has-children>a:after{filter:brightness(0) invert(1)}#sf-top-header #search-form .search-button .fa{font-size:22px;color:#008dc9}#sf-top-header #search-form .search-button{min-height:48px;background-color:#efefef;color:#fff;text-align:center}#sf-top-header select{font:400 12px/1.3 sans-serif;-webkit-appearance:none;appearance:none;line-height:1;outline:0;background-repeat:no-repeat,no-repeat,no-repeat,no-repeat;background-size:1px 100%,20px 22px,20px 22px,20px 100%;background-position:right 20px center,right bottom,right bottom,right bottom;color:#fff!important;font-size:15px;font-weight:700;line-height:28px;min-width:110px;height:44px;padding:.65em 24px .55em 8px;cursor:pointer;background-color:#000;border:0 #000}#sf-top-header select:hover{background-image:linear-gradient(var(--accentFg),var(--accentFg)),linear-gradient(-135deg,transparent 50%,var(--accentFg) 50%),linear-gradient(-225deg,transparent 50%,var(--accentFg) 50%),linear-gradient(var(--accentFg) 42%,var(--accentBg) 42%)}#sf-top-header select:active{background-image:linear-gradient(var(--accentFg),var(--accentFg)),linear-gradient(-135deg,transparent 50%,var(--accentFg) 50%),linear-gradient(-225deg,transparent 50%,var(--accentFg) 50%),linear-gradient(var(--accentFg) 42%,var(--accentBg) 42%);color:var(--accentBg);border-color:var(--accentFg);background-color:var(--accentFg)}#sf-top-header .select-selected.select-arrow-active:after{border-color:transparent transparent #fff transparent;top:7px}#sf-top-header .select-items div,.select-selected{color:#fff;padding:8px 16px;border:1px solid transparent;border-color:transparent transparent rgba(0,0,0,.1) transparent;cursor:pointer}#sf-top-header .select-items{position:absolute;background-color:#1e90ff;top:100%;left:0;right:0;z-index:99}#sf-top-header .select-hide{display:none}#sf-top-header .select-items div:hover,.same-as-selected{background-color:rgba(0,0,0,.1)}#sf-top-header select option,#sf-top-header select option:active,#sf-top-header select option:focus{background:linear-gradient(#000,#000);background-color:#fff!important;color:#000!important}#sf-top-header select .selected{background:linear-gradient(#000,#000);background-color:#fff!important;color:#008dc9!important}#sf-top-header #search2 .closebtn{display:none}#sf-top-header div#search2{max-width:450px;max-height:48px}#sf-top-header .col-md-8{display:flex;flex-direction:row;max-height:48px;justify-content:flex-end}.sfPageEditor #sf-top-header .col-md-8{display:block;flex-direction:inherit;max-height:inherit;justify-content:inherit}#sf-top-header #sf-geo-navigation-container ul.sf-primary-geo-navigation>li>a{min-height:48px;max-height:48px}#sf-top-header #search-form input[type=text]{min-height:48px;padding:0 0;font-size:16px}#sf-top-header #search-form input[type=text]{border-radius:0!important;border:0!important;background-color:transparent;color:#000}#sf-top-header #search-form .search-button{border-radius:0!important;background-color:transparent}#sf-top-header #search-form .search-button:hover{background-color:inherit}#sf-top-header #search-form input[type=text]:focus{border-radius:0!important;border:0!important;outline:-webkit-focus-ring-color auto 0}#sf-top-header .language-selector>i.fa-language{color:#fff;margin-left:0!important;font-size:16px;padding-left:0}#sf-top-header .language-selector>i.fa-language{content:url(/ResourcePackages/WHO/assets/dist/images/Translation.svg);vertical-align:middle;filter:brightness(0) invert(1);height:24px;margin-top:-4px}#sf-top-header .navigation-search i.fa-search{vertical-align:middle;filter:brightness(0) invert(1);position:initial;top:auto;left:auto;transform:inherit;height:48px;width:24px;margin-right:8px;display:flex;justify-content:center;align-items:center;font-size:24px}#sf-top-header div.language-selector i.fa-angle-down{color:#fff;margin-left:-22px;content:url(/ResourcePackages/WHO/assets/dist/images/arrow-down-blue.svg);vertical-align:middle;height:22px;filter:brightness(0) invert(1);margin-top:-4px;pointer-events:none}.right-to-left #sf-top-header div.language-selector i.fa-angle-down{margin-left:22px;margin-top:4px}#sf-top-header #search-form .search-button:hover{background-color:transparent}#sf-top-header #search-form .search-button i:hover{color:#008dc9}#sf-top-header #search2 .wrapper{height:48px;background-color:#efefef}#sf-top-header #search2 .wrapper:hover{border-bottom:5px solid #008dc9}#sf-top-header #search2 .wrapper:focus-within{border-bottom:5px solid #008dc9}#sf-top-header{font-size:15px!important;line-height:18px}#sf-top-header div.language-selector i{color:#fff}#sf-top-header .language-selector{min-width:220px}.search-open{overflow:inherit!important}.search-open #sf-top-header{display:block}.search-open #sf-top-header .search-overlay{position:inherit;top:inherit;left:inherit;z-index:inherit;width:inherit;height:inherit;overflow-x:inherit;opacity:0;visibility:inherit;background-color:inherit;background-color:inherit}.search-open #sf-top-header{display:block}#sf-top-header .language-selector{padding-left:48px!important}#sf-top-header .sf-secondary-geo-navigation-container{top:48px}.search-open{overflow:hidden}.search-open #sf-top-header{display:block}.search-open #sf-top-header .search-overlay{position:fixed;top:0;left:0;z-index:2000;width:100%;height:100%;overflow-x:hidden;opacity:1;visibility:visible;background-color:#20313b;background-color:rgba(32,49,59,.9);transition:.5s}.search-open #sf-top-header #search-form{display:block}.search-open #sf-top-header .search-overlay{position:relative;top:inherit;left:inherit;z-index:inherit;width:inherit;height:inherit;overflow-x:inherit;opacity:inherit;visibility:inherit;background-color:inherit;background-color:inherit;transition:.5s}#sf-top-header .search-overlay .wrapper{position:relative;top:inherit;width:inherit;max-width:inherit;padding:inherit;margin:inherit;right:inherit;left:inherit;-ms-transform:inherit;transform:inherit}#sf-top-header .navigation-search span{height:48px;vertical-align:middle;align-items:center;justify-content:center}#sf-top-header .navigation-search{display:flex;height:48px;margin-left:4px}.search-open #sf-top-header .navigation-search{display:none}#search-form label{float:right}.right-to-left #sf-top-header div#search2{padding-left:48px}.right-to-left #search-form label{padding-right:24px!important}.k-ie .language-selector i{margin-top:6px!important}.k-ie #sf-top-header #sf-geo-navigation-container ul.sf-primary-geo-navigation .has-children>a::after{content:"\f107"!important;font-family:"Font Awesome 5 Free";margin-top:2px!important;padding-left:8px!important}.k-ie #sf-top-header #sf-geo-navigation-container ul.sf-primary-geo-navigation .has-children.open>a::after{margin-top:-1px!important}.language-selector.language-selector-header{display:none}}@media (max-width:1019.5px){.search-open #sf-top-header .language-selector{display:none!important}.search-open #sf-top-header #sf-geo-navigation-container{display:none!important}#sf-top-header .navigation-search span{display:none!important}.slicknav_addition select{font:400 12px/1.3 sans-serif;-webkit-appearance:none;appearance:none;color:var(--baseFg);border:1px solid var(--baseFg);line-height:1;outline:0;border-radius:var(--radius);background-color:var(--baseBg);background-repeat:no-repeat,no-repeat,no-repeat,no-repeat;background-size:1px 100%,20px 22px,20px 22px,20px 100%;background-position:right 20px center,right bottom,right bottom,right bottom;color:#fff!important;font-size:18px;font-weight:700;line-height:18px;min-width:110px;height:44px;padding:.65em 24px .55em 8px;cursor:pointer;padding-left:20px}.slicknav_addition .select-selected.select-arrow-active:after{border-color:transparent transparent #fff transparent;top:7px}.select-selected,.slicknav_addition .select-items div{color:#fff;padding:8px 16px;border:1px solid transparent;border-color:transparent transparent rgba(0,0,0,.1) transparent;cursor:pointer}.slicknav_addition .select-items{position:absolute;background-color:#1e90ff;top:100%;left:0;right:0;z-index:99}.slicknav_addition .select-hide{display:none}.same-as-selected,.slicknav_addition .select-items div:hover{background-color:rgba(0,0,0,.1)}.slicknav_addition select option,.slicknav_addition select option:active,.slicknav_addition select option:focus{background:linear-gradient(#000,#000);background-color:#fff!important;color:#000!important}.slicknav_addition select option .selected{background:linear-gradient(#000,#000);background-color:#fff!important;color:#008dc9!important}.slicknav_addition i.fas.fa-language{display:none}li.slicknav_addition.sf-lang-selector label{width:100%;position:relative}li.slicknav_addition.sf-lang-selector label select{min-width:100%}li.slicknav_addition .fa-angle-down{font-size:24px;position:absolute;top:10px;right:25px}.right-to-left .fa-angle-down{font-size:24px;position:absolute;top:10px!important;left:24px!important;right:inherit!important}}.right-to-left .fa-angle-down{font-size:24px;position:absolute;top:10px!important;left:24px!important;right:inherit!important}.sf-lang-selector.list-inline select{font-size:16px;font-weight:700;line-height:18px;min-width:110px;height:35px;padding:0 24px 0 8px;cursor:pointer;padding-left:20px}.sf-lang-selector.list-inline select:hover{background-image:linear-gradient(var(--accentFg),var(--accentFg)),}.sf-lang-selector.list-inline select:active{background-image:linear-gradient(var(--accentFg),var(--accentFg)),color: var(--accentBg);border-color:var(--accentFg);background-color:var(--accentFg)}.sf-lang-selector.list-inline select option,.sf-lang-selector.list-inline select option:active,.sf-lang-selector.list-inline select option:focus{background:linear-gradient(#000,#000);background-color:#fff!important;color:#000!important}.sf-lang-selector.list-inline select option .selected{background:linear-gradient(#000,#000);background-color:#fff!important;color:#008dc9!important}.sf-lang-selector.list-inline select option .selected{background:linear-gradient(#000,#000);background-color:#fff!important;color:#008dc9!important}#sf-top-header #search-form .search-button:focus{outline:0;box-shadow:none}@media (min-width:1020px){#sf-top-header span.srchaction i,#sf-top-header span.srchtoggle i{width:24px;font-size:24px;color:#fff!important;cursor:pointer}#sf-top-header .sf-search-input-wrapper input{height:48px;border:0;border-radius:0;padding:0 24px 0 24px;color:#000;font-size:15px;line-height:normal;letter-spacing:normal;font-weight:400;font-style:normal;font-stretch:normal;background-color:transparent}#sf-top-header .sf-search-input-wrapper input:focus{border-radius:0!important;border:0!important;outline:-webkit-focus-ring-color auto 0}#sf-top-header span.srchaction:focus{border-radius:0!important;border:0!important;outline:-webkit-focus-ring-color auto 0}#sf-top-header .srchaction-wrapper:focus{border-radius:0!important;border:0!important;outline:-webkit-focus-ring-color auto 0}#sf-top-header .form-group.sf-search-input-wrapper{display:flex;flex-direction:row;align-items:center;height:48px}#sf-top-header span.srchaction{padding-left:24px;padding-right:0;border:none;float:left;transition:all .3s ease;box-shadow:none;min-height:48px;text-align:center;display:flex;flex-direction:row;align-items:center}#sf-top-header span.srchaction i{color:#008dc9!important}#sf-top-header .srchaction-wrapper{display:none}.search-open #sf-top-header .srchaction-wrapper{display:flex;height:48px;padding-bottom:5px;background-color:#efefef}.search-open #sf-top-header span.srchtoggle{display:none}#sf-top-header .navigation-search{display:none!important}.search-open #sf-top-header .srchaction-wrapper:focus{border-bottom:solid 5px #008dc9!important}.search-open #sf-top-header .srchaction-wrapper:focus-within{border-bottom:solid 5px #008dc9!important}.search-open #sf-top-header .srchaction-wrapper:hover{border-bottom:solid 5px #008dc9!important}}@media (max-width:1019.5px){#sf-top-header .sf-search-input-wrapper{display:none!important}.search-open{overflow:inherit!important}}.right-to-left .sf-search-input-wrapper{padding-left:24px}.right-to-left .srchaction{padding-right:24px;padding-left:0}.ui-autocomplete.ui-front.sf-autocomplete{z-index:999}.right-to-left #sf-top-header span.srchaction{padding-left:0;padding-right:24px}span.srchtoggle{z-index:3}#sf-top-header .srchaction-wrapper{display:flex;opacity:0;transition:.3s all ease;width:0;height:48px}.search-open #sf-top-header .srchaction-wrapper{width:280px;opacity:1}#sf-top-header span.srchtoggle{display:block!important;opacity:1;transition:1s opacity ease}.search-open #sf-top-header span.srchtoggle{transition:.3s opacity ease;opacity:0}.language-selector{z-index:4}
+#sf-top-header .srchaction-wrapper {
+    overflow: hidden;
+}</style><meta property="og:title" content="Đ&#227; đến l&#250;c phải h&#224;nh động quyết liệt hơn để l&#224;m sạch kh&#244;ng kh&#237; v&#236; sức khỏe người d&#226;n" /><meta property="og:description" content="Trong hai tuần qua, người d&#226;n H&#224; Nội v&#224; th&#224;nh phố Hồ Ch&#237; Minh đ&#227; bị kh&#243; thở v&#236; kh&#244;ng kh&#237; tr&#234;n đường phố bị &#244; nhiễm nặng nề. 
+
+&#212; nhiễm kh&#244;ng kh&#237; c&#243; hại cho sức khỏe con người. " /><meta property="og:image" content="/ResourcePackages/WHO/assets/whofallback.jpg" /><meta name="twitter:card" content="summary_large_image" /><link rel="canonical" href="https://www.who.int/vietnam/vi/news/commentaries/time-to-take-bolder-actions-for-clean-air-and-people’s-health" /><meta name="keywords" content="Bình luận" /></head> <body class="sf-body "> <a class="visually-hidden-focusable" href="#content">Skip to main content</a> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QFSQRT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script src="/ScriptResource.axd?d=6DQe8ARl7A9TiuWej5ttChzH_bH_8oN_s_nT_Gi4bPGf8e5n2fEMKPjzLdvKHVty-4ZMcWf8z4wR7Uoe9uwfRcpGME2zu76GUYKLUjE5oVOWl9suUmdsLOBTG0SyiZPAlK9FJAXJhhse1qDM4EhvGTqNsxl81NUrAtHLeXR4O4h0ZoaW0&amp;t=ffffffff844ef973" type="text/javascript"></script><script src="/ScriptResource.axd?d=74FHISOx3fOPKwLxL0RMYsy5CZ1ciqpScg89mHaoCwqm0f3BwT2yIdaPnYAdmSwbYEK1ZSsInvrc-K4nfMcj996OJpQwEQ_jiE7tNvBDDNTsWHMs1V-SmrapMyE1jEszh3aIe8dDrVFevv5g4Az8_4JW2NKXOBG4ECPm9aUN8Tqvcq1P0&amp;t=ffffffff844ef973" type="text/javascript"></script><script src="/ScriptResource.axd?d=BipRCKUteAIr0PTUVR7xo6LCrTtac4Cof8FsWeF6Rs8EdDSOktcsIs7LNHQe0q9fjlWLg7K_ACXChvDiB89LssRRoiAaWPfFtKZ5o-YMiaG0eBABoldv--hS66lgbT7E3_ovT6krZJ6OXhPP-uxrsovsKl2AJ6Y1yCcYG8mHshUopGyI0&amp;t=ffffffff844ef973" type="text/javascript"></script> <div class="sf-main-site main-site main"> <!-- header:on --> <!--noindex--><!--stopindex--> <header> <div id="sf-top-header" class="sf-top-header top-header"> <div class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"> 
+<div id="TopHeader_TD9F2A204012_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+</div>
+
+
+ <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-md-4" data-sf-element="Geo Navigation" data-placeholder-label="Geo Navigation"> 
+
+
+
+
+    <div id="sf-geo-navigation-container">
+        <nav class="sf-geo-navigation" aria-label="Khu vực">
+            
+            <ul class="sf-primary-geo-navigation">
+                
+
+                <li class=" sf-no-logo">
+                    <a href="https://www.who.int//" class="mobile nav-logo">
+                            <img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" alt="Tổ chức Y tế Thế giới" />
+                    </a>
+                    <a href="https://www.who.int//" class="desktop">To&#224;n cầu</a>
+                </li>
+
+                
+                <li class=" has-children">
+                    <a href="#">Khu vực</a>
+
+                    <div class="sf-secondary-geo-navigation-container">
+                        <div class="sf-secondary-geo-navigation-wrapper">
+                            <div class="sf-geo-navigation-title">
+                                <div class="nav-header">
+                                    <span class="nav-logo">
+                                            <img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" alt="Tổ chức Y tế Thế giới" />
+                                    </span>
+
+
+                                    <span class="nav-title">C&#225;c website của WHO khu vực</span>
+
+                                    <div class="nav-back-btn"><i class="fas fa-angle-left"></i></div>
+                                </div>
+
+
+                            </div>
+
+                            <ul class="sf-secondary-geo-navigation sf-secondary-geo-navigation-region row">
+                                        <li class=" col-md-4">
+                                            <a href="https://www.who.int/southeastasia//">
+
+                                                <span>Đ&#244;ng Nam &#193;</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://www.who.int/europe//">
+
+                                                <span>Ch&#226;u &#194;u</span>
+                                            </a>
+                                        </li>
+                                        <li class=" col-md-4">
+                                            <a href="https://www.who.int/westernpacific//">
+
+                                                <span>T&#226;y Th&#225;i B&#236;nh Dương</span>
+                                            </a>
+                                        </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+
+                    <li class="active has-children">
+                        <a href="#">Quốc gia</a>
+
+                        <div class="sf-secondary-geo-navigation-container">
+                            <div class="sf-secondary-geo-navigation-wrapper">
+                                <div class="sf-geo-navigation-title">
+                                    <div class="nav-header">
+                                        <span class="nav-logo">
+                                                <img class="svg" src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" alt="Tổ chức Y tế Thế giới" />
+                                        </span>
+
+                                        <span class="nav-title">C&#225;c quốc gia, l&#227;nh thổ v&#224; v&#249;ng trong WHO Khu vực T&#226;y Th&#225;i B&#236;nh Dương</span>
+                                        <div class="nav-back-btn"><i class="fas fa-angle-left"></i></div>
+                                    </div>
+                                </div>
+
+                                <ul class="sf-secondary-geo-navigation sf-secondary-geo-navigation-country">
+
+                                        <li class="">
+
+                                                <a href="https://www.who.int/americansamoa//">Samoa thuộc Mỹ</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/australia//">&#218;c</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/brunei//">Vương quốc Bru-n&#226;y</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/cambodia//">Cam-pu-chia</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/china//">Trung Quốc</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/cookislands//">Quần đảo Cook</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/fiji//">Fiji</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/frenchpolynesia//">Polynesia thuộc Ph&#225;p</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/guam//">L&#227;nh thổ Guam (Hoa Kỳ)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/hongkongchina//">Đặc khu h&#224;nh ch&#237;nh Hồng K&#244;ng (Trung Quốc)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/indonesia//"></a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/japan//">Nhật</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/kiribati//">Kiribati</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/laos//">Cộng h&#242;a D&#226;n chủ Nh&#226;n d&#226;n L&#224;o</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/macaochina//">Đặc khu h&#224;nh ch&#237;nh Ma Cao (Trung Quốc)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/malaysia//">Malaysia</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/marshallislands//">Đảo Marshall</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/micronesia//">Micronesia (Li&#234;n bang)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/mongolia//">M&#244;ng Cổ</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/nauru//">Nauru</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/newcaledonia//">T&#226;n Thế Giới (Ph&#225;p)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/newzealand//">New Zealand</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/niue//">Niue</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/northernmarianaislands//">Thịnh vượng chung Quần đảo Bắc Mariana (Hoa Kỳ)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/palau//">Palau</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/papuanewguinea//">Papua New Guinea</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/philippines//">Philippines</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/pitcairnislands//">Pitcairn, Henderson, Ducie v&#224; Oeno (Anh)</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/republicofkorea//">H&#224;n Quốc</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/samoa//">Samoa</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/singapore//">Singapore</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/solomonislands//">Quần đảo Solomon</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/tokelau//">Tokelau</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/tonga//">Tonga</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/tuvalu//">Tuvalu</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/vanuatu//">Vanuatu</a>
+                                        </li>
+                                        <li class="active">
+
+                                                <a href="https://www.who.int/vietnam/vi/">Việt Nam</a>
+                                        </li>
+                                        <li class="">
+
+                                                <a href="https://www.who.int/wallisandfutuna//">L&#227;nh thổ quần đảo Wallis v&#224; Futuna</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+            </ul>
+        </nav>
+    </div>
+ </div> <div class="sf_colsIn col-md-8" data-sf-element="Language Selector & Search" data-placeholder-label="Language Selector & Search"> <!--Navigation search:on--> <!--Navigation search:off--> 
+
+<div class="form-inline">
+<div class="form-group sf-search-input-wrapper" role="search">
+    <div class="srchaction-wrapper">
+        <span class="srchaction">
+            <i id="b4768b60-9e06-4dbe-bd95-0ea87d37f759" class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i>
+        </span>
+        <input type="search" title="Search input" placeholder="Search" id="27bdcb93-390e-4b00-8fb1-973a78daa71d" class="form-control" value="" aria-autocomplete="both" aria-describedby='SearchInfo-1' />
+    </div>
+    
+    <!--Toggle search:start-->
+    <span class="srchtoggle">
+        <i class="fa fa-search fa-2x fa-loaded" aria-hidden="true"></i>
+    </span>
+    <!--Toggle search:end-->    
+    <span id='SearchInfo-1' aria-hidden="true" hidden>When autocomplete results are available use up and down arrows to review and enter to select.</span>
+</div>
+
+<input type="hidden" data-sf-role="resultsUrl" value="/vietnam/vi/news/commentaries/detail" />
+<input type="hidden" data-sf-role="indexCatalogue" value="wallis-funtuna-content-search-index" />
+<input type="hidden" data-sf-role="wordsMode" value="AnyWord" />
+<input type="hidden" data-sf-role="disableSuggestions" value='true' />
+<input type="hidden" data-sf-role="minSuggestionLength" value="3" />
+<input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
+<input type="hidden" data-sf-role="language" value="vi" />
+<input type="hidden" data-sf-role="siteId" value="bad9ef31-b8f9-4c48-b98f-345320b3367a" />
+<input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
+<input type="hidden" data-sf-role="searchTextBoxId" value='#27bdcb93-390e-4b00-8fb1-973a78daa71d' />
+<input type="hidden" data-sf-role="searchButtonId" value='#b4768b60-9e06-4dbe-bd95-0ea87d37f759' />
+</div>
+
+
+
+
+
+<div class="sf-lang-selector language-selector">
+    <i class="fas fa-language" aria-hidden="true"></i>
+    <label for="language-selector">
+        Select language
+    </label>
+            <select onChange="openLink(value)" id="language-selector" name="language-selector">
+    <option disabled selected>Select language</option>
+
+        <option value="en" lang="en" >English</option>
+        <option value="vi" lang="vi" class=selected>Ti&#234;́ngViệt</option>
+</select>
+
+<i class="fas fa-angle-down" aria-hidden="true"></i>
+
+</div>
+
+<style>
+    li.slicknav_addition.sf-lang-selector {
+        width: 100%;
+        position: relative
+    }
+
+        li.slicknav_addition.sf-lang-selector select {
+            min-width: 100%
+        }
+
+    #search-form label {
+        visibility: hidden
+    }
+
+    .language-selector label {
+        width: 0 !important;
+        height: 0;
+        display: inline-block;
+        overflow: hidden
+    }
+</style>
+
+
+ 
+ </div> </div> </div> </div> <!-- logo:on --> <div id="sf-main-header" class="main-header"> <div class="container"> <div class="row" data-sf-element="Row"> <div class="sf_colsIn col-md-12" data-sf-element="Logos" data-placeholder-label="Logos Geo Navigation"> 
+
+
+
+
+    <div id="sf-geo-navigation-sites-container">
+        <nav class="sf-geo-navigation-sites" aria-label="Khu vực">
+            
+            <div id="ysf-primary-geo-navigation-sites" class="sf-primary-geo-navigation-sites">
+                
+                <div class="global-site">
+                    <a href="https://www.who.int//">
+                            <img src="/images/default-source/fallback/header-logos/h-logo-blue1820eae93c154e37b2588ab90fdbc17e.svg?sfvrsn=aaed4f35_20" class="svg" alt="Tổ chức Y tế Thế giới" />
+                    </a>
+                </div>
+
+
+                    <div class="region-and-country-site">
+                        <div class="region-site">
+
+                                <a href="https://www.who.int/westernpacific//" class="font-weight-normal">
+                                    T&#226;y Th&#225;i B&#236;nh Dương
+                                </a>
+                        </div>
+
+                        <div class="country-site">
+
+                                <a href="https://www.who.int/vietnam/vi/">
+                                    Việt Nam
+                                </a>
+                        </div>
+                    </div>
+
+            </div>
+        </nav>
+    </div>
+ <div class="header-logo logos-container"> <a href="/vietnam/vi" title="Trang chủ" class="primary-logo"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-blue.svg" alt="Trang chủ" class="logo svg" /> </a> </div> </div> <!--Donate button starts--> <!--Donate button ends--> </div> </div> 
+ </div> <!-- logo:off --> <!--Mobile donate button starts--> <!--Mobile donate button ends--> <div id="navigationToScrape" class="navigation"> 
+
+
+
+<div class="row sf-simple-nav-row">
+    
+    <nav class="sf-simple-nav-container nav-container" id="1eb3a3555ce5456cbadda08c991d635d" role="navigation">
+        <ul class="sf-simple-nav nav">
+        <li class=" home">
+            <a href="/vietnam/vi" target="_self">Trang chủ</a>
+        </li>
+        <li class="">
+            <a href="/vietnam/vi/health-topics" target="_self">C&#225;c chủ đề y tế</a>
+        </li>
+        <li class="">
+            <a href="/vietnam/vi/our-work" target="_self">C&#244;ng việc của ch&#250;ng t&#244;i</a>
+        </li>
+        <li class="active">
+            <a href="/vietnam/vi/news" target="_self">Tin tức</a>
+        </li>
+        <li class="">
+            <a href="/vietnam/vi/emergencies" target="_self">C&#225;c trường hợp khẩn cấp</a>
+        </li>
+        <li class="">
+            <a href="/vietnam/vi/about" target="_self">Về ch&#250;ng t&#244;i</a>
+        </li>
+        </ul>
+    </nav>
+</div>
+
+
+
+
+ </div> </header> <!--/noindex--><!--startindex--> <!-- header:off --> <section class="sf-content content" id="content" role="main" tabindex="-1"> 
+<div id="PageContent_TA51A0481002_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">
+
+
+
+    <!--noindex--><!--stopindex-->
+    <nav id="53022ef4634744aaac3b087075be6d41" aria-label="You are here">
+        <ul class="sf-breadscrumb breadcrumb">
+                    <li><a href="/vietnam/vi">Trang chủ</a><span aria-hidden="true">/</span></li>
+                    <li><a href="/vietnam/vi/news">Tin tức</a><span aria-hidden="true">/</span></li>
+                    <li><a href="/vietnam/vi/news/commentaries">Các bình lu&#226;̣n</a><span aria-hidden="true">/</span></li>
+                    <li class="active">Chi ti&#234;́t</li>
+        </ul>
+    </nav>
+    <!--/noindex--><!--startindex-->
+    <script type="application/ld+json">
+    {"itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.who.int/vietnam/vi","name":"Trang chủ"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.who.int/vietnam/vi/news","name":"Tin tức"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.who.int/vietnam/vi/news/commentaries","name":"Các bình luận"}},{"@type":"ListItem","position":4,"item":{"@id":"https://www.who.int/vietnam/vi/news/commentaries/detail","name":"Chi tiết"}}],"itemListOrder":"ItemListOrderAscending","@context":"http://schema.org","@type":"BreadcrumbList"}
+    </script>
+
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_TA51A0481001_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Body content"><div id="PageContent_T0643CD2A001_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="PageContent_T0643CD2A002_Col00" class="sf_colsIn col-md-12" data-sf-element="Column 1" data-placeholder-label="Images">
+
+
+
+
+
+
+    </div>
+</div>
+<div class="row" data-sf-element="Row">
+    <div id="PageContent_T0643CD2A006_Col00" class="sf_colsIn col-md-1" data-sf-element="Column 1" data-placeholder-label="Column 1">
+    </div>
+    <div id="PageContent_T0643CD2A006_Col01" class="sf_colsIn col-md-10" data-sf-element="Column 2" data-placeholder-label="Column 2"><div class="row sf-detail-content" data-sf-element="Row">
+    <div id="PageContent_T0643CD2A004_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Item header">
+
+    <div class="sf-item-header-wrapper" >
+        <h1 >Đ&#227; đến l&#250;c phải h&#224;nh động quyết liệt hơn để l&#224;m sạch kh&#244;ng kh&#237; v&#236; sức khỏe người d&#226;n</h1>
+    <div class="date">
+        <span class="timestamp">6 October 2019</span>
+        
+                            
+
+
+
+<div id="readTime">
+    Reading time:
+    <span class="minutes"></span>
+    <span class="wordCount"></span>
+</div>
+
+<script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/reading-time.min.js?v=14.0.7729.22978'></script>
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', (event) => {
+        new ReadingTime(270, 'min', 'words', 'Less than a minute');
+    })
+</script>
+        
+    </div>
+    </div>
+
+
+
+
+
+<script type="application/ld+json">
+    {"author":{"@type":"Organization","name":"World Health Organization: WHO","logo":{"@type":"ImageObject","url":"https://www.who.int/Images/SchemaOrg/schemaOrgLogo.jpg","width":250,"height":60}},"headline":"Đã đến lúc phải hành động quyết liệt hơn để làm sạch không khí vì sức khỏe người dân","description":"<p><b>&nbsp;</b></p><p>Trong hai tuần qua, người d&acirc;n H&agrave; Nội v&agrave; th&agrave;nh phố Hồ Ch&iacute; Minh đ&atilde; bị kh&oacute; thở v&igrave; kh&ocirc;ng kh&iacute; tr&ecirc;n đường phố bị &ocirc; nhiễm nặng nề.&nbsp; </p><p>&Ocirc; nhiễm kh&ocirc;ng kh&iacute; c&oacute; hại cho sức khỏe con người.&nbsp; </p><ul><li>Phơi nhiễm với h&agrave;m lượng c&aacute;c hạt rắn cao trong kh&ocirc;ng kh&iacute;, đặc biệt c&aacute;c hạt bụi mịn c&oacute;&nbsp; k&iacute;ch thước 2.5 micr&ocirc;-m&eacute;t hoặc nhỏ hơn (PM<sub>2.5</sub>) l&agrave;m tăng nguy cơ mắc c&aacute;c bệnh li&ecirc;n quan tới &ocirc; nhiễm kh&ocirc;ng kh&iacute;, bao gồm nhiễm tr&ugrave;ng cấp t&iacute;nh đường h&ocirc; hấp dưới, đột quỵ, đau tim, bệnh tắc nghẽn phổi m&atilde;n t&iacute;nh v&agrave; ung thư phổi. </li><li>Qu&aacute; nhiều kh&iacute; &Ocirc;-z&ocirc;n trong kh&ocirc;ng kh&iacute; c&oacute; thể l&agrave;m ảnh hưởng tới sức khỏe, g&acirc;y ra c&aacute;c vấn đề về h&ocirc; hấp, khơi m&agrave;o bệnh hen suyễn, suy giảm chức năng của phổi v&agrave; dẫn đến c&aacute;c bệnh về phổi.&nbsp; </li><li>Phơi nhiễm với kh&iacute;&nbsp; NO<sub>2</sub> sẽ l&agrave;m trầm trọng th&ecirc;m c&aacute;c triệu chứng vi&ecirc;m phế quản ở trẻ em đang mắc bệnh hen suyễn.&nbsp; </li><li>Kh&iacute; SO<sub>2</sub> c&oacute; thể ảnh hưởng tới hệ h&ocirc; hấp v&agrave; c&aacute;c chức năng của phổi v&agrave; g&acirc;y ngứa r&aacute;t, kh&oacute; chịu cho mắt. &nbsp;&nbsp;</li></ul><p>Hướng dẫn của Tổ chức Y tế Thế giới về chất lượng kh&ocirc;ng kh&iacute; được x&acirc;y dựng tr&ecirc;n cơ sở đ&aacute;nh gi&aacute; của c&aacute;c chuy&ecirc;n gia về c&aacute;c bằng chứng khoa học hiện c&oacute; v&agrave; được &aacute;p dụng rộng r&atilde;i tr&ecirc;n thế giới. Thật kh&ocirc;ng may l&agrave; 91% d&acirc;n số to&agrave;n cầu hiện đang sống ở những nơi m&agrave; chất lượng kh&ocirc;ng kh&iacute; chưa đ&aacute;p ứng với khuyến c&aacute;o của Tổ chức Y tế Thế giới. Năm 2016, Tổ chức Y tế Thế giới ước t&iacute;nh rằng &ocirc; nhiễm kh&ocirc;ng kh&iacute; b&ecirc;n ngo&agrave;i v&agrave; &ocirc; nhiễm kh&ocirc;ng kh&iacute; trong nh&agrave; g&acirc;y ra 7 triệu tử vong sớm mỗi năm tr&ecirc;n to&agrave;n cầu.&nbsp; &nbsp;&nbsp;</p><p>Ở Việt Nam, hơn 60.000 người chết v&igrave; bệnh tim, đột quỵ, ung thư phổi, tắc nghẽn phổi m&atilde;n t&iacute;nh trong năm 2016 đều do &ocirc; nhiễm kh&ocirc;ng kh&iacute; g&acirc;y ra. &Ocirc; nhiễm kh&ocirc;ng kh&iacute; được coi l&agrave; một kẻ giết người v&ocirc; h&igrave;nh, thầm lặng. &nbsp;</p><p>Nồng độ c&aacute;c chất g&acirc;y &ocirc; nhiễm trong kh&ocirc;ng kh&iacute; thay đổi t&ugrave;y theo địa điểm, theo giờ, theo ng&agrave;y v&agrave; theo m&ugrave;a v&igrave; chịu sự ảnh hưởng của sự chuyển động của c&aacute;c chất g&acirc;y &ocirc; nhiễm, của gi&oacute; v&agrave; thời tiết v.v.&nbsp; V&iacute; dụ, chất lượng kh&ocirc;ng kh&iacute; ở H&agrave; Nội k&eacute;m hơn v&agrave;o m&ugrave;a đ&ocirc;ng so với m&ugrave;a h&egrave;. Tuy nhi&ecirc;n, trong năm nay, chất lượng kh&ocirc;ng kh&iacute; trong khoảng nửa sau th&aacute;ng 9 trở n&ecirc;n rất k&eacute;m so với c&ugrave;ng kỳ c&aacute;c năm trước đ&acirc;y. &nbsp;</p><p>C&aacute;c mục ti&ecirc;u li&ecirc;n quan tới chất lượng kh&ocirc;ng kh&iacute; l&agrave; một phần của c&aacute;c Mục ti&ecirc;u ph&aacute;t triển bền vững m&agrave; Li&ecirc;n Hợp Quốc k&ecirc;u gọi phải h&agrave;nh động ở cấp độ to&agrave;n cầu sao cho đến năm 2030, ch&uacute;ng ta sẽ:</p><ul><li>Giảm đ&aacute;ng kể số ca tử vong v&agrave; số ca mắc bệnh do &ocirc; nhiễm kh&ocirc;ng kh&iacute; g&acirc;y ra (Mục ti&ecirc;u SDG3.9); v&agrave;</li><li>Giảm t&aacute;c động m&ocirc;i trường c&oacute; hại của c&aacute;c th&agrave;nh phố t&iacute;nh tr&ecirc;n đầu người, bằng c&aacute;ch quan t&acirc;m hơn tới chất lượng kh&ocirc;ng kh&iacute; (Mục ti&ecirc;u SDG 11.6)</li></ul><p><br /></p><p>Ở Việt Nam, Thủ tướng ch&iacute;nh phủ đ&atilde; ph&ecirc; duyệt <i>Kế hoạch h&agrave;nh động quản l&yacute; chất lượng kh&ocirc;ng kh&iacute; đến năm 2020 với tầm nh&igrave;n tới năm 2025</i> &nbsp;<i>(Quyết định Số 9851/QD-TTG) năm 2016, </i>trong đ&oacute; đề ra c&aacute;c hoạt động bao gồm việc x&aacute;c định v&agrave; theo d&otilde;i c&aacute;c nguồn &ocirc; nhiễm v&agrave; gi&aacute;m s&aacute;t chất lượng kh&ocirc;ng kh&iacute; ở tất cả c&aacute;c cấp &ndash; sẽ g&oacute;p phần phổ biến c&aacute;c h&agrave;nh động hướng đến cải thiện chất lượng kh&ocirc;ng kh&iacute;<i>.&nbsp; </i>&nbsp;<b></b></p><p>V&igrave; chất lượng kh&ocirc;ng kh&iacute; ở c&aacute;c th&agrave;nh phố lớn của Việt Nam đang trở n&ecirc;n xấu đi trong những năm qua, b&acirc;y giờ ch&iacute;nh l&agrave; l&uacute;c cần phải triển khai thực hiện kế hoạch tr&ecirc;n đ&acirc;y v&agrave; phải h&agrave;nh động quyết liệt. Ch&iacute;nh phủ, ở cấp trung ương v&agrave; c&aacute;c cấp địa phương, cần phải c&acirc;n nhắc c&aacute;c h&agrave;nh động sau đ&acirc;y hướng đến kh&ocirc;ng kh&iacute; sạch v&agrave; cải thiện sức khỏe của người d&acirc;n.&nbsp; </p><p>Trước ti&ecirc;n, ch&iacute;nh phủ cần tăng cường năng lực hệ thống theo d&otilde;i, gi&aacute;m s&aacute;t chất lượng kh&ocirc;ng kh&iacute; v&agrave; chia sẻ th&ocirc;ng tin, số liệu với c&ocirc;ng ch&uacute;ng. Hiện nay, số lượng c&aacute;c trạm quan trắc chất lượng kh&ocirc;ng kh&iacute; vẫn c&ograve;n hạn chế. Cần đặt nhiều trạm quan trắc hơn nữa v&agrave; đưa c&aacute;c trạm n&agrave;y v&agrave;o hoạt động. Do c&aacute;c trạm quan trắc ch&iacute;nh thống c&oacute; chi ph&iacute;cao, &nbsp;cần c&acirc;n nhắc thay thế bằng c&aacute;c thiết bị theo d&otilde;i, quan trắc cảm biến c&oacute; gi&aacute; th&agrave;nh thấp hơn. Số liệu về chất lượng kh&ocirc;ng kh&iacute; của H&agrave; Nội v&agrave; Tp. Hồ Ch&iacute; Minh cần được đo ở chế độ thời gian thực. Mặc d&ugrave; th&ocirc;ng tin về chất lượng kh&ocirc;ng kh&iacute; của H&agrave; Nội v&agrave; Tp. Hồ Ch&iacute; Minh đ&atilde; c&oacute; tr&ecirc;n trang web, tuy nhi&ecirc;n, kh&ocirc;ng phải ai cũng c&oacute; thể biết được về k&ecirc;nh th&ocirc;ng tin n&agrave;y v&agrave; thậm ch&iacute; c&ograve;n nhiều người chưa c&oacute; khả năng truy cập được nguồn th&ocirc;ng tin n&agrave;y. &nbsp;Mặt kh&aacute;c, nhiều người hiện nay đang sử dụng c&aacute;c ứng dụng của điện thoại th&ocirc;ng minh để theo d&otilde;i chất lượng kh&ocirc;ng kh&iacute;. Như vậy, ch&iacute;nh phủ c&oacute; thể c&acirc;n nhắc việc phổ biến th&ocirc;ng tin theo d&otilde;i chất lượng kh&ocirc;ng kh&iacute; th&ocirc;ng qua ứng dụng d&agrave;nh cho điện thoại th&ocirc;ng minh.&nbsp; </p><p>Thứ hai, để bảo vệ sức khỏe người d&acirc;n, ch&iacute;nh phủ cần tăng cường c&aacute;c biện ph&aacute;p khẩn cấp để giảm thiểu ph&aacute;t thải kh&iacute; trong giai đoạn &ocirc; nhiễm kh&ocirc;ng kh&iacute; vượt qu&aacute; mức khuyến c&aacute;o của Tổ chức Y tế Thế giới.&nbsp; Chỉ số Chất lượng Kh&ocirc;ng kh&iacute; c&oacute; thể l&agrave; một hướng dẫn hữu &iacute;ch để k&iacute;ch hoạt c&aacute;c h&agrave;nh động khẩn cấp của ch&iacute;nh phủ để kiểm so&aacute;t ph&aacute;t thải &ocirc; nhiễm.&nbsp; C&aacute;c h&agrave;nh động n&agrave;y c&oacute; thể nhắm tới c&aacute;c cơ sở c&ocirc;ng nghiệp, c&aacute;c nh&agrave; m&aacute;y ph&aacute;t điện, ng&agrave;nh giao th&ocirc;ng vận tải, c&aacute;c cơ sở quản l&yacute; chất thải v&agrave; hoạt động đốt rơm rạ. C&aacute;c th&agrave;nh phố cũng c&oacute; thể tăng cường tần suất l&agrave;m sạch đường phố bằng việc phun nước để giảm thiểu bụi đường do C&ocirc;ng ty m&ocirc;i trường đ&ocirc; thi (URENCO) thực hiện. &nbsp;&nbsp;</p><p>Thứ ba &ndash; c&aacute;c nguồn &ocirc; nhiễm kh&ocirc;ng kh&iacute; cần được x&aacute;c định thấu đ&aacute;o v&agrave; cần x&acirc;y dựng v&agrave; triển khai thực hiện kế hoạch d&agrave;i hạn nhằm đảm bảo kh&ocirc;ng kh&iacute; sạch.&nbsp; Hầu hết c&aacute;c nguồn &ocirc; nhiễm kh&ocirc;ng kh&iacute; ngo&agrave;i trời nằm ngo&agrave;i khả năng kiểm so&aacute;t của c&aacute;c c&aacute; nh&acirc;n người d&acirc;n v&agrave; do vậy, cần phải c&oacute; sự phối hợp của c&aacute;c nh&agrave; hoạch định ch&iacute;nh s&aacute;ch từ cấp địa phương, đến cấp trung ương v&agrave; quốc tế.&nbsp; Điều n&agrave;y c&oacute; nghĩa l&agrave;, ngay cả trong giai đoạn &ocirc; nhiễm kh&ocirc;ng kh&iacute; thấp, c&aacute;c cơ quan chức năng trong ng&agrave;nh giao th&ocirc;ng vận tải, năng lượng v&agrave; quản l&yacute; chất thải, quy hoạch đ&ocirc; thị v&agrave; n&ocirc;ng nghiệp cũng vẫn cần phối hợp c&ugrave;ng nhau để đảm bảo kh&ocirc;ng kh&iacute; sạch. C&oacute; rất nhiều v&iacute; dụ về c&aacute;c ch&iacute;nh s&aacute;ch th&agrave;nh c&ocirc;ng gi&uacute;p giảm &ocirc; nhiễm kh&ocirc;ng kh&iacute;: &nbsp;&nbsp;&nbsp;&nbsp;</p><ul type=\"disc\"><li><b>Đối với      c&aacute;c ng&agrave;nh c&ocirc;ng nghiệp:</b>&nbsp;c&aacute;c c&ocirc;ng nghệ sạch nhằm      giảm ph&aacute;t thải kh&iacute; c&ocirc;ng nghiệp; cải thiện c&ocirc;ng t&aacute;c      quản l&yacute; chất thải đ&ocirc; thị v&agrave; n&ocirc;ng nghiệp, bao gồm thu hồi kh&iacute; m&ecirc;-tan tho&aacute;t      ra từ b&atilde;i thải để thay thế phương &aacute;n đốt r&aacute;c thải (sử dụng kh&iacute; sinh học);</li><li><b>Đối với      ng&agrave;nh năng lượng:</b>&nbsp;đảm bảo tiếp cận      c&aacute;c giải ph&aacute;p năng lượng sạch tại hộ gia đ&igrave;nh v&agrave; c&oacute; thể chi trả được để      đun nấu, sưởi ấm v&agrave; chiếu s&aacute;ng;&nbsp; </li><li><b>Đối với      ng&agrave;nh giao th&ocirc;ng: </b>&nbsp;ưu ti&ecirc;n phương tiện vận      chuyển đ&ocirc; thị tốc độ cao, c&aacute;c mạng lưới đi bộ v&agrave; đi xe đạp trong th&agrave;nh      phố, cũng như vận chuyển h&agrave;ng h&oacute;a v&agrave; h&agrave;nh kh&aacute;ch bằng đường sắt giữa c&aacute;c đ&ocirc;      thị; chuyển đổi sang c&aacute;c phương tiện chạy dầu đie-zen sạch hơn v&agrave; c&aacute;c      phương tiện &iacute;t ph&aacute;t thải v&agrave; nhi&ecirc;n liệu sạch hơn, bao gồm nhi&ecirc;n liệu c&oacute; h&agrave;m      lượng lưu huỳnh thấp.&nbsp; </li><li><b>Đối với      quy hoạch đ&ocirc; thị:</b>&nbsp;cải thiện hiệu quả      sử dụng năng lượng của c&aacute;c t&ograve;a nh&agrave; v&agrave; l&agrave;m cho th&agrave;nh phố xanh hơn, kết cấu      chặt chẽ hơn, dẫn đến hiệu quả sử dụng năng lượng lớn hơn.&nbsp; </li><li><b>Đối với      ng&agrave;nh điện:</b>&nbsp;tăng việc sử dụng c&aacute;c nhi&ecirc;n liệu &iacute;t ph&aacute;t      thải v&agrave; c&aacute;c nguồn năng lượng kh&ocirc;ng đốt, c&oacute; thể t&aacute;i tạo được (như năng      lượng mặt trời, năng lượng gi&oacute; v&agrave; thủy điện); kết hợp sản xuất nhiệt v&agrave;      điện; v&agrave; ph&aacute;t điện ph&acirc;n phối (v&iacute; dụ, điện lưới nhỏ v&agrave; ph&aacute;t điện mặt trời      tr&ecirc;n m&aacute;i nh&agrave;) &nbsp;</li><li><b>Đối với      quản l&yacute; chất thải đ&ocirc; thị v&agrave; chất thải n&ocirc;ng nghiệp: </b>c&aacute;c chiến lược giảm chất thải, ph&acirc;n loại chất      thải, t&aacute;i chế, t&aacute;i sử dụng hoặc xử l&yacute; chất thải, cũng như c&aacute;c phương ph&aacute;p      cải thiện quản l&yacute; chất thải sinh học như ph&acirc;n hủy yếm kh&iacute; chất thải để sản      xuất kh&iacute; sinh học, l&agrave; những giải ph&aacute;p thay thế khả thi với chi ph&iacute; thấp thay      cho thi&ecirc;u đốt ngo&agrave;i trời chất thải rắn; ở những nơi m&agrave; việc thi&ecirc;u đốt r&aacute;c      l&agrave; kh&ocirc;ng thể tr&aacute;nh được th&igrave; c&aacute;c c&ocirc;ng nghệ đốt c&oacute; kiểm so&aacute;t kh&iacute; thải chặt      chẽ l&agrave; hết sức cần thiết. &nbsp;&nbsp; </li></ul><p>&Ocirc; nhiễm kh&ocirc;ng kh&iacute; l&agrave; một trong những vấn đề sức khỏe cộng đồng quan trọng nhất ở c&aacute;c th&agrave;nh phố lớn của c&aacute;c nước đang ph&aacute;t triển. &Ocirc; nhiễm kh&ocirc;ng kh&iacute; ảnh hưởng tới tất cả ch&uacute;ng ta, v&agrave; ch&iacute;nh phủ cần thực hiện vai tr&ograve; l&atilde;nh đạo của m&igrave;nh trong việc kiểm so&aacute;t ph&aacute;t thải kh&iacute; một c&aacute;ch quyết liệt, đặc biệt trong giai đoạn c&oacute; &ocirc; nhiễm nghi&ecirc;m trọng.&nbsp; Ch&iacute;nh phủ, x&atilde; hội d&acirc;n sự v&agrave; c&aacute;c cơ quan đối t&aacute;c quốc tế cần phối hợp với nhau để t&igrave;m ra c&aacute;c giải ph&aacute;p trung hạn v&agrave; d&agrave;i hạn để ph&ograve;ng ngừa &ocirc; nhiễm kh&ocirc;ng kh&iacute; ngay từ nguồn. B&acirc;y giờ ch&iacute;nh l&agrave; l&uacute;c cần h&agrave;nh động quyết liệt v&igrave; kh&ocirc;ng kh&iacute; sạch v&agrave; v&igrave; sức khỏe cộng đồng. &nbsp;&nbsp;</p><p>&nbsp;</p>","datePublished":"2019-10-06T03:00:00.0000000+00:00","image":"https://www.who.int/images/default-source/wpro/countries/viet-nam/commentaries/2019/img-8777.jpg?sfvrsn=bded45ef_6","publisher":{"@type":"Organization","name":"World Health Organization: WHO","logo":{"@type":"ImageObject","url":"https://www.who.int/Images/SchemaOrg/schemaOrgLogo.jpg","width":250,"height":60}},"dateModified":"2019-10-06T03:00:00.0000000+00:00","mainEntityOfPage":"https://www.who.int/vietnam/vi/news/commentaries/time-to-take-bolder-actions-for-clean-air-and-people’s-health","@context":"http://schema.org","@type":"Article"};
+</script>
+
+    </div>
+    <div id="PageContent_T0643CD2A004_Col01" class="sf_colsIn col-sm-4 col-md-4" data-sf-element="Column 2" data-placeholder-label="Toolbox">
+
+
+<div class="social-share--add-this follow-us--header">
+    <div class="sf_colsIn container">
+        <div class="addthis_inline_follow_toolbox">
+            <p class="label">Theo d&#245;i ch&#250;ng t&#244;i</p>
+        </div>
+        </div>
+    </div>
+
+
+
+
+<!--noindex--><!--stopindex-->
+<div class="language-selector language-selector-page">
+    <div class="sf-lang-selector list-inline">
+            <div class="sf-lang-selector">
+                <label>
+
+                    <select onChange="openLink(value)">
+                        <option value="" selected="selected">- Select language -</option>
+                            <option lang="en" value="en" >English</option>
+                    </select>
+                </label>
+            </div>
+    </div>
+</div>
+<!--/noindex--><!--startindex-->
+
+
+
+
+
+    </div>
+</div>
+<div class="row sf-detail-content" data-sf-element="Row">
+    <div id="PageContent_T0643CD2A003_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Body">
+    <article class="sf-detail-body-wrapper" >
+        <div ><p><b>&nbsp;</b></p><p>Trong hai tuần qua, người d&acirc;n H&agrave; Nội v&agrave; th&agrave;nh phố Hồ Ch&iacute; Minh đ&atilde; bị kh&oacute; thở v&igrave; kh&ocirc;ng kh&iacute; tr&ecirc;n đường phố bị &ocirc; nhiễm nặng nề.&nbsp; </p><p>&Ocirc; nhiễm kh&ocirc;ng kh&iacute; c&oacute; hại cho sức khỏe con người.&nbsp; </p><ul><li>Phơi nhiễm với h&agrave;m lượng c&aacute;c hạt rắn cao trong kh&ocirc;ng kh&iacute;, đặc biệt c&aacute;c hạt bụi mịn c&oacute;&nbsp; k&iacute;ch thước 2.5 micr&ocirc;-m&eacute;t hoặc nhỏ hơn (PM<sub>2.5</sub>) l&agrave;m tăng nguy cơ mắc c&aacute;c bệnh li&ecirc;n quan tới &ocirc; nhiễm kh&ocirc;ng kh&iacute;, bao gồm nhiễm tr&ugrave;ng cấp t&iacute;nh đường h&ocirc; hấp dưới, đột quỵ, đau tim, bệnh tắc nghẽn phổi m&atilde;n t&iacute;nh v&agrave; ung thư phổi. </li><li>Qu&aacute; nhiều kh&iacute; &Ocirc;-z&ocirc;n trong kh&ocirc;ng kh&iacute; c&oacute; thể l&agrave;m ảnh hưởng tới sức khỏe, g&acirc;y ra c&aacute;c vấn đề về h&ocirc; hấp, khơi m&agrave;o bệnh hen suyễn, suy giảm chức năng của phổi v&agrave; dẫn đến c&aacute;c bệnh về phổi.&nbsp; </li><li>Phơi nhiễm với kh&iacute;&nbsp; NO<sub>2</sub> sẽ l&agrave;m trầm trọng th&ecirc;m c&aacute;c triệu chứng vi&ecirc;m phế quản ở trẻ em đang mắc bệnh hen suyễn.&nbsp; </li><li>Kh&iacute; SO<sub>2</sub> c&oacute; thể ảnh hưởng tới hệ h&ocirc; hấp v&agrave; c&aacute;c chức năng của phổi v&agrave; g&acirc;y ngứa r&aacute;t, kh&oacute; chịu cho mắt. &nbsp;&nbsp;</li></ul><p>Hướng dẫn của Tổ chức Y tế Thế giới về chất lượng kh&ocirc;ng kh&iacute; được x&acirc;y dựng tr&ecirc;n cơ sở đ&aacute;nh gi&aacute; của c&aacute;c chuy&ecirc;n gia về c&aacute;c bằng chứng khoa học hiện c&oacute; v&agrave; được &aacute;p dụng rộng r&atilde;i tr&ecirc;n thế giới. Thật kh&ocirc;ng may l&agrave; 91% d&acirc;n số to&agrave;n cầu hiện đang sống ở những nơi m&agrave; chất lượng kh&ocirc;ng kh&iacute; chưa đ&aacute;p ứng với khuyến c&aacute;o của Tổ chức Y tế Thế giới. Năm 2016, Tổ chức Y tế Thế giới ước t&iacute;nh rằng &ocirc; nhiễm kh&ocirc;ng kh&iacute; b&ecirc;n ngo&agrave;i v&agrave; &ocirc; nhiễm kh&ocirc;ng kh&iacute; trong nh&agrave; g&acirc;y ra 7 triệu tử vong sớm mỗi năm tr&ecirc;n to&agrave;n cầu.&nbsp; &nbsp;&nbsp;</p><p>Ở Việt Nam, hơn 60.000 người chết v&igrave; bệnh tim, đột quỵ, ung thư phổi, tắc nghẽn phổi m&atilde;n t&iacute;nh trong năm 2016 đều do &ocirc; nhiễm kh&ocirc;ng kh&iacute; g&acirc;y ra. &Ocirc; nhiễm kh&ocirc;ng kh&iacute; được coi l&agrave; một kẻ giết người v&ocirc; h&igrave;nh, thầm lặng. &nbsp;</p><p>Nồng độ c&aacute;c chất g&acirc;y &ocirc; nhiễm trong kh&ocirc;ng kh&iacute; thay đổi t&ugrave;y theo địa điểm, theo giờ, theo ng&agrave;y v&agrave; theo m&ugrave;a v&igrave; chịu sự ảnh hưởng của sự chuyển động của c&aacute;c chất g&acirc;y &ocirc; nhiễm, của gi&oacute; v&agrave; thời tiết v.v.&nbsp; V&iacute; dụ, chất lượng kh&ocirc;ng kh&iacute; ở H&agrave; Nội k&eacute;m hơn v&agrave;o m&ugrave;a đ&ocirc;ng so với m&ugrave;a h&egrave;. Tuy nhi&ecirc;n, trong năm nay, chất lượng kh&ocirc;ng kh&iacute; trong khoảng nửa sau th&aacute;ng 9 trở n&ecirc;n rất k&eacute;m so với c&ugrave;ng kỳ c&aacute;c năm trước đ&acirc;y. &nbsp;</p><p>C&aacute;c mục ti&ecirc;u li&ecirc;n quan tới chất lượng kh&ocirc;ng kh&iacute; l&agrave; một phần của c&aacute;c Mục ti&ecirc;u ph&aacute;t triển bền vững m&agrave; Li&ecirc;n Hợp Quốc k&ecirc;u gọi phải h&agrave;nh động ở cấp độ to&agrave;n cầu sao cho đến năm 2030, ch&uacute;ng ta sẽ:</p><ul><li>Giảm đ&aacute;ng kể số ca tử vong v&agrave; số ca mắc bệnh do &ocirc; nhiễm kh&ocirc;ng kh&iacute; g&acirc;y ra (Mục ti&ecirc;u SDG3.9); v&agrave;</li><li>Giảm t&aacute;c động m&ocirc;i trường c&oacute; hại của c&aacute;c th&agrave;nh phố t&iacute;nh tr&ecirc;n đầu người, bằng c&aacute;ch quan t&acirc;m hơn tới chất lượng kh&ocirc;ng kh&iacute; (Mục ti&ecirc;u SDG 11.6)</li></ul><p><br /></p><p>Ở Việt Nam, Thủ tướng ch&iacute;nh phủ đ&atilde; ph&ecirc; duyệt <i>Kế hoạch h&agrave;nh động quản l&yacute; chất lượng kh&ocirc;ng kh&iacute; đến năm 2020 với tầm nh&igrave;n tới năm 2025</i> &nbsp;<i>(Quyết định Số 9851/QD-TTG) năm 2016, </i>trong đ&oacute; đề ra c&aacute;c hoạt động bao gồm việc x&aacute;c định v&agrave; theo d&otilde;i c&aacute;c nguồn &ocirc; nhiễm v&agrave; gi&aacute;m s&aacute;t chất lượng kh&ocirc;ng kh&iacute; ở tất cả c&aacute;c cấp &ndash; sẽ g&oacute;p phần phổ biến c&aacute;c h&agrave;nh động hướng đến cải thiện chất lượng kh&ocirc;ng kh&iacute;<i>.&nbsp; </i>&nbsp;<b></b></p><p>V&igrave; chất lượng kh&ocirc;ng kh&iacute; ở c&aacute;c th&agrave;nh phố lớn của Việt Nam đang trở n&ecirc;n xấu đi trong những năm qua, b&acirc;y giờ ch&iacute;nh l&agrave; l&uacute;c cần phải triển khai thực hiện kế hoạch tr&ecirc;n đ&acirc;y v&agrave; phải h&agrave;nh động quyết liệt. Ch&iacute;nh phủ, ở cấp trung ương v&agrave; c&aacute;c cấp địa phương, cần phải c&acirc;n nhắc c&aacute;c h&agrave;nh động sau đ&acirc;y hướng đến kh&ocirc;ng kh&iacute; sạch v&agrave; cải thiện sức khỏe của người d&acirc;n.&nbsp; </p><p>Trước ti&ecirc;n, ch&iacute;nh phủ cần tăng cường năng lực hệ thống theo d&otilde;i, gi&aacute;m s&aacute;t chất lượng kh&ocirc;ng kh&iacute; v&agrave; chia sẻ th&ocirc;ng tin, số liệu với c&ocirc;ng ch&uacute;ng. Hiện nay, số lượng c&aacute;c trạm quan trắc chất lượng kh&ocirc;ng kh&iacute; vẫn c&ograve;n hạn chế. Cần đặt nhiều trạm quan trắc hơn nữa v&agrave; đưa c&aacute;c trạm n&agrave;y v&agrave;o hoạt động. Do c&aacute;c trạm quan trắc ch&iacute;nh thống c&oacute; chi ph&iacute;cao, &nbsp;cần c&acirc;n nhắc thay thế bằng c&aacute;c thiết bị theo d&otilde;i, quan trắc cảm biến c&oacute; gi&aacute; th&agrave;nh thấp hơn. Số liệu về chất lượng kh&ocirc;ng kh&iacute; của H&agrave; Nội v&agrave; Tp. Hồ Ch&iacute; Minh cần được đo ở chế độ thời gian thực. Mặc d&ugrave; th&ocirc;ng tin về chất lượng kh&ocirc;ng kh&iacute; của H&agrave; Nội v&agrave; Tp. Hồ Ch&iacute; Minh đ&atilde; c&oacute; tr&ecirc;n trang web, tuy nhi&ecirc;n, kh&ocirc;ng phải ai cũng c&oacute; thể biết được về k&ecirc;nh th&ocirc;ng tin n&agrave;y v&agrave; thậm ch&iacute; c&ograve;n nhiều người chưa c&oacute; khả năng truy cập được nguồn th&ocirc;ng tin n&agrave;y. &nbsp;Mặt kh&aacute;c, nhiều người hiện nay đang sử dụng c&aacute;c ứng dụng của điện thoại th&ocirc;ng minh để theo d&otilde;i chất lượng kh&ocirc;ng kh&iacute;. Như vậy, ch&iacute;nh phủ c&oacute; thể c&acirc;n nhắc việc phổ biến th&ocirc;ng tin theo d&otilde;i chất lượng kh&ocirc;ng kh&iacute; th&ocirc;ng qua ứng dụng d&agrave;nh cho điện thoại th&ocirc;ng minh.&nbsp; </p><p>Thứ hai, để bảo vệ sức khỏe người d&acirc;n, ch&iacute;nh phủ cần tăng cường c&aacute;c biện ph&aacute;p khẩn cấp để giảm thiểu ph&aacute;t thải kh&iacute; trong giai đoạn &ocirc; nhiễm kh&ocirc;ng kh&iacute; vượt qu&aacute; mức khuyến c&aacute;o của Tổ chức Y tế Thế giới.&nbsp; Chỉ số Chất lượng Kh&ocirc;ng kh&iacute; c&oacute; thể l&agrave; một hướng dẫn hữu &iacute;ch để k&iacute;ch hoạt c&aacute;c h&agrave;nh động khẩn cấp của ch&iacute;nh phủ để kiểm so&aacute;t ph&aacute;t thải &ocirc; nhiễm.&nbsp; C&aacute;c h&agrave;nh động n&agrave;y c&oacute; thể nhắm tới c&aacute;c cơ sở c&ocirc;ng nghiệp, c&aacute;c nh&agrave; m&aacute;y ph&aacute;t điện, ng&agrave;nh giao th&ocirc;ng vận tải, c&aacute;c cơ sở quản l&yacute; chất thải v&agrave; hoạt động đốt rơm rạ. C&aacute;c th&agrave;nh phố cũng c&oacute; thể tăng cường tần suất l&agrave;m sạch đường phố bằng việc phun nước để giảm thiểu bụi đường do C&ocirc;ng ty m&ocirc;i trường đ&ocirc; thi (URENCO) thực hiện. &nbsp;&nbsp;</p><p>Thứ ba &ndash; c&aacute;c nguồn &ocirc; nhiễm kh&ocirc;ng kh&iacute; cần được x&aacute;c định thấu đ&aacute;o v&agrave; cần x&acirc;y dựng v&agrave; triển khai thực hiện kế hoạch d&agrave;i hạn nhằm đảm bảo kh&ocirc;ng kh&iacute; sạch.&nbsp; Hầu hết c&aacute;c nguồn &ocirc; nhiễm kh&ocirc;ng kh&iacute; ngo&agrave;i trời nằm ngo&agrave;i khả năng kiểm so&aacute;t của c&aacute;c c&aacute; nh&acirc;n người d&acirc;n v&agrave; do vậy, cần phải c&oacute; sự phối hợp của c&aacute;c nh&agrave; hoạch định ch&iacute;nh s&aacute;ch từ cấp địa phương, đến cấp trung ương v&agrave; quốc tế.&nbsp; Điều n&agrave;y c&oacute; nghĩa l&agrave;, ngay cả trong giai đoạn &ocirc; nhiễm kh&ocirc;ng kh&iacute; thấp, c&aacute;c cơ quan chức năng trong ng&agrave;nh giao th&ocirc;ng vận tải, năng lượng v&agrave; quản l&yacute; chất thải, quy hoạch đ&ocirc; thị v&agrave; n&ocirc;ng nghiệp cũng vẫn cần phối hợp c&ugrave;ng nhau để đảm bảo kh&ocirc;ng kh&iacute; sạch. C&oacute; rất nhiều v&iacute; dụ về c&aacute;c ch&iacute;nh s&aacute;ch th&agrave;nh c&ocirc;ng gi&uacute;p giảm &ocirc; nhiễm kh&ocirc;ng kh&iacute;: &nbsp;&nbsp;&nbsp;&nbsp;</p><ul type="disc"><li><b>Đối với      c&aacute;c ng&agrave;nh c&ocirc;ng nghiệp:</b>&nbsp;c&aacute;c c&ocirc;ng nghệ sạch nhằm      giảm ph&aacute;t thải kh&iacute; c&ocirc;ng nghiệp; cải thiện c&ocirc;ng t&aacute;c      quản l&yacute; chất thải đ&ocirc; thị v&agrave; n&ocirc;ng nghiệp, bao gồm thu hồi kh&iacute; m&ecirc;-tan tho&aacute;t      ra từ b&atilde;i thải để thay thế phương &aacute;n đốt r&aacute;c thải (sử dụng kh&iacute; sinh học);</li><li><b>Đối với      ng&agrave;nh năng lượng:</b>&nbsp;đảm bảo tiếp cận      c&aacute;c giải ph&aacute;p năng lượng sạch tại hộ gia đ&igrave;nh v&agrave; c&oacute; thể chi trả được để      đun nấu, sưởi ấm v&agrave; chiếu s&aacute;ng;&nbsp; </li><li><b>Đối với      ng&agrave;nh giao th&ocirc;ng: </b>&nbsp;ưu ti&ecirc;n phương tiện vận      chuyển đ&ocirc; thị tốc độ cao, c&aacute;c mạng lưới đi bộ v&agrave; đi xe đạp trong th&agrave;nh      phố, cũng như vận chuyển h&agrave;ng h&oacute;a v&agrave; h&agrave;nh kh&aacute;ch bằng đường sắt giữa c&aacute;c đ&ocirc;      thị; chuyển đổi sang c&aacute;c phương tiện chạy dầu đie-zen sạch hơn v&agrave; c&aacute;c      phương tiện &iacute;t ph&aacute;t thải v&agrave; nhi&ecirc;n liệu sạch hơn, bao gồm nhi&ecirc;n liệu c&oacute; h&agrave;m      lượng lưu huỳnh thấp.&nbsp; </li><li><b>Đối với      quy hoạch đ&ocirc; thị:</b>&nbsp;cải thiện hiệu quả      sử dụng năng lượng của c&aacute;c t&ograve;a nh&agrave; v&agrave; l&agrave;m cho th&agrave;nh phố xanh hơn, kết cấu      chặt chẽ hơn, dẫn đến hiệu quả sử dụng năng lượng lớn hơn.&nbsp; </li><li><b>Đối với      ng&agrave;nh điện:</b>&nbsp;tăng việc sử dụng c&aacute;c nhi&ecirc;n liệu &iacute;t ph&aacute;t      thải v&agrave; c&aacute;c nguồn năng lượng kh&ocirc;ng đốt, c&oacute; thể t&aacute;i tạo được (như năng      lượng mặt trời, năng lượng gi&oacute; v&agrave; thủy điện); kết hợp sản xuất nhiệt v&agrave;      điện; v&agrave; ph&aacute;t điện ph&acirc;n phối (v&iacute; dụ, điện lưới nhỏ v&agrave; ph&aacute;t điện mặt trời      tr&ecirc;n m&aacute;i nh&agrave;) &nbsp;</li><li><b>Đối với      quản l&yacute; chất thải đ&ocirc; thị v&agrave; chất thải n&ocirc;ng nghiệp: </b>c&aacute;c chiến lược giảm chất thải, ph&acirc;n loại chất      thải, t&aacute;i chế, t&aacute;i sử dụng hoặc xử l&yacute; chất thải, cũng như c&aacute;c phương ph&aacute;p      cải thiện quản l&yacute; chất thải sinh học như ph&acirc;n hủy yếm kh&iacute; chất thải để sản      xuất kh&iacute; sinh học, l&agrave; những giải ph&aacute;p thay thế khả thi với chi ph&iacute; thấp thay      cho thi&ecirc;u đốt ngo&agrave;i trời chất thải rắn; ở những nơi m&agrave; việc thi&ecirc;u đốt r&aacute;c      l&agrave; kh&ocirc;ng thể tr&aacute;nh được th&igrave; c&aacute;c c&ocirc;ng nghệ đốt c&oacute; kiểm so&aacute;t kh&iacute; thải chặt      chẽ l&agrave; hết sức cần thiết. &nbsp;&nbsp; </li></ul><p>&Ocirc; nhiễm kh&ocirc;ng kh&iacute; l&agrave; một trong những vấn đề sức khỏe cộng đồng quan trọng nhất ở c&aacute;c th&agrave;nh phố lớn của c&aacute;c nước đang ph&aacute;t triển. &Ocirc; nhiễm kh&ocirc;ng kh&iacute; ảnh hưởng tới tất cả ch&uacute;ng ta, v&agrave; ch&iacute;nh phủ cần thực hiện vai tr&ograve; l&atilde;nh đạo của m&igrave;nh trong việc kiểm so&aacute;t ph&aacute;t thải kh&iacute; một c&aacute;ch quyết liệt, đặc biệt trong giai đoạn c&oacute; &ocirc; nhiễm nghi&ecirc;m trọng.&nbsp; Ch&iacute;nh phủ, x&atilde; hội d&acirc;n sự v&agrave; c&aacute;c cơ quan đối t&aacute;c quốc tế cần phối hợp với nhau để t&igrave;m ra c&aacute;c giải ph&aacute;p trung hạn v&agrave; d&agrave;i hạn để ph&ograve;ng ngừa &ocirc; nhiễm kh&ocirc;ng kh&iacute; ngay từ nguồn. B&acirc;y giờ ch&iacute;nh l&agrave; l&uacute;c cần h&agrave;nh động quyết liệt v&igrave; kh&ocirc;ng kh&iacute; sạch v&agrave; v&igrave; sức khỏe cộng đồng. &nbsp;&nbsp;</p><p>&nbsp;</p></div>
+    </article>
+
+
+
+<div class="section-heading">
+            <h2>Want to read more?</h2>
+
+</div>
+
+
+
+<div class="list-view highlight-widget horizontal-title-and-image bg-light">
+    <div class="list-view--item highlight-widget--content">
+<a href="https://www.who.int/mediacentre/multimedia/newsletter/en/" class="link-container" aria-label="Subscribe to newsletter →" role="link">
+        <div class="table-cell">
+            <div class="thumb">
+                <div class="background-image background-image--small" data-image="https://cdn.who.int/images/default-source/infographics/newsletter310-jpg.tmb-768v.jpg?Culture=en&amp;sfvrsn=5ef0d8c7_54" style="background-image: url('https://cdn.who.int/images/default-source/infographics/newsletter310-jpg.tmb-131v.jpg?Culture=en&amp;sfvrsn=5ef0d8c7_54')"></div>
+            </div>
+        </div>
+
+        <div class="table-cell info">
+                <p class="heading text-underline">Subscribe to newsletter →</p>
+
+
+        </div>
+
+</a>    </div>
+</div>
+
+
+
+<div class="related-multimedia row">
+
+</div>
+
+    </div>
+    <div id="PageContent_T0643CD2A003_Col01" class="sf_colsIn col-sm-4 col-md-4" data-sf-element="Column 2" data-placeholder-label="Related">
+
+
+        <p class="section-header">Authors</p>
+
+
+<div class="list-view author-list vertical-list vertical-list--image">
+            <div class="list-view--item vertical-list-item">
+                <div class="table-cell">
+                    <div class="thumb">
+                        <div class="background-image background-image--small" data-image="/images/default-source/wpro/countries/viet-nam/f4-05102017-vn-4236.tmb-768v.jpg?Culture=en&amp;sfvrsn=8ee41929_4" style="background-image: url('/images/default-source/wpro/countries/viet-nam/f4-05102017-vn-4236.tmb-131v.jpg?Culture=en&amp;sfvrsn=8ee41929_4')"></div>
+                    </div>
+                </div>
+
+                <div class="table-cell info">
+                    <p class="heading">
+
+TS.                        Kidong Park
+                    </p>
+
+                    <p class="person-title">
+Trưởng Đại diện<br />
+
+WHO Việt Nam<br />
+
+                    </p>
+                </div>
+            </div>
+</div>
+
+
+
+
+        <p class="section-header">News</p>
+
+<div class="related-items">
+            <div class="related-item">
+                <a href="https://www.who.int/vietnam/vi/news/detail/02-12-2024-health-harms-from-climate-change-and-air-pollution-highlighted-at-high-level-panel" class="link-container related-item--table">
+                    <div class="related-item--thumb related-item--table-cell">
+                        <div class="thumb">
+                            <div class="background-image background-image--small" data-image="/images/default-source/wpro/countries/viet-nam/news/2024/climate-panel-discussion.tmb-768v.jpg?Culture=vi&amp;sfvrsn=95aa7b2_2" style="background-image: url('/images/default-source/wpro/countries/viet-nam/news/2024/climate-panel-discussion.tmb-131v.jpg?Culture=vi&amp;sfvrsn=95aa7b2_2')"></div>
+                        </div>
+                    </div>
+
+                    <div class="related-item--content related-item--table-cell">
+                        <span class="heading text-underline">Toạ đ&#224;m thảo luận về t&#225;c hại của biến đổi kh&#237; hậu v&#224; &#244; nhiễm kh&#244;ng kh&#237; đối với sức khỏe</span>
+
+                        <span class="timestamp">2 December 2024</span>
+                    </div>
+                </a>
+            </div>
+            <div class="related-item">
+                <a href="https://www.who.int/vietnam/vi/news/detail/03-06-2024-clean-air-and-a-green-hanoi-promoted-on-world-environment-day" class="link-container related-item--table">
+                    <div class="related-item--thumb related-item--table-cell">
+                        <div class="thumb">
+                            <div class="background-image background-image--small" data-image="https://cdn.who.int/media/images/default-source/2021-dha-images/joining-hands-for-clean-air--green-city7dd026b0-3510-43d6-93c6-f9835131b604.tmb-768v.jpg?sfvrsn=e17b540f_2" style="background-image: url('https://cdn.who.int/media/images/default-source/2021-dha-images/joining-hands-for-clean-air--green-city7dd026b0-3510-43d6-93c6-f9835131b604.tmb-131v.jpg?sfvrsn=e17b540f_2')"></div>
+                        </div>
+                    </div>
+
+                    <div class="related-item--content related-item--table-cell">
+                        <span class="heading text-underline">Th&#250;c đẩy kh&#244;ng kh&#237; sạch v&#224; một H&#224; Nội xanh nh&#226;n Ng&#224;y M&#244;i trường Thế giới</span>
+
+                        <span class="timestamp">3 June 2024</span>
+                    </div>
+                </a>
+            </div>
+
+</div>
+
+
+    </div>
+</div>
+<div class="row sf-detail-content" data-sf-element="Row">
+    <div id="PageContent_T0643CD2A005_Col00" class="sf_colsIn col-md-8" data-sf-element="Column 1" data-placeholder-label="Related multimedia">
+    </div>
+    <div id="PageContent_T0643CD2A005_Col01" class="sf_colsIn col-sm-4 col-md-4" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+    </div>
+    <div id="PageContent_T0643CD2A006_Col02" class="sf_colsIn col-md-1" data-sf-element="Column 3" data-placeholder-label="Column 3">
+    </div>
+</div>
+
+</div>
+
+    </div>
+</div>
+ </section> <!-- footer:on --> <!--noindex--><!--stopindex--> <footer id="sf-footer"> <div class="main-footer"> 
+
+<script type="text/javascript">
+$(document).ready(function() {
+ $("#ysf-primary-geo-navigation-sites .country-site a:contains('Guam (USA)')")
+    .first()
+    .text("Guam (USA) *");
+  
+   $("#ysf-primary-geo-navigation-sites .country-site a:contains('American Samoa (USA)')")
+    .first()
+    .text("American Samoa (USA) *");
+
+
+ $("#ysf-primary-geo-navigation-sites .country-site a:contains('Northern Mariana Islands (USA)')")
+    .first()
+    .text("Northern Mariana Islands (USA) *");
+  
+ $('#sf-geo-navigation-container .sf-secondary-geo-navigation-country a')
+    .filter(function () {
+      return $.trim($(this).text()) === 'Guam (USA)';
+    })
+    .text('Guam (USA) *');
+
+
+ $('#sf-geo-navigation-container .sf-secondary-geo-navigation-country a')
+    .filter(function () {
+      return $.trim($(this).text()) === 'American Samoa (USA)';
+    })
+    .text('American Samoa (USA) *');
+
+   $('#sf-geo-navigation-container .sf-secondary-geo-navigation-country a')
+    .filter(function () {
+      return $.trim($(this).text()) === 'Northern Mariana Islands (USA)';
+    })
+    .text('Northern Mariana Islands (USA) *');
+
+});
+
+</script>
+
+<script type="text/javascript">
+$(document).on("click", 'li.has-children > a:contains("Countries")', function () {
+
+  var $li = $(this).closest("li.has-children");
+  var $container = $li.find(".sf-secondary-geo-navigation-container").first();
+  var $wrapper = $li.find(".sf-secondary-geo-navigation-wrapper").first();
+
+  // Only append if container is visible/open
+  if ($container.is(":visible")) {
+
+    if ($wrapper.find(".__countries-click-note").length === 0) {
+      $wrapper.append('<p>&nbsp;</p><p class="__countries-click-note"><small><i>* In 2025, the United Nations Secretary General, as depository of the WHO Constitution, circulated a notification from the United States of America of its intention to withdraw from the World Health Organization with a stated effective date of 22 January 2026. This notification is pending consideration by WHO’s Governing Bodies. References to the United States of America or its territories within the WHO context, including any display or otherwise of its national flag or insignia, should be understood as subject to, and without prejudice to, such consideration by WHO’s Governing Bodies.</i></small></p>');
+    }
+  }
+});
+
+
+$(document).on("click", "a:contains('Regions')", function () {
+  $(".sf-secondary-geo-navigation-wrapper").find(".__who-note").remove();
+});
+</script>
+<div id="Footer_TD9F2A204001_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="Footer_T75121FDA153_Col00" class="sf_colsIn col-md-9" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div class="main-navigation--wrapper" id="bfed0adebdc3490fb7b74415c540b2f3" role="navigation">
+
+    <ul class="main-navigation navVertical">
+    <li class="">
+        <a href="/vietnam/vi/footer/quick-links" target="_self">Li&#234;n kết nhanh</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/vietnam/vi/footer/quick-links/newsroom" target="_self">Trung t&#226;m Truyền th&#244;ng</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/quick-links/publications-and-information-resources" target="_self">Ấn phẩm v&#224; t&#224;i nguy&#234;n th&#244;ng tin</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/quick-links/careers-in-who-viet-nam" target="_self">Nghề nghiệp tại WHO Việt Nam</a>
+
+    </li>
+            </ul>
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/regional-links" target="_self">Li&#234;n kết khu vực</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/vietnam/vi/footer/regional-links/data" target="_blank">Dữ liệu</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/regional-links/publications" target="_blank">Ấn phẩm</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/regional-links/campaigns" target="_blank">Chiến dịch</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/regional-links/careers" target="_self">Nghề nghiệp﻿</a>
+
+    </li>
+            </ul>
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/help" target="_self">Trợ giúp</a>
+
+            <ul class="sub-level">
+    <li class="">
+        <a href="/vietnam/vi/footer/help/contact-us" target="_blank">Li&#234;n hệ với ch&#250;ng t&#244;i</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/help/email-scams" target="_blank">Cảnh b&#225;o lừa đảo qua email</a>
+
+    </li>
+    <li class="">
+        <a href="/vietnam/vi/footer/help/integrity-hotline" target="_blank">Đường d&#226;y n&#243;ng</a>
+
+    </li>
+            </ul>
+    </li>
+    </ul>
+</div>
+
+
+
+
+
+    </div>
+    <div id="Footer_T75121FDA153_Col01" class="sf_colsIn col-sm-3 col-md-3 centered-on-mobile" data-sf-element="Column 2" data-placeholder-label="Column 2">
+    </div>
+</div>
+
+</div>
+ 
+
+
+<div id="sf-footer-logo-container">
+    <div class="sf-footer-logo">
+
+    </div>
+</div>
+
+
+ <div class="footer-logo"> <a href="/vietnam/vi" title="Trang chủ"> <img src="/ResourcePackages/WHO/assets/dist/images/logos/en/h-logo-white.svg" alt="Trang chủ" class="logo" /> </a> </div> </div> <div class="bottom-footer"> <div class="container"> <div class="row"> <div class="col-md-4"> 
+
+
+
+<div class="sf-content-block content-block" >
+    <div ><a href="http://who.int/about/privacy/en/">Privacy legal notice</a></div>
+</div>
+ </div> <div class="col-md-4"> 
+
+
+<div class="social-share--add-this follow-us--footer">
+    <div class="addthis_inline_follow_toolbox"></div>
+</div>
+
+ </div> <div class="col-md-4 copyright"> <span>
+                                ©
+                            </span>
+
+                            2026
+
+                            
+
+
+
+<div class="sf-content-block content-block" >
+    <div >WHO</div>
+</div>
+ </div> </div> </div> </div> </footer> <!--/noindex--><!--startindex--> <!-- footer:off --> </div> <script>
+        window.__define = window.define;
+        window.__require = window.require;
+        window.define = undefined;
+        window.require = undefined;
+    </script> <script src="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.all.min.js" type="text/javascript"></script><script src="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.timezones.min.js" type="text/javascript"></script><script src="/ResourcePackages/WHO/assets/dist/scripts/responsivelylazy.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollTrigger.min.js" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/ScrollToPlugin.min.js" type="text/javascript"></script><script src="/ResourcePackages/WHO/assets/dist/scripts/parallax.min.js?package=WHO" type="text/javascript"></script><script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Search/Mvc/Scripts/SearchBox/Search-box.min.js?package=WHO&amp;v=LTE4MjAwODMz" type="text/javascript"></script><script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Navigation/Mvc/Scripts/LanguageSelector/language-selector.min.js?package=WHO&amp;v=Mzc1NDg4OTQ0" type="text/javascript"></script><script src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5803f964fe6c9599" type="text/javascript"></script><script src="/Frontend-Assembly/SitefinityWebApp/Mvc/Scripts/LanguageSelectorAdvanced/language-selector.min.js?package=WHO&amp;v=LTE4MjAwODMz" type="text/javascript"></script><script src="/Mvc/Scripts/ContentBlock/content-block.min.js?package=WHO" type="text/javascript"></script><script type="application/json" id="PersonalizationTracker">
+	{"IsPagePersonalizationTarget":false,"IsUrlPersonalizationTarget":false,"PageId":"82ad2692-e6b9-4777-9b84-368138de531d"}
+</script><script type="text/javascript" src="/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPuVWylniiuH85dElS4-sTWByH4RE8E5E1AceaaoCFAJqZaJ0XO7-0paGWvgZTYHK6HfSMq7_7jIhS9QthTeHBDUU0pberHuOZvwLatBEXp3F8dWshLi8dFLqd-R5ePILXLxt9fP0bczWzQjlYINayIOpB5YnfTHc2ZyRpWOgtz7dNZw0Q5MPTr0UAPNLDUP5XStYynM1&amp;t=639135871100000000">
+
+</script><input data-sf-role='en' type='hidden' value='https://www.who.int/vietnam/home/time-to-take-bolder-actions-for-clean-air-and-people’s-health'><input data-sf-role='vi' type='hidden' value='https://www.who.int/vietnam/vi/home/time-to-take-bolder-actions-for-clean-air-and-people’s-health'><script type="text/javascript">
+$( document ).ready(function() {
+	var searchInput = $("#sf-top-header .sf-search-input-wrapper input");
+	$(document).on("click", ".srchtoggle", function() {
+	    $("body").toggleClass("search-open");
+	    searchInput.focus();
+	});
+});
+$(document).click(function(event) { 
+  var $target = $(event.target);
+  if((!$target.closest('#sf-top-header').length && $('#sf-top-header').is(":visible"))&&(!$target.closest('.navigation-search').length)) {
+    $(".search-open").removeClass("search-open")
+  }        
+});
+</script><input data-custom-language-selector='en' type='hidden' value='https://www.who.int/vietnam/vi/news/commentaries/detail/time-to-take-bolder-actions-for-clean-air-and-people’s-health'><script type="text/javascript">
+$(document).ready(function () {
+   if(window.location.href.indexOf("/vietnam/vi") > -1) {
+   $("#donate-div").attr("style", "display: none !important");
+$("#donate-div-mob").attr("style", "display: none !important");
+  }
+});
+</script> <!-- js to scrape:on --> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/slicknav.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/auto-complete.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/match-height.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/lazy.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/modernizr-custom.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/select2.full.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/accordion-footer-list.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/main.min.js?v=14.0.7729.22978'></script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/main-navigation.min.js?v=14.0.7729.22978'></script><script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/geo-navigation.min.js?v=14.0.7729.22978'></script> <!-- js to scrape:off --> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/image-resolution.min.js?v=14.0.7729.22978'></script> <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "WebPage",
+            "name": "Chi ti&#234;́t",
+            "description": ""
+            }
+        </script> <script>
+        // Picture element HTML5 shiv
+        document.createElement("picture");
+    </script> <script type='text/javascript' src='/ResourcePackages/WHO/assets/dist/scripts/lib/picturefill.min.js?v=14.0.7729.22978'></script> <script>
+        window.define = window.__define;
+        window.require = window.__require;
+        window.__define = undefined;
+        window.__require = undefined;
+    </script> </body> </html>

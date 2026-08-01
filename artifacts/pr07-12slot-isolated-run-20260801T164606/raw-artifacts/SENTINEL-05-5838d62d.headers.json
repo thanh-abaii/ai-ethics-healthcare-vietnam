@@ -1,0 +1,20 @@
+{
+  "Date": "Sat, 01 Aug 2026 09:47:15 GMT",
+  "Content-Type": "text/html; charset=UTF-8",
+  "Transfer-Encoding": "chunked",
+  "Connection": "close",
+  "Server": "cloudflare",
+  "Vary": "Accept-Encoding,Cookie",
+  "Link": "<https://tamanhhospital.vn/>; rel=shortlink",
+  "X-Powered-By": "WP Engine",
+  "X-Cacheable": "SHORT",
+  "Cache-Control": "max-age=600, must-revalidate",
+  "X-Cache": "HIT: 1",
+  "X-Cache-Group": "normal",
+  "last-modified": "Sat, 01 Aug 2026 09:42:02 GMT",
+  "cf-cache-status": "HIT",
+  "set-cookie": "__cf_bm=NcmtDmn5Y.hxQmwt4DDO37FXn7J4XxifouEZjNFdSME-1785577635.161722-1.0.1.1-MJFrTfzH9CEGG0Bc4.09kpG0v80PIBikX13QknQFwaSWPdwXZZ.BGfINeLPd6U1UanDKaI9kMpdlu633HF122K0GY63yG455GQPaq7yl9BU4V8MuyjADGKlc7yV0Srup; HttpOnly; SameSite=None; Secure; Path=/; Domain=tamanhhospital.vn; Expires=Sat, 01 Aug 2026 10:17:15 GMT",
+  "Age": "312",
+  "CF-RAY": "a243eb9bce5ec70a-SEA",
+  "alt-svc": "h3=\":443\"; ma=86400"
+}

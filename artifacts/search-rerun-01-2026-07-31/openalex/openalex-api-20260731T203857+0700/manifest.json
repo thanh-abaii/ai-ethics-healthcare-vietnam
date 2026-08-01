@@ -1,0 +1,359 @@
+{
+  "run_id": "openalex-api-20260731T203857+0700",
+  "started_at_utc": "2026-07-31T13:38:57.584749Z",
+  "pages": [
+    {
+      "page_number": 1,
+      "cursor_in": "*",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=%2A&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-001.raw",
+      "raw_sha256": "90A031FCF6B88A1524EC6F167F8801E8672759A1FC4603726B2CCFFCECC4A10D",
+      "headers_file": "page-001.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:00.187358Z",
+      "meta_count": 347,
+      "results_count": 25,
+      "next_cursor": "Ils5Ny4wMTEzNywgMTcwNjkxODQwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzkxNTE1Mjg1J10i",
+      "unique_openalex_ids_cumulative": 25
+    },
+    {
+      "page_number": 2,
+      "cursor_in": "Ils5Ny4wMTEzNywgMTcwNjkxODQwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzkxNTE1Mjg1J10i",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=Ils5Ny4wMTEzNywgMTcwNjkxODQwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzkxNTE1Mjg1J10i&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-002.raw",
+      "raw_sha256": "0294FD7A28B43DD83EFA09A0E79CF84187304DF5AC9A6A5ACBCDA8ACCCF178F1",
+      "headers_file": "page-002.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:03.273275Z",
+      "meta_count": 347,
+      "results_count": 25,
+      "next_cursor": "Ils1OC40ODU4MiwgMTcwNDA2NzIwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0NDA1NzY1MTQ2J10i",
+      "unique_openalex_ids_cumulative": 50
+    },
+    {
+      "page_number": 3,
+      "cursor_in": "Ils1OC40ODU4MiwgMTcwNDA2NzIwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0NDA1NzY1MTQ2J10i",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=Ils1OC40ODU4MiwgMTcwNDA2NzIwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0NDA1NzY1MTQ2J10i&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-003.raw",
+      "raw_sha256": "32A4D508F8A90B186DB409F65AFE71EC866EA529FB3D532DAFABAF815E4A9093",
+      "headers_file": "page-003.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:05.998548Z",
+      "meta_count": 347,
+      "results_count": 25,
+      "next_cursor": "IlszNC44MjA0OSwgMTc1MzY2MDgwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0NDEyNjg0NTU5J10i",
+      "unique_openalex_ids_cumulative": 75
+    },
+    {
+      "page_number": 4,
+      "cursor_in": "IlszNC44MjA0OSwgMTc1MzY2MDgwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0NDEyNjg0NTU5J10i",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=IlszNC44MjA0OSwgMTc1MzY2MDgwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0NDEyNjg0NTU5J10i&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-004.raw",
+      "raw_sha256": "A00C6D253041DEB7BB81CC36D5EDB11CB566A6FDB1C52622598AA1EF1E76C72B",
+      "headers_file": "page-004.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:08.953616Z",
+      "meta_count": 347,
+      "results_count": 25,
+      "next_cursor": "IlsyMS44NTU5MTksIDE1NzgyNjg4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMzAwNDI4ODQ0NyddIg==",
+      "unique_openalex_ids_cumulative": 100
+    },
+    {
+      "page_number": 5,
+      "cursor_in": "IlsyMS44NTU5MTksIDE1NzgyNjg4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMzAwNDI4ODQ0NyddIg==",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=IlsyMS44NTU5MTksIDE1NzgyNjg4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMzAwNDI4ODQ0NyddIg%3D%3D&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-005.raw",
+      "raw_sha256": "E31BDFB8B01EF8886090D34127C9D46E779DA6B708FC4A4E42CBE4C86248C354",
+      "headers_file": "page-005.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:11.757980Z",
+      "meta_count": 347,
+      "results_count": 25,
+      "next_cursor": "IlsxMy44MjkyMSwgMTcwMTY0ODAwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0Mzg5MzI5NjE2J10i",
+      "unique_openalex_ids_cumulative": 125
+    },
+    {
+      "page_number": 6,
+      "cursor_in": "IlsxMy44MjkyMSwgMTcwMTY0ODAwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0Mzg5MzI5NjE2J10i",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=IlsxMy44MjkyMSwgMTcwMTY0ODAwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0Mzg5MzI5NjE2J10i&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-006.raw",
+      "raw_sha256": "8AE687A276F781F57509C38AC156BE8A883DB93B65E0EDA18F72EEF2B6F30B00",
+      "headers_file": "page-006.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:14.496498Z",
+      "meta_count": 347,
+      "results_count": 25,
+      "next_cursor": "IlsxMC42MTk2MDUsIDE3NTkxOTA0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxNDcwNjk1OCddIg==",
+      "unique_openalex_ids_cumulative": 150
+    },
+    {
+      "page_number": 7,
+      "cursor_in": "IlsxMC42MTk2MDUsIDE3NTkxOTA0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxNDcwNjk1OCddIg==",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=IlsxMC42MTk2MDUsIDE3NTkxOTA0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxNDcwNjk1OCddIg%3D%3D&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-007.raw",
+      "raw_sha256": "C902CEC05807EAB1E85159E1F5519D9E051557C6AF7768F1FD07E1559B56D02E",
+      "headers_file": "page-007.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:17.355602Z",
+      "meta_count": 347,
+      "results_count": 25,
+      "next_cursor": "Ils4LjM5Njg5NiwgMTc2NzIyNTYwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c3MTY2MDg5OTQzJ10i",
+      "unique_openalex_ids_cumulative": 175
+    },
+    {
+      "page_number": 8,
+      "cursor_in": "Ils4LjM5Njg5NiwgMTc2NzIyNTYwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c3MTY2MDg5OTQzJ10i",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=Ils4LjM5Njg5NiwgMTc2NzIyNTYwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c3MTY2MDg5OTQzJ10i&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-008.raw",
+      "raw_sha256": "999A557B91699AC3F6B64339E16BC6E6A802D3DD4AB02983C656BFA07F40DBB1",
+      "headers_file": "page-008.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:20.156521Z",
+      "meta_count": 347,
+      "results_count": 25,
+      "next_cursor": "Ils2LjYyNjA4NywgMTY4OTAzMzYwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzgzODk0MDM2J10i",
+      "unique_openalex_ids_cumulative": 200
+    },
+    {
+      "page_number": 9,
+      "cursor_in": "Ils2LjYyNjA4NywgMTY4OTAzMzYwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzgzODk0MDM2J10i",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=Ils2LjYyNjA4NywgMTY4OTAzMzYwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzgzODk0MDM2J10i&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-009.raw",
+      "raw_sha256": "5595B8A1B684EF519FE3FAE12641C06EEC11ACEB47537494AF3322F6A9DA7117",
+      "headers_file": "page-009.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:23.474503Z",
+      "meta_count": 347,
+      "results_count": 25,
+      "next_cursor": "Ils1LjQzNjAzMSwgMTc2NzU3MTIwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c3MTE4NzgzMDg1J10i",
+      "unique_openalex_ids_cumulative": 225
+    },
+    {
+      "page_number": 10,
+      "cursor_in": "Ils1LjQzNjAzMSwgMTc2NzU3MTIwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c3MTE4NzgzMDg1J10i",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=Ils1LjQzNjAzMSwgMTc2NzU3MTIwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c3MTE4NzgzMDg1J10i&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-010.raw",
+      "raw_sha256": "C45EAE0ED04FA08D6AAF0DAC512C923927872C0B3815FF80B15FB14883BA2568",
+      "headers_file": "page-010.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:26.303227Z",
+      "meta_count": 347,
+      "results_count": 25,
+      "next_cursor": "Ils0LjM0NzQwMzUsIDE2NzQwODY0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDMxNzQ3MDQxMiddIg==",
+      "unique_openalex_ids_cumulative": 250
+    },
+    {
+      "page_number": 11,
+      "cursor_in": "Ils0LjM0NzQwMzUsIDE2NzQwODY0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDMxNzQ3MDQxMiddIg==",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=Ils0LjM0NzQwMzUsIDE2NzQwODY0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDMxNzQ3MDQxMiddIg%3D%3D&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-011.raw",
+      "raw_sha256": "03F29625F0812F713A05F0F3642A142DBD20598F13E2BB8868580EF0E1258D7B",
+      "headers_file": "page-011.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:29.157502Z",
+      "meta_count": 347,
+      "results_count": 25,
+      "next_cursor": "IlsyLjUwMDkzNzcsIDE3NTY0MjU2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxMzgwMzYyNiddIg==",
+      "unique_openalex_ids_cumulative": 275
+    },
+    {
+      "page_number": 12,
+      "cursor_in": "IlsyLjUwMDkzNzcsIDE3NTY0MjU2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxMzgwMzYyNiddIg==",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=IlsyLjUwMDkzNzcsIDE3NTY0MjU2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxMzgwMzYyNiddIg%3D%3D&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-012.raw",
+      "raw_sha256": "0F3CAC52309C982B07033258CE18B062F5CD613681EE6493D3E3AAA0114AF1B7",
+      "headers_file": "page-012.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:32.025998Z",
+      "meta_count": 347,
+      "results_count": 25,
+      "next_cursor": "IlsxLjUwNzY2MTMsIDE2MTcwNjI0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDI5Nzc4ODU5OSddIg==",
+      "unique_openalex_ids_cumulative": 300
+    },
+    {
+      "page_number": 13,
+      "cursor_in": "IlsxLjUwNzY2MTMsIDE2MTcwNjI0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDI5Nzc4ODU5OSddIg==",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=IlsxLjUwNzY2MTMsIDE2MTcwNjI0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDI5Nzc4ODU5OSddIg%3D%3D&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-013.raw",
+      "raw_sha256": "EFF78E371E9DD7772AB932612AFD5CC4C2AC3A5572FAAC69F2A0C5ABAB5B0DE6",
+      "headers_file": "page-013.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:35.794602Z",
+      "meta_count": 347,
+      "results_count": 25,
+      "next_cursor": "IlswLjk4NjYxMzMsIDE1NTU5Nzc2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDI1NjE1NTQwMSddIg==",
+      "unique_openalex_ids_cumulative": 325
+    },
+    {
+      "page_number": 14,
+      "cursor_in": "IlswLjk4NjYxMzMsIDE1NTU5Nzc2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDI1NjE1NTQwMSddIg==",
+      "request_url_redacted": "https://api.openalex.org/works?filter=from_publication_date%3A2019-01-01%2Cto_publication_date%3A2026-07-31%2Ctitle_and_abstract.search%3A%28%22artificial+intelligence%22+OR+%22machine+learning%22+OR+%22generative+AI%22+OR+%22generative+artificial+intelligence%22+OR+%22large+language+model%22+OR+%22large+language+models%22+OR+LLM+OR+LLMs%29+AND+%28ethics+OR+ethical+OR+governance+OR+govern+OR+government+OR+governing+OR+accountability+OR+accountable+OR+responsibility+OR+responsible+OR+transparency+OR+transparent+OR+fairness+OR+fair+OR+bias+OR+biases+OR+policy+OR+policies+OR+regulation+OR+regulations+OR+regulatory+OR+legal+OR+law+OR+laws+OR+risk+OR+risks+OR+safety+OR+harm+OR+harms+OR+%22patient+rights%22+OR+%22human+rights%22+OR+consent+OR+autonomy+OR+explainability+OR+explainable+OR+interpretability+OR+interpretable+OR+audit+OR+auditing+OR+monitoring+OR+monitor+OR+incident+OR+incidents+OR+complaint+OR+complaints+OR+redress+OR+%22data+protection%22+OR+confidentiality+OR+confidential+OR+equity+OR+justice+OR+discrimination+OR+discriminatory+OR+standard+OR+standards+OR+guideline+OR+guidelines+OR+oversight+OR+privacy%29+AND+%28%28Vietnam+OR+%22Viet+Nam%22+OR+Vietnamese%29+AND+%28health+OR+healthcare+OR+%22health+care%22+OR+medicine+OR+medical+OR+clinical+OR+hospital+OR+hospitals%29%29&select=id%2Cdoi%2Cdisplay_name%2Cpublication_year%2Cpublication_date%2Ctype%2Clanguage%2Cids%2Cprimary_location%2Cauthorships%2Cabstract_inverted_index&per-page=25&cursor=IlswLjk4NjYxMzMsIDE1NTU5Nzc2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDI1NjE1NTQwMSddIg%3D%3D&api_key=REDACTED&mailto=REDACTED",
+      "http_status": 200,
+      "raw_file": "page-014.raw",
+      "raw_sha256": "B5ED5891144088E53D18FC710FE3881091921EC66CBDD09397AA90979BFCE394",
+      "headers_file": "page-014.headers.json",
+      "retrieved_at_utc": "2026-07-31T13:39:38.887057Z",
+      "meta_count": 347,
+      "results_count": 22,
+      "next_cursor": null,
+      "unique_openalex_ids_cumulative": 347
+    }
+  ],
+  "status": "FAIL_CLOSED_RAW_EXPORT_INCOMPLETE",
+  "completed_at_utc": "2026-07-31T13:39:38.900562Z",
+  "terminal_cursor_rule_satisfied": false,
+  "raw_results_seen": 347,
+  "unique_openalex_ids": 347,
+  "duplicate_openalex_ids": 0,
+  "first_meta_count": 347,
+  "last_meta_count": 347,
+  "meta_count_changed": false,
+  "reason": "PAGING_PROTOCOL_ERROR_NULL_CURSOR_WITH_RESULTS",
+  "files": [
+    {
+      "file": "page-001.headers.json",
+      "sha256": "FB2AFFD0B77A8CA78A969A1ED4A1AE222A98C5346FD94D3D9AA3B92047F4024D",
+      "bytes": 1763
+    },
+    {
+      "file": "page-001.raw",
+      "sha256": "90A031FCF6B88A1524EC6F167F8801E8672759A1FC4603726B2CCFFCECC4A10D",
+      "bytes": 308671
+    },
+    {
+      "file": "page-002.headers.json",
+      "sha256": "3B7D95B152B3FB8E62CF3EB54CC0243B73D95ECBD15F481E93711A9A889033E1",
+      "bytes": 1751
+    },
+    {
+      "file": "page-002.raw",
+      "sha256": "0294FD7A28B43DD83EFA09A0E79CF84187304DF5AC9A6A5ACBCDA8ACCCF178F1",
+      "bytes": 369327
+    },
+    {
+      "file": "page-003.headers.json",
+      "sha256": "E90F4D8A458CE19DD9FE61533FDAD23975596798A5C276F66EFE00DCC3DBC687",
+      "bytes": 1751
+    },
+    {
+      "file": "page-003.raw",
+      "sha256": "32A4D508F8A90B186DB409F65AFE71EC866EA529FB3D532DAFABAF815E4A9093",
+      "bytes": 305902
+    },
+    {
+      "file": "page-004.headers.json",
+      "sha256": "D3053417334424BC5FDC442051442393C5E9B878639DE1DB2556F8191407C295",
+      "bytes": 1747
+    },
+    {
+      "file": "page-004.raw",
+      "sha256": "A00C6D253041DEB7BB81CC36D5EDB11CB566A6FDB1C52622598AA1EF1E76C72B",
+      "bytes": 273908
+    },
+    {
+      "file": "page-005.headers.json",
+      "sha256": "22743533508FD51A3523230A093CF80247AEB0494D7AC84EFD9D26F3646C7BAC",
+      "bytes": 1755
+    },
+    {
+      "file": "page-005.raw",
+      "sha256": "E31BDFB8B01EF8886090D34127C9D46E779DA6B708FC4A4E42CBE4C86248C354",
+      "bytes": 269260
+    },
+    {
+      "file": "page-006.headers.json",
+      "sha256": "FB6D9C7C6B944175DCBE828A6C71661A6C13980A727E879FDB113BB83F262EF9",
+      "bytes": 1755
+    },
+    {
+      "file": "page-006.raw",
+      "sha256": "8AE687A276F781F57509C38AC156BE8A883DB93B65E0EDA18F72EEF2B6F30B00",
+      "bytes": 180886
+    },
+    {
+      "file": "page-007.headers.json",
+      "sha256": "12AE71ADECD0E81EF903329AD1E8214BB8D0109D500AD974B4148B3E7908947D",
+      "bytes": 1751
+    },
+    {
+      "file": "page-007.raw",
+      "sha256": "C902CEC05807EAB1E85159E1F5519D9E051557C6AF7768F1FD07E1559B56D02E",
+      "bytes": 245206
+    },
+    {
+      "file": "page-008.headers.json",
+      "sha256": "1C77745D2F31BC9F53FF3F31811735B4F42021F8151B6BB2FB5E2B558EA58BCE",
+      "bytes": 1759
+    },
+    {
+      "file": "page-008.raw",
+      "sha256": "999A557B91699AC3F6B64339E16BC6E6A802D3DD4AB02983C656BFA07F40DBB1",
+      "bytes": 269859
+    },
+    {
+      "file": "page-009.headers.json",
+      "sha256": "70C015206DBA5F532E71D842E2885A835D9FCEC130450628FBE5D1E3F80493F1",
+      "bytes": 1751
+    },
+    {
+      "file": "page-009.raw",
+      "sha256": "5595B8A1B684EF519FE3FAE12641C06EEC11ACEB47537494AF3322F6A9DA7117",
+      "bytes": 444160
+    },
+    {
+      "file": "page-010.headers.json",
+      "sha256": "FE587E130557211889A896D7303DA6A62117BD09CE2E253AC49706E8FE18A516",
+      "bytes": 1750
+    },
+    {
+      "file": "page-010.raw",
+      "sha256": "C45EAE0ED04FA08D6AAF0DAC512C923927872C0B3815FF80B15FB14883BA2568",
+      "bytes": 332912
+    },
+    {
+      "file": "page-011.headers.json",
+      "sha256": "7D652316818EBB1183515A5A7E0066FF2AECB2F192F6D45F9EC913993E3947A7",
+      "bytes": 1747
+    },
+    {
+      "file": "page-011.raw",
+      "sha256": "03F29625F0812F713A05F0F3642A142DBD20598F13E2BB8868580EF0E1258D7B",
+      "bytes": 311270
+    },
+    {
+      "file": "page-012.headers.json",
+      "sha256": "CAAAB18475D31925AFE7CAC419D1D08385912B11DC7941BD5AAA72058B3525A9",
+      "bytes": 1755
+    },
+    {
+      "file": "page-012.raw",
+      "sha256": "0F3CAC52309C982B07033258CE18B062F5CD613681EE6493D3E3AAA0114AF1B7",
+      "bytes": 377949
+    },
+    {
+      "file": "page-013.headers.json",
+      "sha256": "DC80442F76397B6FA6B364A39F46E5DE05503B5F726B30F4E0E0D0C67F691DC1",
+      "bytes": 1751
+    },
+    {
+      "file": "page-013.raw",
+      "sha256": "EFF78E371E9DD7772AB932612AFD5CC4C2AC3A5572FAAC69F2A0C5ABAB5B0DE6",
+      "bytes": 409303
+    },
+    {
+      "file": "page-014.headers.json",
+      "sha256": "B2C3ED879F534EAA5068B0AF909EC9FCA19C4AFFB322637EDCAC17356CC696C5",
+      "bytes": 1747
+    },
+    {
+      "file": "page-014.raw",
+      "sha256": "B5ED5891144088E53D18FC710FE3881091921EC66CBDD09397AA90979BFCE394",
+      "bytes": 664017
+    },
+    {
+      "file": "query-spec.json",
+      "sha256": "5668E88897ADA0F61C2FB95ADFA9D20B954E24493544D58F17952665E17FE12F",
+      "bytes": 2800
+    }
+  ]
+}

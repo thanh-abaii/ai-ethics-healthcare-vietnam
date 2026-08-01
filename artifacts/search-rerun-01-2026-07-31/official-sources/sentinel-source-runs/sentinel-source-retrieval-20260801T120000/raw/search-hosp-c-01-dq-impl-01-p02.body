@@ -1,0 +1,355 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8" /><title>
+	Bệnh viện Trung ương Huế
+</title>
+    <link href="/Images/logo-bv.png" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <!-- flaticon CSS -->
+    <link rel="stylesheet" type="text/css" href="/css/flat_font/flaticon.css">
+    <!-- Responsive stylesheet  -->
+    <link rel="stylesheet" type="text/css" href="/css/responsive.css">
+    <!-- Favicon -->
+    <link href="/Images/ico.png" rel="shortcut icon" type="image/png">
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+    <!-- all plugins and JavaScript -->
+    <script type="text/javascript" src="/js/moment.js"></script>
+    <script src="/js/Scripts/functions.js"></script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            //alert(1);
+            Get_Config_Site();
+        });
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    
+
+</head>
+<body onload="initialize()">
+    <div id="screen" onclick="$('#screen').hide().remove();" style="display: none">
+        <div id="popup">
+            
+        </div>
+    </div>
+
+    
+    
+
+<div class="header-topbar style-2">
+    <div class="container padding-none">
+        <div class="row">
+            <div class="col-md-8 col-sm-6 welcome-top">
+                <ul class="list-inline top-icon"></ul>
+            </div>
+
+            <div class="col-md-4 col-sm-6 ">
+                <div class="dropdown flag" id="opt_ngonngu"></div>
+                <ul class="list-inline text-right icon-style-1">
+                    <li class=" hvr-rectangle-out"><a href="#">
+                        <img src="/Images/apple.png" />
+                        APP STORE</a></li>
+                    <li class=" hvr-rectangle-out"><a href="#">
+                        <img src="/Images/gg.png" />
+                        GOOGLE PLAY</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="midle-head">
+    <div class="container padding-none">
+        <a href="/" id="logo_desk"></a>
+    </div>
+</div>
+<div class="main-navbar conner-style style-2 position-fixed">
+    <div class="container padding-none">
+        <div class="row">
+            <div class="col-md-12 col-header">
+                <nav class="navbar navbar-default">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <div class="dropdown flag" id="opt_ngonngu_mo"></div>
+                    </div>
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" data-hover="dropdown" data-animations-delay="1.8s" data-animations="fadeInUp">
+                        <ul class="nav navbar-nav bg-none style-3" id="menu_top">
+                            <li style="float: right">
+                                <div class="dropdown-buttons">
+                                    <div class="btn-group menu-search-box">
+                                        <button type="button" class="btn dropdown-toggle" id="header-drop-3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="icon icon-Search"></i></button>
+                                        <ul class="dropdown-menu dropdown-menu-right dropdown-animation" aria-labelledby="header-drop-3">
+                                            <li>
+                                                <form role="search" class="search-box" id="menutop_search" method="get">
+                                                    <div class="form-group">
+                                                        <input type="text" id="text_header_search" class="form-control" placeholder="">
+                                                        <i class="icon icon-Search form-control-feedback"></i>
+                                                    </div>
+
+                                                    <input type="hidden" id="search_lang" name="lang" />
+                                                </form>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+    <script src="/js/Scripts/Index.js"></script>
+    
+    <marquee direction="right" id="marquee_news"></marquee>
+    <div id="home_slide"></div>
+    <div id="home_box"></div>
+    
+    <!-- divider end -->
+    <!-- welcome start -->
+    
+    <!-- welcome end -->
+    <!-- blog start -->
+    
+    <!-- service start -->
+    
+    <!-- service end -->
+    <!-- appointment start -->
+
+    <!-- appointment end -->
+    
+    <!-- divider start -->
+    <section class="service-area over-layer-default" style="background-image: url(/Images/bg/5.jpg); display: none" id="home_box_5">
+        <div class="container padding-top-40">
+            <div class="section-content">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="booking-from">
+                            <h2 id="booking_title"></h2>
+                            <div class="border-style-2 margin-bottom-30"></div>
+                            <p class="margin-bottom-20" id="booking_message"></p>
+                            <form method="post" action="#" id="form_contact" onsubmit="return CheckFormContact()">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <input type="text" name="CTEN" id="CTEN" class="form-control" placeholder="Họ và tên *" required>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="text" name="CSDT" id="CSDT" class="form-control" placeholder="Số điện thoại" required>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="email" name="CEMAIL" class="form-control" placeholder="Email *" id="CEMAIL" required>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="text" name="CDIACHI" class="form-control" placeholder="Địa chỉ" id="CDIACHI" required>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="contact-textarea">
+                                            <textarea class="form-control" rows="2" placeholder="Thắc mắc, góp ý,... *" id="message" name="message" required></textarea>
+                                            <button class="btn btn-theme" id="submit_form" type="submit" value="Submit Form">Gửi thông tin</button>
+                                        </div>
+                                    </div>
+                                    <input type="hidden" name="contact_lang" id="contact_lang" />
+                                    <div id="form-messages"></div>
+
+                                </div>
+                            </form>
+                            <div id="result_message"></div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="booking-from">
+                        <h2 id="datlich_title"></h2>
+                        <div class="border-style-2 margin-bottom-30"></div>
+                        <p class="margin-bottom-20" id="datlich_message">Vui lòng gửi cho chúng tôi yêu cầu của bạn!</p>
+                        <form method="post" action="#" id="form_book" onsubmit="return CheckFormBook()">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <input type="text" name="lich_CTEN" id="lich_CTEN" class="form-control" placeholder="Họ và tên *" required>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="text" name="lich_CSDT" id="lich_CSDT" class="form-control" placeholder="Số điện thoại *" required>
+                                    </div>
+                                    <div class="col-md-12 nomargin">
+                                        <input type="email" name="lich_CEMAIL" class="form-control" placeholder="Email *" id="lich_CEMAIL" required>
+                                    </div>
+                                    <div class="col-md-12">
+                                        <div class="contact-textarea">
+                                            <textarea class="form-control" rows="2" placeholder="Yêu cầu *" id="lich_message" name="message" required></textarea>
+                                            <button class="btn btn-theme" id="lich_submit_form" type="submit" value="Submit Form">Gửi yêu cầu</button>
+                                        </div>
+                                    </div>
+                                    <input type="hidden" name="lich_contact_lang" id="lich_contact_lang" />
+                                    <div id="lich_form-messages"></div>
+
+                                </div>
+                            </form>
+                            <div id="result_message_lich"></div>
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+    <div id="home_box_8">
+    </div>
+    
+    <!-- divider end -->
+    <!-- portfolio start -->
+    
+    <!-- portfolio end -->
+
+    <!-- department start -->
+    
+    <!-- department end -->
+
+
+    <!-- Testimonial start -->
+    
+
+    
+    <section class="">        
+        <div class="container">
+            <div id="marquee_lienket"></div>
+        </div>
+    </section>
+    
+
+    
+
+
+<script type="text/javascript">
+        //cs2
+        //var map;
+        //function initialize() {
+        //    var uluru = { lat: 16.5504817, lng: 107.4359783 };
+        //    var map = new google.maps.Map(document.getElementById('map-canvas'), {
+        //        zoom: 15,
+        //        center: uluru
+        //    });
+        //    var contentString = '<h3>BỆNH VIỆN TRUNG ƯƠNG HUẾ - CƠ SỞ 2</h3><p><strong>Địa chỉ: </strong>Phong Điền, Huế</p>' +
+        //        '<p><strong>Điện thoại:</strong> 0234 3761761</p>';
+        //    var infowindow = new google.maps.InfoWindow({
+        //        content: contentString
+        //    });
+        //    var marker = new google.maps.Marker({
+        //        position: uluru,
+        //        map: map,
+        //        title: 'BỆNH VIỆN TRUNG ƯƠNG HUẾ - CƠ SỞ 2'
+        //    });
+        //    infowindow.open(map, marker);
+        //}
+        //end cs2
+        ////cs1
+        //var map;
+        //function initialize() {
+        //    var uluru = { lat: 16.462640, lng: 107.587948 };
+        //    var map = new google.maps.Map(document.getElementById('map-canvas'), {
+        //        zoom: 15,
+        //        center: uluru
+        //    });
+        //    var contentString = '<h3>BỆNH VIỆN TRUNG ƯƠNG HUẾ</h3><p><strong>Địa chỉ: </strong>16 Lê Lợi, Huế</p>' +
+        //                        '<p><strong>Điện thoại:</strong> 0234 3822325</p>';
+        //    var infowindow = new google.maps.InfoWindow({
+        //        content: contentString
+        //    });
+        //    var marker = new google.maps.Marker({
+        //        position: uluru,
+        //        map: map,
+        //        title: 'BỆNH VIỆN TRUNG ƯƠNG HUẾ'
+        //    });
+        //    infowindow.open(map, marker);
+        //}
+        ////end cs1
+</script>
+<footer>
+    <div class="container" style="padding-bottom: 0px">
+        <div class="section-content">
+            <div class="row">
+
+                
+                <div class="col-md-6">
+                    <div class="row" id="menu_bottom"></div>
+                </div>
+                <div class="col-md-3" id="menu_bottom_thuvienanh">
+                    <div class="footer-title">
+                        <h4 id="title_truycap"></h4>
+                        <div class="border-style-2"></div>
+                    </div>
+                    <div class="footer-item">
+                        <div id="truycap" class="footer-item clearfix">
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-md-3">
+                    <div class="footer-title">
+                        <h4 id="title_ketnoi">Kết nối với chúng tôi  </h4>
+                        <div class="border-style-2"></div>
+                    </div>
+                    <div class="footer-item">
+                        <div class="footer-item clearfix">
+                            <iframe style="height: 300px; width: 100%;" 
+                                src="https://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/bvtwhue/?fref=ts&amp;width&amp;height=300&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+                            
+                            
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<section class="footer-copy-right bg-f9">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6" id="footer_left">
+            </div>
+            <div class="col-md-6 text-right" id="footer_right">
+            </div>
+        </div>
+    </div>
+</section>
+
+
+    
+    
+    
+    
+
+    <!-- Main Custom JS -->
+    
+    
+    
+    <div id="script_menu_hover"></div>
+    <a href="#" class="scrollup"><i class="fa fa-angle-up" aria-hidden="true"></i></a>
+</body>
+
+<!-- jQuery -->
+
+<!-- Bootstrap Core JavaScript -->
+
+</html>

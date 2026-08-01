@@ -1,0 +1,1 @@
+channel_id,domain,query_id,position,source_url,title_from_search,description_from_search,status,depth,parent_url,acquired_at,cli_exit,raw_file,raw_sha256,raw_bytes,stderr_file,stderr_sha256,stderr_bytes,direct_header_status,direct_header_error,headers_file,headers_sha256,headers_bytes

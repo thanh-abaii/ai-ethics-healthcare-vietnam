@@ -2,7 +2,7 @@
 
 **Trạng thái:** `PASS_CALIBRATED_PRE_REGISTRATION`  
 **Phiên bản:** `0.1-draft`  
-**Phạm vi:** tập nguồn trực tiếp về đạo đức và quản trị AI trong y tế Việt Nam theo `protocol.md` phiên bản `0.6-registered`; nội dung phương pháp được kế thừa không đổi từ `0.4-pre-registration` theo `PR-03` và được ghi nhận đăng ký tại `PR-04`.
+**Phạm vi:** tập nguồn trực tiếp về đạo đức và quản trị AI trong y tế Việt Nam theo `protocol.md` phiên bản `0.5-ready-for-registration`; nội dung phương pháp được kế thừa không đổi từ `0.4-pre-registration` theo `PR-03`.
 
 Registry liên kết: `record-registry-codebook.md` và `record-registry-template.csv`. Mọi quyết định độc lập/phân xử được thêm như event mới; biểu mẫu sàng lọc không được dùng để ghi đè alias, provenance hoặc quyết định trước.
 

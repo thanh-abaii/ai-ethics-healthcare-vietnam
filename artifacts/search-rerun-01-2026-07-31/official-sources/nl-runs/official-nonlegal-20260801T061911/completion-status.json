@@ -1,0 +1,23 @@
+{
+  "completed_at": "2026-07-31T23:29:32+00:00",
+  "expected_channel_query_pairs": 36,
+  "executed_channel_query_pairs": 36,
+  "page_attempts": 72,
+  "non_2xx_attempts": 47,
+  "status": "RAW_PORTAL_CAPTURE_COMPLETE_BUT_SOURCE_ACQUISITION_AND_DEPTH_2_NOT_RUN",
+  "not_permitted_claims": [
+    "OFFICIAL_SEARCH_COMPLETE",
+    "search saturation",
+    "absence of evidence",
+    "PRISMA identification count",
+    "eligibility",
+    "implementation/outcome finding"
+  ],
+  "required_next_work": [
+    "review portal-specific response semantics",
+    "perform recorded site: fallback where necessary",
+    "acquire and checksum result-level official sources to the locked cap",
+    "perform second-depth traversal under the locked rule",
+    "global provenance/dedup audit"
+  ]
+}

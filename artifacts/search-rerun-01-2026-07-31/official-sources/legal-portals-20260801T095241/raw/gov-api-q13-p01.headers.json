@@ -1,0 +1,12 @@
+{
+  "date": "Sat, 01 Aug 2026 03:00:07 GMT",
+  "content-type": "application/json; charset=utf-8",
+  "content-length": "347",
+  "server": "nginx",
+  "cache-control": "private",
+  "access-control-allow-origin": "*",
+  "x-cache-status": "BYPASS",
+  "filterid": "ft",
+  "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+  "connection": "close"
+}

@@ -1,0 +1,22 @@
+Date: Sat, 01 Aug 2026 05:06:17 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+access-control-allow-headers: DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range,Host
+access-control-allow-methods: GET, POST, OPTIONS
+access-control-allow-origin: *
+access-control-expose-headers: Content-Length,Content-Range
+Server-Timing: cfCacheStatus;desc="MISS"
+Server-Timing: cfEdge;dur=471,cfOrigin;dur=9
+last-modified: Sat, 01 Aug 2026 05:06:17 GMT
+engine: SharksMedia-kb8--sharks.vn
+Server: cloudflare
+sm-cache-status: hit
+ttl: 1786145031
+vary: Accept-Encoding
+cf-cache-status: MISS
+set-cookie: __cf_bm=dORebYu3Q5gG_M5gBCQIP.05vUS.zm2kcwwk9ly7WsY-1785560776.9686196-1.0.1.1-7KmcW7zcY8KM3gtA2oR5udoTuU5lowCIXeLfu3vzlhJXnMYe.tAiLKnTJbfDTe_jSHFfNLvfvx75MHK3EOkChwPCSSES.MRpPfUcER9t2wrUtMQj37egDSdk7ZwyElw6; HttpOnly; SameSite=None; Secure; Path=/; Domain=vinmec.com; Expires=Sat, 01 Aug 2026 05:36:17 GMT
+set-cookie: _cfuvid=ontczsbOyjtpBKIZpmHqpIs7oewI7FZdTR0bvGBIjUA-1785560776.9686196-1.0.1.1-_oBhGZRcN2IWn1dipulvGfm77J.9mVW7PHptW1J.ono; HttpOnly; SameSite=None; Secure; Path=/; Domain=vinmec.com
+CF-RAY: a242500808ed6e12-SEA
+alt-svc: h3=":443"; ma=86400
+

@@ -1,0 +1,36 @@
+Server: nginx
+Date: Sat, 01 Aug 2026 03:57:12 GMT
+Content-Type: text/html;charset=UTF-8
+Content-Length: 143926
+Connection: close
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1
+Set-Cookie: JSESSIONID=8D91039745C7D6281F2FE5B3FCFDAA01.jvm4; Path=/;
+ HTTPOnly; Secure; HttpOnly
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Set-Cookie: COOKIE_SUPPORT=true; Expires=Wed, 15-Mar-2073 06:39:19 GMT;
+ Path=/; HTTPOnly; Secure; HttpOnly
+Set-Cookie: GUEST_LANGUAGE_ID=vi_VN; Expires=Wed, 15-Mar-2073 06:39:19 GMT;
+ Path=/; HTTPOnly; Secure; HttpOnly
+Liferay-Portal: Liferay Portal Community Edition 6.2 CE GA3 (Newton / Build
+ 6202 / January 15, 2015)
+Set-Cookie: GUEST_LANGUAGE_ID=vi_VN; Expires=Wed, 15-Mar-2073 06:39:20 GMT;
+ Path=/; HTTPOnly; Secure; HttpOnly
+Set-Cookie: COOKIE_SUPPORT=true; Expires=Wed, 15-Mar-2073 06:39:20 GMT;
+ Path=/; HTTPOnly; Secure; HttpOnly
+ETag: "412ca2a2"
+Set-Cookie: GUEST_LANGUAGE_ID=vi_VN; Expires=Wed, 15-Mar-2073 06:39:20 GMT;
+ Path=/; HTTPOnly; Secure; HttpOnly
+Set-Cookie: COOKIE_SUPPORT=true; Expires=Wed, 15-Mar-2073 06:39:20 GMT;
+ Path=/; HTTPOnly; Secure; HttpOnly
+Set-Cookie: GUEST_LANGUAGE_ID=vi_VN; Expires=Wed, 15-Mar-2073 06:39:20 GMT;
+ Path=/; HTTPOnly; Secure; HttpOnly
+Set-Cookie: COOKIE_SUPPORT=true; Expires=Wed, 15-Mar-2073 06:39:20 GMT;
+ Path=/; HTTPOnly; Secure; HttpOnly
+Set-Cookie: SERVERID=jvm4; path=/; HTTPOnly; Secure
+x_return: 1
+X-Frame-Options: ALLOWALL
+Set-Cookie: Path=/; HttpOnly; Secure
+

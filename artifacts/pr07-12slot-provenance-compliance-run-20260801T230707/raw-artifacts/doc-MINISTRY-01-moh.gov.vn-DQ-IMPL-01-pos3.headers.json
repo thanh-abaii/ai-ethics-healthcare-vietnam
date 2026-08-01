@@ -1,0 +1,9 @@
+{
+  "Server": "nginx/1.22.1",
+  "Date": "Sat, 01 Aug 2026 16:08:43 GMT",
+  "Content-Type": "text/html; charset=UTF-8",
+  "Transfer-Encoding": "chunked",
+  "Connection": "close",
+  "X-Pingback": "https://vnpa.moh.gov.vn/xmlrpc.php",
+  "Link": "<https://vnpa.moh.gov.vn/?p=2104>; rel=shortlink"
+}

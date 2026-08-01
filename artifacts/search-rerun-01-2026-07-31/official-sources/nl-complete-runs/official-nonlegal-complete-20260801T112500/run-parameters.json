@@ -1,0 +1,36 @@
+{
+  "started_at": "2026-08-01T04:09:18.687008+00:00",
+  "run_id": "official-nonlegal-complete-20260801T112500",
+  "catalog": "C:\\Users\\DELL\\Documents\\2. Research & Writing\\dao-duc-ai-tu-gia-tri-den-van-hanh\\docs\\research\\ai-ethics-healthcare-vietnam\\artifacts\\search-rerun-01-2026-07-31\\official-sources\\nonlegal-portals-2026-07-31\\query-catalog.csv",
+  "catalog_sha256": "089f7546463ae213d3e630844448451f7b98905328159e6230161a6e67d1f1f5",
+  "channels": [
+    "MOH",
+    "MOH-ASTT",
+    "MOH-KCB",
+    "MOH-HTTB",
+    "MOH-NHIC",
+    "MOH-PC",
+    "MOH-HSPI",
+    "MST",
+    "UNESCO-RAM",
+    "WHO-VNM"
+  ],
+  "queries": [
+    "DQ-IMPL-01",
+    "DQ-IMPL-02",
+    "DQ-IMPL-03",
+    "DQ-TOOL-01",
+    "DQ-TOOL-02",
+    "DQ-IMPL-04",
+    "DQ-IMPL-05",
+    "DQ-EVID-01",
+    "DQ-EVID-02",
+    "DQ-EVID-03",
+    "DQ-EVID-04",
+    "DQ-EVID-05"
+  ],
+  "direct_stop": "50 results or 5 internal pages; two consecutive pages without new semantic result URL",
+  "fallback_stop": "site: locator discovery: 50 results or 5 pages; two consecutive pages without new official URL",
+  "depth": 2,
+  "scope": "Raw retrieval only; no screening, eligibility, deduplication, extraction, PRISMA count, or substantive inference."
+}
