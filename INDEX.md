@@ -7,7 +7,8 @@
 **Ngày cập nhật chỉ mục:** 02/08/2026  
 **Trạng thái Nghiên cứu:** **`DIRECT_SEARCH_COMPLETE_PI_CONFIRMED_2026-08-02`** *(PI đã xác nhận; chưa có quyết định screening)*  
 **Trạng thái Cổng:** **`READINESS_CHECK = COMPLETE_FOR_SCREENING_SETUP`**; kiểm tra trình bày chỉ thực hiện sau screening toàn văn theo Amendment v1.  
-**Trạng thái Sàng lọc Kép Vòng 1:** **`SCREENING = OPEN_TITLE_ABSTRACT_DUAL_INDEPENDENT_2026-08-02`** *(385 `CANON-*`; biểu mẫu riêng đã tạo, chưa có quyết định nào)*
+**Trạng thái Sàng lọc Kép Vòng 1:** **`SCREENING = PI_DAO_TRUNG_THANH_LOCKED_PENDING_LOC_DANG_LOCK_2026-08-02`** *(385 `CANON-*`; PI Đào Trung Thành đã hoàn tất và khóa tệp cá nhân; chờ Lộc Đặng khóa tệp để đối soát)*
+
 
 ---
 
@@ -43,7 +44,8 @@
 - [`docs/governance/pi-direct-search-complete-confirmation-2026-08-02.md`](docs/governance/pi-direct-search-complete-confirmation-2026-08-02.md): Biên bản PI xác nhận `DIRECT_SEARCH_COMPLETE`, là căn cứ mở vòng 1.
 - [`docs/governance/round-1-screening-opening-record-2026-08-02.md`](docs/governance/round-1-screening-opening-record-2026-08-02.md): Biên bản mở vòng 1 và checksum biểu mẫu quyết định trống.
 - [`docs/governance/session-handoff-screening-round-1-2026-08-02.md`](docs/governance/session-handoff-screening-round-1-2026-08-02.md): Bàn giao session cho Agents hỗ trợ PI/Lộc ở screening vòng 1, với ranh giới thẩm quyền và điểm kiểm soát sau khóa.
-- [`docs/governance/round-1-title-abstract-dao-trung-thanh-2026-08-02.csv`](docs/governance/round-1-title-abstract-dao-trung-thanh-2026-08-02.csv): Biểu mẫu vòng 1 của `DAO_TRUNG_THANH`, 385 record, chưa có quyết định.
+- [`docs/governance/round-1-title-abstract-dao-trung-thanh-2026-08-02.csv`](docs/governance/round-1-title-abstract-dao-trung-thanh-2026-08-02.csv): Biểu mẫu vòng 1 của `DAO_TRUNG_THANH`, 385 record, **đã hoàn tất và khóa ngày 02/08/2026**.
+- [`docs/governance/pi-round-1-lock-confirmation-2026-08-02.md`](docs/governance/pi-round-1-lock-confirmation-2026-08-02.md): **[MỚI]** Biên bản PI Đào Trung Thành xác nhận đã khóa kết quả sàng lọc vòng 1 (385 `CANON-*`, SHA-256 đã xác minh).
 - [`docs/governance/round-1-title-abstract-loc-dang-2026-08-02.csv`](docs/governance/round-1-title-abstract-loc-dang-2026-08-02.csv): Biểu mẫu vòng 1 của `LOC_DANG`, 385 record, chưa có quyết định.
 - [`docs/governance/round-1-title-abstract-screening-guide-2026-08-02.md`](docs/governance/round-1-title-abstract-screening-guide-2026-08-02.md): Hướng dẫn PI và Lộc Đặng điền biểu mẫu vòng 1 độc lập.
 - [`docs/governance/sampling-frame-verification-2026-08-01-loc-dang.md`](docs/governance/sampling-frame-verification-2026-08-01-loc-dang.md): Biên bản xác minh độc lập 9 ca tiêu biểu do Lộc Đặng ký.
