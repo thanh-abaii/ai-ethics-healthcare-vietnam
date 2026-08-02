@@ -1,13 +1,14 @@
 # SƠ ĐỒ CẤU TRÚC REPOSITORY VÀ CHỈ MỤC TỆP TIN (REPOSITORY INDEX)
 
-**Dự án:** Scoping Review về Đạo đức và Quản trị AI Y tế tại Việt Nam  
-**Mã tiền đăng ký OSF:** DOI [10.17605/OSF.IO/62B8W](https://doi.org/10.17605/OSF.IO/62B8W) (OSF ID [`62b8w`](https://osf.io/62b8w/))  
-**PI / Tác giả chính:** Đào Trung Thành  
-**Người rà soát độc lập:** Lộc Đặng  
-**Ngày cập nhật chỉ mục:** 02/08/2026  
-**Trạng thái Nghiên cứu:** **`DIRECT_SEARCH_COMPLETE_PI_CONFIRMED_2026-08-02`** *(PI đã xác nhận; chưa có quyết định screening)*  
-**Trạng thái Cổng:** **`READINESS_CHECK = COMPLETE_FOR_SCREENING_SETUP`**; kiểm tra trình bày chỉ thực hiện sau screening toàn văn theo Amendment v1.  
+**Dự án:** Scoping Review về Đạo đức và Quản trị AI Y tế tại Việt Nam
+**Mã tiền đăng ký OSF:** DOI [10.17605/OSF.IO/62B8W](https://doi.org/10.17605/OSF.IO/62B8W) (OSF ID [`62b8w`](https://osf.io/62b8w/))
+**PI / Tác giả chính:** Đào Trung Thành
+**Người rà soát độc lập:** Lộc Đặng
+**Ngày cập nhật chỉ mục:** 02/08/2026
+**Trạng thái Nghiên cứu:** **`ROUND_2_FULL_TEXT_SCREENING_AND_ADJUDICATION_COMPLETE_2026-08-02`** *(166 `CANON-*` đã sàng lọc toàn văn kép, 74 bất đồng đã được PI phân xử; 50 record `INCLUDE` cuối cùng chuyển sang trích xuất dữ liệu)*
+**Trạng thái Cổng:** **`READINESS_CHECK = COMPLETE_FOR_SCREENING_SETUP`**; kiểm tra trình bày chỉ thực hiện sau screening toàn văn theo Amendment v1.
 **Trạng thái Sàng lọc Kép Vòng 1:** **`SCREENING = ROUND_1_ADJUDICATION_COMPLETE_2026-08-02`** *(385 `CANON-*`; PI Đào Trung Thành đã trực tiếp phân xử 76 bất đồng; 166 bản ghi chuyển sang sàng lọc toàn văn kép Vòng 2, 219 bản ghi loại tại Vòng 1)*
+**Trạng thái Sàng lọc Toàn văn Vòng 2:** **`ROUND_2_FULL_TEXT_SCREENING_AND_ADJUDICATION_COMPLETE_2026-08-02`** *(hai reviewer đã khóa độc lập 166 `CANON-*`; 74 bất đồng được PI phân xử; 50 record `INCLUDE` cuối cùng)*
 ---
 
 ## 📌 1. Thư mục Gốc & Hồ sơ Tiền đăng ký OSF Đã khóa (OSF Frozen Pre-Registration Core)
@@ -48,6 +49,17 @@
 - [`docs/governance/loc-dang-round-1-lock-confirmation-2026-08-02.md`](docs/governance/loc-dang-round-1-lock-confirmation-2026-08-02.md): Biên bản Lộc Đặng xác nhận khóa độc lập vòng 1.
 - [`docs/governance/round-1-adjudication-matrix-2026-08-02.csv`](docs/governance/round-1-adjudication-matrix-2026-08-02.csv): Ma trận đối soát & phân xử 385 record sau khi PI chốt quyết định phân xử (166 chuyển Vòng 2 toàn văn, 219 loại).
 - [`docs/governance/pi-round-1-adjudication-decision-record-2026-08-02.md`](docs/governance/pi-round-1-adjudication-decision-record-2026-08-02.md): **[MỚI]** Biên bản quyết định phân xử bất đồng Vòng 1 do PI Đào Trung Thành trực tiếp xem xét và phê duyệt (phân xử 76 bất đồng).
+- [`docs/governance/session-handoff-full-text-screening-round-2-2026-08-02.md`](docs/governance/session-handoff-full-text-screening-round-2-2026-08-02.md): Bàn giao session hỗ trợ truy hồi toàn văn và sàng lọc kép độc lập Vòng 2 cho 166 record sau Vòng 1.
+- [`docs/governance/round-2-full-text-screening-opening-record-2026-08-02.md`](docs/governance/round-2-full-text-screening-opening-record-2026-08-02.md): Biên bản mở Vòng 2, checksum và xác minh hai biểu mẫu toàn văn trống cho 166 record.
+- [`docs/governance/round-2-full-text-screening-guide-2026-08-02.md`](docs/governance/round-2-full-text-screening-guide-2026-08-02.md): **[MỚI]** Hướng dẫn PI Đào Trung Thành và Lộc Đặng điền biểu mẫu sàng lọc toàn văn Vòng 2 độc lập.
+- [`docs/governance/round-2-full-text-dao-trung-thanh-2026-08-02.csv`](docs/governance/round-2-full-text-dao-trung-thanh-2026-08-02.csv): **[MỚI]** Biểu mẫu sàng lọc toàn văn Vòng 2 của `DAO_TRUNG_THANH`, 166 record, **đã hoàn tất và khóa ngày 02/08/2026**.
+- [`docs/governance/pi-round-2-lock-confirmation-2026-08-02.md`](docs/governance/pi-round-2-lock-confirmation-2026-08-02.md): **[MỚI]** Biên bản PI Đào Trung Thành xác nhận đã khóa kết quả sàng lọc toàn văn Vòng 2 (166 `CANON-*`, SHA-256 đã xác minh).
+- [`docs/governance/loc-dang-round-2-lock-confirmation-2026-08-02.md`](docs/governance/loc-dang-round-2-lock-confirmation-2026-08-02.md): **[MỚI]** Biên bản Lộc Đặng xác nhận khóa độc lập kết quả sàng lọc toàn văn Vòng 2.
+- [`docs/governance/round-2-dual-screening-complete-record-2026-08-02.md`](docs/governance/round-2-dual-screening-complete-record-2026-08-02.md): **[MỚI]** Biên bản kiểm tra cơ học sau khóa kép và ma trận đồng thuận/bất đồng Vòng 2.
+- [`docs/governance/round-2-adjudication-form-2026-08-02.csv`](docs/governance/round-2-adjudication-form-2026-08-02.csv): **[MỚI]** Phiếu PI phân xử 74 bất đồng Vòng 2, dùng mã loại đầy đủ theo codebook.
+- [`docs/governance/round-2-full-text-adjudication-matrix-2026-08-02.csv`](docs/governance/round-2-full-text-adjudication-matrix-2026-08-02.csv): **[MỚI]** Ma trận đối soát 166 record, gồm 92 đồng thuận và 74 quyết định phân xử.
+- [`docs/governance/round-2-adjudication-complete-record-2026-08-02.md`](docs/governance/round-2-adjudication-complete-record-2026-08-02.md): **[MỚI]** Biên bản PI hoàn tất phân xử Vòng 2.
+- [`docs/governance/round-2-final-include-list-2026-08-02.csv`](docs/governance/round-2-final-include-list-2026-08-02.csv): **[MỚI]** Danh sách 50 record `INCLUDE` cuối cùng chuyển sang trích xuất dữ liệu.
 - [`docs/governance/round-1-title-abstract-screening-guide-2026-08-02.md`](docs/governance/round-1-title-abstract-screening-guide-2026-08-02.md): Hướng dẫn PI và Lộc Đặng điền biểu mẫu vòng 1 độc lập.
 - [`docs/governance/sampling-frame-verification-2026-08-01-loc-dang.md`](docs/governance/sampling-frame-verification-2026-08-01-loc-dang.md): Biên bản xác minh độc lập 9 ca tiêu biểu do Lộc Đặng ký.
 - [`docs/governance/loc-dang-reviewer-confirmation.md`](docs/governance/loc-dang-reviewer-confirmation.md): Giấy xác nhận độc lập của người rà soát thứ hai.
@@ -58,6 +70,9 @@
 - [`docs/governance/registration-manifest.md`](docs/governance/registration-manifest.md): Manifest đăng ký OSF.
 
 ### 📁 `docs/audits/` (Đánh giá Gate G6/G7, Benchmark & Thử nghiệm cũ)
+- [`docs/audits/round-2-full-text-retrieval-ledger-2026-08-02.csv`](docs/audits/round-2-full-text-retrieval-ledger-2026-08-02.csv): **[MỚI]** Sổ cái truy hồi toàn văn cho 166 record Vòng 2 (locator, ngày truy hồi, SHA-256).
+- [`docs/audits/round-2-full-text-retrieval-audit-2026-08-02.md`](docs/audits/round-2-full-text-retrieval-audit-2026-08-02.md): **[MỚI]** Báo cáo kiểm toán hoàn tất Bước 1 truy hồi toàn văn Vòng 2.
+- [`docs/audits/round-1-dual-screening-mechanical-audit-2026-08-02.md`](docs/audits/round-1-dual-screening-mechanical-audit-2026-08-02.md): Đối soát schema, tập ID, checksum và Cohen's Kappa sau khi cả hai reviewer khóa tệp.
 - [`docs/audits/g6-g7-contract-audit-2026-08-01.md`](docs/audits/g6-g7-contract-audit-2026-08-01.md): Kiểm tra fail-closed theo đúng Điều 20–21: G6/G7 đều chưa đạt.
 - [`docs/audits/ROUND-1-EXECUTION-AND-AUDIT-PROTOCOL.md`](docs/audits/ROUND-1-EXECUTION-AND-AUDIT-PROTOCOL.md): **[FROZEN LEGACY]** Nhật ký thử nghiệm quy trình Vòng 1 cũ đã đóng băng (không dùng cho PRISMA).
 - [`docs/audits/novelty-audit.md`](docs/audits/novelty-audit.md): Đánh giá khoảng trống và tính độc đáo của đề tài.

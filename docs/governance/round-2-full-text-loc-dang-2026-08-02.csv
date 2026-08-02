@@ -1,0 +1,167 @@
+record_id,stage,reviewer,inclusion_decision,exclusion_reason,notes,date
+CANON-00001,FULL_TEXT,LOC_DANG,INCLUDE,,Khung đạo đức AI quốc gia quy định nguyên tắc đạo đức và quản trị AI tại Việt Nam.,2026-08-02
+CANON-00002,FULL_TEXT,LOC_DANG,EXCLUDE,EX05_WRONG_SOURCE_TYPE,"Bài báo truyền thông hoặc tin tức đại chúng, không phải nghiên cứu hay báo cáo chính thức.",2026-08-02
+CANON-00003,FULL_TEXT,LOC_DANG,EXCLUDE,EX05_WRONG_SOURCE_TYPE,"Tin tức báo chí về sự kiện hội thảo, không có toàn văn báo cáo kiểm chứng được.",2026-08-02
+CANON-00004,FULL_TEXT,LOC_DANG,INCLUDE,,"Luật AI quy định thể chế, quản trị và kiểm soát rủi ro hệ thống AI tại Việt Nam.",2026-08-02
+CANON-00005,FULL_TEXT,LOC_DANG,INCLUDE,,Nghị định 55 năm 2025 quy định an toàn dữ liệu và vận hành hệ thống y tế số và AI tại Việt Nam.,2026-08-02
+CANON-00006,FULL_TEXT,LOC_DANG,INCLUDE,,"Quy định chi tiết thi hành Luật AI về quản trị, kiểm định và tuân thủ rủi ro AI tại Việt Nam.",2026-08-02
+CANON-00007,FULL_TEXT,LOC_DANG,EXCLUDE,EX05_WRONG_SOURCE_TYPE,"Bài viết phổ biến kiến thức truyền thông đại chúng, không thuộc công trình nghiên cứu.",2026-08-02
+CANON-00008,FULL_TEXT,LOC_DANG,EXCLUDE,EX05_WRONG_SOURCE_TYPE,"Tin bài truyền thông sự kiện tập huấn, không chứa khung quản trị và đạo đức AI y tế.",2026-08-02
+CANON-00009,FULL_TEXT,LOC_DANG,EXCLUDE,EX05_WRONG_SOURCE_TYPE,"Bài tin tức hoặc tiếp thị y tế đại chúng, không phải nghiên cứu khoa học được bình duyệt.",2026-08-02
+CANON-00010,FULL_TEXT,LOC_DANG,EXCLUDE,EX05_WRONG_SOURCE_TYPE,"Bài báo truyền thông đại chúng tổng quan, không thuộc loại nguồn được chấp nhận.",2026-08-02
+CANON-00011,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,"Nghiên cứu đa ngành ở các thị trường mới nổi chung, không có phân tích riêng cho Việt Nam.",2026-08-02
+CANON-00014,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật NLP benchmark hỏi đáp luật y tế, không chứa phân tích đạo đức và quản trị.",2026-08-02
+CANON-00018,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,"Nghiên cứu đánh giá AI Agent doanh nghiệp chung, không phân tích bối cảnh thể chế Việt Nam.",2026-08-02
+CANON-00019,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật so sánh độ chính xác mô hình học máy phân loại Alzheimer, không có nội dung quản trị.",2026-08-02
+CANON-00020,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,"Nghiên cứu quốc tế về văn hóa bác sĩ, không phân tích thể chế quản trị AI y tế Việt Nam.",2026-08-02
+CANON-00028,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu học sâu chẩn đoán tổn thương da, chỉ báo cáo chỉ số kỹ thuật, không có đạo đức và quản trị.",2026-08-02
+CANON-00038,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật mô hình hóa dự báo bệnh bằng học máy, không phân tích đạo đức hay quản trị.",2026-08-02
+CANON-00039,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật thuần túy về mô hình học máy dự đoán bệnh, không có nội dung quản trị và đạo đức.",2026-08-02
+CANON-00040,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Bài báo kỹ thuật xây dựng hệ thống NLP benchmark hỏi đáp luật y tế, không phân tích quản trị AI.",2026-08-02
+CANON-00041,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật về bộ dữ liệu và đánh giá mô hình NLP, không có nội dung đạo đức và quản trị y tế.",2026-08-02
+CANON-00042,FULL_TEXT,LOC_DANG,EXCLUDE,EX02_NOT_HEALTHCARE,"Nghiên cứu mô hình ngôn ngữ hỏi đáp pháp luật Việt Nam chung, không thuộc lĩnh vực y tế.",2026-08-02
+CANON-00044,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu học máy dự đoán nguyên nhân đột quỵ, chỉ báo cáo hiệu năng mô hình, không có quản trị và đạo đức.",2026-08-02
+CANON-00045,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu thiết kế kỹ thuật hệ thống phòng hậu phẫu, không phân tích đạo đức hay quản trị AI y tế.",2026-08-02
+CANON-00048,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu chuyên sâu về triển khai AI y tế, niềm tin lâm sàng, đạo đức và thể chế quản trị AI tại Việt Nam.",2026-08-02
+CANON-00052,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu lâm sàng học máy phân tầng rủi ro tự kỷ, chỉ báo cáo chỉ số chẩn đoán, không có nội dung quản trị.",2026-08-02
+CANON-00057,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật mô hình học máy dự báo dịch bệnh, không có phân tích thể chế hay đạo đức AI.",2026-08-02
+CANON-00059,FULL_TEXT,LOC_DANG,EXCLUDE,EX03_NO_AI,"Bài báo về đạo đức y tế công cộng và kháng kháng sinh trong nông nghiệp, không đề cập công nghệ AI.",2026-08-02
+CANON-00061,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Bài tổng quan kỹ thuật về mô hình AI dự báo bệnh sốt xuất huyết, không chứa phân tích quản trị y tế.",2026-08-02
+CANON-00064,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật mô hình DL và LLM tự động phân loại thoái hóa khớp gối, không có nội dung đạo đức và quản trị.",2026-08-02
+CANON-00067,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu thử nghiệm lâm sàng can thiệp dinh dưỡng qua app di động, không phân tích quản trị và đạo đức AI.",2026-08-02
+CANON-00068,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu chuyên sâu về triển khai Generative AI tại các bệnh viện Việt Nam, quản trị tổ chức và niềm tin lâm sàng.",2026-08-02
+CANON-00071,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật tinh chỉnh mô hình ngôn ngữ lớn cho truyền thông y tế, không chứa phân tích đạo đức và quản trị.",2026-08-02
+CANON-00072,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu chẩn đoán lâm sàng học máy phân loại sốt xuất huyết từ dữ liệu PPG, chỉ báo cáo độ chính xác kỹ thuật.",2026-08-02
+CANON-00074,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,"Đánh giá kỹ thuật quốc tế về khả năng trả lời thông tin ung thư của chatbot AI, không phân tích bối cảnh Việt Nam.",2026-08-02
+CANON-00077,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu chính sách so sánh độ sẵn sàng quản trị AI y tế tại ASEAN, có chương phân tích thể chế trực tiếp cho Việt Nam.",2026-08-02
+CANON-00079,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu thử nghiệm lâm sàng kỹ thuật đánh giá mô hình mạng thần kinh cho bệnh nhân sốt xuất huyết, không có nội dung quản trị.",2026-08-02
+CANON-00081,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu sinh học phân tử và học máy phân tích ung thư tế bào vảy miệng tại Việt Nam, chỉ báo cáo hiệu năng chẩn đoán.",2026-08-02
+CANON-00083,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật phát triển hệ thống tầm soát nhiễm trùng bằng học máy, không phân tích đạo đức hay chính sách quản trị.",2026-08-02
+CANON-00085,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kiểm định lâm sàng mô hình học máy phân loại cấp cứu tiền viện, chỉ báo cáo chỉ số dự báo tử vong.",2026-08-02
+CANON-00086,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,"Bài báo lý luận tổng quan quốc tế về đạo đức và quản trị Generative AI trong dược học cổ truyền, không phân tích Việt Nam.",2026-08-02
+CANON-00088,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật xây dựng mô hình học máy dự đoán phản ứng có hại của thuốc trên người Việt Nam, không có quản trị.",2026-08-02
+CANON-00089,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu thử nghiệm kỹ thuật nhận diện lọ thuốc glaucom bằng học sâu, chỉ báo cáo độ chính xác nhận diện hình ảnh.",2026-08-02
+CANON-00092,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu học máy dự đoán rủi ro loãng xương ở phụ nữ cao tuổi Việt Nam, chỉ báo cáo hiệu năng mô hình.",2026-08-02
+CANON-00093,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,"Nghiên cứu phương pháp giảm định kiến mô hình học máy trên cơ sở dữ liệu mở quốc tế, không có dữ liệu hay thể chế Việt Nam.",2026-08-02
+CANON-00094,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật ứng dụng mô hình nền tảng phân tích tín hiệu thiết bị đeo tầm soát bệnh tim mạch, không phân tích quản trị.",2026-08-02
+CANON-00096,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật phát triển công cụ phát hiện mức độ nghiêm trọng bệnh truyền nhiễm, chỉ báo cáo chỉ số chẩn đoán.",2026-08-02
+CANON-00098,FULL_TEXT,LOC_DANG,INCLUDE,,Nghiên cứu đánh giá tác động ngân sách và chính sách y tế khi triển khai AI chụp X-quang ngực tầm soát ung thư phổi tại Việt Nam.,2026-08-02
+CANON-00101,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu thể chế chuyên sâu về đạo đức, niềm tin xã hội và chính sách quản trị AI tại Việt Nam.",2026-08-02
+CANON-00105,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu đánh giá nhu cầu, đạo đức riêng tư và quản trị vận hành robot y tế từ xa tại các bệnh viện Việt Nam.",2026-08-02
+CANON-00113,FULL_TEXT,LOC_DANG,EXCLUDE,EX03_NO_AI,"Bài tổng quan về tình hình thu thập dữ liệu đăng ký ung thư tại châu Á, không đề cập công nghệ AI hay khung đạo đức AI.",2026-08-02
+CANON-00114,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Bài báo tổng kết cuộc thi thuật toán âm thanh AI tầm soát lao phổi, chỉ báo cáo kết quả hiệu năng mô hình.",2026-08-02
+CANON-00118,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,"Bài quan điểm tổng quan về dữ liệu và phán đoán lâm sàng trong khúc xạ nhãn khoa, không có phân tích y tế Việt Nam.",2026-08-02
+CANON-00122,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,"Bản tiền ấn phẩm (preprint) trùng lặp với CANON-00093, không đóng góp thêm dữ liệu mới.",2026-08-02
+CANON-00123,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,"Bản tiền ấn phẩm trùng lặp với CANON-00114 về cuộc thi thuật toán tầm soát lao phổi, không đóng góp dữ liệu mới.",2026-08-02
+CANON-00124,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu học máy dự đoán ngưng tuần hoàn ngoài bệnh viện, chỉ báo cáo độ chính xác mô hình, không có quản trị y tế.",2026-08-02
+CANON-00125,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Đề cương nghiên cứu kỹ thuật xây dựng công cụ AI dự báo triệu chứng tâm thần, không phân tích thể chế quản trị.",2026-08-02
+CANON-00134,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,"Nghiên cứu mô hình tài chính đánh giá rủi ro cho ngành bảo hiểm y tế thương mại, không có bối cảnh y tế Việt Nam.",2026-08-02
+CANON-00139,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu quản trị dịch vụ thương mại đánh giá ý định chi trả cho dịch vụ AI y tế, không thuộc khung đạo đức công lập.",2026-08-02
+CANON-00145,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,"Bài tổng quan kỹ thuật quốc tế về AI trong chẩn đoán ống nghiệm, không có phân tích thể chế hay áp dụng cho Việt Nam.",2026-08-02
+CANON-00146,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật phát triển mô hình học máy phát hiện mức độ suy dinh dưỡng, chỉ báo cáo độ chính xác thuật toán.",2026-08-02
+CANON-00148,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật mô hình học máy dự báo bệnh gan nhiễm mỡ trên người Việt Nam, không có nội dung quản trị.",2026-08-02
+CANON-00149,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,"Bản trùng lặp đề cương nghiên cứu với CANON-00125, không có dữ liệu mới.",2026-08-02
+CANON-00150,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật trích xuất hồ sơ bệnh án và mô hình học máy dự đoán rủi ro ung thư buồng trứng, không có quản trị.",2026-08-02
+CANON-00151,FULL_TEXT,LOC_DANG,EXCLUDE,EX02_NOT_HEALTHCARE,"Nghiên cứu kỹ thuật phát triển mô hình ngôn ngữ lớn tiếng Việt chung, không chuyên biệt cho y tế.",2026-08-02
+CANON-00152,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu đề xuất khung quản trị và điều phối quy trình lâm sàng cho Agentic AI, bao gồm giám sát y khoa và giao thức an toàn.",2026-08-02
+CANON-00157,FULL_TEXT,LOC_DANG,EXCLUDE,EX05_WRONG_SOURCE_TYPE,"Tập san tóm tắt hội thảo bioethics quốc tế chung, không phải báo cáo nghiên cứu hay văn bản thể chế chính thức.",2026-08-02
+CANON-00166,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu triển khai thực chứng, an toàn theo dõi bệnh nhân và tính khả thi của thiết bị số trong khoa Hồi sức tích cực tại Việt Nam.",2026-08-02
+CANON-00169,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật NLP phân tích sức khỏe tâm thần trên mạng xã hội, chỉ báo cáo hiệu năng mô hình, không có quản trị.",2026-08-02
+CANON-00171,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu chuyên sâu về bảo mật dữ liệu y tế, vi phạm quyền riêng tư và giải pháp bảo vệ dữ liệu trong học máy y khoa hợp tác.",2026-08-02
+CANON-00176,FULL_TEXT,LOC_DANG,INCLUDE,,"Tổng quan hệ thống đánh giá tính an toàn, sự đồng ý thông tin của bệnh nhân và rủi ro đạo đức khi dùng AI phiên dịch trong giao tiếp y tế.",2026-08-02
+CANON-00180,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu về triển khai lâm sàng, tích hợp hệ thống y tế và quản trị an toàn thiết bị cảm biến đeo tầm soát nhiễm trùng tại Việt Nam.",2026-08-02
+CANON-00181,FULL_TEXT,LOC_DANG,INCLUDE,,"Bài tổng quan đánh giá thực trạng ứng dụng AI nội soi tiêu hóa tại Việt Nam, phân tích thách thức đạo đức và rào cản thể chế.",2026-08-02
+CANON-00182,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu lâm sàng học máy dự đoán hiệu quả lọc máu trên bệnh nhân Việt Nam, chỉ báo cáo độ chính xác mô hình.",2026-08-02
+CANON-00183,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu tổng quan phạm vi về chính sách triển khai AI trong chương trình tầm soát ung thư tại ASEAN bao gồm Việt Nam, phân tích đạo đức.",2026-08-02
+CANON-00184,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu thử nghiệm lâm sàng ngẫu nhiên về AI trong đào tạo sinh viên y khoa, chỉ báo cáo hiệu quả giảng dạy kỹ thuật.",2026-08-02
+CANON-00185,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu hỗn hợp về nhận thức đạo đức nghề nghiệp, thái độ và quản trị đào tạo nhân lực dược sĩ trước làn sóng AI tại Việt Nam.",2026-08-02
+CANON-00187,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật mô hình học máy dịch tễ học về sán lá gan tại Trung Quốc và Việt Nam, không chứa phân tích thể chế.",2026-08-02
+CANON-00188,FULL_TEXT,LOC_DANG,INCLUDE,,Nghiên cứu xây dựng khung quản trị dựa trên dữ liệu cho quản lý chất lượng y tế tại các bệnh viện công lập.,2026-08-02
+CANON-00191,FULL_TEXT,LOC_DANG,INCLUDE,,Đề cương nghiên cứu đánh giá tính khả thi và an toàn hỗ trợ quyết định lâm sàng của mô hình AI thời gian thực đối với uốn ván tại Việt Nam.,2026-08-02
+CANON-00196,FULL_TEXT,LOC_DANG,INCLUDE,,Nghiên cứu ứng dụng hệ thống hỗ trợ quyết định lâm sàng và phân tầng rủi ro bệnh nhân sốt xuất huyết tại bệnh viện Việt Nam.,2026-08-02
+CANON-00198,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu đa trung tâm ứng dụng học máy có khả năng giải thích (XAI) trong dự đoán tử vong do đột quỵ tại Việt Nam, cung cấp minh bạch thuật toán.",2026-08-02
+CANON-00207,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,"Nghiên cứu tổng quan đa ngành về an ninh mạng và rủi ro AI chung, không phân tích chuyên biệt hay có dữ liệu thể chế y tế Việt Nam.",2026-08-02
+CANON-00209,FULL_TEXT,LOC_DANG,INCLUDE,,"Báo cáo chính sách và khung quản trị tích hợp AI trong đào tạo y khoa tại Việt Nam theo các chiều Human, Organization, Technology.",2026-08-02
+CANON-00210,FULL_TEXT,LOC_DANG,INCLUDE,,Nghiên cứu phát triển công cụ AI kiểm định tuân thủ quy định pháp luật và bảo vệ đạo đức người tiêu dùng trong quảng cáo y tế tại Việt Nam.,2026-08-02
+CANON-00216,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật học máy chẩn đoán tiên lượng bệnh nhân COVID-19 tại Việt Nam, chỉ báo cáo độ chính xác mô hình, không có quản trị.",2026-08-02
+CANON-00217,FULL_TEXT,LOC_DANG,INCLUDE,,Đề cương nghiên cứu khung quản trị và đánh giá định kiến thuật toán như một yếu tố quyết định sức khỏe xã hội tại các nước LMIC và Việt Nam.,2026-08-02
+CANON-00219,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu so sánh độ chính xác kỹ thuật của ChatGPT và Google Translate trong dịch hướng dẫn bệnh nhân, không phân tích chính sách.",2026-08-02
+CANON-00221,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,"Bản tiền ấn phẩm trùng lặp với CANON-00187 về mô hình học máy dịch tễ học, không đóng góp thêm dữ liệu mới.",2026-08-02
+CANON-00222,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Báo cáo chuỗi ca lâm sàng đánh giá phần mềm RAPID AI trong phân tích hình ảnh đột quỵ, chỉ báo cáo chỉ số lâm sàng, không chứa quản trị.",2026-08-02
+CANON-00226,FULL_TEXT,LOC_DANG,EXCLUDE,EX02_NOT_HEALTHCARE,"Nghiên cứu thuật toán xử lý tin giả trên mạng xã hội nói chung, không thuộc chuyên ngành y tế và không có phân tích quản trị y tế.",2026-08-02
+CANON-00228,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật mô hình học máy dự báo dịch bệnh theo khí hậu tại Bà Rịa - Vũng Tàu, chỉ báo cáo độ chính xác kỹ thuật.",2026-08-02
+CANON-00230,FULL_TEXT,LOC_DANG,INCLUDE,,Nghiên cứu tổng quan phạm vi về chính sách y tế số và các chương trình quốc gia triển khai công nghệ và AI trong chăm sóc bệnh viện tại Việt Nam.,2026-08-02
+CANON-00231,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kiểm định mô hình học máy chẩn đoán COVID-19 tại Việt Nam, chỉ báo cáo hiệu năng chẩn đoán, không có phân tích quản trị.",2026-08-02
+CANON-00232,FULL_TEXT,LOC_DANG,INCLUDE,,"Đề cương nghiên cứu triển khai và mở rộng quy mô giải pháp y tế số cho phụ nữ dân tộc thiểu số tại Việt Nam, phân tích quản trị triển khai.",2026-08-02
+CANON-00234,FULL_TEXT,LOC_DANG,INCLUDE,,Nghiên cứu đánh giá năng lực số và hạ tầng quản trị AI trong mạng lưới các thành phố khỏe mạnh tại 9 quốc gia bao gồm Việt Nam.,2026-08-02
+CANON-00235,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu định tính về thực trạng và triển vọng ứng dụng AI trong hệ thống y tế Đông Nam Á bao gồm Việt Nam, phân tích rào cản đạo đức.",2026-08-02
+CANON-00236,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu phân tích cơ hội, rủi ro đạo đức, tính liêm chính và thách thức chính sách khi áp dụng AI trong đào tạo y khoa tại Việt Nam.",2026-08-02
+CANON-00237,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật so sánh độ chính xác dịch thuật y khoa giữa LLM và công cụ dịch truyền thống, chỉ báo cáo chỉ số kỹ thuật.",2026-08-02
+CANON-00238,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu kiến thức, thái độ, thực hành đạo đức và liêm chính nghiên cứu liên quan đến AI của sinh viên y khoa tại Việt Nam.",2026-08-02
+CANON-00239,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu phát triển và đánh giá kỹ thuật trợ lý AI giảng dạy y học cổ truyền, chỉ báo cáo độ chính xác và hiệu năng công cụ.",2026-08-02
+CANON-00240,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,"Bản tiền ấn phẩm (preprint) trùng lặp với CANON-00230, không đóng góp thêm dữ liệu mới.",2026-08-02
+CANON-00241,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,"Bản tiền ấn phẩm trùng lặp với CANON-00231 về mô hình học máy COVID-19, không đóng góp thêm dữ liệu mới.",2026-08-02
+CANON-00242,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,"Bản tiền ấn phẩm trùng lặp với CANON-00232 về đề cương y tế số dMOM, không đóng góp thêm dữ liệu mới.",2026-08-02
+CANON-00243,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu đánh giá thực trạng chấp nhận, rào cản thể chế và quản trị công nghệ y tế số tại 5 bệnh viện Việt Nam.",2026-08-02
+CANON-00244,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,"Bản tiền ấn phẩm trùng lặp với CANON-00235 về ứng dụng AI y tế tại Đông Nam Á, không đóng góp thêm dữ liệu mới.",2026-08-02
+CANON-00245,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,"Bản tiền ấn phẩm trùng lặp với CANON-00237 về dịch thuật y khoa, không đóng góp thêm dữ liệu mới.",2026-08-02
+CANON-00247,FULL_TEXT,LOC_DANG,INCLUDE,,"Báo cáo chính sách chính thức của Tổ chức Y tế Thế giới (WHO Bulletin) về ứng dụng AI và công nghệ y tế số tại Việt Nam, phân tích thể chế.",2026-08-02
+CANON-00248,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật ứng dụng mô hình PhoBERT chẩn đoán phân loại bệnh từ triệu chứng tiếng Việt, chỉ báo cáo độ chính xác NLP.",2026-08-02
+CANON-00249,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu tổng quan phạm vi về thực trạng ứng dụng AI trong y tế Việt Nam, phân tích thách thức đạo đức, khoảng trống pháp lý và quản trị.",2026-08-02
+CANON-00250,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu tổng quan về ứng dụng AI Agent trong vận hành dược bệnh viện, phân tích quản trị an toàn sử dụng thuốc và quy trình giám sát.",2026-08-02
+CANON-00251,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu nhận thức, mối quan ngại về đạo đức riêng tư và sự sẵn sàng của phụ huynh khi dùng ứng dụng sức khỏe tâm thần số cho trẻ em tại Việt Nam.",2026-08-02
+CANON-00252,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,"Nghiên cứu phương pháp luận dữ liệu và công bằng thông tin trong tình trạng khẩn cấp y tế quốc tế chung, không phân tích thể chế Việt Nam.",2026-08-02
+CANON-00254,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu thực chứng về việc sử dụng ChatGPT, liêm chính khoa học, đạo đức học thuật và chính sách quản trị trong đào tạo sau đại học ngành y tế.",2026-08-02
+CANON-00255,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật phát triển và kiểm định hệ thống hỗ trợ quyết định lâm sàng dự đoán liều dùng thuốc, chỉ báo cáo chỉ số dược lý.",2026-08-02
+CANON-00257,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật phát triển chatbot thay đổi hành vi trong đại dịch COVID-19, chỉ báo cáo tính năng kỹ thuật và giao diện.",2026-08-02
+CANON-00258,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kiểm định lâm sàng quốc tế mô hình học máy dự đoán ngưng tuần hoàn, chỉ báo cáo chỉ số tiên lượng kỹ thuật.",2026-08-02
+CANON-00259,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu học máy dự đoán kết quả chức năng sau đột quỵ tại Việt Nam và Indonesia, chỉ báo cáo độ chính xác chẩn đoán lâm sàng.",2026-08-02
+CANON-00260,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu KAP về kiến thức, thái độ, ứng dụng thực hành và nhận thức đạo đức AI của sinh viên điều dưỡng tại ĐH Y Dược TP.HCM.",2026-08-02
+CANON-00262,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu khảo sát việc sử dụng ChatGPT, các yếu tố ảnh hưởng, rủi ro đạo đức học thuật và ý thức tuân thủ của sinh viên Đại học Y Hà Nội.",2026-08-02
+CANON-00266,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu triển khai thực chứng và kiểm định lâm sàng hệ thống AI đọc X-quang ngực tại Việt Nam, phân tích khả năng tích hợp quy trình bác sĩ.",2026-08-02
+CANON-00267,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Protocol khả thi/adherence app AI gamified cho dinh dưỡng thanh thiếu niên (Ghana+VN), không phân tích quản trị đạo đức.",2026-08-02
+CANON-00269,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,"Bài về công bằng y tế toàn cầu & AI âm thanh phổi, không phân tích bối cảnh Việt Nam cụ thể.",2026-08-02
+CANON-00277,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nghiên cứu kỹ thuật đặc trưng giọng nói (VN/NB) phân loại trầm cảm, chỉ báo cáo hiệu năng.",2026-08-02
+CANON-00278,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Hệ thống ML hỗ trợ chẩn đoán tiểu đường, chỉ báo cáo độ chính xác kỹ thuật.",2026-08-02
+CANON-00281,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,Khảo sát sinh viên y về AI/robot và cải cách chương trình; cần xác nhận bối cảnh Việt Nam (tiêu đề không ghi).,2026-08-02
+CANON-00282,FULL_TEXT,LOC_DANG,EXCLUDE,EX02_NOT_HEALTHCARE,Phương pháp đại số & LLM trích xuất luật ẩn trong dữ liệu cho cải thiện GenAI; không chuyên biệt y tế.,2026-08-02
+CANON-00283,FULL_TEXT,LOC_DANG,INCLUDE,,"Đánh giá mức độ sẵn sàng AI của hệ thống thông tin y tế Việt Nam: quản trị, thể chế, đạo đức.",2026-08-02
+CANON-00287,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Dự đoán tử vong nhiễm trùng huyết bằng thiết bị đeo, chỉ báo cáo hiệu năng mô hình (LMIC).",2026-08-02
+CANON-00288,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Phân loại mức độ uốn ván bằng cảm biến đeo, kỹ thuật, không có quản trị/đạo đức.",2026-08-02
+CANON-00290,FULL_TEXT,LOC_DANG,INCLUDE,,"Nghiên cứu triển khai CAD X-quang ngực tại bệnh viện tuyến huyện VN: tích hợp quy trình lâm sàng, kiểm soát chất lượng.",2026-08-02
+CANON-00294,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,Số hóa ECG 12 chuyển đạo & chuẩn hóa WFDB từ dữ liệu VN; kỹ thuật thuần túy.,2026-08-02
+CANON-00297,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,Thiết kế & kiểm định app mHealth sàng lọc màu sắc; chỉ báo cáo tính năng kỹ thuật.,2026-08-02
+CANON-00299,FULL_TEXT,LOC_DANG,INCLUDE,,Chuẩn bị Nipah/COVID ở nước thu nhập thấp: tái trung tâm điểm quyết định & AI có trách nhiệm; cần xác nhận phần Việt Nam.,2026-08-02
+CANON-00303,FULL_TEXT,LOC_DANG,INCLUDE,,Sàng lọc võng mạc tiểu đường tại cộng đồng Bình Định VN: hiệu quả triển khai thực tế & an toàn; xác nhận phần đạo đức/quản trị.,2026-08-02
+CANON-00304,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Tập dữ liệu/benchmark QA sức khỏe tâm thần tiếng Việt; kỹ thuật, không phân tích quản trị.",2026-08-02
+CANON-00305,FULL_TEXT,LOC_DANG,EXCLUDE,EX02_NOT_HEALTHCARE,"AI cho phát triển bền vững Đông Nam Á trung bình; không chuyên biệt y tế, không tập trung Việt Nam.",2026-08-02
+CANON-00307,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,Dự đoán rủi ro tim mạch bằng cảm biến đeo + ML; chỉ báo cáo hiệu năng kỹ thuật.,2026-08-02
+CANON-00310,FULL_TEXT,LOC_DANG,EXCLUDE,EX02_NOT_HEALTHCARE,Nghiên cứu thực nghiệm phương pháp truy xuất tin tiếng Việt qua nhiều lĩnh vực; không chuyên y tế.,2026-08-02
+CANON-00312,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Tóm tắt lời nói hội thoại y khoa thời gian thực; kỹ thuật NLP/LLM, không quản trị/đạo đức.",2026-08-02
+CANON-00313,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Benchmark NLP cảm xúc cho y tế; kỹ thuật, không phân tích đạo đức/quản trị.",2026-08-02
+CANON-00314,FULL_TEXT,LOC_DANG,EXCLUDE,EX02_NOT_HEALTHCARE,"Mô hình ML về ô nhiễm không khí/hệ sinh thái và ung thư phổi tại VN; trọng tâm môi trường, không chuyên sâu y tế (phù hợp R1 LOC=EX02).",2026-08-02
+CANON-00315,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,Bản arXiv trùng lặp với CANON-00237/00245 (dịch tóm tắt y khoa); không thêm dữ liệu mới.,2026-08-02
+CANON-00317,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,Bản arXiv trùng lặp với CANON-00014/00040 (ViHERMES QA quy định y tế VN); không thêm dữ liệu mới.,2026-08-02
+CANON-00319,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,Bản arXiv trùng lặp với CANON-00018 (Enterprise AI Agent pre-deployment assurance); không thêm dữ liệu mới.,2026-08-02
+CANON-00320,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Benchmark Neurai-VN mô hình ML phenotyping tâm thần; kỹ thuật, không có quản trị/đạo đức.",2026-08-02
+CANON-00321,FULL_TEXT,LOC_DANG,EXCLUDE,EX03_NO_AI,Khung năng lực điều dưỡng tổng hợp chuẩn quốc gia VN; tiêu đề không đề cập AI - xác nhận nếu có nội dung AI thì xem lại.,2026-08-02
+CANON-00322,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,Dự đoán mất dấu HIV bằng học sâu + phân tích sống còn tại TP.HCM; chỉ báo cáo hiệu năng mô hình.,2026-08-02
+CANON-00324,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,Mô hình AI nhận diện hưng cảm dựa trên giọng nói (kết quả sơ bộ); kỹ thuật chẩn đoán.,2026-08-02
+CANON-00335,FULL_TEXT,LOC_DANG,INCLUDE,,"Thách thức pháp lý AI liên quan quyền bệnh nhân - bài học cho sinh viên y khoa VN: đạo đức, trách nhiệm pháp lý.",2026-08-02
+CANON-00336,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,"Trùng lặp nội dung với CANON-00335 (cùng tiêu đề, Zenodo 20007942) - giữ 00335 làm bản đại diện.",2026-08-02
+CANON-00344,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Chưng cất/hiệu chỉnh mô hình sàng lọc tiền sản tại Miền Bắc VN; kỹ thuật tối ưu, explainability như kỹ thuật không phải quản trị.",2026-08-02
+CANON-00356,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,Học sâu chẩn đoán viêm phổi qua X-quang; chỉ báo cáo độ chính xác kỹ thuật.,2026-08-02
+CANON-00357,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Đánh giá công cụ dịch AI cho hướng dẫn xuất viện cấp cứu; kỹ thuật dịch thuật, không phân tích chính sách.",2026-08-02
+CANON-00358,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,Ý định giáo viên tiểu học áp dụng AI trong giáo dục sức khỏe sinh sản (TAM); không ghi bối cảnh Việt Nam - xác nhận.,2026-08-02
+CANON-00359,FULL_TEXT,LOC_DANG,INCLUDE,,Sàng lọc AI cho trẻ tự kỷ tại BV Nhi Can Thơ VN: triển khai lâm sàng tại bệnh viện; xác nhận phần đạo đức/an toàn bệnh nhân.,2026-08-02
+CANON-00360,FULL_TEXT,LOC_DANG,EXCLUDE,EX01_NOT_VIETNAM,"Phân tích thư mục (bibliometric) về HCAI Đông Nam Á 2015-2025; phạm vi khu vực, không tập trung y tế/Việt Nam.",2026-08-02
+CANON-00365,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Scoping review mô hình ML dự đoán tái nhập viện tim mạch người lớn tuổi; kỹ thuật, không quản trị.",2026-08-02
+CANON-00366,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,Bản figshare v3 trùng lặp với CANON-00365.,2026-08-02
+CANON-00367,FULL_TEXT,LOC_DANG,EXCLUDE,EX07_DUPLICATE_NO_NEW_DATA,Bản figshare v4 trùng lặp với CANON-00365.,2026-08-02
+CANON-00370,FULL_TEXT,LOC_DANG,INCLUDE,,KAP về AI của sinh viên các ngành y tế - hàm ý cho sự sẵn sàng AI; xác nhận bối cảnh Việt Nam (tbjmp).,2026-08-02
+CANON-00372,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,Bài toán cảnh/mô tả hành trình phát triển BV Thống Nhất thành trung tâm lão khoa kỹ thuật cao; không có phân tích đạo đức/quản trị AI kiểm chứng được.,2026-08-02
+CANON-00374,FULL_TEXT,LOC_DANG,INCLUDE,,"Ứng dụng AI trong y tế và thách thức pháp lý: nghiên cứu tại Việt Nam về đạo đức, trách nhiệm, quản trị.",2026-08-02
+CANON-00375,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Công cụ LLM đánh giá năng lực nhân viên y tế tại VN; thực nghiệm kỹ thuật kiểm định, không phân tích quản trị.",2026-08-02
+CANON-00378,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Anomaly detection/AI thống kê trong sản xuất + y tế; kỹ thuật tổng hợp, không chuyên sâu quản trị y tế.",2026-08-02
+CANON-00382,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,Mô hình ML dự đoán cân nặng sơ sinh (đơn thai) tại VN; chỉ báo cáo hiệu năng chẩn đoán.,2026-08-02
+CANON-00383,FULL_TEXT,LOC_DANG,EXCLUDE,EX04_NO_ETHICS_GOVERNANCE,"Nomogram ML dự đoán sốc dengue ở trẻ em VN; kỹ thuật chẩn đoán, không có quản trị/đạo đức.",2026-08-02
