@@ -7,7 +7,7 @@
 **Ngày cập nhật chỉ mục:** 02/08/2026  
 **Trạng thái Nghiên cứu:** **`DIRECT_SEARCH_COMPLETE_PI_CONFIRMED_2026-08-02`** *(PI đã xác nhận; chưa có quyết định screening)*  
 **Trạng thái Cổng:** **`READINESS_CHECK = COMPLETE_FOR_SCREENING_SETUP`**; kiểm tra trình bày chỉ thực hiện sau screening toàn văn theo Amendment v1.  
-**Trạng thái Sàng lọc Kép Vòng 1:** **`SCREENING = PI_DAO_TRUNG_THANH_LOCKED_PENDING_LOC_DANG_LOCK_2026-08-02`** *(385 `CANON-*`; PI Đào Trung Thành đã hoàn tất và khóa tệp cá nhân; chờ Lộc Đặng khóa tệp để đối soát)*
+**Trạng thái Sàng lọc Kép Vòng 1:** **`SCREENING = DUAL_LOCKED_ROUND_1_COMPLETE_2026-08-02`** *(385 `CANON-*`; hai reviewer PI Đào Trung Thành và Lộc Đặng đã hoàn tất và khóa tệp cá nhân Vòng 1; đồng thuận quan sát 80.26%, Kappa 0.6649)*
 
 
 ---
@@ -46,7 +46,9 @@
 - [`docs/governance/session-handoff-screening-round-1-2026-08-02.md`](docs/governance/session-handoff-screening-round-1-2026-08-02.md): Bàn giao session cho Agents hỗ trợ PI/Lộc ở screening vòng 1, với ranh giới thẩm quyền và điểm kiểm soát sau khóa.
 - [`docs/governance/round-1-title-abstract-dao-trung-thanh-2026-08-02.csv`](docs/governance/round-1-title-abstract-dao-trung-thanh-2026-08-02.csv): Biểu mẫu vòng 1 của `DAO_TRUNG_THANH`, 385 record, **đã hoàn tất và khóa ngày 02/08/2026**.
 - [`docs/governance/pi-round-1-lock-confirmation-2026-08-02.md`](docs/governance/pi-round-1-lock-confirmation-2026-08-02.md): **[MỚI]** Biên bản PI Đào Trung Thành xác nhận đã khóa kết quả sàng lọc vòng 1 (385 `CANON-*`, SHA-256 đã xác minh).
-- [`docs/governance/round-1-title-abstract-loc-dang-2026-08-02.csv`](docs/governance/round-1-title-abstract-loc-dang-2026-08-02.csv): Biểu mẫu vòng 1 của `LOC_DANG`, 385 record, chưa có quyết định.
+- [`docs/governance/round-1-title-abstract-loc-dang-2026-08-02.csv`](docs/governance/round-1-title-abstract-loc-dang-2026-08-02.csv): Biểu mẫu vòng 1 của `LOC_DANG`, 385 record, đã hoàn tất và khóa ngày 02/08/2026.
+- [`docs/governance/loc-dang-round-1-lock-confirmation-2026-08-02.md`](docs/governance/loc-dang-round-1-lock-confirmation-2026-08-02.md): Biên bản Lộc Đặng xác nhận khóa độc lập vòng 1.
+- [`docs/governance/round-1-adjudication-matrix-2026-08-02.csv`](docs/governance/round-1-adjudication-matrix-2026-08-02.csv): Ma trận đối soát 385 record sau khi hai reviewer khóa; giữ nguyên quyết định gốc và đánh dấu 76 bất đồng là `PENDING_ADJUDICATION`.
 - [`docs/governance/round-1-title-abstract-screening-guide-2026-08-02.md`](docs/governance/round-1-title-abstract-screening-guide-2026-08-02.md): Hướng dẫn PI và Lộc Đặng điền biểu mẫu vòng 1 độc lập.
 - [`docs/governance/sampling-frame-verification-2026-08-01-loc-dang.md`](docs/governance/sampling-frame-verification-2026-08-01-loc-dang.md): Biên bản xác minh độc lập 9 ca tiêu biểu do Lộc Đặng ký.
 - [`docs/governance/loc-dang-reviewer-confirmation.md`](docs/governance/loc-dang-reviewer-confirmation.md): Giấy xác nhận độc lập của người rà soát thứ hai.
@@ -65,6 +67,7 @@
 - [`docs/audits/openalex-access-check.md`](docs/audits/openalex-access-check.md): Nhật ký kiểm tra kết nối API OpenAlex.
 - [`docs/audits/g4-g5-feasibility-pilot-2026-07-31.md`](docs/audits/g4-g5-feasibility-pilot-2026-07-31.md): Nhật ký thử nghiệm khả thi G4-G5.
 - [`docs/audits/readiness-audit-2026-08-01.md`](docs/audits/readiness-audit-2026-08-01.md): Kiểm toán readiness độc lập; fail-closed vì biểu mẫu screening có dữ liệu tiền điền không khớp registry hiện hành.
+- [`docs/audits/round-1-dual-screening-mechanical-audit-2026-08-02.md`](docs/audits/round-1-dual-screening-mechanical-audit-2026-08-02.md): Đối soát schema, tập ID, checksum và Cohen's Kappa sau khi cả hai reviewer khóa tệp.
 
 ---
 
