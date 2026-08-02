@@ -1,7 +1,7 @@
 # Kiểm toán cơ học và ma trận đối soát vòng 1
 
 **Ngày tạo:** 2026-08-02  
-**Phạm vi:** đối soát sau khóa độc lập cho 385 `CANON-*`; không chứa quyết định phân xử.
+**Phạm vi:** đối soát sau khóa độc lập cho 385 `CANON-*`; báo cáo không tự đưa ra quyết định phân xử mà chỉ ghi nhận quyết định do PI ban hành.
 
 ## Kiểm tra đầu vào
 
@@ -34,6 +34,15 @@
 - Loại đồng thuận tại tiêu đề/tóm tắt: **213** bản ghi; không xóa record hay provenance.
 - Giữ nguyên để phân xử: **76** bản ghi với trạng thái `PENDING_ADJUDICATION`.
 
-## Ranh giới thẩm quyền
+## Ranh giới thẩm quyền và kết quả phân xử của PI
 
-Ma trận kèm theo chỉ ghi hai quyết định gốc và trạng thái quy trình. Agent không quyết định kết quả của bất kỳ bất đồng nào; mọi phân xử phải do PI hoặc cơ chế phân xử đã đăng ký, đồng thời giữ nguyên audit trail.
+- Biên bản kiểm toán này được lập sau khi khóa độc lập.
+- **Quyết định phân xử của PI:** Ngày 02/08/2026, PI Đào Trung Thành đã trực tiếp xem xét và ra quyết định phân xử chính thức cho toàn bộ 76 bản ghi bất đồng tại [`docs/governance/pi-round-1-adjudication-decision-record-2026-08-02.md`](../governance/pi-round-1-adjudication-decision-record-2026-08-02.md).
+- **Kết quả phân xử:**
+  - **Loại tại Vòng 1:** 6 bản ghi thuộc Cụm 1 (ngoài phạm vi y tế) theo mã `EX02_NOT_HEALTHCARE`.
+  - **Chuyển sang Vòng 2 (Sàng lọc toàn văn kép):** 70 bản ghi thuộc Cụm 2 (ML lâm sàng/dịch tễ) và Cụm 3 (AI y tế & Giáo dục Y khoa) theo nguyên tắc bộ lọc mở rộng Vòng 1.
+- **Tổng kết PRISMA-ScR Vòng 1:**
+  - Tổng số bản ghi bị loại Vòng 1: **219** (213 đồng thuận + 6 phân xử).
+  - Tổng số bản ghi chuyển sang Vòng 2 sàng lọc toàn văn kép: **166** (96 đồng thuận + 70 phân xử).
+  - Số bản ghi chờ phân xử: **0**.
+  - SHA-256 tệp ma trận đối soát & phân xử đã cập nhật: `178e3ce4f577a9fa4b9370369141ba2c6ba0e8780ea9f1bf6f59a5fef3e9d044`.
